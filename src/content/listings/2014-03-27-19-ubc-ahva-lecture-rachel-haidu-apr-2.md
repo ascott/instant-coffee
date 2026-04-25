@@ -14,7 +14,7 @@ Columbia
 
 Rachel Haidu
 “Getting Past Difference: Black Audio Film Collective, James 
-Coleman, Steve McQueenâ€ 
+Coleman, Steve McQueen” 
 
 Wednesday, April 2, 2014
 5:30 pm Room 104 Frederic Lasserre Building

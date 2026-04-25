@@ -35,7 +35,7 @@ out on the surface of the filmstrip.
 
 More than ever before, film is used as an artistic medium to remind us of
 its unique physicality, giving a new sense to Andrei Tarkovsky’s idea of
-â€œsculpting in time.â€  For this yearâ€™s edition of Frenkel Defects at
+“sculpting in time.”  For this year’s edition of Frenkel Defects at
 Cineworks, one of two 70-minute programs of rare and diverse works will be
 screened, nearly all of which originate outside North America, presented in
 their intended 16mm format, including:
@@ -50,7 +50,7 @@ Andrés Denegri - Aula Magna (10 mins)
 Dražen Zanchi - Split Film 100110 (30 mins)
 
 Almost all films in the Frenkel Defects series have been produced with the
-help of â€œartist-run film labsâ€  - collectively-run organizations dedicated
+help of “artist-run film labs”  - collectively-run organizations dedicated
 to facilitating artists’ working in photochemical film -- including
 LaborBerlin (Berlin), L’Abominable (Paris) and Filmwerkplaats (Rotterdam).
 

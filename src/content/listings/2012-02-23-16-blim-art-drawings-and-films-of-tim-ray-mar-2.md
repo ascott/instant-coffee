@@ -14,11 +14,11 @@ Blim presents:
 Drawings and Films of Tim Ray
 Work by Tim Ray and Jamie Clay
 “Please be careful, enlightenment without retribution and fear. Liberty 
-and freedom without prejudice and hate.â€ 
+and freedom without prejudice and hate.” 
 Opening Friday, March 2nd, will feature the drawings of Tim Ray, plus 
-a showing of the film â€œBuzz Wrayâ€  written by Neil Wedman and starring 
+a showing of the film “Buzz Wray”  written by Neil Wedman and starring 
 Tim Ray as Buzz. On Friday, March 16th Jamie Clay will be mixing 
-films and videos of Tim Rayâ€™s New York â€œAnti Folk Move- mentâ€  and 
+films and videos of Tim Ray’s New York “Anti Folk Move- ment”  and 
 including work from the Doreen Gray (Lenore Herb) Video Collection of 
 Art Punks from 1977 (such as I Braineater w/ Jim Cummins, UJ3RKS 
 with Jeff Wall, Ian Wallace, Rod- ney Graham, Tunnel Canary 
@@ -32,14 +32,14 @@ Since the first D.I.Y. release of 77, Ray has divided his time in
 international circles: New York, Paris, London. He is a filmmaker, 
 musician and artist. Involved in pioneering various movements from 
 Punk/ New Wave to the N.Y. Anti-Folk. Known for Visual Arts in N.Y. 
-and received many â€œChoice Picksâ€  in the N.Y. papers.
+and received many “Choice Picks”  in the N.Y. papers.
 C.B.C acquirement of 1987’s Sci-Fi and Horror series for Radio 3. 
 Exhibited in N.Y. F.I.Y. exhibit.. Known as a heri- tage artist and 
 visionary that anticipates culture and history. Recent subject of Bio-Doc 
-called â€œT. Ray The canned experienceâ€ .
+called “T. Ray The canned experience” .
 Clay and Ray are also writing/mixing/recording a new record together 
 with New York composer/musician Char- lie Mendoza. Scene leader 
-Ray will be releasing the famous New York â€œAnti Folkâ€  material in the 
+Ray will be releasing the famous New York “Anti Folk”  material in the 
 near future.
 --
 RUKUS new edge x MIYUKI MORI = METAMORPHOSE
@@ -52,7 +52,7 @@ a turning point to start designing jewelry with using precious and semi-
 precious stones. Also, he is a volunteer Qigong Healer. He 
 experienced Crystal Healing, Macrobiotic, Homeopathy, Naturopathy 
 etc. He has started his original Jewelry brand RUKUS -new age- in 
-2007. Heâ€™s also started a collaboration line â€œRUKUS x RWANDAâ€  to 
+2007. He’s also started a collaboration line “RUKUS x RWANDA”  to 
 contribute 50% of sales to the atelier in RWANDA. In 2009, he has 
 started to manage his own fashion brand, RUKUS –new edge-. He is 
 organizing a Creative Group Exhibition KIRA KIRA TOKYO with many 
@@ -69,10 +69,10 @@ moved back to Tokyo and had more experience in Fashion industry
 there. In 2008 she moved to Vancouver, Canada. With special effects 
 materials and techniques, she creates High Fashion and Advanced 
 Beauty.
-Her credits include â€œTeam America-world Policeâ€ (Paramount Pictures), 
-â€œSuper Naturalâ€ (CW), â€œVâ€ (ABC), â€œFinal Destination 5â€ (New Line 
-Cinema), â€œClayâ€ (Disney Chanel),â€œELFâ€ (New Line Cinema), â€œLooney 
-Tunesâ€ (Warner Broth- ers), â€œSmokinâ€™ Aces 2â€ (Universal), Nichole By 
+Her credits include “Team America-world Police” (Paramount Pictures), 
+“Super Natural” (CW), “V” (ABC), “Final Destination 5” (New Line 
+Cinema), “Clay” (Disney Chanel),“ELF” (New Line Cinema), “Looney 
+Tunes” (Warner Broth- ers), “Smokin’ Aces 2” (Universal), Nichole By 
 OPI, Comodynes, Angel Jeans Wear and Miu Cosmetics.
 photo credit: models by Tiah Seward / Tawnya Blackbird Marsh 
 accessories & clothes by RUKUS new edge Photo by Michael C. Boxall 

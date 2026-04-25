@@ -5,10 +5,10 @@ emailDate: "Thu, 23 Sep 2010 08:51:15 -0700"
 number: 7
 type: ""
 venue: "C Magazine"
-summary: "C Magazine | C MAGAZINE ISSUE 107 â€œANIMALSâ€  ON NEWSSTANDS | SEP 24"
+summary: "C Magazine | C MAGAZINE ISSUE 107 “ANIMALS”  ON NEWSSTANDS | SEP 24"
 ---
 
-C MAGAZINE ISSUE 107 â€œANIMALSâ€  ON NEWSSTANDS NOW
+C MAGAZINE ISSUE 107 “ANIMALS”  ON NEWSSTANDS NOW
 Issue 107 includes feature essays by Carla Benzan, writing about the lives
 and deaths of Carolee Schneemann’s cats; Karen Houle, on ethics and animal
 kinship; Jon Davies, on Mike White’s film, Year of the Dog; and Helena
@@ -59,7 +59,7 @@ of C Magazine, and Jenifer Papararo, Curator at the Contemporary Art
 Gallery in Vancouver.
 
 SAVE THE DATE
-C School Forum on â€œAnimalsâ€  in contemporary art
+C School Forum on “Animals”  in contemporary art
 Tuesday November 2, 7 pm
 FREE
 http://cmagazine.com

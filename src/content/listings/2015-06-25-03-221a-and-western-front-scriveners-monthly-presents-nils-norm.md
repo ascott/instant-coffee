@@ -56,7 +56,7 @@ where he leads the School of Walls and Space.
 Scrivener’s Monthly is a series of public presentations that explore the
 space between material practices and spoken words: a periodical that talks.
 Set alongside the exhibitions program at Western Front, this experiment in
-â€œnot publishingâ€  involves readings, performances, and other articulations.
+“not publishing”  involves readings, performances, and other articulations.
 For more information about the series and other Western Front programs,
 please visit www.front.bc.ca
 221A

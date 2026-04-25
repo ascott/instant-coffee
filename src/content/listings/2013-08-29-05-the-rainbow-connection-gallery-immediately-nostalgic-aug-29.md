@@ -21,7 +21,7 @@ candidness of the photos taken? Is it the immediate physical fulfillment of
 Polaroids that satisfy both our desire for instant gratification and the tangible 
 qualities of film? Taking Polaroid pictures engages all of these aspects. They 
 straddle both worlds of contemporary photo-taking, the immediacy of digital 
-and the â€œrealâ€  of film. Shooting Polaroids also is a unique act, that engages 
+and the “real”  of film. Shooting Polaroids also is a unique act, that engages 
 both the subject as well as the photographer, which creates a 
 social/performance.
 In this show we are celebrating not only Polaroid instant-film, but all types of 

@@ -65,7 +65,7 @@ It’s a really great thing!
 
 {Get this…}
 Yactac will reimburse up to half of your residency fee, which you can use 
-towards funding project(s) for your â€œFinal Exhibitionâ€ .
+towards funding project(s) for your “Final Exhibition” .
 *Cost breakdowns and receipts used will be required for all purchases affiliated 
 to project funding
 

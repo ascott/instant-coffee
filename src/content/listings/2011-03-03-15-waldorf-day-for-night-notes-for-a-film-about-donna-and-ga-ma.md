@@ -54,7 +54,7 @@ her penchant for fantasy – becomes an increasingly insurmountable
 obstacle. Arguably the first English-Canadian film to feature lesbian
 characters and to reflect a strong European influence, Notes uses such
 techniques as a shady, unreliable narrator (Patrick Watson) to raise
-important questions about whether we can ever actually â€œknowâ€  another
+important questions about whether we can ever actually “know”  another
 person.
 
 Black and White, 44 minutes

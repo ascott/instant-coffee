@@ -42,7 +42,7 @@ cooking
 and eating while raising questions about the status of this genre within
 the history of thought. Among the texts included in Thought for Food is How
 to Cook and Eat in Chinese by Buwei Yang Chao, considered one of North
-Americaâ��s first introductions to Chinese cooking. Vehicleâ��s
+America’s first introductions to Chinese cooking. Vehicle’s
 inaugural reading room sets the stage for a series of programs that
 connects rituals of food to current economic, political, and cultural
 conditions. Weekly programs include:

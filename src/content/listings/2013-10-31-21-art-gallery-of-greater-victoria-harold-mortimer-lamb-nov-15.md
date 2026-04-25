@@ -23,10 +23,10 @@ borrowed from public and private collections, will augment the exhibition.
 “Harold Mortimer-Lamb was a great supporter of the Art Gallery of Greater 
 Victoria. He donated works to the AGGV during his lifetime; through a 
 bequest; and many more have been purchased with a fund that was 
-established as part of his estate,â€  said Jon Tupper, director of the AGGV. 
+established as part of his estate,”  said Jon Tupper, director of the AGGV. 
 “Mortimer-Lamb has been extremely important to the growth of this institution, 
 and we are deeply indebted to Robert Amos for creating this remarkable 
-exploration of his life and legacy.â€ 
+exploration of his life and legacy.” 
 
 Mortimer-Lamb was a significant figure in the Canadian art world for decades 
 but there has been little information available about the man and his life. 
@@ -38,9 +38,9 @@ being launched by TouchWood Editions to coincide with the exhibition
 opening.
 
 “Mortimer-Lamb loved art: the artworks, the people who made them, and 
-those who inspired them,â€  said Amos. â€œHe is mentioned in the index of many 
+those who inspired them,”  said Amos. “He is mentioned in the index of many 
 books about Canadian art history but – until now – has remained a figure in 
-the background.â€ 
+the background.” 
 
 At the age of 70 Mortimer-Lamb married the 30-year-old artist Vera 
 Weatherbie. They enjoyed 28 years of marriage. When Vera passed away in 

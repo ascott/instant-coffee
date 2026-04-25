@@ -31,7 +31,7 @@ School of Art and Goldsmiths College, University of London, earning a BFA in
 1990. Her work explores the differences between public and private life, the 
 individual and society, voyeurism and exhibitionism, and fiction and fact. In its 
 candor and psychological intensity, Wearing’s work extends the traditions of 
-photographic portraiture and has described her methodology as â€œediting lifeâ€ , 
+photographic portraiture and has described her methodology as “editing life” , 
 acknowledging influences such as August Sander, Walker Evans, and Diane 
 Arbus.
 
@@ -58,7 +58,7 @@ Whitechapel Gallery, London (2012), which toured to K20, Kunstsammlung
 Nordrhein-Westfalen, Dusseldorf (2012), and the Museum Brandhorst, 
 Munich, (opening March 2013), Galleria Civica de Arte Contemporanea di 
 Trento (2007), the Museum of Contemporary Art in Chicago (2003), Sala de 
-Exposiciones de la FundaciÃ³n â€œla Caixaâ€  in Madrid (2001, MusÃ©e dâ€™Art 
+Exposiciones de la Fundación “la Caixa”  in Madrid (2001, Musée d’Art 
 Moderne de la Ville de Paris (2001), Serpentine Gallery in London (2000) and 
 La Centre d’Art Contemporain in Geneva (1998). A major monograph on 
 Gillian Wearing was published by Ridinghouse to coincide with her 

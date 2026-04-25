@@ -17,7 +17,7 @@ Membership and Outreach Coordinator
 
 To apply, please send a resume and cover letter via email to
 cfat.hiringcommittee@gmail.com with the subject line “Membership Outreach
-Coordinatorâ€ .
+Coordinator” .
 
 Office and Volunteer Coordinator
 
@@ -64,7 +64,7 @@ Nova Scotia Department of Labour and Advanced Education. To be eligible for
 the position you must qualify for the program. Details about eligibility
 are below:
 
-â€¢ You must be an unemployed individual (â€œinsured participantâ€ ) as
+• You must be an unemployed individual (“insured participant” ) as
 defined by Section 58 of the Employment Insurance Act. This means that you
 are an individual for whom:
 

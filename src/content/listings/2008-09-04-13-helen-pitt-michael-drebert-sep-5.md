@@ -70,7 +70,7 @@ and desired by others. But is Wikipedia really a valuable resource if
 anyone can add to it? If uneducated enthusiasts can argue opinion on its
 pages with academic professionals, and the peer review system is just
 everyone, can we trust its content to be the best possible information? If
-Second Life is really an online Utopiaâ�¢ where anything and everything can
+Second Life is really an online Utopia’¢ where anything and everything can
 happen, then why do most Avatars conform to contemporary ideas about the
 ideal human body? Why does it have an economy based on capitalism? Why does
 it so closely resemble the world we already occupy?
@@ -99,7 +99,7 @@ Space
 
 Allison Tweedie, Shawna Mclellan
 
-September 5 â�� October 18
+September 5 ’ October 18
 
 Opening Reception September 5, 8pm
 
@@ -109,20 +109,20 @@ to twilight, a homonym that describes the diffused illumination of a
 nearing dark sky as well as an uncertain state of being, here space is
 investigated both literally and figuratively.
 
-In Jim Jarmuschâ��s film Deadman, Train Fireman (Crispin Glover) asks William
-Blake (Johnny Depp) to look out the boxcar window. He says: â��Doesnâ��t it
-remind you of when youâ��re in the boat, and then later that night you were
+In Jim Jarmusch’s film Deadman, Train Fireman (Crispin Glover) asks William
+Blake (Johnny Depp) to look out the boxcar window. He says: ’Doesn’t it
+remind you of when you’re in the boat, and then later that night you were
 lying looking up at the ceiling and the water in your head was not
 dissimilar from the landscape - and you think to yourself, why is it that
-the landscape is moving, but the boat is still?â�� Using the language of
-collage, Allison Tweedieâ��s video projection produces pivots of parallactic
+the landscape is moving, but the boat is still?’ Using the language of
+collage, Allison Tweedie’s video projection produces pivots of parallactic
 disorientation, an effect defined as the apparent displacement of an object
 caused by a change in observational position. Tweedie follows the sight of
 a satellite in the night sky and as stars roll by on the periphery, the
 orbiting satellite holds a still and faint position in our gaze.
 
-Shawna Mclellanâ��s Phosphorescent Incubator asks the question what is an
-experience? At the hub of Mclellanâ��s project is the childhood game of
+Shawna Mclellan’s Phosphorescent Incubator asks the question what is an
+experience? At the hub of Mclellan’s project is the childhood game of
 turning small imaginative spaces into a rainbow of situations and meaning.
 Made out of raw canvas coated with glow-in-the-dark paint, Phosphorescent
 Incubator is a makeshift polygonal prism slightly smaller than the room in

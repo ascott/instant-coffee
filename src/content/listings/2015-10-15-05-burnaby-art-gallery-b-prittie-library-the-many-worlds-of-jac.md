@@ -29,7 +29,7 @@ Wise, many of which are too large or too delicate to show in the library.
 “The legacy of Jack Wise is a stunning array of artistic output, produced
 over a lifetime of dedicated, educated, and intelligent hard work. Looking
 closely at his artwork will take you on a personal visit to some of his
-many worlds...,â€  says local artist and art historian Gary Sim.
+many worlds...,”  says local artist and art historian Gary Sim.
 
 An appreciation of Jack Wise by Sim can be found on the Burnaby Art Gallery
 website: http://bit.ly/1GwnWhm.

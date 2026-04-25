@@ -37,7 +37,7 @@ painters–that simultaneously pull the user into an interior world while
 projecting worlds away. Taking up a history of reflection, Negative Space
 sets forth inquiries into the contexts of technology, philosophy and
 creative practice, questioning how we and our devices–both historical and
-present dayâ€“favor the image over the â€œreal.â€ 
+present day–favor the image over the “real.” 
 
 Hirsch is a Berlin based artist, writer and editor. Her work has been
 exhibited at the Contemporary Art Gallery, Vancouver; The Power Plant,

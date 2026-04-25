@@ -401,7 +401,7 @@ project that acts as a public forum, teaching tool and creative laboratory
 for ecological and social sustainability practices in South East False
 Creek (SEFC), Vancouver, Canada.
 
-Located in Vancouverâ€™s â€œgreenest developmentâ€ , the Olympic Village, Grow
+Located in Vancouver’s “greenest development” , the Olympic Village, Grow
 explores sustainability issues through a series of walks, workshops and
 creative experiments in urban agriculture. Walks led by artist, Holly
 Schmidt and invited guests from architecture; design and the humanities
@@ -475,7 +475,7 @@ This exhibition features exquisite and extraordinarily rare prints from
 Japan and Cape Dorset, Nunavut, from the late 1950s and early 1960s. It
 also tells the little-known
 
-story of how, fifty years ago, the Canadian artist and â€œdiscovererâ€  of
+story of how, fifty years ago, the Canadian artist and “discoverer”  of
 Inuit art, James Houston, travelled to Japan to study printmaking with
 Un’ichi Hiratsuka.
 
@@ -552,7 +552,7 @@ instrumental in the development of the art of Canada’s First Nations. He is
 renowned for his powerful combinations of highly charged images from his
 personal Anishinaabe aesthetic, which is more akin to the expressive
 layering of Rauschenberg than the traditional forms of Anishinabek
-â€œWoodland Schoolâ€  painters.
+“Woodland School”  painters.
 
 Admission $15.68 Adults; $13.44 Students & Seniors 65+ / 6393 N.W. Marine
 Drive, Vancouver BC V6T 1Z2
@@ -623,7 +623,7 @@ Opening Reception: Thursday June 2nd, 7 – 11 p.m. (performance at 9 p.m.)
 June 3 – 25, 2011
 
 Shudder Gallery is pleased to present Erik Jerezano’s latest exhibition of
-drawings, titled â€œEloquent Monologues of the Intact Ciclesâ€ , presents a
+drawings, titled “Eloquent Monologues of the Intact Cicles” , presents a
 world inhabited by bizarre composite creatures and circumstances. The
 exhibition runs in conjunction with Music Waste Vancouver’s premier
 independent music festival highlighting the region’s most exciting and
@@ -639,7 +639,7 @@ seem to have their own evolutionary mechanism of change affected by chance,
 influences and circumstances.
 
 Jerezano remembers stories told to him by different family members in
-Mexico about â€œnahualesâ€ , who are people that can change form to become
+Mexico about “nahuales” , who are people that can change form to become
 animals. He uses this poetic possibility to explore transmutation. Images
 move fluidly from skeletons to comically naïve mounds with teeth. The works
 are always questioning reality and posing eccentric reinterpretations.

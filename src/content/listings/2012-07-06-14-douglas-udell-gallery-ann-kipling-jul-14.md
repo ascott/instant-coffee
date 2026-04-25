@@ -25,7 +25,7 @@ movement through a dynamic network of nervous lines, the drawings of
 Ann Kipling vibrate with life and energy. In the words of Robin 
 Laurence, Kipling’s art is a “direct, unmediated, almost electrical 
 response to the plants, animals, and people that share her 
-environment.â€ 
+environment.” 
 
 Kipling was granted the first Bruce Audain Lifetime Achievement Award 
 in 2004 for her artistic contribution to the visual arts in BC. In 2008, she 

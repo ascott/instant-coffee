@@ -40,7 +40,7 @@ followed: firstname_lastname_hdts2013.pdf (for example
 andrea_zittel_hdts2013.pdf).
 
 All proposals must be emailed to info@highdeserttestsites.com by January 
-31, 2013 for consideration. Please specify â€œHDTS 2013 Proposalâ€  in the email 
+31, 2013 for consideration. Please specify “HDTS 2013 Proposal”  in the email 
 subject heading. 
 
 (Those without internet access may mail a paper copy of their proposal to the 

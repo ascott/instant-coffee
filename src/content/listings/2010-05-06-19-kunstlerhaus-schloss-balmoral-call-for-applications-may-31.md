@@ -29,7 +29,7 @@ Six residence scholarships will be awarded to international visual artists.
 
 Each scholarship lasts 6 months. All of them begin in April 2011 and are
 endowed with 1,200 euros per month and include free accommodation at the
-KÃ¼nstlerhaus SchloÃ� Balmoral.
+Künstlerhaus Schlo Balmoral.
 
 Eligible to apply for the international residence scholarships at the
 Kunstlerhaus Schloss Balmoral are international artists of any age from the

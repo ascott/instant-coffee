@@ -222,7 +222,7 @@ Art Cart is a mobile art gallery and vending cart for the communities of
 Gallery Gachet and Oppenheimer Park. The Art Cart is a vessel for 
 artists to transport and sell their work, as well as a being a hub for 
 curated exhibitions and projects, community workshops and public 
-events. Art Cart seeks alternatives for â€œartist spaceâ€ , and in its own way 
+events. Art Cart seeks alternatives for “artist space” , and in its own way 
 represents an act of creative survival and resistance. Developed in 
 collaboration between Oppenheimer Park and Gallery Gachet, Art Cart 
 aims to support artist exposure, creative exchange, and art sales. Like 
@@ -364,7 +364,7 @@ March 26th-April 6th, 2012
 OPENING RECEPTION: Thursday, March 29th, 2012, 6-9pm
 
 Emily Carr University of Art + Design’s first year masters cohort 
-presents â€œInventory of Language,â€  a group exhibition at the Concourse 
+presents “Inventory of Language,”  a group exhibition at the Concourse 
 Gallery offering a window into their studio explorations within the 
 graduate program.
 
@@ -373,7 +373,7 @@ students have come together to produce a wide-reaching
 interdisciplinary exhibition with the aims of sharing their critical arts-
 based research with Vancouver’s artists, curators, theoreticians, 
 educators and the public at large. The diverse bodies of work 
-presented in â€œInventory of Languageâ€  include painting and drawing, 
+presented in “Inventory of Language”  include painting and drawing, 
 printmaking, photography, sculpture,
 performance, sound art, interactive installation, video and design.
 
@@ -386,7 +386,7 @@ Carter, Zara Contractor, Jenny Cronin, Ashley Guindon , Allison Karow
 Stefánsson, Lloyd Stone, Carol Tsang, Tokio Webster and Laurence 
 Wong.
 
-â€œInventory of a Languageâ€  will run from March 26th to April 6th, 2012 at 
+“Inventory of a Language”  will run from March 26th to April 6th, 2012 at 
 Emily Carr University’s Concourse Gallery. The public is invited to meet 
 the artists, see the work and enjoy refreshments at the opening event.
 
@@ -429,11 +429,11 @@ the image was created using several vertical segments.
 Some of these segments are presented as smaller studies showing
 similar transitions between the seasons within a vertical format.
 
-Repatriation is a series of large tableau photographs â€œdocumentingâ€ 
+Repatriation is a series of large tableau photographs “documenting” 
 repatriation ceremonies of fallen Canadian soldiers being returned to
 Canada after being killed abroad, in Afghanistan. People gather along
-the â€œHighway and Route of Heroesâ€  to pay their last respects. â€œCorner
-of the Courageousâ€  is the name given to the last corner the funeral
+the “Highway and Route of Heroes”  to pay their last respects. “Corner
+of the Courageous”  is the name given to the last corner the funeral
 procession takes before entering the Chief Coroners office in Toronto.
 It is not an actual corner, but one formed by a human chain of first
 responders, military veterans, and everyday citizens. The series
@@ -469,12 +469,12 @@ artistic practice.
 
 Featuring over a dozen works on paper in graphite, mixed media and pencil, the 
 core drawings are complemented by related jewelry works and a large paper 
-cast mask (â€œRavens Tailâ€ , paper, 42 x 25.5 x 8 inches), displayed here for the 
+cast mask (“Ravens Tail” , paper, 42 x 25.5 x 8 inches), displayed here for the 
 first time.
 
 Gwaai is a strong voice in the Haida community. This exhibition explores not 
 only Gwaai’s individual artistic practice, but also addresses the larger issue of 
-historically limiting definitions of â€œFirst Nationsâ€  art.
+historically limiting definitions of “First Nations”  art.
 
 Regards,
 Jeen Yee
@@ -523,7 +523,7 @@ March 29th - April 7th, 2012
 
 Opening Reception: March 30th, 5 - 7 pm
 
-â€œThe Unseenâ€  features works by seven graduate students that explore 
+“The Unseen”  features works by seven graduate students that explore 
 the limits of the unseen. A common dialogue around the body as 
 invisible or absent emerges through an examination of the qualities of 
 specific media such as film as well as in contemporary technologies. 
@@ -551,7 +551,7 @@ Chris Jones (University of Florida), “'Walk into the View':
 Rephotography as Art Practice 1975-2010"
 11:30 – 12:15:
 Frances Cullen (University of Alberta), “Stillness in Motion: Alex 
-Pragerâ€™s Despair and the Reassessment of Cinematic Timeâ€ 
+Prager’s Despair and the Reassessment of Cinematic Time” 
 
 12:15 – 1:15:
 Lunch Break
@@ -569,7 +569,7 @@ Panel II:
 Exhibition Introduction
 3:45 – 4:30:
 Alexandra L. Simpson (Queen’s University), “Blindness and Site: Art 
-Illustrating the Invisible in Touch Tour Picturesâ€ 
+Illustrating the Invisible in Touch Tour Pictures” 
 
 5:00 – 7:00:
 Reception and Exhibition
@@ -581,12 +581,12 @@ Saturday, March 31st, 2012
 Panel III
 10:45 – 11:30:
 Catherine Walsh (Boston University), “Displacement and Figuration in 
-Giambolognaâ€™s Appenninoâ€ 
+Giambologna’s Appennino” 
 11:30 – 12:15:
-Christina Gray (UCLA), â€œHumour and Adolf Loosâ€ 
+Christina Gray (UCLA), “Humour and Adolf Loos” 
 12:15 – 1:00:
 Alexey Golubev (UBC), “Unseen Materiality in Marginalia of Post-
-Stalinist Soviet Magazinesâ€ 
+Stalinist Soviet Magazines” 
 
 1:00 – 2:00:
 Lunch Break
@@ -594,10 +594,10 @@ Lunch Break
 Panel IV
 2:00 – 2:45:
 Carley Hodgkinson (NSCAD), “Re-imagining the Temporary and Void 
-Spaces of the Cityâ€ 
+Spaces of the City” 
 2:45 – 3:30:
 Erica Zacharias (UBC), “Insight Out of Site: Staging Gordon Matta-
-Clarkâ€ 
+Clark” 
 
 3:30 – 4:00
 Closing Remarks

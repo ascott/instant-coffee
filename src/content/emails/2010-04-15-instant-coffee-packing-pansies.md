@@ -56,7 +56,7 @@ contemporary culture. From traditional work songs to the industrial music of the
 the new electronic of computer composition derived from office software, work and labour has 
 long been used as a compositional device and or organizing principle for sound. Each of the 
 artworks presented play.back.work consider the sound of labour as it coincides with play, 
-recreational culture and or the â€œplay backâ€  of the recording device.
+recreational culture and or the “play back”  of the recording device.
 
 Eagle Transforming: The Prints of Robert Davidson
 Organized and circulated by the Vancouver Art Gallery
@@ -305,7 +305,7 @@ In collaboration with Patrick Blaeser.
 What builds nationalism in sports? Why did thousands of people wear flags and paint their faces 
 with Canadian maple leafs? Why does nationalism constructed through an identity of competitive 
 sports excludes diversity? Is there any legacy left behind after these moments of vibrant 
-Canadian â€œidentityâ€  fueled by a hockey game, and gold medals? 
+Canadian “identity”  fueled by a hockey game, and gold medals? 
 
 Nationalism and sport are repeatedly entangled, as sports provide a framework for symbolic 
 competition between nations; one of the primary forms of banal nationalism.
@@ -532,7 +532,7 @@ Dana Claxton, the Ruth Wynn Woodward Chair in Gender, Sexuality and Women’s
 Studies, will lead the critical investigation as Presenter and Moderator. 
 
 On Friday night Skeena Reece and Lori Blondeau, two of Canada’s leading Aboriginal 
-performance artists, will present a new work in response to the film trilogy â€œA Man Called Horse.â€ 
+performance artists, will present a new work in response to the film trilogy “A Man Called Horse.” 
 
 On Saturday, Hulleah J. Tsinhnahjinnie, the Director of the C.N. Gorman Museum and an 
 Assistant Professor in the Department of Native American Studies at University of California, will 
@@ -667,8 +667,8 @@ Baby Dee gives everything and that is what connects her with critics and audienc
 While the last album was helped along by Will Oldham and Matt Sweeney producing, this one 
 was led by the calming presence of Maxim Moston (part of Antony and the Johnson's touring 
 band and a song arranger). Moston says “She sent me the demo and I was floored – here was a 
-true collection of lieder, or art songsâ€  What Moston envisaged in his words were â€œsong cycles 
-performed in their entirety and stripped of all excess, just piano and voice, poetry and melodyâ€ .
+true collection of lieder, or art songs”  What Moston envisaged in his words were “song cycles 
+performed in their entirety and stripped of all excess, just piano and voice, poetry and melody” .
 Gone are the more bawdy ruminations to be replaced by a glowing heart of a record. 
 Hermetically sealed and lovingly passed on so that we can understand what love could mean 
 from Dee’s perspective. It is at times jaw-dropping in its profundity.
@@ -680,15 +680,15 @@ record in the first place was borne out of love, and the reason to re-visit the 
 from that same scary yet beautiful place.
 What makes Dee indefatigable and the record so majestic is upturning any suggestion of there 
 being limitations to love. From lines like: “Set as a seal on your heart, As a seal on your arm/For 
-love is stronger than deathâ€  to the barest simplicity of being able to say to someone, â€œLike a baby 
-first time talking/Here I am, It's me, I'm hereâ€ . Baby Deeâ€™s vulnerability and insight is inspirational.
+love is stronger than death”  to the barest simplicity of being able to say to someone, “Like a baby 
+first time talking/Here I am, It's me, I'm here” . Baby Dee’s vulnerability and insight is inspirational.
 
 So why not leave as 150 little books and move along? After all the ‘and yets’, Dee was actually 
-â€œstruck dumbâ€  with love and thus was compelled to share this record with the world.
+“struck dumb”  with love and thus was compelled to share this record with the world.
 
 “Everybody has a right – the right to really be the lover, to really be the beloved. Regardless of 
 how fucked up and inadequate we are or how short our time is together. We never lose that 
-opportunityâ€  â€“ Baby Dee 2009
+opportunity”  – Baby Dee 2009
 
 Don't miss this incredible opportunity to see Baby Dee perform live in a small venue. Hurry, 
 tickets are sure to sell out.
@@ -717,7 +717,7 @@ Opening Thursday, April 29 at 7PM
 The sci-fi fan has been unfairly maligned. Whether it’s the image of the costumed Trekkie or the 
 Simpsons’ Comic Book Guy, the fan is consistently portrayed as one who lives life vicariously 
 through narratives created by others. The relationships between fans and the objects of their 
-fandom, however, are far more nuanced. The notion of the â€œbirth of the readerâ€  is certainly not 
+fandom, however, are far more nuanced. The notion of the “birth of the reader”  is certainly not 
 new in cultural studies, but in the realm of the sci-fi fan this birth takes a particularly active and 
 increasingly participatory form.
 
@@ -732,7 +732,7 @@ corporate and government domination that run through the genre.
 
 By repeating the image of the spiral (an icon that has special significance in science fiction) 
 Langergraber connects to another important influence on his artistic practice—the work of Robert 
-Smithson. In his brief essay â€œThe Shape of the Future and Memoryâ€  (1966), Smithson explored 
+Smithson. In his brief essay “The Shape of the Future and Memory”  (1966), Smithson explored 
 connections between art and time travel—a few years later Spiral Jetty appeared in the Great 
 Salt Lake of Utah. Langergraber further exploits the relationship between fan culture, time travel 
 and the Spiral Jetty in his own fan film, The Theatre of the Exploding Sun. It follows his alter ego 

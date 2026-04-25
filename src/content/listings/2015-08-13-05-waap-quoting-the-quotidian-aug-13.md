@@ -70,12 +70,12 @@ by creating palimpsestic clay moulds.
 Other works critically assess the aesthetic contexts in which objects are
 situated. ROULA PARTHENIOU's sculptures make overt references to
 commonplace things, but their operations are far more subtle; for they rely
-on their audienceâ€™s acquired familiarity with consumer culture in order for
+on their audience’s acquired familiarity with consumer culture in order for
 their representations to be seen. JASON MCLEAN's collaborative sculpture
 with SCOTT LAWRENCE functions cleverly as a visual double entendre.
 VANESSA BROWN's flat panels fuse picture and sculpture, and the objects
 depicted in them are derived surrealistically from dream-activated visual
-fields. BARRY DOUPE explores the various forms â€œa lineâ€ can take, and how
+fields. BARRY DOUPE explores the various forms “a line” can take, and how
 its elasticity and transformability can be employed to express a vast range
 of emotional states.
 

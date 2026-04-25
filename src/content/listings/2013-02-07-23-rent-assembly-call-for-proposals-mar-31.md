@@ -39,7 +39,7 @@ less for their families and their futures. Cultural producers will find it
 increasingly impossible to exist here, and will contend with their spaces and 
 neighbourhoods being exploited by developers. Housing choices will largely 
 be determined by the prejudices of property managers and landlords who, 
-unlike most, can afford to say â€œno.â€ 
+unlike most, can afford to say “no.” 
 
 Two centuries after Adam Smith denounced land rent as an illegitimate form 
 of accumulation, the seemingly passé 19th Century question of land 

@@ -12,9 +12,9 @@ The Burnaby Art Gallery is pleased to present The Artist Poster Show,
 opening Friday, February 8, 2013.
 
 The Artist Poster Show explores the didactic evolution of artist exhibition 
-posters. Drawn primarily from the Burnaby Art GalleryÃ¢€™s permanent 
+posters. Drawn primarily from the Burnaby Art Galleryâ€™s permanent 
 collection, 
-the showcase spotlights the artistÃ¢€™s ability to communicate time, place, 
+the showcase spotlights the artistâ€™s ability to communicate time, place, 
 symbolism or space though an exhibition poster.
 
 See a range of works from 27 different artists, including Ron Eckert, Brendan 
@@ -27,7 +27,7 @@ commissioned 12-poster series by Sonny Assu.
 For more information and the full list of artists please see the attached pdf.
 
 Feel free to contact me for more information about the exhibit or Sonny 
-AssuÃ¢€™s commissioned series. High-resolution images are also available upon 
+Assuâ€™s commissioned series. High-resolution images are also available upon 
 request.
 
 All the best,

@@ -27,17 +27,17 @@ flight from Iran after which he eventually found refuge in Vancouver.
 “This installation [addresses] intellectual claustrophobia through language
 as a weapon of attack and defense; what is lost in the communication
 becomes loud sounds, weaponized sounds, sounds through the presence of
-pins. Pins are a universal symbol of pain, like a loud â€œouch,â€  but silent
+pins. Pins are a universal symbol of pain, like a loud “ouch,”  but silent
 at the same time.
 
 It is also a portrait, but reduced to just eyes and language. The
 self-portrait of pinheads, though there is no specific self, is perhaps a
 very oddball portrait – oddballs of displacement and misplacement and the
-â€œdoorâ€  separating Us and Them. The Persian language written on the â€œdoorâ€ 
+“door”  separating Us and Them. The Persian language written on the “door” 
 is used as decoration or beauty (surface). The English is used as tag or
-brandification â€“ one as â€œunknown,â€  one as insult/poetry or slogan of the
+brandification – one as “unknown,”  one as insult/poetry or slogan of the
 collective experiences of refugees, the exiled, marginalized or what is
-â€œnormallyâ€  perceived as â€œthe Others.â€ 
+“normally”  perceived as “the Others.” 
 
 – Ahmad Tabrizi, artist statement.
 

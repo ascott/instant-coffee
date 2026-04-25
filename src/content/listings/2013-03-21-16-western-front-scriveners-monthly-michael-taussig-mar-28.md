@@ -21,7 +21,7 @@ is required to make living an end in itself and not a means in which
 each of us is our own little political economy?
 
 Mick Taussig is the author of several books on mimesis, agriculture, 
-shamanism, and color. He was once a shipâ€™s doctor and now teaches 
+shamanism, and color. He was once a ship’s doctor and now teaches 
 anthropology at Columbia University in New York.
 
 Please come early, attendance is limited.
@@ -29,7 +29,7 @@ Please come early, attendance is limited.
 Scrivener’s Monthly is a series of public presentations that explore the 
 space between material practices and spoken words: a periodical that 
 talks. Set alongside the exhibitions program at Western Front, this 
-experiment in â€œnot publishingâ€  involves readings, performances, and 
+experiment in “not publishing”  involves readings, performances, and 
 other articulations.
 
 Western Front

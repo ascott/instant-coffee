@@ -20,7 +20,7 @@ by motion-study laboratories through the incorporation of black and white
 raster backgrounds. Taking ordinary objects as subject-matter, Bunte 
 confounds such labs’ aims of achieving scientific abstraction, instead 
 capturing the contingency of the filmic image through his inclusion of 
-â€œaccidentalâ€  footage as well. In this way, the film extends both literal and 
+“accidental”  footage as well. In this way, the film extends both literal and 
 metaphorical frames by repositioning the fringes to the centre in spatial 
 and temporal ways, drawing attention to processes that do not produce 
 anything significant, do not demand optimization, and that are not usually 
@@ -30,7 +30,7 @@ The exhibition’s title is taken from the book Attempt at exhausting a place
 in Paris by French writer Georges Perec, in which he explored “the 
 infraordinary: the markings and manifestations of the everyday that 
 consistently escape our attention as they compose the essence of our 
-lives.â€ *
+lives.” *
 
 Andreas Bunte is an internationally-exhibited artist based in Berlin. His 
 16mm film and installation‐based practice explores the intersection 

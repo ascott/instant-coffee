@@ -45,7 +45,7 @@ Please note that we do not accept email proposals for our main space.
 
 All submissions can be sent to:
 
-Eyelevel Gallery â€“ Programming Committee
+Eyelevel Gallery – Programming Committee
 c/o: Michael McCormack
 2063 Gottingen Street
 Halifax, Nova Scotia, Canada

@@ -32,7 +32,7 @@ contemporary culture. From traditional work songs to the industrial music of the
 the new electronic of computer composition derived from office software, work and labour has 
 long been used as a compositional device and or organizing principle for sound. Each of the 
 artworks presented play.back.work consider the sound of labour as it coincides with play, 
-recreational culture and or the â€œplay backâ€  of the recording device.
+recreational culture and or the “play back”  of the recording device.
 
 Eagle Transforming: The Prints of Robert Davidson
 Organized and circulated by the Vancouver Art Gallery

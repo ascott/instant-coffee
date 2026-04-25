@@ -29,7 +29,7 @@ bit of a journey into town where all the shops and pubs are (if that’s what
 you like), some local restaurants are within walking distance. The wood
 that is everywhere makes it feel like it’s something out of the old time
 travel writers like Maugham or Greene, although I’m not too sure if either
-of them had ever travelled here.â€ 
+of them had ever travelled here.” 
 
 - excerpt from a review on TripAdvisor
 

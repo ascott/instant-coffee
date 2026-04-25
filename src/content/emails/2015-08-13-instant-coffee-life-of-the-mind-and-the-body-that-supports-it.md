@@ -20,7 +20,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2015-08-13-06-wantoo-lounge-with-new-forms-instant-coffee-light-bar-isea20">06. EVENT | Wantoo Lounge with New Forms | Instant Coffee Light Bar @ISEA2015 | AUG 13</a>
 <a href="/instant-coffee/listings/2015-08-13-07-avenue-flagrante-delicto-scott-cohen-aug-14">07. OPENING | Avenue | Flagrante Delicto - Scott Cohen | AUG 14</a>
 <a href="/instant-coffee/listings/2015-08-13-08-news-isea2015-art-program-aug-14">08. NEWS | ISEA2015 | Art Program | AUG 14</a>
-<a href="/instant-coffee/listings/2015-08-13-09-uc-berkeley-department-of-art-practice-first-annual-speculat">09. CALL | UC Berkeley Department of Art Practice | First Annual â€œSPECULATIVE LECTUREâ€  | AUG 14</a>
+<a href="/instant-coffee/listings/2015-08-13-09-uc-berkeley-department-of-art-practice-first-annual-speculat">09. CALL | UC Berkeley Department of Art Practice | First Annual “SPECULATIVE LECTURE”  | AUG 14</a>
 <a href="/instant-coffee/listings/2015-08-13-10-vivo-isea-2015-spotted-sentients-dispatches-from-an-aug-14">10. EVENT | VIVO | ISEA 2015 : SPOTTED SENTIENTS: DISPATCHES FROM AN | AUG 14</a>
 <a href="/instant-coffee/listings/2015-08-13-11-higgledy-piggledy-parade-roberts-creek-ghost-poo-arvo-leo-au">11. EVENT | Higgledy Piggledy Parade (Roberts Creek) | GHOST POO - Arvo Leo | AUG 15</a>
 <a href="/instant-coffee/listings/2015-08-13-12-live-biennale-la-pocha-nostra-mentorshipworkshop-aug-15">12. CALL | LIVE Biennale | La Pocha Nostra! - Mentorship/Workshop | AUG 15</a>
@@ -54,14 +54,14 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2015-08-13-01-grunt-gallery-arcticnoise-by-geronimo-inutiq-aka-madeskimo">01. OPENING | grunt gallery | ARCTICNOISE by Geronimo Inutiq (aka Madeskimo)</a>
 ------------------------------------------------------------------------
 ARCTICNOISE by Geronimo Inutiq (aka Madeskimo)
-Exhibition Dates: Aug 5 â€“ Aug 22
-Reception: August 17 (7â€“10 pm)
-Location: grunt gallery, Unit 116 â€“350 East 2nd Ave
+Exhibition Dates: Aug 5 – Aug 22
+Reception: August 17 (7–10 pm)
+Location: grunt gallery, Unit 116 –350 East 2nd Ave
 
 URL: http://grunt.ca/exhibitions/arctic-noise/
 
 Join us on Monday, August 17th for the reception of ARCTICNOISE at 
-grunt gallery (7â€“10pm). This exhibition runs from August 5 to 22 and 
+grunt gallery (7–10pm). This exhibition runs from August 5 to 22 and 
 is presented in collaboration with Ethnographic Terminalia and the 21st 
 International Symposium on Electronic Arts (ISEA). grunt gallery is 
 excited to co-present an exhibition, panel, workshop and a 
@@ -72,19 +72,19 @@ EXHIBITION INFO:
 ARCTICNOISE is a media installation by Geronimo Inutiq (madeskimo) 
 that draws on archival film footage and sound materials sourced from 
 the Isuma Archive at the National Gallery of Canada, as well as sound 
-and film materials from the artistâ€™s personal collection and other 
+and film materials from the artist’s personal collection and other 
 ethnographical material. Conceived as an Indigenous response to 
-Glenn Gouldâ€™s celebrated composition â€œThe Idea of the Northâ
-€ , Inutiq will appropriate Gouldâ€™s piece as a musical score, paired 
+Glenn Gould’s celebrated composition “The Idea of the Northâ
+€ , Inutiq will appropriate Gould’s piece as a musical score, paired 
 with new voices and imagery to produce a layered
 and multi-vocal work.
 
-The project folds into Inutiqâ€™s larger practice of his alter-ego,
+The project folds into Inutiq’s larger practice of his alter-ego,
 madeskimo, that draws on the use of instruments, and digital and 
 analogue synthesizers, as well as the remixing and processing of 
-samples from a large variety of sourcesÃ¢â‚¬â€  including traditional Inuit, 
+samples from a large variety of sourcesââ‚¬”  including traditional Inuit, 
 Aboriginal, modern
-electronic and urban musicÃ¢â‚¬â€ in order to create an experimental 
+electronic and urban musicââ‚¬” in order to create an experimental 
 platform.
 
 At its crux, ARCTICNOISE intends to initiate conversations between 
@@ -103,17 +103,17 @@ Facebook Event:
 https://www.facebook.com/events/1451774958462409/
 -
 
-ARCTICNOISE: Related Programming â€“
+ARCTICNOISE: Related Programming –
 
 Aug 15: WORKSHOP | Terminus: Archives, Ephemera, and Electronic 
-Art @VIVO â€“
+Art @VIVO –
 https://www.facebook.com/events/691121607686882/
 
 Aug 15: PERFORMANCE | Geronimo Inutiq at FUSE/DISTURBANCE 
-â€“
+–
 https://www.facebook.com/events/1462623120725769/
 
-Aug 19: PANEL | ARCTICNOISE: DIALOGUES â€“
+Aug 19: PANEL | ARCTICNOISE: DIALOGUES –
 https://www.facebook.com/events/1615533645402945/
 
 ------------------------------------------------------------------------
@@ -268,12 +268,12 @@ by creating palimpsestic clay moulds.
 Other works critically assess the aesthetic contexts in which objects are
 situated. ROULA PARTHENIOU's sculptures make overt references to
 commonplace things, but their operations are far more subtle; for they rely
-on their audienceâ€™s acquired familiarity with consumer culture in order for
+on their audience’s acquired familiarity with consumer culture in order for
 their representations to be seen. JASON MCLEAN's collaborative sculpture
 with SCOTT LAWRENCE functions cleverly as a visual double entendre.
 VANESSA BROWN's flat panels fuse picture and sculpture, and the objects
 depicted in them are derived surrealistically from dream-activated visual
-fields. BARRY DOUPE explores the various forms â€œa lineâ€ can take, and how
+fields. BARRY DOUPE explores the various forms “a line” can take, and how
 its elasticity and transformability can be employed to express a vast range
 of emotional states.
 
@@ -451,10 +451,10 @@ E-mail: isea2015-press@sfu.ca
 http://isea2015.org/
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2015-08-13-09-uc-berkeley-department-of-art-practice-first-annual-speculat">09. CALL | UC Berkeley Department of Art Practice | First Annual â€œSPECULATIVE LECTUREâ€  | AUG 14</a>
+<a href="/instant-coffee/listings/2015-08-13-09-uc-berkeley-department-of-art-practice-first-annual-speculat">09. CALL | UC Berkeley Department of Art Practice | First Annual “SPECULATIVE LECTURE”  | AUG 14</a>
 ------------------------------------------------------------------------
 OPEN CALL FOR PROPOSALS:
-The First Annual â€œSPECULATIVE LECTUREâ€ 
+The First Annual “SPECULATIVE LECTURE” 
 A UC Berkeley Department of Art Practice Wiesenfeld Visiting Artist Lecture
 
 Proposal Deadline: 11:59 PM, August 14th, 2015
@@ -470,8 +470,8 @@ Current UC Berkeley Students, Faculty, and Staff CANNOT apply
 Send submission materials to: Farley Gwazda: gwazda@berkeley.edu
 
 The UC Berkeley Department of Art Practice challenges artists to answer the
-questions â€œWhat can an artist lecture BE?â€  and â€œWhat can an artist lecture
-DO?â€  with a presentation that rethinks the lecture form, creating a
+questions “What can an artist lecture BE?”  and “What can an artist lecture
+DO?”  with a presentation that rethinks the lecture form, creating a
 speculative, experimental presentation that embraces complexity and
 criticality while breaking down calcified understandings. One innovative
 and practical proposal will be selected for presentation in the spring of
@@ -523,11 +523,11 @@ Film/TV (stereoscopic displays) have failed to add a significant point of
 view, because they are still rooted in a single perspective. The 
 implication is that the viewer is rendered immobile. Their movement 
 and physicality is mute. As a counterpoint to these stereoscopic 
-displays, â€œWe Are With Youâ€  encourages the viewer to move in relation 
+displays, “We Are With You”  encourages the viewer to move in relation 
 to a 3D animated sculpture. This 3D Volumetric Display is more of a 
 Tannenbaum or Bonfire. It is very different in that it is viewed in the 
 round, revealing itself with movement, sharing our physical space and 
-allows interaction between viewers. â€œWe Are With Youâ€  is a platform for 
+allows interaction between viewers. “We Are With You”  is a platform for 
 artistic enquiry in 3D space. It is a new medium, continuing on from the 
 19th century experiments with the Zoetropes. It has been used to 
 create 3D Puppets, A Laboratory for Synthetic Psychology, Interactive 
@@ -766,12 +766,12 @@ This Year: will become known once the poos emerge from the ghost's anal jungle.
 ------------------------------------------------------------------------
 ATTENTION REBEL ARTISTS!
 
-Vancouverâ€™s Performance Art Celebration, the LIVE International 
+Vancouver’s Performance Art Celebration, the LIVE International 
 Performance Art Biennale offers a new opportunity for emerging artists 
 to participate in a unique mentorship/workshop with the infamous 
-transâ€“art superâ€“group La Pocha Nostra!
+trans–art super–group La Pocha Nostra!
 
-This oneâ€“time mentorship/workshop is taking place September 20 to 
+This one–time mentorship/workshop is taking place September 20 to 
 23, and culminates with a grand spectacle on September 23 to open 
 LIVE 2015. Up to 12 artists will be selected by La Pocha Nostra from 
 submissions. There is NO CHARGE for participation. If selected, LIVE 
@@ -922,13 +922,13 @@ states of human affect as tradable commodities, "investing" in emotions
 such as anger, joy, disgust and amazement. It then links these emotions
 with actual stocks to make investments using a simulated brokerage account.
 
-Andres Wannerâ€™s Signature Strokes is a series of performative interventions
+Andres Wanner’s Signature Strokes is a series of performative interventions
 in which a remotely controlled drone paints ephemeral graffiti in public
-space. The title is a play on signature strikesÃ¢â‚¬â€ drone killings based on
+space. The title is a play on signature strikesââ‚¬” drone killings based on
 suspicious behavioural patterns thought to be signatures of terrorists.
 
 Taking up notions of fragments and nostalgia, By the Road is a sound
-sculpture created by BjÃ¸rn Erik Haugen. The soundtracks consist of the
+sculpture created by Bjørn Erik Haugen. The soundtracks consist of the
 sound from car chases in famous movies translated into death metal music.
 
 During the evening, FUSE-goers can also see the following exhibitions:
@@ -994,8 +994,8 @@ ISEA2015
 press release
 
 On Main Gallery presents MIMMiC: Disruption at ISEA2015, a three-
-day exhibition and artistâ€™s demos that includes the premiere of Paul 
-Wongâ€™s Wave Cycle and three works-in-progress by Evann 
+day exhibition and artist’s demos that includes the premiere of Paul 
+Wong’s Wave Cycle and three works-in-progress by Evann 
 Siebens, Sammy Chien and Adam Myhill & Christine Wallace. All these 
 works have been commissioned using MIMMiC. Aug 16-18, Room 
 2345, Simon Fraser University, Goldcorp Centre for the Arts.
@@ -1013,8 +1013,8 @@ making.
 https://www.youtube.com/watch?v=PTuczx8LGJg
 
 MIMMiC: Disruption August 16-18, 2015
-On exhibit will be Paul Wongâ€™s Wave Cycle (2015), images and 
-sounds of crashing water recorded on BCâ€™s wild West Coast. 
+On exhibit will be Paul Wong’s Wave Cycle (2015), images and 
+sounds of crashing water recorded on BC’s wild West Coast. 
 Participants are encouraged to touch the screens using 1 to 4 finger 
 gestures: taps, strokes, and swipes to interact with the artwork. Daily 
 exhibition 2-5pm Wave Cycle.
@@ -1030,7 +1030,7 @@ Wallace with Wong/Daggitt.
 
 Evann Siebens work is a response to gesture, the point of contact 
 between the user and the interface of MIMMiC. The production 
-involves three generations of womenâ€™s hands communicating 
+involves three generations of women’s hands communicating 
 through touch.
 
 Sammy Chien will be directing a new media performance inspired from 
@@ -1047,17 +1047,17 @@ form. Cinematically composed shots of Wallace, an award-winning
 female bodybuilder, will test our conceptions of touch, consent, gender, 
 and strength.
 
-ISEA is one of the worldâ€™s most prominent international arts and 
+ISEA is one of the world’s most prominent international arts and 
 technology events, bringing together scholarly, artistic, and scientific 
 domains in an interdisciplinary discussion and showcase of creative 
 productions applying new technologies in art, interactivity, and 
 electronic and digital media. The event annually brings together artists, 
 designers, academics, technologists, scientists, and general audience 
 in the thousands. The symposium consists of a conference, exhibitions, 
-and eventsÃ¢â‚¬â€ from large scale interactive art to cutting edge electronic 
+and eventsââ‚¬” from large scale interactive art to cutting edge electronic 
 music performance.
 
-ISEA2015â€™s theme of DISRUPTION invites a conversation about 
+ISEA2015’s theme of DISRUPTION invites a conversation about 
 the aesthetics of change, renewal, and game-changing paradigms. We 
 look to raw bursts of energy, reconciliation, error, and the destructive 
 and creative forces of the new. Disruption contains both blue sky and 
@@ -1069,8 +1069,8 @@ technologists hack and subvert to rebuild.
 
 In the last four years ISEA in Istanbul, Albuquerque, New Mexico, 
 Sydney, Australia, and Dubai. ISEA2015 marks its return to Canada, 
-since the groundbreaking first Canadian ISEA1995 in MontrÃ©al. The 
-Symposium will be at the Woodwardâ€™s campus of Simon Fraser 
+since the groundbreaking first Canadian ISEA1995 in Montréal. The 
+Symposium will be at the Woodward’s campus of Simon Fraser 
 University, with events at Vancouver Art Gallery, Emily Carr University 
 and other sites. http://isea2015.org/
 
@@ -1165,7 +1165,7 @@ $50 $40
 ISBN: 978-1-927354-17-9
 
 Seth and Sheila Stayed Behind pairs a short story by writer Sheila Heti with 
-photographs by Seth Fluker. â€œSethâ€  and â€œSheilaâ€  are the main characters of 
+photographs by Seth Fluker. “Seth”  and “Sheila”  are the main characters of 
 Heti’s abstract narrative of longing and transition, one which sets the stage for 
 Fluker’s photographs of a wintry Toronto landscape filled with 
 anthropomorphized automobiles and embankments of dirty snow. 
@@ -1179,7 +1179,7 @@ David Horvitz across the Internet. The image—a self portrait of the artist wit
 his head in his hands, ocean waves crashing in the background—was initially 
 uploaded to the Wikimedia Commons and placed on various Wikipedia pages. 
 From there, the image began to circulate, appearing on over a hundred 
-websites as a â€œstockâ€  photo to illustrate articles on a wide range of mental 
+websites as a “stock”  photo to illustrate articles on a wide range of mental 
 health and wellness issues. Co-published with Chert and Motto Books.
 
 $15 $12
@@ -1254,13 +1254,13 @@ Naz Shahrokh, On the Road (be fekret hastam) (United Arab Emirates,
 2013 6:40)
 
 Live Cinema Performance (30 minutes)
-VJ Um Amel with Fadi Z. Sakr, â€œFrom Cairo to Gaza: Mobilizing the 
-Body Politicâ€
+VJ Um Amel with Fadi Z. Sakr, “From Cairo to Gaza: Mobilizing the 
+Body Politic”
 
 These works identify patterns of information that lie below visible and
 audible thresholds and bring them into perception. They are alert to
 seemingly random patterns that, when organized into information, can 
-be rendered audiovisually. MoirÃ© patterns, shadow puppets, analog 
+be rendered audiovisually. Moiré patterns, shadow puppets, analog 
 video decay, surveillance technology, and other media collect and give 
 shape to disavowed histories and the voices of the earth. In some 
 cases these acts of translation permit a heightened political analysis. In 
@@ -1370,46 +1370,46 @@ Roedde House Museum
 1415 Barclay Street (corner of Broughton), Vancouver, BC
 
 On August 19th, Roedde House Museum launches a new exhibition on 
-the origins of Vancouver tourism and travel. â€œSouvenirs of Howe 
-Sound: A History of Local Tourismâ€ traces the rise of well-known 
+the origins of Vancouver tourism and travel. “Souvenirs of Howe 
+Sound: A History of Local Tourism” traces the rise of well-known 
 Howe Sound getaways such as Bowen Island, Horseshoe Bay, and the 
-Sunshine Coast, in the context of Vancouverâ€™s colonization and 
+Sunshine Coast, in the context of Vancouver’s colonization and 
 urbanization. Narrated through historical photographs and promotional 
 posters of Howe Sound from the early to mid-twentieth century, the 
 exhibition captures the sense of wonder that early settlers experienced 
-travelling up BCâ€™s stunning coastline and invites reflection on what 
+travelling up BC’s stunning coastline and invites reflection on what 
 it means to view the landscape as a tourist.
 
 Pioneer businesses such as the Union Steamship and Terminal 
 Steamship companies played a large role in the tourist industry by 
-creating impressions of British Columbia as a â€œpristine wildernessâ
-€ preserved for the enjoyment of modern, â€œcivilizedâ€ travellers. 
+creating impressions of British Columbia as a “pristine wildernessâ
+€ preserved for the enjoyment of modern, “civilized” travellers. 
 Such depictions erased indigenous presence and relied on a vision of 
 the land as uninhabited. The Roeddes, a pioneering West End family, 
 were present during this pivotal moment in the emergence of modern 
 tourism in British Columbia, and often enjoyed excursions around 
 Vancouver and Howe Sound themselves.
 
-â€œBy sharing the history of tourism in Vancouver, I hope the 
+“By sharing the history of tourism in Vancouver, I hope the 
 exhibition can offer locals and visitors alike a new way of thinking about 
 our contemporary attitudes and practices towards land, leisure, and 
-travel,â€ says exhibition curator Racan Souiedan. The tradition of 
+travel,” says exhibition curator Racan Souiedan. The tradition of 
 marketing Vancouver as a wild and rugged nature destination has a 
 lasting legacy. In the most recent Regional Tourism Profile done by 
 Destination BC, sightseeing, nature and wildlife viewing placed as the 
-number one activities. With the cityâ€™s close proximity to beautiful 
-natural spaces, itâ€™s no wonder that the origins of Vancouverâ€™s 
+number one activities. With the city’s close proximity to beautiful 
+natural spaces, it’s no wonder that the origins of Vancouver’s 
 tourism industry lie in discovery and adventure rather than urbanization 
 and development.
 
 The exhibit will feature various promotional materials from the Union 
-and Terminal Steamship Companies from the 1920s â€“ 1950s; 
+and Terminal Steamship Companies from the 1920s – 1950s; 
 postcards and photographs from the early days of Vancouver tourism; 
 Roedde Family photos and memories of summers spent at Horseshoe 
 Bay; and accounts from Pauline Johnson (Tekahionwake) and Chief 
 Joe Capilano.
 
-â€œSouvenirs of Howe Soundâ€ will have a special launch event and 
+“Souvenirs of Howe Sound” will have a special launch event and 
 open reception on Wednesday, August 19th from 5:00pm to 7:00pm. 
 SFU History Professor, Dr. Jack Little will give a presentation: 'Views 
 from the Deck: Union Steamship Cruises on Canada's Pacific Coast, 
@@ -1417,15 +1417,15 @@ from the Deck: Union Steamship Cruises on Canada's Pacific Coast,
 
 About Roedde House Museum
 Roedde House Museum is a restored Victorian mansion in the West 
-End that was once home to one of Vancouverâ€™s first bookbinders 
+End that was once home to one of Vancouver’s first bookbinders 
 and printers. Today, the museum is both a cultural events venue and a 
 fully interactive site where visitors can explore the house and see what 
 life was like for a middle-class family in the late 1800s.
 
 Location: Roedde House Museum: 1415 Barclay Street (corner of 
 Broughton), Vancouver, BC Dates and times: Exhibition runs 
-Wednesday August 19th â€“ Sunday November
-1st. Museum hours: Tuesday â€“ Friday 1:00-4:00pm, Sunday 1:00-
+Wednesday August 19th – Sunday November
+1st. Museum hours: Tuesday – Friday 1:00-4:00pm, Sunday 1:00-
 4:00pm. Admission: $5
 
 More info: www.roeddehouse.org | 604-684-7040 | 
@@ -1646,12 +1646,12 @@ place from October 16 to November 14, 2015. Artists are encouraged
 to consider the following prompt when they apply:
 
 With the passing of Bill C-51 life in Canada no longer toes the line of a
-Big Brother state â€“ it is a reality presently actualizing. Surveillance 
+Big Brother state – it is a reality presently actualizing. Surveillance 
 has been an increasingly omnipresent force in North American culture. 
 A social expectancy and understanding that we will be watched in 
-some capacity has formed. Physically and digitally, a personâ€™s 
+some capacity has formed. Physically and digitally, a person’s 
 actions are monitored, and the question of whether or not that is 
-harmful to oneâ€™s existence arises.
+harmful to one’s existence arises.
 
 Applicants are also urged to consider the mechanisms and structures â
 €“ including but not limited to the social, political, and physical means â
@@ -1700,7 +1700,7 @@ group exhibitions. Additionally, we will provide limited financial
 resources to aid artists in managing shipping and travel costs.
 
 Please send completed submission packages to:
-ATTN: Programming Committee â€“ Thematic
+ATTN: Programming Committee – Thematic
 info@thenewgallery.org
 
 ------------------------------------------------------------------------
@@ -1715,12 +1715,12 @@ Mainland to Victory Square Park (Cambie St and W Hastings St) to celebrate
 the end of summer and support non-profit media organizations with a splurge
 of local bands. 
 
-"Everything is set for us to have an unforgettable festival this year,â€ 
+"Everything is set for us to have an unforgettable festival this year,” 
 says Victory Square Block Party and Music Waste organizer Mark Richardson.
 “The line-up is really musically diverse and shows the variety of different
 sounds you can find in Vancouver’s independent music scene right now. It’s
 a great way for people to support Vancouver musicians as well as CiTR and
-Megaphone Magazine, all for free.â€ 
+Megaphone Magazine, all for free.” 
 
 With performances from Woolworm, Ramzi, Other Jesus, Cave Girl, Gal Gracen,
 Fake Tears, Whitney K, and Twin River, the line‐up features a set of
@@ -1740,9 +1740,9 @@ vendors, and CiTR 101.9FM, Vancouver’s independent community and
 campus-based broadcaster.
 
 “The Block Party exists to support awesome community-based organizations
-and exciting new music coming out of Vancouver,â€  says Sarah Cordingley,
+and exciting new music coming out of Vancouver,”  says Sarah Cordingley,
 Music Director at CiTR. “CiTR is always happy to be a part of it, and
-Vancouver wouldnâ€™t be the same without it.â€ 
+Vancouver wouldn’t be the same without it.” 
 
 Since 2004, the Block Party has become a staple of Vancouver’s independent
 music scene, and of the Labour Day weekend. Remaining committed to local

@@ -35,7 +35,7 @@ portraits of New York City subway riders, originally published in Harper’s
 Bazaar magazine in 1962. This series signaled his forward-looking idea about 
 the future of photography as an art form. The title, Dream Location, refers to 
 his description of the subway as a “dream ‘location’ for any portrait 
-photographer weary of the studio and the horrors of vanity.â€ 
+photographer weary of the studio and the horrors of vanity.” 
 
 Filmmaker Runa Islam also reflects on how the conditions of image production 
 determines their meaning. Over the duration of her film projection, Emergence 

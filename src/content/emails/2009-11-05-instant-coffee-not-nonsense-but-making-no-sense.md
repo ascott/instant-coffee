@@ -149,7 +149,7 @@ counselor, college and university instructor, professional facilitator,
 community development specialist, healing and wellness coordinator,
 independent consultant, and communications and environmental issues advisor
 to First Nation's communities and governments. He is also considered a
-treaty expert. Al is the President & Founder of Oshki Aa-yaaâ��aag Mino
+treaty expert. Al is the President & Founder of Oshki Aa-yaa’aag Mino
 Bimaadiziiwin (Good Life for Young People) Foundation.
 www.goodlifeforyoungpeople.com. Al Hunter has a BA from the College of St.
 Scholastica, Duluth, MN.

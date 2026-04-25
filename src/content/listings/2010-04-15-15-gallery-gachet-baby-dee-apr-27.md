@@ -31,8 +31,8 @@ Baby Dee gives everything and that is what connects her with critics and audienc
 While the last album was helped along by Will Oldham and Matt Sweeney producing, this one 
 was led by the calming presence of Maxim Moston (part of Antony and the Johnson's touring 
 band and a song arranger). Moston says “She sent me the demo and I was floored – here was a 
-true collection of lieder, or art songsâ€  What Moston envisaged in his words were â€œsong cycles 
-performed in their entirety and stripped of all excess, just piano and voice, poetry and melodyâ€ .
+true collection of lieder, or art songs”  What Moston envisaged in his words were “song cycles 
+performed in their entirety and stripped of all excess, just piano and voice, poetry and melody” .
 Gone are the more bawdy ruminations to be replaced by a glowing heart of a record. 
 Hermetically sealed and lovingly passed on so that we can understand what love could mean 
 from Dee’s perspective. It is at times jaw-dropping in its profundity.
@@ -44,15 +44,15 @@ record in the first place was borne out of love, and the reason to re-visit the 
 from that same scary yet beautiful place.
 What makes Dee indefatigable and the record so majestic is upturning any suggestion of there 
 being limitations to love. From lines like: “Set as a seal on your heart, As a seal on your arm/For 
-love is stronger than deathâ€  to the barest simplicity of being able to say to someone, â€œLike a baby 
-first time talking/Here I am, It's me, I'm hereâ€ . Baby Deeâ€™s vulnerability and insight is inspirational.
+love is stronger than death”  to the barest simplicity of being able to say to someone, “Like a baby 
+first time talking/Here I am, It's me, I'm here” . Baby Dee’s vulnerability and insight is inspirational.
 
 So why not leave as 150 little books and move along? After all the ‘and yets’, Dee was actually 
-â€œstruck dumbâ€  with love and thus was compelled to share this record with the world.
+“struck dumb”  with love and thus was compelled to share this record with the world.
 
 “Everybody has a right – the right to really be the lover, to really be the beloved. Regardless of 
 how fucked up and inadequate we are or how short our time is together. We never lose that 
-opportunityâ€  â€“ Baby Dee 2009
+opportunity”  – Baby Dee 2009
 
 Don't miss this incredible opportunity to see Baby Dee perform live in a small venue. Hurry, 
 tickets are sure to sell out.

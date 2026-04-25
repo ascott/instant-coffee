@@ -42,18 +42,18 @@ instant coffee listings / send us your art posts for free
 ------------------------------------------------------------------------
 New Exhibition: All is Unmentionable, Up in the Air: Eli Bornowsky
 
-BURNABY, BC Ã¢€“ The Burnaby Art Gallery is pleased to present a new
+BURNABY, BC â€“ The Burnaby Art Gallery is pleased to present a new
 exhibition featuring the works by Vancouver-based contemporary artist Eli
 Bornowsky. Please join us on Thursday, November 20 from 7-9pm for the
 opening reception of All is Unmentionable, Up in the Air: Eli Bornowsky.
 
 Eli Bornowsky has been practicing as an artist in Vancouver over the past
 decade, and has accomplished an impressive and diverse body of abstract
-paintings. This exhibition features a number of large canvas Ã¢€˜doublesÃ¢€™
+paintings. This exhibition features a number of large canvas â€˜doublesâ€™
 which mirror each other with their almost-but-not-quite identical forms. A
 new suite of works on paper is presented, as well as a selection of works
 from the City of Burnaby Permanent Art Collection. Bornowsky explores the
-polyrhythmic textures of landscape, Renaissance painting, the artistÃ¢€™s
+polyrhythmic textures of landscape, Renaissance painting, the artistâ€™s
 studio, colour, Abstract Expressionism, doubles, and Cubism. Accompanying
 this exhibition is an artist book of the same title, published by the
 Burnaby Art Gallery. All is Unmentionable, Up in the Air: Eli Bornowsky
@@ -83,7 +83,7 @@ November 21, 2014 to January 11, 2015
 
 Opening reception: Thursday, November 20, 7-10pm.
 
-The exhibition When Sky was Sea demonstrates the breadth of the artistÃ¢€™s
+The exhibition When Sky was Sea demonstrates the breadth of the artistâ€™s
 practice, works in the exhibition reveal an essential correspondence to
 things elsewhere in a wider world, insisting on our grasp of the continuity
 that exists between art and (non-art) life. As the artist travels the
@@ -95,8 +95,8 @@ artist in Japan, through to presenting a wide variety of more recent work
 for which he has since become internationally celebrated, the exhibition
 exemplifies an extraordinary curiosity and freedom of expression. Shimabuku
 uses installation, video, photography, drawings, sculpture and events alike
-to convey his intense fascination with the natural worldÃ¢€”equally the animal
-and vegetable realmsÃ¢€”and the countless manifestations of human culture
+to convey his intense fascination with the natural worldâ€”equally the animal
+and vegetable realmsâ€”and the countless manifestations of human culture
 within it. His artistic proposition is essentially one of storytelling and
 discovery.
 
@@ -112,8 +112,8 @@ Switzerland (2014); Something that Floats/Something that Sinks, Ikon
 Gallery, Birmingham, UK and Noto, 21st Century Museum of Contemporary Art,
 Kanazawa, Japan (2013); Leaves Swim, Nogueras Blanchard, Barcelona, Spain
 (2012); Man should try to avoid contact with alien life forms, Centre
-international d'art et du paysage de lÃ¢€™ÃƒŽle de VassiviÃƒÂ¨re, VassiviÃƒÂ¨re,
-France; On the water, CAPC musÃƒÂ©e dÃ¢€™art contemporain de Bordeaux (2011); The
+international d'art et du paysage de lâ€™ÃƒŽle de VassiviÃƒÂ¨re, VassiviÃƒÂ¨re,
+France; On the water, CAPC musÃƒÂ©e dâ€™art contemporain de Bordeaux (2011); The
 Watari Museum of Contemporary Art, Tokyo (2009); DAAD galerie, Berlin;
 Wilkinson Gallery (2007); Swansea Jack Memorial Dog Swimming Competition,
 Glynn Vivian Art Gallery, Swansea (2003); Then, I Decided To Give a Tour of
@@ -251,7 +251,7 @@ Opening: November 20th @ 8pm
 Love is a projection, but it still deserves to be acknowledged. As you
 fall, stage your own desires: get a fantasy, make a Pinterest board, then
 have a dream wedding. Use the potency of symbols to devise your own
-yearnings, and donÃ¢€™t settle for anything less.
+yearnings, and donâ€™t settle for anything less.
 
 http://doesheworshipyou.weebly.com/
 
@@ -300,7 +300,7 @@ The Visitor Vegetable show is questioning the boundaries of human nature
 and the encompassing infrastructure. On a rim of a mirror, we stare in,
 hoping to look back, forward or perv after someone else. How to reach to
 freedom and identity presuming to be part of the solution. For that we are
-transforming, taking body and actions after them Ã¢€“ the
+transforming, taking body and actions after them â€“ the
 extraterrestrials.
 You open up to the different species like a matryoshka or cracked chocolate
 egg when you discover that your surprise was a vegetable constructor. You
@@ -310,14 +310,14 @@ alien habits we need to adapt now. We sit quietly in observation, tracking
 the unrevealed. Trying to figure out the system of our inner territories
 and theirs. What is our own role in ourselves and what do I need to do with
 this body?
-Ã¢€œAfter all what is human in the nature? Compared to infinity
+â€œAfter all what is human in the nature? Compared to infinity
 nothingness,
 compared to nothingness macrocosm; Center in between nothing and
-everything. Endlessly far from understanding extremes Ã¢€“ both,
+everything. Endlessly far from understanding extremes â€“ both,
 end and
 beginning of things are unobtainable, hidden with impermeable secret;
 equally powerless to see the essence, where its been torn out and the
-infinity where its going to be swallowedÃ¢€Â  - Blaise Pascal
+infinity where its going to be swallowedâ€Â  - Blaise Pascal
 _____________________________
 
 Artists in the Visitor Vegetable show are wanderers and observers, the most
@@ -400,16 +400,16 @@ ADMISSION: $10
 + DJ SILK
 
 DESTROY VANCOUVER is a series of experimental music nights that bring
-together some of the worldÃ¢€™s most influential improvisers with local sound
+together some of the worldâ€™s most influential improvisers with local sound
 artists and musicians. DV is curated by drummer and sound artist John
 Brennan.
 
-Ã¢€”
+â€”
 
 GIORGIO MAGNANENSI is an Italian composer, now resident in Canada, of
 mostly orchestral, chamber and multimedia works that have been performed
 in Asia, Europe and North America. His diverse artistic practice includes
-composition, conducting, improvisation, circuitÃ¢€“bending and video art. He
+composition, conducting, improvisation, circuitâ€“bending and video art. He
 is artistic director of Vancouver New Music, Laboratorio Arts Society and
 lecturer at the School of Music at the Vancouver Community College.
 giorgiomagnanensi.com
@@ -418,7 +418,7 @@ STEFAN SMULOVITZ is a musician (viola & laptop) and an award-winning
 composer. As a software developer he created Kenaxis, a major innovation
 in the use of the computer as a real-time instrument. His virtuosic
 command of Kenaxis has resulted in an international reputation for
-Smulovitz, who regularly performs with the worldÃ¢€™s leading improvisers and
+Smulovitz, who regularly performs with the worldâ€™s leading improvisers and
 composes for ensembles ranging from orchestras to string quartets to solo
 instruments with electronics. His latest projects include the Mad
 Scientist Machine and the premier of his score for the Passion of Joan of
@@ -438,7 +438,7 @@ soar.is2.net
 
 ROOT & BRANCH is the duo of double-bassist Dave Ito Chokroun and
 multi-reedist Shane Krause, who focuses on clarinets in this group (Bass,
-Bb and Eb clarinets). The duoÃ¢€™s music includes completely free
+Bb and Eb clarinets). The duoâ€™s music includes completely free
 improvisation, graphically notated compositions, notated music with
 improvisation written in, and through-composed fully notated works with no
 improvisation.
@@ -453,13 +453,13 @@ artistic director and CEO of the online label and pataphysical disinfoshop
 The Institute for the Study of Advanced Musical Research.
 
 Shane Krause plays Eb, Bb and Bass Clarinets and the baritone saxophone.
-He is active within VancouverÃ¢€™s improvised music community, while also
+He is active within Vancouverâ€™s improvised music community, while also
 leading the post-bop jazz quintet the Bletchley Bombes and the cool jazz
 septet Gullviva. Shane has performed with and/or recorded with a number of
 notable improvisers including Mats Gustafsson, Christian Munthe and Peter
-Evans; as well as having a long history within VancouverÃ¢€™s indie music
+Evans; as well as having a long history within Vancouverâ€™s indie music
 scene having been a member of the Secret Mommy Quintet and They Shoot
-Horses, DonÃ¢€™t They? He was a member of Anthony BraxtonÃ¢€™s 2010 Vancouver
+Horses, Donâ€™t They? He was a member of Anthony Braxtonâ€™s 2010 Vancouver
 Sonic Genome Project.
 shanekrause.wordpress.com
 
@@ -496,7 +496,7 @@ events@vivomediaarts.com
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2014-11-20-10-artspeak-seurat-and-friends-nov-22">10. OPENING | Artspeak | Seurat and Friends | NOV 22</a>
 ------------------------------------------------------------------------
-â€œSEURAT AND FRIENDSâ€ 
+“SEURAT AND FRIENDS” 
 
 MATT BROWNING, JORDY HAMILTON, GYUN HUR
 
@@ -598,14 +598,14 @@ convention and context in moving-image arts.
 
 BEN RUSSELL (USA)
 
-Ben RussellÃ¢€™s films, installations, and performances foster a deep
+Ben Russellâ€™s films, installations, and performances foster a deep
 engagement with the history and semiotics of the moving image. A 2008
 Guggenheim Fellowship and 2010 FIPRESCI award recipient, Russell has had
 solo screenings and exhibitions at the Centre Georges Pompidou, the Museum
 of Contemporary Art Chicago, the Rotterdam Film Festival, the Wexner Center
 for the Arts, the Viennale, and the Museum of Modern Art. He has toured
 worldwide with film/video/performance programs and was named by Cinemascope
-in 2012 as one of the Ã¢€™50 Best Filmmakers Under 50Ã¢€™.
+in 2012 as one of the â€™50 Best Filmmakers Under 50â€™.
 
 THE FILM SOCIAL
 A screening and discussion of Renzo Martens' Episode III: Enjoy Poverty
@@ -616,7 +616,7 @@ FREE; booking advised: http://goo.gl/LW6WZP
 
 Episode III, also known as 'Enjoy Poverty', is the 90 minute film
 registration of Renzo Martens' activities in the Congo. In an epic journey,
-the film establishes that images of poverty are the CongoÃ¢€™s most lucrative
+the film establishes that images of poverty are the Congoâ€™s most lucrative
 export, generating more revenue than traditional exports like gold,
 diamonds, or cocoa. However, just as with these traditional exports, those
 that provide the raw material: the poor being filmed, hardly benefit from
@@ -657,18 +657,18 @@ sees the cinema as a site for transformation.
 YOU THE CITY
 A half-day filmmaking workshop with Ben Russell
 $50 non-members / $40 Cineworks and VIVO members
-Monday 24, November; 1.30pmÃ¢€“5.30pm, (please arrive early)
+Monday 24, November; 1.30pmâ€“5.30pm, (please arrive early)
 Cineworks Studio, 1131 Howe Street, Vancouver (lane entrance)
 Advance booking required: http://goo.gl/3rr3I9
 
-Taking its title from the 1990 play by Fiona Templeton, in which the Ã¢€œyouÃ¢€Â 
+Taking its title from the 1990 play by Fiona Templeton, in which the â€œyouâ€Â 
 slowly shifts from audience member to cityscape, this 4-hour workshop takes
 a decidedly subjective approach towards understanding how filming a place
-turns it into a character, a body, and a speaking subject Ã¢€“ one that is
+turns it into a character, a body, and a speaking subject â€“ one that is
 defined through its formal qualities and mirrored through the eyes and ears
 of cinema itself. Through a selection of screenings (Lertxundi, Nishikawa,
 Rivers, Russell) and portrait exercises, participants will work through a
-character-driven definition of urban space Ã¢€“ one that views perspective,
+character-driven definition of urban space â€“ one that views perspective,
 camera movement, and focal length as character traits; one that finds
 ideology in both architecture and shot duration; and one that ultimately
 confuses author with subject, that calls out to YOU THE CITY.
@@ -807,7 +807,7 @@ aim is to distribute a set of research and findings to Vancouver citizens
 engaged in the (onerous) search for affordable housing. As meetings with
 participating designers, planners, developers, financiers, architects, and
 experts in construction, insurance, and governance take place in her living
-room, Pulkinghornâ€™s process recalls â€œkitchen partiesâ€  or grassroots
+room, Pulkinghorn’s process recalls “kitchen parties”  or grassroots
 activism which begins in the home.
 
 In the Round: A Drawing Party with Catherine Pulkinghorn
@@ -817,9 +817,9 @@ Saturday, November 29, 2014, 2:00pm
 Do you have an interest in or talent for home architecture or interior
 design? Join artist Catherine Pulkinghorn for an informal drawing party
 within the exhibition Home Dream Home. Using the existing floorplan of her
-apartment and a list of her â€œDream Homeâ€  wishes, participants will
+apartment and a list of her “Dream Home”  wishes, participants will
 collaboratively or individually re-design her existing domestic space for
-beauty and efficiency, to materialize Catherineâ€™s â€œHome Dream Home.â€  All
+beauty and efficiency, to materialize Catherine’s “Home Dream Home.”  All
 ages welcome! Come as you are, no drawing experience necessary; all
 materials provided (extra rulers appreciated!).
 
@@ -1109,7 +1109,7 @@ artists or artist teams for a sculpture for a new park in Surrey, BC. The
 proposed artwork will be placed on a low grassed mound and will be clearly
 seen by the public walking through the park and when entering the parking
 lot. Artists answering this call are invited to envision a sculpture that
-responds to â€œWaterâ€  as the theme for the artwork.
+responds to “Water”  as the theme for the artwork.
 
 Shortlisted artists will be offered a design fee of $1,500.00 to develop
 their concepts in detail.

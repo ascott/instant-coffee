@@ -27,7 +27,7 @@ curatorial work includes Beat Nation: Art Hip Hop and Aboriginal Culture,
 featuring 27 contemporary Aboriginal artists currently at Vancouver Art 
 Gallery.
 
-â€œBarn Swallowsâ€ 
+“Barn Swallows” 
 
 CAROLINE MONNET, DEVIN TROY STROTHER, LAWRENCE PAUL 
 YUXWELUPTUN
@@ -61,7 +61,7 @@ collision of nature and culture in recent history.
 DEVIN TROY STROTHER’s high-relief assemblages and paintings centre 
 around caricatures of black figures in sometimes gory, sexualized scenes on 
 top of abstract backgrounds, which poke fun at the pretensions of formalism. 
-Sardonic titles like A Black Joan Jonas in â€œNigga Iâ€™m a Coyoteâ€  highlight the 
+Sardonic titles like A Black Joan Jonas in “Nigga I’m a Coyote”  highlight the 
 entangled histories of primitivism and abstraction within avant-garde art, 
 asking, in the process, who has the right to use certain kinds of language and 
 certain kinds of history.

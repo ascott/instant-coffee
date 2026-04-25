@@ -8,9 +8,9 @@ venue: "Artspeak,"
 summary: "Artspeak, | YUJI AGEMATSU | SEP 12"
 ---
 
-â€œThey are looking at me always,â€  he says. â€œI am just a slave to the duty,
+“They are looking at me always,”  he says. “I am just a slave to the duty,
 passion, and convention of them. I will have to take care of them. If I do
-well it guarantees my slaveâ€™s freedom.â€ 
+well it guarantees my slave’s freedom.” 
 Inbox
 
 YUJI AGEMATSU

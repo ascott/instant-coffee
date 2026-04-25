@@ -32,8 +32,8 @@ Asian Collective Twins Artist Collective – who are two sets of twin sisters
 "WeMix" features an eclectic mix of emerging Asian Canadian artists working 
 in a variety of different forms. As working artists themselves, YACTAC‟s 
 affinity runs deep with interdisciplinary and collaborative practice. “It is like a 
-milkshake,â€  say YACTAC. â€œWe mix butoh, shakuhachi flute, conceptual art, 
-poetry, music and design.â€ 
+milkshake,”  say YACTAC. “We mix butoh, shakuhachi flute, conceptual art, 
+poetry, music and design.” 
 
 Among the collaborating artists are visual artist Kuh de Rosario and graphic 
 designer Ryan Romero, who will converge to explore the grey area between 

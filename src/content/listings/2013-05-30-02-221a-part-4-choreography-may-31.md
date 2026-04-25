@@ -37,8 +37,8 @@ and this didn’t stop the artists throughout history from making their
 work.
 
 How does this leap occur? In psychoanalysis it is through the
-â€œsuspension of the critical facultyâ€ that the analysand first encounters in
-the â€œevenly suspended attentionâ€ of the therapist. By presenting the
+“suspension of the critical faculty” that the analysand first encounters in
+the “evenly suspended attention” of the therapist. By presenting the
 analysand with an enigmatic desire that keeps the analysand working,
 trying to discover what the analyst wants from him, they sooner or later
 realize that the desire can never be fulfilled and that they must be
@@ -46,7 +46,7 @@ responsible for choosing their own course. This is the potential role of
 a teacher (or curator?) in art: to allow the artists’s own unique truth to
 emerge that is absolutely different from their own.
 
-Isnâ€™t it this ability to â€œsuspend the critical faculty,â€ as recommended 
+Isn’t it this ability to “suspend the critical faculty,” as recommended 
 by
 Freud, that produces the most profound experience of art?
 Paradoxically, it is the absence of grasping for the essential core that

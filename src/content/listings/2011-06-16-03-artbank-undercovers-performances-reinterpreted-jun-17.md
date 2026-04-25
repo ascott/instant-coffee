@@ -22,7 +22,7 @@ Undercovers provides 13 artists with the chance to riff off performance-based
 pieces that inspire them.
 
 Each starting point is a work by an artist ranging from prolific to obscure that is 
-then â€œcoveredâ€  and transformed into a contemporary piece which sits within a 
+then “covered”  and transformed into a contemporary piece which sits within a 
 renewed and developed cultural context.
 
 While all the pieces in the show take their cue from performance-based works 

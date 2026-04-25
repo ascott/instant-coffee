@@ -34,7 +34,7 @@ The internet has changed not only the way we experience the world but the
 way its script is written. The forward-slash is part of that script, and a
 means of navigation. For Turner, a writer who values means over ends, the
 doorway these forward-slashes stand in for has become a recurring motif in
-his work, one that reminds us to always â€œmind the gap.â€ 
+his work, one that reminds us to always “mind the gap.” 
 
 Michael Turner is an award-winning writer of fiction, criticism and song.
 His books include Hard Core Logo, The Pornographer’s Poem and 8x10. He is

@@ -67,7 +67,7 @@ that become a secondary feature to the work. What is central to the work is
 the nature of time. The artist frequently introduces natural elements such
 as sunlight and darkness as anchor points for the perception of time.
 
-The exhibition includes â��Bordeaux Pieceâ�� (2004), which is nearly 14 hours
+The exhibition includes ’Bordeaux Piece’ (2004), which is nearly 14 hours
 in length and comprised of 70 short films shot at 10 minute intervals
 between 5:30 am and 10:00 pm over the course of several days. Actors play
 out the same scripted scene over and over, while the slow movement of
@@ -265,8 +265,8 @@ the region to respond to the exhibition.
 
 Renowned architectural historian Beatriz Colomina is the Professor of
 Architecture and founding Director of the Media in Modernity program at
-Princeton UniversityÃ&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½s School of Architecture. From
-ColominaÃ&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½s numerous
+Princeton UniversityÃ&#65533;Â¢ïÂ¿Â½ïÂ¿Â½s School of Architecture. From
+ColominaÃ&#65533;Â¢ïÂ¿Â½ïÂ¿Â½s numerous
 publications, her most recent, Domesticity at War, was published by ACTAR:
 Barcelona and MIT Press (2007).
 
@@ -302,7 +302,7 @@ grateful for the support of The Andy Warhol Foundation for the Visual Arts,
 Vancouver Foundation and our members, donors and volunteers.
 
 Contemporary Art Gallery, 555 Nelson Street, Vancouver, BC, V6B 6R5, Canada
-www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½ 6 pm.
+www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½ 6 pm.
 Admission is free by donation.
 
 For more information please contact: info@contemporaryartgallery.ca or
@@ -1057,7 +1057,7 @@ Without the presence of the crowd to complete the effect of the
 participatory cheer, his peculiar salute seems ominous and unsettling. Not
 shared with others in the circular sweep of the stadium, it summons up both
 the history of the arena in western culture and the evolution of the salute
-gesture. The stranded fan performs his part in isolation, his â��communityâ��
+gesture. The stranded fan performs his part in isolation, his ’community’
 imaginary - making his action deliberate and personal.
 
 Silent, and consisting of two one-minute segments, Vox Pop slows down the
@@ -1086,7 +1086,7 @@ regulatory conditions of public places and public life.
 Vox Pop is the inaugural project of Looking Up, a curated series of artist
 works that engage with public space and civic agency.
 
-presented by Other Sights for Artistsâ�� Projects Association
+presented by Other Sights for Artists’ Projects Association
 
 www.othersights.ca
 
@@ -1143,12 +1143,12 @@ As an artist producing works for gallery installations and public spaces,
 Antonia Hirsch will address issues and concerns faced by artists as they
 develop projects for temporary and permanent contexts. Her recently
 commissioned permanent public artwork Double Blind will is a key feature of
-the Vancouver Community Collegeâ��s (VCC) Broadway Campus Expansion Project.
+the Vancouver Community College’s (VCC) Broadway Campus Expansion Project.
 Using convex security mirrors that are common to urban public spaces,
-Double Blind extends across three floors within the soaring atrium of VCCâ��s
+Double Blind extends across three floors within the soaring atrium of VCC’s
 new building. In winter 2006/07 and as part of Group Search: Art in the
 Library, Antonia Hirsch presented Anthropometrics, a largescale poster
-series that appeared â��informallyâ�� on hoardings across the City of
+series that appeared ’informally’ on hoardings across the City of
 Vancouver, and at the Vancouver Public Library. Referencing these examples,
 Hirsch will explore the issues of production and the concerns of audience
 reception that are specific to art in public spaces.
@@ -1174,7 +1174,7 @@ Project for the Main Street Transit
 Corridor
 +
 Marko Simcic
-â��Parkâ��, a project for the Ontario
+’Park’, a project for the Ontario
 Street Greenway
 Spring 2009
 

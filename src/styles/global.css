@@ -79,6 +79,15 @@ a { color: var(--color-link); }
   margin-bottom: 0.75rem;
 }
 
+.listing-body ul, .listing-body ol {
+  margin-left: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.listing-body li {
+  margin-bottom: 0.25rem;
+}
+
 /* Type badges */
 .type-badge {
   display: inline-block;

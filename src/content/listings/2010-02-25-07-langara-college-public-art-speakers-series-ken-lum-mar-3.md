@@ -21,7 +21,7 @@ Thoughts on the Relationship between Art and the Real.
 
 About the Artist
 
-Ken Lumâ��s art is concerned with the dialectics of the private and public
+Ken Lum’s art is concerned with the dialectics of the private and public
 construction of identity, space and politics. His public art work titled
 Monument for East Vancouver, installed on the northwest corner of Clark and
 Great Northern Way in Vancouver, is his third public art commission in
@@ -32,10 +32,10 @@ Sydney Biennale (1992), Venice Biennale (1995, 2001), Istanbul Biennale
 (2007), Gwangju Biennale (2008), and Documenta XI in Kassel, Germany (2002).
 
 Lum was Head of the Graduate Program in Studio Art at UBC from 2000 to
-2006, and spent 2 years as a visiting professor at the Ã�cole Nationale
+2006, and spent 2 years as a visiting professor at the cole Nationale
 Supérieure des Beaux-Arts in Paris. He also guest-taught at the Akademie
 der Bildenden Kunst in Munich, Germany, the China Art Academy in Hangzhou,
-China and the lâ��Ecole dâ��Arts Plastique in Fort de France, Martinique. He
+China and the l’Ecole d’Arts Plastique in Fort de France, Martinique. He
 has published widely and is the founding editor of Yishu: The Journal of
 Contemporary Chinese Art. Lum was awarded a Guggenheim Fellowship in 1999,
 a Killam Award for Outstanding Research in 1998, and the Hnatyshyn

@@ -61,7 +61,7 @@ night’s work, with each subsequent track layered on top of the
 previous night’s recordings.
 
 This exhibition is part of Cranfield and Hilder’s larger inquiry into
-the â€œEconomistâ€™s Aestheticâ€  â€“ a term they use to describe the effects
+the “Economist’s Aesthetic”  – a term they use to describe the effects
 of the growing influence of the rhetoric of business upon global
 political discourse. The accumulation of paint and sound in Night
 Shift continues this investigation by considering how labour and value
@@ -298,7 +298,7 @@ No spill pools, no American swimwear
 Dispersants, no controlled burns, no email 
 Can clear us, can delete you free of your mire of oil.
 
-- Philip Metres, from â€œOde to Oilâ€ 
+- Philip Metres, from “Ode to Oil” 
 
 Gauley Bridge
 
@@ -643,7 +643,7 @@ was defined by the Readymade, then perhaps the twenty-first century
 belongs to the Nevermade.
 
 Our Literal Speed is open to all practices, scholarly and artistic, that 
-engage the question, â€œWhy is contemporary art contemporary?â€ 
+engage the question, “Why is contemporary art contemporary?” 
 
 For more program information and to apply: 
 Office of the Registrar

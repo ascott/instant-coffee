@@ -38,14 +38,14 @@ amalgamations of inter subjective perspective visualize reality as an
 artifact of communication.
 
 "In Edia, entities make and break connections apparently at will,
-paralleling and modeling packet communication - and in Edia â€“ this
+paralleling and modeling packet communication - and in Edia – this
 system is raised to the level of sentience, for Edia is organic, an
 organism or swarm-organism itself. Part of the brilliance of the work
 is its 'unclarity' - in the same way that Marcel Duchamp's or David
 Askevold's texts are 'unclear' - for what text could possibly express
 intensification, chaotic zones, and strange attractors, combined with
 Alfred Schutz's relevance theory, or Peter Berger's packets of
-modernization..." Ã¢â‚¬â€  Alan Sondheim, Vortext
+modernization..." ââ‚¬”  Alan Sondheim, Vortext
 
 Willy Le Maitre has created media art works since 1988. He has been
 oriented to video as a live form that has served as a pivot point in

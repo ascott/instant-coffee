@@ -21,7 +21,7 @@ throughout the show. Using an overhead projector, Jessica projects colourful
 imagery onto a large screen while Chloe creates a live soundtrack with beat-­
 boxing, guitar loops and help from the audience.
 
-â€œMind blowing, visual show, not to be missedâ€  Â­Julia Kalinina, Artswells 
+“Mind blowing, visual show, not to be missed”  Â­Julia Kalinina, Artswells 
 Festival
 
 Mind of a Snail is a shadow puppetry duo currently based out of Vancouver 
@@ -29,21 +29,21 @@ B.C. Since 2003, Chloé Ziner and Jessica Gabriel have been developing a
 multi-layered style of visual storytelling using overhead projectors as their 
 main light source. They have created shadow theatre for organizations in BC 
 and beyond, including Dusty FlowerPot Cabaret’s 2011 Jessie nominated 
-â€œHard Times Hit Paradeâ€ , Vancouver Art Gallery, Public Dreams Society and 
+“Hard Times Hit Parade” , Vancouver Art Gallery, Public Dreams Society and 
 many more.
 
 As well as being creative collaborators, Chloe and Jessica are a real­ life 
 couple.
 
 “The audience is both hypnotized and tantalized by the impossibly­ detailed 
-miniature world they bring to life.â€  Â­Jeanie Koegh, XÂ­tra West
+miniature world they bring to life.”  Â­Jeanie Koegh, XÂ­tra West
 
-â€œFilled with the wonder that first got me hooked on theatreâ€  Â­Plank Magazine, 
+“Filled with the wonder that first got me hooked on theatre”  Â­Plank Magazine, 
 Vancouver
 
-â€œa blastâ€  ****1/2 Winnipeg Free Press
+“a blast”  ****1/2 Winnipeg Free Press
 
-â€œbeautiful to beholdâ€  **** CBC
+“beautiful to behold”  **** CBC
 
 Mind of a Snail presents:
 Against Gravity at the 2013 Vancouver Fringe Festival

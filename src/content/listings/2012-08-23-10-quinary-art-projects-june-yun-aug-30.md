@@ -8,11 +8,11 @@ venue: "Quinary Art Projects"
 summary: "Quinary Art Projects | June Yun | AUG 30"
 ---
 
-Quinary Art Projects presents â€œDuck Boat in Zhujiajiaoâ€  by June Yun
+Quinary Art Projects presents “Duck Boat in Zhujiajiao”  by June Yun
 Artist Reception/closing party for popup gallery: Thursday August 30, 7-10pm
 popup gallery @ 1387 Richards Street @ Pacific Blvd, Yaletown.
 
-â€œDuck Boat in Zhujiajiao, 2012â€  is a video work June shot at a typical ancient 
+“Duck Boat in Zhujiajiao, 2012”  is a video work June shot at a typical ancient 
 water town in the south of the Yangtze River when I was doing an artist 
 residency in Shanghai Hymalaya Art Museum in 2011..................Zhujiajiao 
 is a graceful and quiet town located in a suburb of Shanghai city. Walking on 

@@ -22,7 +22,7 @@ Other events taking place between Nov 8 – Nov 19 to be announced.
 “My hand which touches the things is itself subject to being touched. 
 “Through this crisscrossing within it of the touching and the tangible, its 
 own movements incorporate themselves in the universe that they 
-interrogate, are recorded on the same map as itâ€  - Bernard Flynn In a 
+interrogate, are recorded on the same map as it”  - Bernard Flynn In a 
 discussion of Maurice Merleau-Ponty’s thought.
 
 Eschaton: final event in the devine plan: the end of the world.

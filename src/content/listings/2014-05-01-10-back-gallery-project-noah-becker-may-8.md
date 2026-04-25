@@ -8,7 +8,7 @@ venue: "Back Gallery Project"
 summary: "Back Gallery Project | Noah Becker | MAY 8"
 ---
 
-â€œFor Men Who Appreciate Historyâ€  New Exhibition at the Back Gallery Project
+“For Men Who Appreciate History”  New Exhibition at the Back Gallery Project
 Vancouver, BC - - Back Gallery Project is pleased to announce an exhibition 
 of oil paintings by Victoria-born, New York-based artist Noah Becker. This 
 exhibition, entitled For Men Who Appreciate History, opens May 8 with a 
@@ -18,7 +18,7 @@ Gallery Project.
 Noah Becker’s interest in masterworks from different art historical periods is 
 the foundation upon which he has built bold and ordered compositions. His 
 work questions the contemporary relevance of portraiture in the age of digital 
-photography and the ubiquitous â€œselfieâ€  picture that we have come to 
+photography and the ubiquitous “selfie”  picture that we have come to 
 embrace as an inherent visual component of life in the twenty-first century by 
 remixing figures from Renaissance and 19th century canonical works as well 
 as advertisements from the 1960s and 70s with contemporary celebrity and 
@@ -31,7 +31,7 @@ is Now, curated by Kathleen Ritter at the Vancouver Art Gallery in 2009. He
 has three upcoming museum exhibitions in 2014, including the Art Gallery of 
 Greater Victoria, the Domus Artium Museum in Salamanca, Spain and the 
 Rochester New Hampshire Museum of Fine Arts. Becker was was included 
-in NY Arts Magazine's â€œ30 Artists to Watch in 2012â€  list and was a semi-
+in NY Arts Magazine's “30 Artists to Watch in 2012”  list and was a semi-
 finalist in the RBC Canadian Painting Competition in 2009. A jazz saxophonist 
 and the founding editor of Whitehot Magazine, Becker produced a 
 documentary on contemporary art and artists in New York in 2011 called 

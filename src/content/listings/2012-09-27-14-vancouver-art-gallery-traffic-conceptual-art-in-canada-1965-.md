@@ -24,11 +24,11 @@ sweeping survey of this important art movement
 Five years in the making, this exhibition is the result of an 
 unprecedented collaboration between curators from institutions across 
 the country. “We are very proud to be part of this important 
-collaborative exhibition,â€  said Gallery director Kathleen Bartels. â€œTraffic 
+collaborative exhibition,”  said Gallery director Kathleen Bartels. “Traffic 
 represents a significant contribution to the historical record of 
 contemporary art in Canada and we are pleased to partner with other 
 Canadian art institutions and galleries in organizing this landmark 
-exhibition.â€ 
+exhibition.” 
 
 Conceptual art emerged in the context of the social and political turmoil 
 of the 1960s and 1970s – from feminism and gay liberation to anti-
@@ -44,11 +44,11 @@ traditional views of art.
 Mapping the diverse forms of conceptualism, the exhibition includes 
 examples of performance art, film and video art, and many other art 
 practices which broke new ground during the era. “This was a period of 
-amazing experimentation in artâ€  said Grant Arnold, Audain Curator of 
+amazing experimentation in art”  said Grant Arnold, Audain Curator of 
 British Columbia Art at the Vancouver Art Gallery. “Conceptualism is 
 one of the most wide-reaching and long-lasting artistic movements in 
 the history of contemporary art and the movement’s influence in this 
-country has long deserved this major recognition and attention.â€ 
+country has long deserved this major recognition and attention.” 
 
 Traffic also presents notable early works by Christos Dikeakos, Rodney 
 Graham, Jeff Wall and other now internationally renowned Vancouver-

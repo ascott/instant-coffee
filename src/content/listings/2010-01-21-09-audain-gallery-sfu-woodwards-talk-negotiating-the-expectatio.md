@@ -24,10 +24,10 @@ Miwon Kwon, in One Place After Another: site-specific art and locational
 identity, makes a strong link between public art and the production of
 urban identities: "Despite the discussions of ‘placelessness and crisis’
 and the ‘death of cities’, ‘place-making’ remains a central imperative in
-public arts programming today.â€ 
+public arts programming today.” 
 
 Building from this concept of art as a place-making activity, “Coming
-Soonâ€  is the first public symposium of the new Audain Gallery at SFU
+Soon”  is the first public symposium of the new Audain Gallery at SFU
 Woodward's: the symposium aims to address questions regarding the
 different, and often competing, public and artistic expectations of art in
 the public sphere and art as a public discourse.

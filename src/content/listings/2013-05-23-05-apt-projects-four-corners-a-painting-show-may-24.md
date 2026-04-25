@@ -49,7 +49,7 @@ Canadian Art Magazine for her writing on contemporary art.
 
 Les Ramsay received his BFA in Visual Arts in 2007 from Emily Carr
 University in Vancouver, and also studied at the Bellas Artes,
-Universidad PolitÃ©cnica de Valencia, Spain. Ramsay is represented 
+Universidad Politécnica de Valencia, Spain. Ramsay is represented 
 by Cooper Cole Gallery in Toronto and his work has been exhibited in
 Canada, Spain, Sweden, and the United States.
 

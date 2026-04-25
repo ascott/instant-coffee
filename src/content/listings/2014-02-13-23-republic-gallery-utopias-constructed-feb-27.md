@@ -20,7 +20,7 @@ Akhavan and Kota Ezawa, and gallery artists Antonia Hirsch and Yedda
 Morrison opens to the public on Thursday, February 27th, and runs through 
 Saturday, April 5th, 2014. 
 
-Utopias Constructed examines the conditions under which â€œutopiaâ€  might be 
+Utopias Constructed examines the conditions under which “utopia”  might be 
 found. Central to this exhibition are considerations of the city as a physical 
 assemblage of private and public structures, and as an ideology: a 
 concentrated and dynamic interaction of social, cultural, and economic 

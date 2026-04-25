@@ -32,7 +32,7 @@ appointment.
 May 18th – Closing reception.
 Work remains on display until May 31st.
 
-Oil-on-wood portraits (12"x12â€ ) will be completed in a 1-2 hour sitting in 
+Oil-on-wood portraits (12"x12” ) will be completed in a 1-2 hour sitting in 
 the gallery at the special rate of $250 (single) $350 (couple). Pets and 
 children are welcome; costumes and personality are encouraged. 
 Sarah will maintain full-time hours at the gallery during her residency 

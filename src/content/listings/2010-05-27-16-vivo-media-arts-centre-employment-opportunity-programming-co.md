@@ -52,9 +52,9 @@ promotional material, critical discourse, calendar of events, and press
 releases, in collaboration with other VIVO departments, about VIVO's media
 arts programming.
 - Appropriate record keeping and reporting of resources, events,
-exhibitions and other projects, particularly as it pertains to VIVOÃ¢ï¿½ï¿½s
+exhibitions and other projects, particularly as it pertains to VIVOâï¿½ï¿½s
 archive.
-- Coordinating the human resources and budget for VIVOÃ¢ï¿½ï¿½s annual Signal +
+- Coordinating the human resources and budget for VIVOâï¿½ï¿½s annual Signal +
 Noise Festival. This may include assisting in grant writing and research.
 - Coordinating and working with the Programming Advisory Committee and
 department staff to establish, implement, assess and maintain appropriate

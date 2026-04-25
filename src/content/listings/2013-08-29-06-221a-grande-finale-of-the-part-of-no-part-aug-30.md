@@ -35,7 +35,7 @@ The projections exceed the stage.
 The stage is a model that cannot be interacted with by the performers.
 There is no resolution or composure.
 
-The performance is like the hypercomplexity of todayâ€™s â€œfoamâ€ : the 
+The performance is like the hypercomplexity of today’s “foam” : the 
 uncontrolled discourse of external references, a production of chaotic 
 signifiers, a chronic vertigo, and an ideology of the surfer. This artwork has 
 been inspired by the belief in that which is ‘out of joint’; ‘The part of no part’ is 

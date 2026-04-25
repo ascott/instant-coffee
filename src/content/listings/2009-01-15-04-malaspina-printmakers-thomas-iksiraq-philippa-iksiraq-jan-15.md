@@ -59,9 +59,9 @@ Coordinator at 604.688.1724 or malaspinagallery@telus.net
 
 Gallery Hours
 
-Tuesday to Friday 10 am â�� 5 pm
+Tuesday to Friday 10 am ’ 5 pm
 
-Saturday and Sunday 11 am â�� 5 pm
+Saturday and Sunday 11 am ’ 5 pm
 
 Call for Submissions
 
@@ -81,8 +81,8 @@ cultural effects on society created by printing technology and printed
 communication. Print is intrinsically tied to culture; politics, economy,
 and meaning-making are all intertwined with printing in its various forms.
 The current shift between a materially-print-based and electronic-based
-information society â�� and the many claims that print culture is in its
-demise â�� posits print media in a unique position to comment upon
+information society ’ and the many claims that print culture is in its
+demise ’ posits print media in a unique position to comment upon
 contemporary cultural, economic and political issues. Malaspina Printmakers
 welcomes diverse interpretations of how we may envision the theme of Print
 Culture within Vancouver's rich history and contemporary life. Project

@@ -26,8 +26,8 @@ Reception. Exploring conflict and forgetting within public and private contexts,
 Dragu's lens focuses on footage from Berlin and Belfast as well as 
 documentation from her 2009-2011 performances of VERB WOMAN: a dance 
 of forgetting (dedicated to her mother who had Alzheimer’s disease). The new 
-two channel-video, divided into â€œconflictâ€  and â€œforgettingâ€  channels, considers 
-the underlying tensions of conscious and unconscious â€œforgettingâ€  by 
+two channel-video, divided into “conflict”  and “forgetting”  channels, considers 
+the underlying tensions of conscious and unconscious “forgetting”  by 
 individuals and nations faced with painful histories. 
 Dragu will be present in the exhibition space at selected times, inviting visitors 
 to participate in a Community Quilt Chance Operation. Visitors will be 
@@ -56,7 +56,7 @@ Mail Art (aka Postal or Correspondence Art) is a long-standing non-
 commercial art practice where artists collaborate and exchange artworks 
 through the postal service. Over 650 artists from more than 45 countries 
 working in a variety of art media have contributed to this exhibition, mailing in 
-4â€  x 6â€  artworks based on the theme of â€œmemoryâ€ . All submissions received 
+4”  x 6”  artworks based on the theme of “memory” . All submissions received 
 will also be part of an online gallery at www.richmondartgallery.org to 
 showcase the great variety of artists and artworks involved in this large 
 international network. 

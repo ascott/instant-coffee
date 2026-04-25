@@ -16,7 +16,7 @@ Opening Thursday, April 9, 8pm
 In Cultivating Equilibrium, Madison Killo and Patrick Campbell transform
 the UNIT/PITT gallery space into an immersive, non-site recontextualization
 of what is known in the rhetoric of its community of supporters as “Our
-Green Jewel.â€ 
+Green Jewel.” 
 
 Built on an extremely valuable piece of land, Bloedel Conservatory was
 nearly closed in 2009 due to poor attendance, The fact that it remains as a

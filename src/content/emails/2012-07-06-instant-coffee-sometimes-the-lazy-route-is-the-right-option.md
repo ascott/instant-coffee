@@ -32,7 +32,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2012-07-06-18-survey-tell-us-what-you-think-about-affordable-housing-jul-3">18. Survey | Tell us what you think about Affordable Housing... | JUL 30</a>
 <a href="/instant-coffee/listings/2012-07-06-19-spark-box-studio-fall-2012-artist-residency-open-call-jul-31">19. Spark Box Studio | Fall 2012 Artist Residency Open Call | JUL 31</a>
 <a href="/instant-coffee/listings/2012-07-06-20-city-of-richmond-call-to-artists-riverport-flats-aug-14">20. City of Richmond | Call to Artists: Riverport Flats | AUG 14</a>
-<a href="/instant-coffee/listings/2012-07-06-21-incongruous-quarterly-call-companion-animals-dear-creature-s">21. Incongruous Quarterly | call: Companion Animalsâ€  (Dear Creature,) | SEP 17</a>
+<a href="/instant-coffee/listings/2012-07-06-21-incongruous-quarterly-call-companion-animals-dear-creature-s">21. Incongruous Quarterly | call: Companion Animals”  (Dear Creature,) | SEP 17</a>
 22. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 
 ------------------------------------------------------------------------
@@ -115,7 +115,7 @@ the idea of the collaboration-as-chimera—or hybrid monster. Bringing
 disparate practices and artists together often begets strange offspring; 
 this is where creative monsters get born. And while the theme conjures 
 up long-held cultural ideas around fear and horror, these collaborative 
-â€œbeastsâ€  also propose a gentler kind of interaction: one that is less 
+“beasts”  also propose a gentler kind of interaction: one that is less 
 about invoking terror, and more about encouraging the crossing of 
 boundaries, the opening of unconventional relationships, and inviting 
 diverse, creeping sensory experiences.
@@ -231,7 +231,7 @@ regard to public space, the Art institution and visual culture. He has
 conducted the Blind Field Shuttle as part of engagements in Portland
 OR, Beach Lake PA, Oakland CA, San Francisco CA and will be 
 presenting
-the project as part of the â€œWhat Can a Body Doâ€  exhibition at the
+the project as part of the “What Can a Body Do”  exhibition at the
 Canter Fitzgerald Gallery at Haverford College this Fall. Papalia has
 developed workshops on the topic of access for the Portland Art 
 Museum
@@ -505,7 +505,7 @@ Visual AIDS, MIX NYC, Le Petit Versailles, Queerocracy, Queering OWS
 and other groups who converged for a daylong siege in Lower 
 Manhattan.
 
-We will be focusing on Chapter 2 â€œThe Gentrification of AIDSâ€  as a 
+We will be focusing on Chapter 2 “The Gentrification of AIDS”  as a 
 launching point to the evening's discussions. A parallel interest in the 
 discussion of gentrification is the role of documentation.
 
@@ -879,7 +879,7 @@ movement through a dynamic network of nervous lines, the drawings of
 Ann Kipling vibrate with life and energy. In the words of Robin 
 Laurence, Kipling’s art is a “direct, unmediated, almost electrical 
 response to the plants, animals, and people that share her 
-environment.â€ 
+environment.” 
 
 Kipling was granted the first Bruce Audain Lifetime Achievement Award 
 in 2004 for her artistic contribution to the visual arts in BC. In 2008, she 
@@ -1045,7 +1045,7 @@ http://www.satellitegallery.ca
 info@satellitegallery.ca
 
 The Kwakwaka’wakw artist Henry Speck, or Udzi’stalis (1908 – 1971), 
-became a â€œnewly discovered phenomenonâ€  in 1964 when his paintings 
+became a “newly discovered phenomenon”  in 1964 when his paintings 
 of masked dancers, coastal creatures, and sea monsters were shown 
 at Vancouver’s New Design Gallery.
 
@@ -1054,7 +1054,7 @@ leader, teacher, and cultural practitioner. By the 1930s he was also
 becoming known for his modern paintings, rendered in vibrant colours 
 and textures. His work caught the attention of the Austrian artist and 
 theorist, Wolfgang Paalen, and was declared by the Haida artist Bill 
-Reid to be â€œfar beyond anything attempted before in Kwakiutl art.â€ 
+Reid to be “far beyond anything attempted before in Kwakiutl art.” 
 
 Experience Henry Speck’s paintings through originals and large-scale 
 projections that refigure his work against a backstory of media images, 
@@ -1225,13 +1225,13 @@ Submission requirements and other relevant details can be found at:
 http://www.richmond.ca/culture/publicart/opportunities.htm
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-07-06-21-incongruous-quarterly-call-companion-animals-dear-creature-s">21. Incongruous Quarterly | call: Companion Animalsâ€  (Dear Creature,) | SEP 17</a>
+<a href="/instant-coffee/listings/2012-07-06-21-incongruous-quarterly-call-companion-animals-dear-creature-s">21. Incongruous Quarterly | call: Companion Animals”  (Dear Creature,) | SEP 17</a>
 ------------------------------------------------------------------------
 Dear Friends,
 
 Alex Leslie and I are guest-editing Issue 5 of the boundary-crossing 
 online journal Incongruous Quarterly. The them is “Companion 
-Animalsâ€  (Dear Creature,) and information about the call is below. 
+Animals”  (Dear Creature,) and information about the call is below. 
 
 Please forward widely. We are interested in all iterations of poetry and 
 prose, including cross-genre and graphic work. 
@@ -1310,7 +1310,7 @@ alexleslie.wordpress.com
 Nikki Reimer is author of the poetry book [sic] (Frontenac House 2010), 
 nominated for the 2011 Gerald Lampert Memorial Award, and several 
 chapbooks, including that stays news (Nomados, 2011). Her “East Van 
-Catsâ€  photographic tryptich appeared at the Just Act Natural Group 
+Cats”  photographic tryptich appeared at the Just Act Natural Group 
 Exhibition in Kingston, ON in June 2010, and she has edited Van City 
 Kitty on VancouverisAwesome.com since November 2010. Nikki has 
 lived with oodles of cats throughout her life, including two that she 

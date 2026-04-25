@@ -18,8 +18,8 @@ AND IN AND OUT
 AND OUT AND IN
 
 1970,
-referenced as nÃ�Â°237 from the catalogue "Works"
-Collector responsible Ghislain Mollet-ViÃ�Â©ville.
+referenced as nÂ°237 from the catalogue "Works"
+Collector responsible Ghislain Mollet-ViÂ©ville.
 
 Starting the 1 March 2010.
 Public installation at

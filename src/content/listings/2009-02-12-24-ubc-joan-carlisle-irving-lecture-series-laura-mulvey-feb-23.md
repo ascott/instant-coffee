@@ -36,7 +36,7 @@ ultimately deal with that Thing which defies signification.
 Laura Mulvey came to prominence in the 1970s as a filmmaker and theorist.
 She wrote essays for such periodicals/journals as Screen, Spare Rib, and
 Seven Days. Much of her early work investigated questions of spectatorial
-identification and itâ��s relationship to the male gaze, and her writings,
+identification and it’s relationship to the male gaze, and her writings,
 particularly the 1975 essay Visual Pleasure and Narrative Cinema, helped
 establish feminist film theory as a bourgeoning legitimate field of study.
 Between 1794 and 1982, Mulvey co-wrote and co-directed six theoretical
@@ -49,10 +49,10 @@ examining the fate of revolutionary monuments in the Soviet Union after the
 fall of communism. In 1996, she published Fetishism and Curiosity and in
 2006, Death 24x a Second: Stillness and the Moving Image.
 
-Laura Mulveyâ��s lecture was made possible by the Joan Carlisle Irving
+Laura Mulvey’s lecture was made possible by the Joan Carlisle Irving
 Lecture Series and thanks to generous contributions provided by the
-Presidentâ��s Advisory Committee on Lectures, UBC and from The Center for
-Womenâ��s and Gender Studies, UBC
+President’s Advisory Committee on Lectures, UBC and from The Center for
+Women’s and Gender Studies, UBC
 
 More information: http//www.ahva.ubc.ca/eventsCurrentJCI.cfm
 UBC Department of Art History, Visual Art and Theory

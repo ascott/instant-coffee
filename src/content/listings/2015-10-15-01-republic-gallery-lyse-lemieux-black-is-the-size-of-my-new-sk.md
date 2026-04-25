@@ -31,7 +31,7 @@ even as any discernible features are obfuscated amid interrupted movements.
 These bold, black lines of cut wool manifest the ink lines of a drawing;
 here, the gesture is re-articulated through the felt fabric. The
 trajectories of these lines — and their collisions among assemblages of
-papers, prints, and textiles â€” might also be â€œfeltâ€  through a haptic
+papers, prints, and textiles — might also be “felt”  through a haptic
 visuality, one which Lemieux alludes to in the show's synaesthetic title.
 
 -

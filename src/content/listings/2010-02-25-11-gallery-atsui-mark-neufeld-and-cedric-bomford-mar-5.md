@@ -8,9 +8,9 @@ venue: "Gallery Atsui"
 summary: "Gallery Atsui | Mark Neufeld and Cedric Bomford | MAR 5"
 ---
 
-TschaikowskistraÃ�e 51
+Tschaikowskistrae 51
 
-Gallery Atsui invites you to come explore TschaikowskistraÃ�e 51, Berlin,
+Gallery Atsui invites you to come explore Tschaikowskistrae 51, Berlin,
 through the perspective of Mark Neufeld and Cedric Bomford. Opening
 reception March 5, 8 pm. This exhibition is on from March 5 to 27.
 info@galleryatsui.com

@@ -43,10 +43,10 @@ Dylan Mira
 Adam Putnam
 
 Rachelle Sawatsky is a Los Angeles based artist who works with painting, 
-drawing, ceramics and writing. Recent exhibitions include â€œOver Mindâ€  at 
-the Finley Gallery in Los Angeles, â€œAugustâ€  as part of â€œCurated Byâ€  at 
-Galerie Mezzanin in Vienna, â€œCherubâ€  at 2nd Cannons in Los Angeles, and 
-â€œPersian Rose Chartreuse Muse Vancouver Greyâ€  at Equinox Gallery in 
+drawing, ceramics and writing. Recent exhibitions include “Over Mind”  at 
+the Finley Gallery in Los Angeles, “August”  as part of “Curated By”  at 
+Galerie Mezzanin in Vienna, “Cherub”  at 2nd Cannons in Los Angeles, and 
+“Persian Rose Chartreuse Muse Vancouver Grey”  at Equinox Gallery in 
 Vancouver. Sawatsky has an MFA from University of Southern California in 
 Los Angeles (2013) and a BFA from Emily Carr Institute of Art and Design 
 in Vancouver (2005).
@@ -90,7 +90,7 @@ speaks less about homage, and more to the notion of a constant return to
 repeated subject matter – a gaze that never leaves, that stares un-
 blinkingly – mechanically – at the same subject. This was my Empire, 
 comprised of whatever was on hand in my studio, sculptural fragments, 
-broken mirrors, architectural models and other detritus.â€ 
+broken mirrors, architectural models and other detritus.” 
 
 His work has been exhibited at PS1 Contemporary Art Center New York, 
 The Whitney Museum, Artists Space in New York and Galerie Mezzanin in 

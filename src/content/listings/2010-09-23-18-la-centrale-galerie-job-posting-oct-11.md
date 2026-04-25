@@ -64,7 +64,7 @@ Deadline: Monday, September 20, 2010- 5pm
 Only those candidates selected for an interview will be contacted.
 Thank you for your understanding.
 
-N.B. The feminine is used in this text to facilitate itÃ¢ï¿½ï¿½s reading and in no
+N.B. The feminine is used in this text to facilitate itâï¿½ï¿½s reading and in no
 way means to exclude
 other genders.
 

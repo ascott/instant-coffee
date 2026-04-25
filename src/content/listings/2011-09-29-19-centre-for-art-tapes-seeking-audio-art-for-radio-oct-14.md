@@ -103,34 +103,34 @@ site-specific and Internet projects, and commissions.
 RESPONSIBILITIES
 The Exhibitions Curator reports to the Executive Director, and is responsible for:
  
-â€¢ Developing and communicating a dynamic vision for the Exhibitions Program 
+• Developing and communicating a dynamic vision for the Exhibitions Program 
 • Curating exhibitions and all associated programming
  
 • Editing publications
  
-â€¢ Writing grants and seeking opportunities for additional funding or support 
+• Writing grants and seeking opportunities for additional funding or support 
 • Supervising one part-time staff member, contract workers, as well as 
 volunteers
 
 QUALIFICATIONS
 
-â€¢ Exemplary knowledge and understanding of contemporary art practices 
+• Exemplary knowledge and understanding of contemporary art practices 
 
-â€¢ Excellent written and verbal communication skills 
+• Excellent written and verbal communication skills 
 
-â€¢ Proven financial management experience 
+• Proven financial management experience 
 
-â€¢ Strong organizational skills 
+• Strong organizational skills 
 
-â€¢ Ability to provide direction and work with a diverse staff 
+• Ability to provide direction and work with a diverse staff 
 • High capacity to meet deadlines and work under pressure
-â€¢ Knowledge of a broad range of issues related to the arts 
+• Knowledge of a broad range of issues related to the arts 
 • A clear understanding of the philosophy and history of the Canadian artist-run 
 centre
 movement
 • Knowledge of the principle funding agencies and prior grant writing experience
 • Knowledge of managing publications and print projects
-â€¢ Experience installing a variety of art exhibitions 
+• Experience installing a variety of art exhibitions 
 • Mac OS, Microsoft Office and Filemaker Pro, an asset
 
 BENEFITS

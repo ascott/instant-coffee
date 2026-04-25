@@ -16,7 +16,7 @@ Western Front Media Arts is pleased to present a performance by
 Toronto based media artist Jeremy Bailey. Bailey will present an talk 
 and performance in the Grande Luxe Hall, as part of Western Front 
 Media Arts ongoing engagement with networked media arts practice. 
-Bailey as a self-proclaimed â€œFamous New Media Artistâ€  uses wry humor 
+Bailey as a self-proclaimed “Famous New Media Artist”  uses wry humor 
 to critique new media vocabularies. Bailey's practice explores the 
 tension between technology and the body through the cartoonish 
 aesthetic of online culture.
@@ -25,7 +25,7 @@ Employing expert knowledge of softwear design, Bailey designs specific
 platforms for both online and live performative contexts, often working 
 with consumer technology. At Western Front Bailey will perform Nam 
 June Paik for Western Front, in which he designates himself the first 
-practitioner of â€œKinect Artâ€ , in which he utilizes the consumer gaming 
+practitioner of “Kinect Art” , in which he utilizes the consumer gaming 
 system Microsoft Kinect, referencing Nam June Paik’s relationship to 
 the invention of video art.
 

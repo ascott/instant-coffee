@@ -19,7 +19,7 @@ numerous shifts in both method and expression over the course of his
 career. It is a trajectory he has likened to a stream of consciousness. At
 its core, however, is a persistent inquiry into the nature and consequences
 of our relationship with the material world, an exploration, to quote the
-artist, â€œof the space that engages our physical selves.â€  Perhaps not
+artist, “of the space that engages our physical selves.”  Perhaps not
 surprisingly, this investigation has resulted in a body of work unified by
 its sensuous—and stubborn—materiality. Johnston brings his architecture and
 ceramics background to this exhibition. The Chamber is an enormous
@@ -27,7 +27,7 @@ inflating and deflating installation that shrouds and reveals an enormous
 mass of discarded household items diverted from what the artist terms "the
 waste stream." Mesmerizing and sobering, The Chamber suggests to viewers,
 as Johnston states, “the paradoxical relationship between limited resources
-and seemingly unlimited appetite.â€ 
+and seemingly unlimited appetite.” 
 
 *
 Ian Johnston is an internationally exhibited architect turned sculptor

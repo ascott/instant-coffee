@@ -18,7 +18,7 @@ Frank Shebageget will present an artist's talk and exhibition preview in
 conjunction with his premiere West Coast solo exhibition, Model Life at the
 Surrey Art Gallery. Model Life presents both new and older works that
 explore the artist's interest in the industrialization of the built
-environment and the symbols of modernization that linked many of Canadaâ��s
+environment and the symbols of modernization that linked many of Canada’s
 more remote communities during the past century. The role of shelter and
 transportation in building and dividing communities is a reoccurring theme
 in the work of this Ottawa-based Anishinabe artist. Through the careful
@@ -48,5 +48,5 @@ presented in conjunction with Ruth Scheuing: Silkroads, Quilt of Belonging,
 and Me and My World: Art by Surrey Secondary Students. The official opening
 for all exhibitions is on Saturday January 23, 2 to 4pm.
 
-Surrey Art Gallery 13750 â�� 88th Avenue, 1 Block east of King George Hwy in
+Surrey Art Gallery 13750 ’ 88th Avenue, 1 Block east of King George Hwy in
 Bear Creek Park, Surrey, B.C. For more information visit www.arts.surrey.ca.

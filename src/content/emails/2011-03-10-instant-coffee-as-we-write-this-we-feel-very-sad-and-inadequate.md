@@ -57,19 +57,19 @@ Canadian photographer, Edward Burtynsky, renowned for his large-scale
 photographs of industrial landscapes and most recently, the oil spill in
 the Gulf of Mexico, talks with BC about his extensive bodies of work in
 which he attempts to “…raise our consciousness about how we’re collectively
-changing the landscape.â€ 
+changing the landscape.” 
 
 This issue also features an interview with New York-based video artist Mika
 Rottenberg. Meeka Walsh writes of Rottenberg’s work, “The videos have
 elements that are unnerving and disturbing in the situations they present,
-but they also hold images of unexpected beauty.â€ 
+but they also hold images of unexpected beauty.” 
 
 ARTICLES
 
-Daniel Baird contributes an article on â€œThe Last Newspaper,â€  an exhibition
+Daniel Baird contributes an article on “The Last Newspaper,”  an exhibition
 at the New Museum in NY, which looks at the role of the newspaper in art
 from the 1960s onwards, “…focusing on newspapers’ contentious role as
-authoritative arbiters of information about the world.â€ 
+authoritative arbiters of information about the world.” 
 
 EC Woodley writes on Vancouver artist Liz Magor’s recent sculptural work
 which blurs the line between the artificial and the real.
@@ -87,7 +87,7 @@ Koop, Cedric Bomford, and much more.
 
 NOW: Border Crossings’ Winnipeg Alphabestiary Collection was recently
 acquired by the Winnipeg Art Gallery and will be shown for the first time
-in an exhibition titled â€œBestial Encounters,â€  from April 1 to June 12,
+in an exhibition titled “Bestial Encounters,”  from April 1 to June 12,
 2011. For more information visit: wag.ca
 
 Border Crossings is a quarterly cultural magazine published in Winnipeg.
@@ -317,7 +317,7 @@ conceived and developed the idea of an installation collaboratively yet
 present a range of individual and independent works by each artist.
 
 Initially the trio was inspired by the plans and models for Emilio Ambasz’
-â€œMan is an Island,â€  which proposes an imagined structure in an idyllic
+“Man is an Island,”  which proposes an imagined structure in an idyllic
 landscape. The utopic model possesses the material effect of being
 something without actually being it. It also anticipates the becoming of
 something yet to be realized. This collision of fantasy, materiality, and
@@ -394,7 +394,7 @@ culture. The lighters create a stained glass window effect representing
 colonial-forced Catholic education for indigenous peoples.
 
 The installation is part of Dallas’s healing. “We are all people of the
-earth,â€  she states, â€œand that in order to heal the earth, we have to heal
+earth,”  she states, “and that in order to heal the earth, we have to heal
 ourselves first.
 
 Ceremony features a large ceremony lodge made from thousands of lighters,
@@ -413,7 +413,7 @@ stories of her daughter, friend and comrade, all whom lost their lives to
 addiction.
 
 A former Out of the Rain participant, Montana King has produced a body of
-art that explores the â€œChained and Unchainedâ€  aspects of existence, and the
+art that explores the “Chained and Unchained”  aspects of existence, and the
 possibility of emerging into the freedom of unchained being. The chains of
 addiction and trauma presented are both real and metaphorical, their heavy
 presence exposing the viewer to greater possibilities of freedom.
@@ -593,7 +593,7 @@ Writers' Trust Fiction Prize and won the 2009 Ethel Wilson Fiction
 Prize as well as the 2009 City of Vancouver Book Award. His short
 stories have appeared in The Walrus and Pyramid Power. His short story
 "Sheep Dub" was included in the 2000 Journey Prize Anthology and
-â€œConjugationâ€  appeared in the 2006 Journey Prize Anthology; it was
+“Conjugation”  appeared in the 2006 Journey Prize Anthology; it was
 shortlisted for the Journey Prize Award. He is a contributing editor
 for the visual art magazines Border Crossings and Contemporary, for
 which he writes on Vancouver art and artists.
@@ -618,8 +618,8 @@ North Building, Room 285, Emily Carr University of Art + Design
 Portland-based American artist Jessica Jackson Hutchins was recently
 featured in the 2010 Whitney Biennial at the Whitney Museum of American Art
 (New York, NY). She is included in the forthcoming sculpture exhibition
-â€œThe Shape Of Things To Comeâ€  at the Saatchi Gallery (London, U.K.). Her
-solo exhibition â€œThe Important Thing About A Chairâ€  opens at the Atlanta
+“The Shape Of Things To Come”  at the Saatchi Gallery (London, U.K.). Her
+solo exhibition “The Important Thing About A Chair”  opens at the Atlanta
 Contemporary Art Centre (Atlanta, GA) in April 2011.
 
 The work of Jessica Jackson Hutchins is known for its robust physicality.
@@ -838,7 +838,7 @@ Admission Free
 ------------------------------------------------------------------------
 VIVO Media Arts Centre
 No Reading After the Internet
-Marchâ€™s Reading: â€œRadicals and Radicantsâ€  from The Radicant by Nicholas
+March’s Reading: “Radicals and Radicants”  from The Radicant by Nicholas
 Bourriaud
 Thursday March 17 7PM Salon Free
 1965 Main St. Vancouver www.vivomediaarts.com
@@ -1287,7 +1287,7 @@ flows spill across national borders. Migrants are one element among many
 that constitute global circulations of culture, politics and economy, and
 the contemporary denizen must continually negotiate acculturations between
 the many communities that compose their lives. “The Permanent Longing for
-Elsewhereâ€  features works that hone in on a sense of frustration that often
+Elsewhere”  features works that hone in on a sense of frustration that often
 accompanies experiences of migration, exploring how national identification
 is breaking down as a suitable frame of reference in a globalized world. By
 stimulating the political imagination, these films prompt a consideration
@@ -1447,7 +1447,7 @@ The artwork commissioned will be part of a growing collection of art in the
 public space as envisioned in and
 guided by the South Hill Public Art Plan.This project will transform
 nondescript streetscape surfaces into
-platforms for creative and distinct artwork reﬂecting the communityâ€™s
+platforms for creative and distinct artwork reﬂecting the community’s
 unique character.
 
 This is a part time position for a 6-8 month contract with approximate

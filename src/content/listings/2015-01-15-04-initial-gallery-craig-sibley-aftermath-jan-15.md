@@ -23,7 +23,7 @@ discover what it was that was urging him to again make art. The resultant
 sculptures, constructed from canvas stretching frames, are a startling
 encapsulation of aesthetic and philosophical artistic values.
 
-Conspicuously named â€œimpossible paintingsâ€ , the constructions have a formal
+Conspicuously named “impossible paintings” , the constructions have a formal
 code describing the impossible-ness of an improbability that keeps the
 artist in practice. A geometry that requires a measure of precision, these
 constructions of rough pieces of studio scrap are reassembled into clean,

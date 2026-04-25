@@ -82,7 +82,7 @@ Western Front Media Arts is pleased to present a performance by
 Toronto based media artist Jeremy Bailey. Bailey will present an talk 
 and performance in the Grande Luxe Hall, as part of Western Front 
 Media Arts ongoing engagement with networked media arts practice. 
-Bailey as a self-proclaimed â€œFamous New Media Artistâ€  uses wry humor 
+Bailey as a self-proclaimed “Famous New Media Artist”  uses wry humor 
 to critique new media vocabularies. Bailey's practice explores the 
 tension between technology and the body through the cartoonish 
 aesthetic of online culture.
@@ -91,7 +91,7 @@ Employing expert knowledge of softwear design, Bailey designs specific
 platforms for both online and live performative contexts, often working 
 with consumer technology. At Western Front Bailey will perform Nam 
 June Paik for Western Front, in which he designates himself the first 
-practitioner of â€œKinect Artâ€ , in which he utilizes the consumer gaming 
+practitioner of “Kinect Art” , in which he utilizes the consumer gaming 
 system Microsoft Kinect, referencing Nam June Paik’s relationship to 
 the invention of video art.
 
@@ -144,7 +144,7 @@ Eligible for PuSh Pass access
 
 A group of office temps plan a farewell party for a recently laid off
 colleague. Will a Motsu hot pot restaurant do? Someone is obviously
-tampering with the climate-control system and itâ€™s getting out of 
+tampering with the climate-control system and it’s getting out of 
 hand.
 Should the police be notified? A coworker makes her farewell speech.
 What does it have to do with imaginary penguins and the death of a
@@ -158,8 +158,8 @@ and John Cage, each of the three scenes speak to the dark humour
 and despair of a generation that had been promised a brilliant future
 only to end up ensnared in fluorescent cubicles.
 
-Strangely hypnoticâ€¦ a three-part meditation on death, class, and
-listening for the sad poetry in the everydayâ€¦ By creating a jarring
+Strangely hypnotic… a three-part meditation on death, class, and
+listening for the sad poetry in the everyday… By creating a jarring
 juxtaposition between the physical score and the text, the forgettable is
 remembered, small details speak volumes. - Engine 28
 
@@ -167,7 +167,7 @@ Stylishly idiosyncratic director Toshiki Okada is known for crafting sharp
 and visually vibrant works of theatre out of the most ordinary of
 interactions. Founded in 1997, his Tokyo-based company is called
 chelfitsch, a neologism that evokes a childish deformation of the
-English word â€œselfish.â€ A rising star on the international theatre 
+English word “selfish.” A rising star on the international theatre 
 scene,
 chelfitsch has presented shows in the major theatre festivals of Berlin,
 Vienna, Paris, Singapore and New York, returning to Vancouver after
@@ -196,7 +196,7 @@ the plague. The living death. Quickly closing its fist over the entire
 planet. Then we heard the rumors. That the last scientists were working 
 on a cure that would end the plague and restore the world. Restore 
 it……WHY? I like the death. I like the misery. I LIKE THIS 
-WOOOORRRRLLLLLLLLDDDD!!!!!â€  - Cyborg (1989 dir. Albert Pyun)
+WOOOORRRRLLLLLLLLDDDD!!!!!”  - Cyborg (1989 dir. Albert Pyun)
 
 It is with the eyes that the mutants have witnessed the most atrocities 
 therefore it is with these drawings that we commit upon the mutant an 
@@ -811,7 +811,7 @@ Vote towers over the street and passersby. Ezawa says, “There is a
 boldness to it. In my own trajectory as an artist, this is an important 
 piece. When I first started I was best known as a digital animator. This 
 is such a physical piece, and marks a real departure from my earlier 
-works.â€  The sculpture is made of Douglas fir, in keeping with the artistâ€™s 
+works.”  The sculpture is made of Douglas fir, in keeping with the artist’s 
 desire to connect the work to this area.
 
 In addition to wood sculptures such as Hand Vote, Ezawa’s diverse 
@@ -1056,7 +1056,7 @@ today's history be read tomorrow?
 
 Seeking proposals from artists working in (but not limited to) video, film, 
 interactive art, net art, performance or installation. Artists are asked to 
-propose a layered work that involves an â€œoriginalâ€  gesture, and 
+propose a layered work that involves an “original”  gesture, and 
 documentation of or through that gesture. Original gestures may take 
 place anywhere outside of the gallery (ex: site-specific installation, 
 distant geographic location, private performance) and should take 

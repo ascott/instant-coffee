@@ -48,7 +48,7 @@ challenges it faces, and the artistic strategies at play. But we are reminded
 that deficits—social, political, or otherwise—similar to those in Havana arise 
 in other parts of the world as well, and give pause to think about one’s own 
 circumstances. Are not all social and political systems struggling in some 
-way, and are we not waiting for things to change?â€ 
+way, and are we not waiting for things to change?” 
 
 The book is available for purchase at the Gallery, or throughAmazon.ca and 
 all good bookshops.

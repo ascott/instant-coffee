@@ -40,7 +40,7 @@ O’Brian.
 
 Zhang Yaxin: Model Operas features a suite of images by Chinese
 photographer Zhang Yaxin that vividly record the actors and scenery of the
-Communist Party-sanctioned â€œmodel operasâ€  staged during the latter part of
+Communist Party-sanctioned “model operas”  staged during the latter part of
 the Cultural Revolution. Yaxin, who also served as chief photographer of the
 Communist Party leaders, devoted eight years of his life to photographing the
 operas, which assembled China’s best playwrights and performers. His

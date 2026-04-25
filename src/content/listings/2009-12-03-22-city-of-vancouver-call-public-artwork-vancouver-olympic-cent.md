@@ -23,7 +23,7 @@ Monday, December 14, 2009. For more information, please see
 http://vancouver.ca/commsvcs/oca/publicart/artistopp.htm under Hillcrest
 Public Art.
 
-This call is part of the City of Vancouverâ��s Olympic and Paralympic Public
+This call is part of the City of Vancouver’s Olympic and Paralympic Public
 Art Program that provides an opportunity for the City to commission new
 artworks that reveal, surprise, challenge and celebrate Vancouver.
 Questions regarding project or submissions: Karen Henry, Project Manager,

@@ -35,7 +35,7 @@ Tait’s intimate Montreal interior to a publicly accessible Howe Sound drawn
 by B. C. Binning.
 
 Although the islands in one harbour may share wall space with the islands 
-in another, they are still divided by channels and time, and the â€œandâ€  of the 
+in another, they are still divided by channels and time, and the “and”  of the 
 land refers to their conjunction, implying both division and overlap. 
 Perspectives on the landscape expand and contract, to include interiors 
 and exteriors, observation and memory, imagination and intellect, 

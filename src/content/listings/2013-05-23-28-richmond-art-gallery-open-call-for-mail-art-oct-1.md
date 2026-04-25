@@ -20,7 +20,7 @@ Submission Deadline: October 1, 2013 (postmark deadline)
 
 Theme: Memory
 
-Size: 4â€  x 6â€  (10.2 x 15.3 cm) postcard
+Size: 4”  x 6”  (10.2 x 15.3 cm) postcard
 
 Medium: Any medium that can be sent through the postal system, 
 original artworks only (no photocopies)
@@ -49,7 +49,7 @@ Art (aka Postal Art) is an art form where artists exchange artworks and
 correspondence through the mail.
 
 While all works received that fulfill the participation guidelines will be 
-exhibited, we ask artists to respond to the theme of â€œmemoryâ€ . This 
+exhibited, we ask artists to respond to the theme of “memory” . This 
 may include, but is not limited to:
 
 Individual memories
@@ -66,7 +66,7 @@ In Memoriam
 
 Participation Guidelines:
 
-â€¢ Artists can send up to three artworks sized 4â€  x 6â€  (10.2 x 15.3 cm) as 
+• Artists can send up to three artworks sized 4”  x 6”  (10.2 x 15.3 cm) as 
 a postcard.
 
 • Artworks must be sent through the postal system or hand-delivered. 

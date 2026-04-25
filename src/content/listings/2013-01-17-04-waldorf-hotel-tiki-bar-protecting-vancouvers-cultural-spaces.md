@@ -27,7 +27,7 @@ showing love for another threatened cultural venue, the Waldorf Hotel.
 
 The W2 community was locked out by the City in December. Brenda 
 Prosken, Director of Community Services, and other City staff, supported a 3-
-month â€œdarkâ€  period for the W2 Media Cafe, jeopardizing events and 
+month “dark”  period for the W2 Media Cafe, jeopardizing events and 
 threatening artists contracts and livelihoods. W2 staff were laid off in 
 December. 
 
@@ -38,7 +38,7 @@ artist, cites: “The news this week that the City of Vancouver and Woodward’s
 developer Westbank are bailing out the new CBC studio theatre with $1 
 million, shows that developers can build beautiful cultural spaces but 
 Vancouver arts groups can not afford to operate them with this developer-
-friendly model.â€  
+friendly model.”  
 
 W2 invested $400,000 and earned revenues of $1.25 Million (2010-2012) in its 
 operations of the 10,000 sf site, and is largely supported by self-generated 
@@ -62,7 +62,7 @@ start-up year.
 "We need to be building up Vancouver's arts and culture," stated Gregor 
 Robertson when speaking about the sale of the Waldorf Hotel. He also stated 
 recently, “W2 is an important hub for arts and media groups and community 
-members in the Downtown Eastside.â€  There are many similarities between the 
+members in the Downtown Eastside.”  There are many similarities between the 
 two popular arts hubs, given they are both negatively impacted by developer 
 deals which used the creative sector to get deals done, but then ignored the 
 creative community’s needs during their start-up phase. While the Waldorf is 

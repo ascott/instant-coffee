@@ -35,7 +35,7 @@ disclosed.
 
 The research will result in a series of sculptural works most of them 
 contained inside lockets wore by performers throughout the night, 
-with different â€œrules of engagementâ€ . An attempt to be critical of 
+with different “rules of engagement” . An attempt to be critical of 
 interactivity within contemporary art, diplomacy, and military 
 procedures. The locket, refers to dual motifs of love and politics that 
 serve to connect the two vignettes that comprise the structure of the 

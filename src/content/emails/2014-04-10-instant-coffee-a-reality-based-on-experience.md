@@ -219,7 +219,7 @@ photographic paper and chlorophyll assumes the role of silver halide. For his
 Double Invasive series, the artist took samples of English ivy and Norway 
 maple, plants considered by local ecologists to be invasive, and used their 
 leafy surfaces to "photograph" indigenous ferns such as lady fern and 
-Athyrium filix-femina. The leaf prints are then scanned as a way of â€œfixingâ€  
+Athyrium filix-femina. The leaf prints are then scanned as a way of “fixing”  
 the fugitive images from the leaves.
 
 In a second series, Salal, Alward made a photo emulsion of extracted plant 
@@ -287,7 +287,7 @@ Gallery of South Australia, Adelaide.www.sarahsmutskennedy.com
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2014-04-10-04-artspeak-ajay-kurian-apr-11">04. Artspeak | AJAY KURIAN | APR 11</a>
 ------------------------------------------------------------------------
-â€œTapetum Lucidumâ€ 
+“Tapetum Lucidum” 
 
 AJAY KURIAN
 
@@ -346,7 +346,7 @@ different paths. It helps to hear your exposition. I also believe that these
 definitions are shifting, contingent on time, circumstance and context, and that 
 this fluidity of time, memory, and perception is a bit of a trained exercise. I do 
 not consider art to be eternal and actually have grown so incredibly weary of 
-â€œlegacyâ€  in the past few years for similar reasons. Your perspective is 
+“legacy”  in the past few years for similar reasons. Your perspective is 
 perhaps less cynical than mine. To clarify my initial reaction: let’s say I see a 
 billowing curtain in a window. At some point in my life maybe I think it’s 
 beautiful and poetic in that American Beauty bag in the wind sort of way. And 
@@ -365,7 +365,7 @@ would crust over and I’d have to bust its surface to get more out. So you can
 see all that history in this bottle. It’s a beautiful object, but I never want it to be 
 art…
 
-I named the title of this show â€œTapetum Lucidum.â€  Why do you think that is?
+I named the title of this show “Tapetum Lucidum.”  Why do you think that is?
 
 KN:
 
@@ -802,12 +802,12 @@ in Westridge Park, near the site of 2007′s massive pipeline rupture. The rally
 will feature music, speakers (including Burnaby MP Kennedy Stewart, Ben 
 West of Forest Ethics and others), poetry, comedy and more. From there the 
 procession will conclude it’s journey to Westridge Marine Terminal, “the end 
-of the lineâ€  for tar sands shipments before they are put on tankers and sent 
+of the line”  for tar sands shipments before they are put on tankers and sent 
 abroad. As walkers arrive, a flotilla of boats, canoes and kayaks organized 
 by North Shore NOPE will be making noise on the Burrard Inlet.
 
 Saloman was commissioned to create a performative public walk as part of 
-Unit/Pitt Projectsâ€™ â€œCollective Walks/Spaces of Contestationâ€  exhibition, curated 
+Unit/Pitt Projects’ “Collective Walks/Spaces of Contestation”  exhibition, curated 
 by Mariane Bourcheix-Laporte. The Vancouver gallery’s exhibition which 
 runs from March 22 – May 3, with a reception on Friday, April 18, is an 
 access point to 3 other walks co-created by the invited artists and a 
@@ -816,14 +816,14 @@ and the Vancouver Public Library; Didier Morelli and the Britannia Outreach
 Program; and The Unlearning Walking Club which will host walking 
 adventures every Sunday for the duration of the exhibition.
 
-The Peopleâ€™s Procession was imagined by Saloman as a â€œcounter-mapâ€  as a 
+The People’s Procession was imagined by Saloman as a “counter-map”  as a 
 response to the maps provided by Kinder-Morgan and the Federal 
 Government. Speaking about the People’s Procession, Saloman has said “I 
 wanted to create a map that showed the real lives that are affected by this 
 project; a map that could be a different kind of educational tool. By making this 
 map with our bodies, moving through space, the participants carry the 
 knowledge with them and the tools to share it with others – they simply have 
-to go for walk.â€  In addition to the Peopleâ€™s Procession, Saloman is creating a 
+to go for walk.”  In addition to the People’s Procession, Saloman is creating a 
 printed map of the Burnaby pipeline network that includes oral histories; 
 recent and archival photos; and the streets, green spaces and waterways 
 affected by the pipeline.
@@ -835,7 +835,7 @@ how activists see things. I wanted to see if a protest created from the
 perspective of artists might create something different than what we’re used 
 to seeing, but still be very effective. Luckily BROKE immediately understood 
 that Art could speak to people in unique ways and they’ve been fantastic 
-collaborators.â€ 
+collaborators.” 
 
 The People’s Procession & Rally Against the Pipeline will begin at 10:00 am in 
 Forest Grove Park and culminate in a rally at 1:00pm in Westridge Park. The 
@@ -951,7 +951,7 @@ challenges it faces, and the artistic strategies at play. But we are reminded
 that deficits—social, political, or otherwise—similar to those in Havana arise 
 in other parts of the world as well, and give pause to think about one’s own 
 circumstances. Are not all social and political systems struggling in some 
-way, and are we not waiting for things to change?â€ 
+way, and are we not waiting for things to change?” 
 
 The book is available for purchase at the Gallery, or throughAmazon.ca and 
 all good bookshops.
@@ -1162,11 +1162,11 @@ When asked to occupy the Satellite Gallery for a period of three weeks with
 only the mandate to produce work collaboratively, the artists said, “We found 
 ourselves momentarily frozen, faced with the great unknown of what, how, 
 and who might come out of such an experimental framework: occupying a 
-gallery in an attempt to create generative work together.â€  They continue, â€œThe 
+gallery in an attempt to create generative work together.”  They continue, “The 
 attempt to collectively envision what might come out of us feels akin to 
 predicting what elephants and dolphins might naturally create together, 
 knowing only that they are both mammals, have grey skin, and do not speak 
-the same language.â€ 
+the same language.” 
 
 Using Satellite Gallery’s distinctive site above Club FiveSixty as a point of 
 departure, the Club becomes a site to respond to within the Gallery, an 
@@ -1344,7 +1344,7 @@ many other organizations and artists.
 
 On Main Gallery has occupied one of the storefronts since 2007. In 2012 this 
 space was expanded and completely renovated by Rick Erickson, who put in 
-a â€œsecret trap doorâ€  leading down to Alderbridge Mini-Storage, a labyrinth of 
+a “secret trap door”  leading down to Alderbridge Mini-Storage, a labyrinth of 
 70 spaces in all shapes and sizes, with 6500 sq. ft. of storage lockers.
 
 We have invited dozens of artists who will be transforming this unique 

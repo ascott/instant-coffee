@@ -17,8 +17,8 @@ Vancouver, 555 Hamilton, BC, Canada.
 
 Walter Benjamin was an influential philosopher and art theoretician, best 
 known for his 1936 essay “The Work of Art in the Age of Mechanical 
-Reproductionâ€ . In 1986 â€” many years after his tragic death â€” Walter 
-Benjamin reappeared in public with the lecture â€œMondrian â€™63â€“â€™96″ organized 
+Reproduction” . In 1986 — many years after his tragic death — Walter 
+Benjamin reappeared in public with the lecture “Mondrian ’63–’96″ organized 
 by the Marxist Center in Ljubljana. In recent years, Mr. Benjamin has been an 
 associate of the Museum of American Art in Berlin, giving interviews and 
 publishing articles internationally.

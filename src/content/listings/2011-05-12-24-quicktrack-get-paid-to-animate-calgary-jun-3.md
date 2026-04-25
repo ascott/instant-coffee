@@ -14,7 +14,7 @@ Call for Animation Proposals
 
 Deadline: 5PM Friday June 3, 2011
 Program Dates: July 4 -Sept 23, 2011
-Theme: â€œAnimated Cityâ€ 
+Theme: “Animated City” 
 
 Ever wanted to see your animation on a building? Quickdraw Animation Society
 seeks submissions from emerging to mid-career animators for our QuickTrack

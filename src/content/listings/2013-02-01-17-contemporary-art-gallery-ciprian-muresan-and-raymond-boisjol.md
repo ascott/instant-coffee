@@ -42,7 +42,7 @@ Included in the show are two newly commissioned pieces by the
 Contemporary Art Gallery with our partners FRAC Champagne-Ardenne and 
 Centre d’Art Contemporain, Geneva: an installation, Recycled Playground, 
 which gives the exhibition its title and overarching tone, and a companion 
-video Protesting Against Myself. Mureşanâ€™s videos, drawings and 
+video Protesting Against Myself. Mureşan’s videos, drawings and 
 installations 
 often reuse iconic works of art or literature, re-contextualized to present an 
 ironic take on the governing ideologies and power structures at large, whether 

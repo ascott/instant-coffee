@@ -23,7 +23,7 @@ conceived and developed the idea of an installation collaboratively yet
 present a range of individual and independent works by each artist.
 
 Initially the trio was inspired by the plans and models for Emilio Ambasz’
-â€œMan is an Island,â€  which proposes an imagined structure in an idyllic
+“Man is an Island,”  which proposes an imagined structure in an idyllic
 landscape. The utopic model possesses the material effect of being
 something without actually being it. It also anticipates the becoming of
 something yet to be realized. This collision of fantasy, materiality, and

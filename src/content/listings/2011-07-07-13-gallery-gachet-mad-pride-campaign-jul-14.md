@@ -37,7 +37,7 @@ will place your portrait within our gallery wall display. By doing so, you are v
 demonstrating your support for a global movement which recognizes that 
 matters of mental health affect each and every one of us. With your permission 
 we will add you to our Flickr photo group and potentially project your image within 
-a collection around Vancouver. You donâ€™t have to have a â€œmental health issueâ€  or 
+a collection around Vancouver. You don’t have to have a “mental health issue”  or 
 illness to be supporter. Face your own mind, reveal your identity in a display of 
 solidarity and support everyone’s mental wellness.
 
@@ -58,7 +58,7 @@ giving us your permission to use your image in our Face Your Mind Campaign.
 Donations can be made through Pay Pal via credit card, through our website, 
 www.gachet.org, or by check or cash at our location at 88 East Cordova Street. 
 Please call 604 687 2468 and let us know you wish to donate to our “Face Your 
-Mind Campaignâ€ .
+Mind Campaign” .
 
 We thank you for your support and contributions.
 
@@ -91,11 +91,11 @@ point from which to address current issues in an alternative framework: that of
 cultural and global mental health.
 
 This year’s programming theme embraces and jostles with ideas 
-around â€œmodes of recoveryâ€ . The gallery is facing major financial cut backs this 
+around “modes of recovery” . The gallery is facing major financial cut backs this 
 year and with practically no money to run programming, we are responding in 
 our usual mad and crazy way – with a non-exhibit, anti-cabaret and comedy for 
 our Mad Pride celebrations. We are defying the usual parameters and breaking 
-new ground in the face of â€œzero dollars.â€ 
+new ground in the face of “zero dollars.” 
 
 Recovery narratives are ways of creating new stories and modes of being, 
 pulling other narratives and ideas into one's own autobiography. Such a 
@@ -124,7 +124,7 @@ odd-ball stations around the gallery for dialogue to be created, the gallery wil
 transform into a probing and open discussion forum for people to talk about the 
 change catalysts we face that can cause us to transform in a positive way, 
 rather than succumb to crisis. We aim to create what theorist Hakim Bey calls 
-a â€œTemporary Autonomous Zoneâ€  facing these issues head-on.
+a “Temporary Autonomous Zone”  facing these issues head-on.
 
 Our objective is to reach out to the global mental health community, especially in 
 B.C. In a quest to gain support, we’ll call out to people to face their own mental 
@@ -135,7 +135,7 @@ the exhibit. Send us your image and permission to be included to,
 programming@gachet.org.
 
 Through art, performance, music and educational events throughout the month 
-of July, Gallery Gachet aims to create a safe and radical (literal meaning: â€œrootâ€ ) 
+of July, Gallery Gachet aims to create a safe and radical (literal meaning: “root” ) 
 space for a total creative and exploratory FREAK OUT over our need for funding 
 and financial stability. Join us for an exploratory month of programming!
 

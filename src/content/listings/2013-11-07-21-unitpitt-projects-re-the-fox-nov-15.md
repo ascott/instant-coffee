@@ -58,7 +58,7 @@ means limited to the fixed context closure of ‘art’.) we need a broad social
 base in positive opposition to the ideological content and social relations 
 reproduced by ‘official’ ‘digital’ culture. those of you wishing to participate 
 should send correspondence to: the editors, post office box 728. canal street 
-station, new york city, 10013 236 east pender street, vancouver v6a 1t7â€ 
+station, new york city, 10013 236 east pender street, vancouver v6a 1t7” 
 
 The exhibition is part of Arnaud Desjardin's ABRRR - Artists' Books Research 
 Residency in Vancouver, co-produced with the Emily Carr University Library 
@@ -69,7 +69,7 @@ residency activities at the Emily Carr University Library, and the launch of his
 Arnaud Desjardin is a French artist, curator and publisher currently based in 
 London. He describes his ongoing publication project, The Everyday Press, 
 as a “channel for collaborations with artists, curators, writers and academics 
-to produce acts of publication to be considered as art works.â€  Having recently 
+to produce acts of publication to be considered as art works.”  Having recently 
 published a sourcebook on artists’ books ("Book on Books on Artists’ 
 Books"), Desjardin is currently developing an online archival project in 
 collaboration with Banner Repeater, an artist led project space in London.

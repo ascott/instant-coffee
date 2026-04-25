@@ -25,12 +25,12 @@ Indigenous artists and classical music ensembles, the political exigencies
 of First Nations communities across Canada are scarcely referenced in 
 such work. As Cherokee scholar Craig Womack has noted, while “America 
 loves Native American Culture[,] America is much less enthusiastic about 
-Native American land claimsâ€ . This talk examines the space between 
+Native American land claims” . This talk examines the space between 
 classical and Indigenous musical forms, and the attendant politics of 
 recognition in such collaborative processes that often celebrates 
 Indigenous inclusion at the cost of political engagement.
 
-Bio: Dylan Robinson is a StÃ³:lō scholar and Banting postdoctoral fellow in 
+Bio: Dylan Robinson is a Stó:lō scholar and Banting postdoctoral fellow in 
 the First Nations Studies Program at UBC. His research focuses upon the 
 sensory politics of Indigenous activism and the arts, and questions how 
 Indigenous rights and Settler colonialism are embodied and spatialized in 

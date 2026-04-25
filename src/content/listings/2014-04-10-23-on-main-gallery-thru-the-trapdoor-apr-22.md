@@ -36,7 +36,7 @@ many other organizations and artists.
 
 On Main Gallery has occupied one of the storefronts since 2007. In 2012 this 
 space was expanded and completely renovated by Rick Erickson, who put in 
-a â€œsecret trap doorâ€  leading down to Alderbridge Mini-Storage, a labyrinth of 
+a “secret trap door”  leading down to Alderbridge Mini-Storage, a labyrinth of 
 70 spaces in all shapes and sizes, with 6500 sq. ft. of storage lockers.
 
 We have invited dozens of artists who will be transforming this unique 

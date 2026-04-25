@@ -32,7 +32,7 @@ the idea of the collaboration-as-chimera—or hybrid monster. Bringing
 disparate practices and artists together often begets strange offspring; 
 this is where creative monsters get born. And while the theme conjures 
 up long-held cultural ideas around fear and horror, these collaborative 
-â€œbeastsâ€  also propose a gentler kind of interaction: one that is less 
+“beasts”  also propose a gentler kind of interaction: one that is less 
 about invoking terror, and more about encouraging the crossing of 
 boundaries, the opening of unconventional relationships, and inviting 
 diverse, creeping sensory experiences.

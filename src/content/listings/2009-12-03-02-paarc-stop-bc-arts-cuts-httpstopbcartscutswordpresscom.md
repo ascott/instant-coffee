@@ -11,11 +11,11 @@ summary: "PAARC | Stop BC Arts Cuts | http://stopbcartscuts.wordpress.com"
 Atom Egoyan speaks out against the BC Liberal government's cuts to arts funding
 
 Victoria-raised filmmaker Atom Egoyan issued a statement today condemning
-the BC Liberalsâ�� cuts to arts funding. Egoyan joins a list of prominent
+the BC Liberals’ cuts to arts funding. Egoyan joins a list of prominent
 British Columbians and Canadians that includes William Gibson, Douglas
 Coupland and Margaret Atwood. In his statement he said
 
-â��I owe so much to the development of my early career to support I received
+’I owe so much to the development of my early career to support I received
 from the BC Cultural Fund, which provided me with a much needed
 scholarship. It is truly devastating to think that a new generation of BC
 artists can't rely on their provincial government for this crucial

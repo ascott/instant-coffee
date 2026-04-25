@@ -28,7 +28,7 @@ Underneath the Surface: Cycles of the Sun and Scenes of Morbid Fascinations
 showcases the work of two Vancouver artists, Christopher Kowal and Scott 
 Massey. The exhibition focuses on the parallel narratives in each artist’s works 
 that highlight an intersection between artifice and reality. Staying true to the 
-narratorâ€™s dictum within Poeâ€™s â€œThe Fall of the House of Usherâ€ , this exhibition 
+narrator’s dictum within Poe’s “The Fall of the House of Usher” , this exhibition 
 foreshadows deeper and darker layers of meaning, representation and 
 reasoning through techniques of production. As the statement serves to show, a 
 change of visual perspective can alter a given impression, and thus alter a 
@@ -52,8 +52,8 @@ Whereas Christopher Kowal uses photorealistic 3D imagery to render the
 constructed environment, Scott Massey’s Torture Box (145,071 kms in 1:21:03 
 @ 1676 kms/hr) (2009) creates an actual environment for pain, utilizing the 
 concentrated rays of our sun. His work references a scene from Frank Herbert’s 
-1965 science fiction novel â€œDune,â€  in which The Queen of Atreides produces 
-a â€œtorture boxâ€  in order to determine if her son Paul, heir to the House of Atreides 
+1965 science fiction novel “Dune,”  in which The Queen of Atreides produces 
+a “torture box”  in order to determine if her son Paul, heir to the House of Atreides 
 and thus control of planet Arrakis, is worthy of the responsibility. The durational 
 video work depicts the sun focused through a magnifying lens - in much the 
 same way a child would burn to death an insect. Taking 1 hour, 21 minutes, and 
@@ -64,7 +64,7 @@ kilometers rotating at 1676 kilometers per hour. Accompanying Torture Box
 Shadowing (After Muybridge) (2002/2010), references the pioneering fast-motion 
 photography of Eedweard Muybridge. The photo depicts a sequence of eight 
 photographs taken from the same spot every hour during the winter solstice. As 
-the sun makes its way across the sky the poleâ€™s shadows â€œrunâ€  across the 
+the sun makes its way across the sky the pole’s shadows “run”  across the 
 building, indicative of the earth’s movement through space.
 
 The works in this exhibition are examples of the tensions inherent in the 

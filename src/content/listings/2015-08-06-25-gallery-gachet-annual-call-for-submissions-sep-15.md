@@ -27,7 +27,7 @@ Our exhibition calendar features a range of art practices from contemporary
 to outsider to exhibitions representing community–engaged and social
 practice methods, as well as a diversity of mediums: photography, video,
 performance art, drawing, 3D, installation, ceramics, textiles and more.
-For more information on Gachetâ€™s vision and Basis of Unity, please see
+For more information on Gachet’s vision and Basis of Unity, please see
 http://gachet.org/about.
 
 We welcome proposals that challenge mental health stigmas, barriers to full
@@ -62,7 +62,7 @@ and a numbered image list
 • a short video that typifies your work
 • audio recordings
 2. A written proposal describing a well–thought out theme or body of work,
-explaining what you wish  to do and any special requirements (250â€“500
+explaining what you wish  to do and any special requirements (250–500
 words)
 3. A CV or biography, charting your arts education and exhibitions
 history 

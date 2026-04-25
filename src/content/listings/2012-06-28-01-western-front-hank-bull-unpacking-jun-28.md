@@ -20,7 +20,7 @@ i’m unpacking my archives, yes i am
 or, in plain English, cleaning out the basement
 it’s a kind of bag lady’s retrospective
 but a better title might be
-â€œnight of the living deadâ€ 
+“night of the living dead” 
 anyway, everything is always changing
 props photos ephemera files and works 
 produced and accumulated over the years 

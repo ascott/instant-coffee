@@ -14,26 +14,26 @@ Monday 23 November 2009, 7:30pm
 Pacific Cinematheque [1131 Howe]
 Tickets $9.50/$8 students + $3 membership
 
-UK artists Karen Mirza and Brad Butlerâ€™s artistic practice challenges and
+UK artists Karen Mirza and Brad Butler’s artistic practice challenges and
 interrogates participation, collaboration, the social turn, and the
 traditional roles of the artist as producer and the audience as recipient.
 This investigation currently manifests in The Museum of Non Participation,
 a cross-cultural artistic intervention and appraisal of standard forms of
 representing and experiencing the everyday in Karachi and London. The
-Exception and the Rule is Mirza and Butlerâ€™s most recent film from this
+Exception and the Rule is Mirza and Butler’s most recent film from this
 ongoing series. Conscious of their outside perceptions of the city and its
-geo-political weight, they investigate the everyday patterns of Karachiâ€™s
+geo-political weight, they investigate the everyday patterns of Karachi’s
 inhabitants and social architecture.
 
 Their earlier work, Non Places, The Space Between, and The Autonomous
-Object? provide history and context to Mirza and Butlerâ€™s commitment to
+Object? provide history and context to Mirza and Butler’s commitment to
 questioning the objectivity of the cinematic frame and its implications in
 anthropology, ethnography, and architecture.
 
 Brad Butler is a UK filmmaker and co-founder of the no.w.here media arts
 centre in London. Brads most recent work is a return to issues raised in
 his anthropological studies spending 10 years as an active participant in
-experimental film. Bradâ€™s new solo work In Search of Structure is the first
+experimental film. Brad’s new solo work In Search of Structure is the first
 of a new body of work that brings together his experience in both fields.
 
 co-presented by www.dimcinema.ca | www.cineworks.ca |

@@ -21,6 +21,6 @@ University.
 Scrivener’s Monthly is a series of public presentations that explore the space 
 between material practices and spoken words: a periodical that talks. Set 
 alongside the exhibitions program at Western Front, this experiment in “not 
-publishingâ€  involves readings, performances, and other articulations.
+publishing”  involves readings, performances, and other articulations.
 
 Visit www.front.bc.ca for more information.

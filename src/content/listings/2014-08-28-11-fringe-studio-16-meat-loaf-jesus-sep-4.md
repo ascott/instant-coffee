@@ -21,9 +21,9 @@ Play Description: A suburban, adolescent tale of friendship, family,
 experimenting, and looking for love against the backdrop of 80's Edmonton
 and one of the most iconic albums ever produced: Bat Out Of Hell.   Mark
 and his Mom have relocated to co-op community outside of Edmonton. Its most
-prominent feature is an area known as â€œthe Pipelineâ€  where local youth go
+prominent feature is an area known as “the Pipeline”  where local youth go
 to hang out, do drugs, have sex, whatever. The kinetic Alex, a wild kid,
 who could have been a hockey star, captivates Mark. However, Alex has been
-â€œlaying it inâ€  Teresa, who has recently been barred from the local mall.
+“laying it in”  Teresa, who has recently been barred from the local mall.
 Watching over them all is a one armed Jesus, powerful but ineffectual to
 stop their lives from exploding like a roller coaster leaving it’s tracks!

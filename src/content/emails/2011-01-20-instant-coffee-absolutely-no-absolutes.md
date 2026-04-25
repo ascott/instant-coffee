@@ -257,13 +257,13 @@ housed 1.5 million pieces of wood type, handcrafted relics of a
 bygone era. The result? A 60-minute movie, that tells the story of
 how the art of typography struggles to find its place in the digital age.
 It also chronicles the Hamilton Family’s own fight for survival.
-â€œI stumbled upon Hamilton by chance,â€  said Nagan. â€œThe age old
+“I stumbled upon Hamilton by chance,”  said Nagan. “The age old
 artisan handwork and craftsmanship is inspiring and the place is
 both a national and historical treasure. The story of a diminishing
 craft- and culture- lives in this rural time capsule is very significant. I
 had to pay attention. As we see a return to appreciation for attention
 to detail vs. speed, quality over quantity and the rewards of slow I
-think we will see the tide shift in what work we value.â€ 
+think we will see the tide shift in what work we value.” 
 typeface.kartemquin.com/about
 www.kartemquin.com/films/typeface
 www.facebook.com/typefacefilm
@@ -343,7 +343,7 @@ Please join us at the Surrey Art Gallery for the combined opening
 reception
 on Saturday January 22nd, 7:30 to 9:30pm
 
-TV Santhosh (2009) fiberglass, metal, LED panels 60â€ x84â€ x30â€ .
+TV Santhosh (2009) fiberglass, metal, LED panels 60” x84” x30” .
 Photo courtesy of Richmond Art Gallery
 
 In Transition: New Art from India
@@ -523,7 +523,7 @@ underneath a video camera lens and projects the images onto a screen –
 recounting the stories of those who let themselves be photographed. These
 magical studies inspire gentle but profound reflection upon the transitory
 nature of the moment and the significance of interpersonal encounters. The
-piece, â€œImages move, when carried around/ Portraits in Motionâ€ , has
+piece, “Images move, when carried around/ Portraits in Motion” , has
 attracted a cult-following in Berlin and has been invited to participate at
 numerous international theatre festivals throughout Europe.
 

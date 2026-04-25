@@ -24,17 +24,17 @@ its second year this April.
 
 Annie Briard is a Vancouver-based artist from Montréal challenging visual
 perception through moving image and lens focused work. Her billboard
-project â€œAny Day Nowâ€  is an in-situ photographic installation on East
+project “Any Day Now”  is an in-situ photographic installation on East
 Hastings Street. It offers a momentary break in a passerby’s field of
 vision to question how we see and make sense of the world around us. Using
-optical recursion and a 3D viewing potential, â€œAny Day Nowâ€  underlines
+optical recursion and a 3D viewing potential, “Any Day Now”  underlines
 connections between visual attention, wonder, and possibility. Billboards
 catch our eyes through bright colors, bold fonts and rapid messages. “Any
-Day Nowâ€  rather than showing or telling, provides a mirroring of its
+Day Now”  rather than showing or telling, provides a mirroring of its
 surrounding space for contemplation. Any day now, a new sight; a moment of
 wonder; any day now, an escape.
 
-Back Gallery Project will present associated programing for â€œAny Day Nowâ€ 
+Back Gallery Project will present associated programing for “Any Day Now” 
 including a 3D viewing and artist talk. More information:
 http://capturephotofest.com/public-installations/any-day-now/
 

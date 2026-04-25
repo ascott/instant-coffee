@@ -19,7 +19,7 @@ Opening: February 16th at 7pm
 Exhibition: February 17th – March 31st, 2012
 
 As any good collective would, in 2005 the members of Instant Coffee 
-drafted a â€œmanifestoâ€  of sorts. In it, they define themselves and their 
+drafted a “manifesto”  of sorts. In it, they define themselves and their 
 objectives in terms of their caffeinated namesake: Instant Coffee 
 "mimics the real thing without the pretense of being better. It isn't that 
 much easier to make, but that much is reason enough to justify its 

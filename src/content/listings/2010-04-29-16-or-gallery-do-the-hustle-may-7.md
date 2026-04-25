@@ -31,35 +31,35 @@ amount of pledges gets first pick! Some of the prizes packs you could win
 include:
 
 Prize Pack No.16: Your name in music
-â�¢ Hello Blue Roses (Sydney Hermant and Dan Bejar) will write and record a
+’¢ Hello Blue Roses (Sydney Hermant and Dan Bejar) will write and record a
 song about you
-â�¢ Gift Certificate to Umeboshi
-â�¢ Zulu Records Gift Certificate
-â�¢ Celebrated Vancouver radio host David Wisdom (CBC's Nightlines,
+’¢ Gift Certificate to Umeboshi
+’¢ Zulu Records Gift Certificate
+’¢ Celebrated Vancouver radio host David Wisdom (CBC's Nightlines,
 RadioSonic, Radio-On, and Pearls of Wisdom) will record your answering
 machine message using his best radio voice
-â�¢ Artspeak Publication: Micah Lexier - A Number of Things
-â�¢ Charles H. Scott/Emily Carr University/JRP Ringier Publication: "Aunt
+’¢ Artspeak Publication: Micah Lexier - A Number of Things
+’¢ Charles H. Scott/Emily Carr University/JRP Ringier Publication: "Aunt
 Maud's Scrapbook: Sydney Vermont"
 
 Prize Pack No.7: Lookin' sharp and quick on your feet
-â�¢ 1 Free haircut from Nicole of Moustache & Darling
-â�¢ Jewlery by Anna de Courcy, created with antique sterling silver: 28"
+’¢ 1 Free haircut from Nicole of Moustache & Darling
+’¢ Jewlery by Anna de Courcy, created with antique sterling silver: 28"
 anchor chain, with Victorian heart padlock clasp, antique swivel clasp, and
 London 1906 sterling silver thimble
-â�¢ 1 Free Express Pedicure by Morgan at Kokopelli
+’¢ 1 Free Express Pedicure by Morgan at Kokopelli
 
 Prize Pack No.14: The Right Moves
-â�¢ PuSh Festival Prize Pack: 2011 PuSh Pass, PuSh T-shirt plus an invite to
+’¢ PuSh Festival Prize Pack: 2011 PuSh Pass, PuSh T-shirt plus an invite to
 an Artists' Fete
-â�¢ A Private Contemporary Dance Lesson (for contestant and a friend) with
+’¢ A Private Contemporary Dance Lesson (for contestant and a friend) with
 Justine Chambers
-â�¢ Open Door Yoga $50 Gift Certificate
-â�¢ Action-Camera: Beijing Performance Photography
-â�¢ Belkin/KAG Publication: Rebecca Belmore: Fountain (Autographed)
-â�¢ Western Front Publication: Ritual in Contemporary Performance
-â�¢ VAG Publication Rebecca Belmore: Rising to the Occasion (Autographed)
-â�¢ grunt publication: Live at the end of the Century: Aspects of Performance
+’¢ Open Door Yoga $50 Gift Certificate
+’¢ Action-Camera: Beijing Performance Photography
+’¢ Belkin/KAG Publication: Rebecca Belmore: Fountain (Autographed)
+’¢ Western Front Publication: Ritual in Contemporary Performance
+’¢ VAG Publication Rebecca Belmore: Rising to the Occasion (Autographed)
+’¢ grunt publication: Live at the end of the Century: Aspects of Performance
 Art in Vancouver
 
 Check our website for more!

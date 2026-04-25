@@ -30,8 +30,8 @@ of their live performance work. By the late 1990s, performance became a
 more clearly defined practice, and for many artists the photograph
 functioned not only as a document, but also as a work of art in itself. As
 a further development, many performances were specifically created for the
-camera rather than a live audienceâ��the viewerâ��s access to the
-â��performanceâ��
+camera rather than a live audience’the viewer’s access to the
+’performance’
 was exclusively through the photograph. The shift from live performance to
 staged photograph and the reasons behind it are a central anchor to this
 exhibition.
@@ -63,8 +63,8 @@ weariness or lack of interest that can result from information overload.
 Lorna Brown is a Vancouver-based artist, writer, and curator. She has
 exhibited her work internationally since 1984 and has taught at Emily Carr
 University of Art and Design and at Simon Fraser University. Brown was the
-curator for "Group Search: art in the library," a series of artistsâ��
-projects at the Vancouver Public Library (2006â��08) and is currently
+curator for "Group Search: art in the library," a series of artists’
+projects at the Vancouver Public Library (2006’08) and is currently
 developing the Centre for Art in Public Spaces at Langara College. She
 received the Vancouver Institute for the Visual Arts Award (1996) and the
 Canada Council Paris Studio Award (2000).

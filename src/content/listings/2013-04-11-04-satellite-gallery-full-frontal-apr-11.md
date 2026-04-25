@@ -27,7 +27,7 @@ society’s last taboos.
 
 With works spanning over 50 years, Full Frontal investigates the 
 stake our society has placed in representations of the male body, 
-questioning why â€œmanhoodâ€  refers to both male identity and the 
+questioning why “manhood”  refers to both male identity and the 
 physical penis. Through photographs, paintings, drawings, sculpture, 
 video and archival material, Full Frontalexplores how artists, both 
 publically and privately, have represented the penis-phallus. The 

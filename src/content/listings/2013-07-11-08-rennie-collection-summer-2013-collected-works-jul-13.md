@@ -17,7 +17,7 @@ http://www.renniecollection.org/contact/index.php
 
 Rennie Collection is pleased to present an exhibition of works by a
 selection of internationally renowned artists: Pablo Bronstein, Aaron
-Curry, Andrew Grassie, Louise Lawler, Mike Nelson, Roman OndÃ�Â¡k and Ian
+Curry, Andrew Grassie, Louise Lawler, Mike Nelson, Roman OndÂ¡k and Ian
 Wallace.
 
 While all of these artists have their own distinctly unique styles and
@@ -71,13 +71,13 @@ physically broken, we do not forget about it. We are reminded of the
 memories associated with it". His work speaks to the ultimate temporality
 and artifice of the gallery or museum space.
 
-Where the viewers detached in Lawler's work, Slovakian artist Roman OndÃ�Â¡k
+Where the viewers detached in Lawler's work, Slovakian artist Roman OndÂ¡k
 (b. 1966) utilizes the gallery visitor as a key component. Shown for the
 first time in Canada, Measuring the Universe (2007) is an interactive piece
 previously exhibited at Tate Liverpool and MoMA, NY. Over the course of the
 exhibition, attendants mark visitors' heights, first names, and dates of
 the measurements on the gallery walls. The mark making becomes the measure
-of man. By inviting people to actively participate, OndÃ�Â¡k creates a work of
+of man. By inviting people to actively participate, OndÂ¡k creates a work of
 art from a prosaic everyday behavior while questioning the roles of art
 objects and spectators, production and reception.
 

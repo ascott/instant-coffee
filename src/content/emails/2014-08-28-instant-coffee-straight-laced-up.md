@@ -99,7 +99,7 @@ event invites local residents and music fans to Victory Square, located at
 the corner of Cambie and Hastings, to come celebrate the end of summer with
 a splurge of local bands.
 
-"Weâ€™re really excited to be celebrating 10 years of Victory Square,â€  says
+"We’re really excited to be celebrating 10 years of Victory Square,”  says
 festival organizer Mike Gittens. “Every year the event seems to grow. It’s
 pretty special to see people come together to support exciting new
 Vancouver musicians and support Megaphone Magazine and CiTR, not to mention
@@ -124,13 +124,13 @@ from local businesses.
 The Block Party will also continue its tradition of supporting community
 media in Vancouver. Proceeds from the event’s sponsors and the day’s raffle
 will go towards Megaphone, a magazine sold on the streets of Vancouver by
-homeless and low‐income vendors, and CiTR 101.9FM, Vancouverâ€™s independent
+homeless and low‐income vendors, and CiTR 101.9FM, Vancouver’s independent
 community and campus-based broadcaster.
 
 “The Block Party exists to support awesome community-based organizations
-and great new music coming out of Vancouver,â€  says Sarah Cordingley, Music
+and great new music coming out of Vancouver,”  says Sarah Cordingley, Music
 Director at CiTR. “Even though the event is celebrating its tenth year, its
-still as great as the first.â€ 
+still as great as the first.” 
 
 The Victory Square Block Party promises to be a great event, supporting
 local musicians and the incredible work that Megaphone Magazine and CiTR
@@ -170,7 +170,7 @@ KAPSULA CFP: ACTING OUT
 This is a final reminder for KAPSULA Magazine's current CFP: ACTING OUT.
 Deadline September 01/14. Submit to submissions@kapsula.ca
 
-In clinical psychology, â€œacting outâ€  is considered a defence mechanismâ€”a
+In clinical psychology, “acting out”  is considered a defence mechanism—a
 means of regaining control through a loss of control. Those who act out
 disrupt the social order through their immanent reshaping of its
 boundaries. Many contemporary artists working in performance and
@@ -418,7 +418,7 @@ zones and animated by atmospheric effects and happenstance events. Some
 scenes are so quiet and motionless that the moving images could be mistaken
 for still photos. Once we’re drawn into the slow tempo of these works
 however, we begin to pay careful attention to their subjects and subtle
-â€œhappenings.â€  Interested in cycles of making and unmaking, Nabataâ€™s wood
+“happenings.”  Interested in cycles of making and unmaking, Nabata’s wood
 sculptures are lightly managed, anticipatory objects. The subtle forms
 resonate as exposed and open armatures that hold together perceptually,
 gathering in their minimal parts some projection of a cohesive whole.
@@ -577,10 +577,10 @@ Play Description: A suburban, adolescent tale of friendship, family,
 experimenting, and looking for love against the backdrop of 80's Edmonton
 and one of the most iconic albums ever produced: Bat Out Of Hell.   Mark
 and his Mom have relocated to co-op community outside of Edmonton. Its most
-prominent feature is an area known as â€œthe Pipelineâ€  where local youth go
+prominent feature is an area known as “the Pipeline”  where local youth go
 to hang out, do drugs, have sex, whatever. The kinetic Alex, a wild kid,
 who could have been a hockey star, captivates Mark. However, Alex has been
-â€œlaying it inâ€  Teresa, who has recently been barred from the local mall.
+“laying it in”  Teresa, who has recently been barred from the local mall.
 Watching over them all is a one armed Jesus, powerful but ineffectual to
 stop their lives from exploding like a roller coaster leaving it’s tracks!
 
@@ -662,10 +662,10 @@ beautiful and unique, with handmade layered projections, puppetry, masks,
 and original music. The story can be seen as a modern fable, a
 tongue­-in­-cheek nature documentary, or the animated dream of a sleeping
 bird. In July, Caws & Effect premiered at the Winnipeg Fringe, winning
-â€œPatronâ€™s Pickâ€  with sold out shows and raven reviews!
+“Patron’s Pick”  with sold out shows and raven reviews!
 
-★★★★★ â€œa gorgeous and wondrous work of artâ€  -CBC
-★★★★1/2 â€œa whimsical live-Â­action storybook thatâ€™s mesmerizingâ€  -Winnipeg
+★★★★★ “a gorgeous and wondrous work of art”  -CBC
+★★★★1/2 “a whimsical live-Â­action storybook that’s mesmerizing”  -Winnipeg
 Free Press
 
 Good for adults & kids 7+
@@ -691,7 +691,7 @@ B.C. Since 2003, Chloé Ziner and Jessica Gabriel have been developing a
 multilayered style of visual storytelling using overhead projectors as
 their main light source. They are known for their original aesthetic,
 quirky humor and unique approach to storytelling. They are the creators of
-past fringe hits â€œAgainst Gravityâ€  and â€œPlasticity Nowâ€  and in 2013, they
+past fringe hits “Against Gravity”  and “Plasticity Now”  and in 2013, they
 won the Joanna Marratta Award for professional development from the
 Vancouver Fringe.
 
@@ -737,7 +737,7 @@ City as Site: Public Art in Richmond is the first exhibition to highlight
 the City of Richmond’s Public Art Program, initiated in 1997 “to create a
 public art collection of the highest quality through a fair and open
 selection process advised by independent arms-length panels of art and
-design professionals and community inputâ€ . Curated by Richmond Art Gallery
+design professionals and community input” . Curated by Richmond Art Gallery
 Director Rachel Rosenfield Lafo, the exhibition will feature several
 diverse public art projects representing the different ways public art is
 funded in Richmond – through civic funding, private development, community
@@ -750,7 +750,7 @@ value to the community.
 The exhibition includes elements from Glen Anderson’s , Child of the Fraser
 (2012), aluminum sculptures and a ceramic mosaic at the City’s Community
 Safety Building; Nicole Dextras’s StoreFront: objects of desire (2013), a
-temporary project for the â€œArt in Unexpected Placesâ€  program, in which
+temporary project for the “Art in Unexpected Places”  program, in which
 artists were invited to select an unusual or unconventional location for
 their project; Janet Echelman’s Water Sky Garden (2009), a major work
 commissioned at the time of the 2010 Winter Olympic Games; two projects by
@@ -849,7 +849,7 @@ www.laurynyouden.net
 Alan Woo is the author of the award-winning children's book, "Maggie's
 Chopsticks" out now in book stores near you and online!!
 
-Praised by the New York Times as a pianist with â€œassurance and vitality,â€ 
+Praised by the New York Times as a pianist with “assurance and vitality,” 
 Mr. Woo was also named the winner of the 2010 Juilliard Concerto
 Competition. His other accomplishments include second and audience prize at
 the IIYM International Piano Competition in 2009, first prize at the
@@ -895,7 +895,7 @@ painters–that simultaneously pull the user into an interior world while
 projecting worlds away. Taking up a history of reflection, Negative Space
 sets forth inquiries into the contexts of technology, philosophy and
 creative practice, questioning how we and our devices–both historical and
-present dayâ€“favor the image over the â€œreal.â€ 
+present day–favor the image over the “real.” 
 
 Hirsch is a Berlin based artist, writer and editor. Her work has been
 exhibited at the Contemporary Art Gallery, Vancouver; The Power Plant,
@@ -952,7 +952,7 @@ fractal forms evoking everything from galaxies to rock formations. The
 photograms are created by placing objects directly on the photo paper.
 Viewed together, the finished works capture the transition of these
 materials from their use-value as products, to their obsolescence and
-eventual â€œdeathâ€ .
+eventual “death” .
 
 Based in Vancouver, Ryan Peter holds a BFA (2004) and an MFA (2008) from
 The University of British Columbia. He was a finalist for the 11th Annual
@@ -1005,9 +1005,9 @@ suit and a suit from Miss Germany 1955 will also be on display.
 
 “In From Rationing to Ravishing, we tried to bring together a collection of
 garments and accessories that illustrate a variety of historical
-references,â€  stated Sayers, one of Canadaâ€™s preeminent fashion historians.
+references,”  stated Sayers, one of Canada’s preeminent fashion historians.
 Jahnke elaborates, “We chose the artifacts for their relevance, their
-appearance, and their stories.â€  This exhibition will demonstrate how
+appearance, and their stories.”  This exhibition will demonstrate how
 historical events continue to shape our lives.
 
 From Rationing to Ravishing is the second installment in a continuing
@@ -1025,7 +1025,7 @@ families, including an activity station for kids and adults alike, and the
 opportunity to digitally wear period garments. Over the exhibition’s run,
 MOV will host a number of history-themed events, including two fashion
 shows that feature exceptional examples from Sayers’ private collection and
-two â€œtalk and tourâ€  events, also led by Sayers.
+two “talk and tour”  events, also led by Sayers.
 
 Fashion history enthusiasts will get a sneak peek into the curators’
 collection at Oakridge Centre, where five glamorous garments will be on
@@ -1035,7 +1035,7 @@ fashion and style destination in Vancouver for over 55 years, Oakridge
 Centre has been a driver of the evolution of fashion in the lower mainland.
 We are excited to partner with the Museum of Vancouver to showcase some of
 the significant trends of the past and to help bring to the community a
-little of our shared history.â€ 
+little of our shared history.” 
 
 From Rationing to Ravishing: the Transformation of Women's Fashion in the
 1940s and 1950s, opens to the public on September 18th. Additional

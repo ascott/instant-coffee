@@ -32,10 +32,10 @@ paintings and sculptures to ceremonial regalia and conceptual
 photography. It emphasizes regional art from the postwar era to the 
 present day, revealing the collectors’ special interest in local and 
 emerging artists, many of whom have become personal friends. “My 
-passion for the visual arts is not just about owning and collecting art,â€  
+passion for the visual arts is not just about owning and collecting art,”  
 says Michael O’Brian; “The work must create within me a desire to feel 
 and understand what was in the artist’s mind at the time of its 
-creation.â€ 
+creation.” 
 
 Taking an experimental approach to the exhibition, the curators—
 Karen Duffek (Museum of Anthropology, UBC), Helga Pakasaar 
@@ -50,7 +50,7 @@ artworks in the exhibition are presented as a series of conversations,
 from intimate to confrontational. 
 
 “We have each brought different perspectives into the process of 
-assembling the exhibit,â€  says Duffek, â€œand want to honour the vision of 
+assembling the exhibit,”  says Duffek, “and want to honour the vision of 
 the Michael O’Brian Family Foundation, which founded Satellite Gallery 
 as a space for new and temporary projects, collaborations, and 
-experiments in the arts.â€
+experiments in the arts.”

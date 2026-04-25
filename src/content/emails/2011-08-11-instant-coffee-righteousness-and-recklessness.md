@@ -190,7 +190,7 @@ About Grow:
 Grow is a public art project that acts as a public forum, teaching tool 
 and creative laboratory for ecological and social sustainability 
 practices in South East False Creek (SEFC). Located in 
-Vancouverâ€™s â€œgreenest developmentâ€ , the Olympic Village, Grow 
+Vancouver’s “greenest development” , the Olympic Village, Grow 
 explores sustainability issues through a series of walks, workshops 
 and creative experiments in urban agriculture. 
 

@@ -27,14 +27,14 @@ Digital Collection gives worldwide access to scholars, teachers, students,
 and art-lovers.
 
 “Video pioneer Nam June Paik organized the first art exhibition on the
-World Wide Web in 1994,â€  explains Fluxus artist and collection donor Ken
+World Wide Web in 1994,”  explains Fluxus artist and collection donor Ken
 Friedman. “Since then, Fluxus artists and composers have had a durable
 presence of event scores, images, documents, web sites, exhibitions,
 publications, and more. Some vanished when links broke and web sites
 disappeared. Others continue to overcome the limits of fragile artifacts
 that museums preserve by protecting them from people. The Fluxus Digital
 Collection brings works back to life, returning them to the world where
-they belong with a future as lively as the past.â€ 
+they belong with a future as lively as the past.” 
 
 The University of Iowa Special Collections houses a trove of yet-to-be
 processed Fluxus art, writing, and correspondence. The Fluxus Digital

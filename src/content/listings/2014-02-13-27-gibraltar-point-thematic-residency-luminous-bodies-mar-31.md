@@ -19,8 +19,8 @@ Includes: accommodation, large shared studio, workshop facilitation, and an
 exhibition
 
 Luminous bodies is a two-week thematic residency to create artworks that 
-shed new light on the human body. Its objective is to challenge â€œnormativityâ€  
-and "otherness.â€  Its goal is to reinvent and re-present the body in most 
+shed new light on the human body. Its objective is to challenge “normativity”  
+and "otherness.”  Its goal is to reinvent and re-present the body in most 
 inclusive and diverse ways. Audio-visual screenings, guest artist talks 
 followed by studio visits, a gallery tour and readings, uncover how our 
 bodies are culturally and aesthetically constructed, displayed and controlled. 

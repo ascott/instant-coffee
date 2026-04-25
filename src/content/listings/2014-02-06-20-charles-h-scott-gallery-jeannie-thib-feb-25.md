@@ -31,7 +31,7 @@ Kellman writes: “In her practice, using advanced design and fabricating
 techniques and contemporary industrial materials, Jeannie Thib offers 
 a critique of the Modernist, rectilinear, standardized space and design 
 that prizes efficiency. She asks, what if our built environment were 
-based on ornamental floral patterns?â€ 
+based on ornamental floral patterns?” 
 
 Jeannie received a BFA from York University, Toronto, in 1979. She 
 has exhibited in Europe, the USA, Mexico, Cuba and widely across 
@@ -48,7 +48,7 @@ Convention Center, USA.
 On Jeannie Thib’s recent passing, Joy Walker, a Toronto-based artist 
 and a collaborator of Thib’s, Joy Walker writes, “Jeannie has made us 
 all look a little more closely at quiet details, bringing them into sharp 
-focus. She has definitely done that for me. She will be deeply missed.â€ 
+focus. She has definitely done that for me. She will be deeply missed.” 
 
 Jeannie Thib: Hyperflat is curated by Tila Kellman and organized by 
 Saint Mary’s University Art Gallery in Halifax.

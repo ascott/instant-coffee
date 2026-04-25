@@ -28,7 +28,7 @@ intense labour. Be it the physically demanding work of destroying a boat
 (Jukka Silokunnas), cutting up a frozen lake (Antti Laitinen) or chipping up 
 a log (Emma Lappalainen or building self-sufficient kinetic sculptures 
 (Lasse Ursin). All demand a certain determination and sacrifice proudly 
-known as â€œsisuâ€  in the Finnish language. Each piece has an intimate story 
+known as “sisu”  in the Finnish language. Each piece has an intimate story 
 as well, reflecting the solitary nature of Finns. The lone, physical and 
 technical involvement in each creation is reflective of the Finnish 
 relationship to nature.

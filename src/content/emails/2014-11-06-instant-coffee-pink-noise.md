@@ -128,7 +128,7 @@ curators of film and video, having worked at MoMA, the Walker Art
 Center, The Whitney Museum of American Art and the Guggenheim 
 Museum throughout the course of his long career. His talk, in part 
 inspired by Roland Barthes’ “How to Live Together. Novelistic Simulations 
-of Some Everyday Spacesâ€ , will look at how interior spaces are imagined 
+of Some Everyday Spaces” , will look at how interior spaces are imagined 
 in work ranging from John Ford to Isaac Julien.
 
 Contact:
@@ -603,10 +603,10 @@ this period.
 
 November 10
 Jerry Zaslove
-â€œBenjaminâ€™s â€œLitmus Testâ€ : The Aesthetics of Violence and Culture as an 
-â€œEnigmatic Signifierâ€ 
+“Benjamin’s “Litmus Test” : The Aesthetics of Violence and Culture as an 
+“Enigmatic Signifier” 
 I will try to conceptualize Benjamin¹s use of violence as the State driven 
-â€œenigmatic signifierâ€  of culture that creates complicity that masks the 
+“enigmatic signifier”  of culture that creates complicity that masks the 
 negative of repression of violence within the rights based powerlessness 
 of culture to arrest structural violence. The enigma of the negative of 
 violence in modernity lies in the fear and reality of complicity with 
@@ -616,7 +616,7 @@ Bio:
 Jerry Zaslove is a teacher and writer in the fields of Comparative 
 Literature and Social History of Art influenced but not limited by the 
 traditions of critical theory for the arts, aesthetics, psychoanalysis, and 
-social thought. Most recent writing: â€œKafka in theâ€™ Penal Colonyâ€ , essays 
+social thought. Most recent writing: “Kafka in the’ Penal Colony” , essays 
 on the place of the University in society, Exile and memory, the City in 
 History – Elsewhere and Otherwise, forms and social realities of thinking 
 about community. Dr. Zaslove has taught at SFU since its opening year – 
@@ -633,7 +633,7 @@ value necessary to the expansion of capital is extracted through labor
 and compensated in a self reproducing matrix of remuneration
 reticulated to time in which the worker works against her own
 interest. A 2004 piece entitled 584 Horas de Trabajo (584 Hours of
-Work) sets the problem of labor against the art â€œworkâ€  in a retort to
+Work) sets the problem of labor against the art “work”  in a retort to
 the legacy of minimalist sculpture, one of the last traditional
 artistic idioms of the 20th Century. By documenting the man-hours
 spent constructing a massive cubic monument mimicking those of Tony
@@ -707,12 +707,12 @@ aesthetic politics of equality?
 
 Readings:
 
-Jonathan Beller, Chapter Two (â€œThe Spectatorship of the Proletariatâ€ ) in 
+Jonathan Beller, Chapter Two (“The Spectatorship of the Proletariat” ) in 
 The Cinematic Mode of Production: Attention Economy and the Society 
 of the Spectacle (Dartmouth College/University Press of New England, 
 2006).
 
-Jacques RanciÃ¨re, â€œEisensteinâ€™s Madness,â€  in Film Fables (Bloomsbury 
+Jacques Rancière, “Eisenstein’s Madness,”  in Film Fables (Bloomsbury 
 Academic, 2006).
 
 Bio:
@@ -1087,7 +1087,7 @@ Other events taking place between Nov 8 – Nov 19 to be announced.
 “My hand which touches the things is itself subject to being touched. 
 “Through this crisscrossing within it of the touching and the tangible, its 
 own movements incorporate themselves in the universe that they 
-interrogate, are recorded on the same map as itâ€  - Bernard Flynn In a 
+interrogate, are recorded on the same map as it”  - Bernard Flynn In a 
 discussion of Maurice Merleau-Ponty’s thought.
 
 Eschaton: final event in the devine plan: the end of the world.
@@ -1290,7 +1290,7 @@ Okanagan Valley, Desert Elm.
 Scrivener’s Monthly is a series of public presentations that explore the 
 space between material practices and spoken words: a periodical that 
 talks. Set alongside the exhibitions program at Western Front, this 
-experiment in â€œnot publishingâ€  involves readings, performances, and other 
+experiment in “not publishing”  involves readings, performances, and other 
 articulations.
 
 Western Front
@@ -1337,8 +1337,8 @@ work that tests the absolute limits of the medium itself. Drawing
 primarily on natural forms and environments as subject matter for his
 celluloid manipulations — an array of classic and novel in-camera,
 darkroom, printing, and editing techniques — Tuohy “abstracts out the
-fleshiness of the particularâ€  to create dynamic studies of form,
-structure, time, and pattern, an approach he describes as â€œcine-cubism.â€ 
+fleshiness of the particular”  to create dynamic studies of form,
+structure, time, and pattern, an approach he describes as “cine-cubism.” 
 The filmmaker will present a series of 16mm films, culminating in a live
 performance using two projectors.
 
@@ -1426,9 +1426,9 @@ panel discussion, refreshments, and a live performance. Admission is
 free. 
 
 The key speaker and panelists represent a rich diversity of artists who 
-are using sound to actively participate in a â€œconversationâ€  with the natural 
+are using sound to actively participate in a “conversation”  with the natural 
 world. Avant-garde composer David Dunn is the keynote speaker who is 
-a pioneer of â€œenvironmental music.â€  In 1973, he travelled with three 
+a pioneer of “environmental music.”  In 1973, he travelled with three 
 trumpet players to the Grand Canyon where they improvised with the 
 spatial acoustics of rock formations and animals in the Canyon. Dunn 
 lives in Sante Fe, New Mexico where he is the current director of the Art 
@@ -1441,7 +1441,7 @@ inspired by the work of the American composer and amateur mushroom
 enthusiast John Cage. This recording of mushroom spores as they are 
 released into the air invites the listener to contemplate the relationship 
 between music and mushrooms. Matt Smith’s BogScape is a 
-â€œnaturalisticâ€  installation that generates sound from weather data 
+“naturalistic”  installation that generates sound from weather data 
 gathering systems located in or near Burns Bog. Stephanie Loveless’s 
 quadraphonic sound installation Cricket, Tree, Crow uses voice to 
 investigate the communication of insect, plant, and animal worlds. These 
@@ -1763,7 +1763,7 @@ Feyrer’s starting point is the kitchen—a space that has played a central
 role in the gallery’s social and creative life since its beginnings in 1984. A 
 meeting space that entertained activities, conversations, and ideas 
 fuelled by coffee, tea, beer, and wine, it has been a venue of literal and 
-figurative â€œbrewingâ€ , where creative relationships have percolated over 
+figurative “brewing” , where creative relationships have percolated over 
 the years. The idea of the kitchen has long been a source of inspiration 
 for the gallery, and the physical site has evolved into the present-day 
 media lab and an exhibition space for innovative media works.
@@ -1913,7 +1913,7 @@ curators of film and video, having worked at MoMA, the Walker Art
 Center, The Whitney Museum of American Art and the Guggenheim 
 Museum throughout the course of his long career. His talk, in part 
 inspired by Roland Barthes’ “How to Live Together. Novelistic Simulations 
-of Some Everyday Spacesâ€ , will look at how interior spaces are imagined 
+of Some Everyday Spaces” , will look at how interior spaces are imagined 
 in work ranging from John Ford to Isaac Julien.
 
 Contact:
@@ -2388,10 +2388,10 @@ this period.
 
 November 10
 Jerry Zaslove
-â€œBenjaminâ€™s â€œLitmus Testâ€ : The Aesthetics of Violence and Culture as an 
-â€œEnigmatic Signifierâ€ 
+“Benjamin’s “Litmus Test” : The Aesthetics of Violence and Culture as an 
+“Enigmatic Signifier” 
 I will try to conceptualize Benjamin¹s use of violence as the State driven 
-â€œenigmatic signifierâ€  of culture that creates complicity that masks the 
+“enigmatic signifier”  of culture that creates complicity that masks the 
 negative of repression of violence within the rights based powerlessness 
 of culture to arrest structural violence. The enigma of the negative of 
 violence in modernity lies in the fear and reality of complicity with 
@@ -2401,7 +2401,7 @@ Bio:
 Jerry Zaslove is a teacher and writer in the fields of Comparative 
 Literature and Social History of Art influenced but not limited by the 
 traditions of critical theory for the arts, aesthetics, psychoanalysis, and 
-social thought. Most recent writing: â€œKafka in theâ€™ Penal Colonyâ€ , essays 
+social thought. Most recent writing: “Kafka in the’ Penal Colony” , essays 
 on the place of the University in society, Exile and memory, the City in 
 History – Elsewhere and Otherwise, forms and social realities of thinking 
 about community. Dr. Zaslove has taught at SFU since its opening year – 
@@ -2418,7 +2418,7 @@ value necessary to the expansion of capital is extracted through labor
 and compensated in a self reproducing matrix of remuneration
 reticulated to time in which the worker works against her own
 interest. A 2004 piece entitled 584 Horas de Trabajo (584 Hours of
-Work) sets the problem of labor against the art â€œworkâ€  in a retort to
+Work) sets the problem of labor against the art “work”  in a retort to
 the legacy of minimalist sculpture, one of the last traditional
 artistic idioms of the 20th Century. By documenting the man-hours
 spent constructing a massive cubic monument mimicking those of Tony
@@ -2492,12 +2492,12 @@ aesthetic politics of equality?
 
 Readings:
 
-Jonathan Beller, Chapter Two (â€œThe Spectatorship of the Proletariatâ€ ) in 
+Jonathan Beller, Chapter Two (“The Spectatorship of the Proletariat” ) in 
 The Cinematic Mode of Production: Attention Economy and the Society 
 of the Spectacle (Dartmouth College/University Press of New England, 
 2006).
 
-Jacques RanciÃ¨re, â€œEisensteinâ€™s Madness,â€  in Film Fables (Bloomsbury 
+Jacques Rancière, “Eisenstein’s Madness,”  in Film Fables (Bloomsbury 
 Academic, 2006).
 
 Bio:
@@ -2872,7 +2872,7 @@ Other events taking place between Nov 8 – Nov 19 to be announced.
 “My hand which touches the things is itself subject to being touched. 
 “Through this crisscrossing within it of the touching and the tangible, its 
 own movements incorporate themselves in the universe that they 
-interrogate, are recorded on the same map as itâ€  - Bernard Flynn In a 
+interrogate, are recorded on the same map as it”  - Bernard Flynn In a 
 discussion of Maurice Merleau-Ponty’s thought.
 
 Eschaton: final event in the devine plan: the end of the world.
@@ -3075,7 +3075,7 @@ Okanagan Valley, Desert Elm.
 Scrivener’s Monthly is a series of public presentations that explore the 
 space between material practices and spoken words: a periodical that 
 talks. Set alongside the exhibitions program at Western Front, this 
-experiment in â€œnot publishingâ€  involves readings, performances, and other 
+experiment in “not publishing”  involves readings, performances, and other 
 articulations.
 
 Western Front
@@ -3122,8 +3122,8 @@ work that tests the absolute limits of the medium itself. Drawing
 primarily on natural forms and environments as subject matter for his
 celluloid manipulations — an array of classic and novel in-camera,
 darkroom, printing, and editing techniques — Tuohy “abstracts out the
-fleshiness of the particularâ€  to create dynamic studies of form,
-structure, time, and pattern, an approach he describes as â€œcine-cubism.â€ 
+fleshiness of the particular”  to create dynamic studies of form,
+structure, time, and pattern, an approach he describes as “cine-cubism.” 
 The filmmaker will present a series of 16mm films, culminating in a live
 performance using two projectors.
 
@@ -3211,9 +3211,9 @@ panel discussion, refreshments, and a live performance. Admission is
 free. 
 
 The key speaker and panelists represent a rich diversity of artists who 
-are using sound to actively participate in a â€œconversationâ€  with the natural 
+are using sound to actively participate in a “conversation”  with the natural 
 world. Avant-garde composer David Dunn is the keynote speaker who is 
-a pioneer of â€œenvironmental music.â€  In 1973, he travelled with three 
+a pioneer of “environmental music.”  In 1973, he travelled with three 
 trumpet players to the Grand Canyon where they improvised with the 
 spatial acoustics of rock formations and animals in the Canyon. Dunn 
 lives in Sante Fe, New Mexico where he is the current director of the Art 
@@ -3226,7 +3226,7 @@ inspired by the work of the American composer and amateur mushroom
 enthusiast John Cage. This recording of mushroom spores as they are 
 released into the air invites the listener to contemplate the relationship 
 between music and mushrooms. Matt Smith’s BogScape is a 
-â€œnaturalisticâ€  installation that generates sound from weather data 
+“naturalistic”  installation that generates sound from weather data 
 gathering systems located in or near Burns Bog. Stephanie Loveless’s 
 quadraphonic sound installation Cricket, Tree, Crow uses voice to 
 investigate the communication of insect, plant, and animal worlds. These 
@@ -3548,7 +3548,7 @@ Feyrer’s starting point is the kitchen—a space that has played a central
 role in the gallery’s social and creative life since its beginnings in 1984. A 
 meeting space that entertained activities, conversations, and ideas 
 fuelled by coffee, tea, beer, and wine, it has been a venue of literal and 
-figurative â€œbrewingâ€ , where creative relationships have percolated over 
+figurative “brewing” , where creative relationships have percolated over 
 the years. The idea of the kitchen has long been a source of inspiration 
 for the gallery, and the physical site has evolved into the present-day 
 media lab and an exhibition space for innovative media works.

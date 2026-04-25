@@ -17,7 +17,7 @@ sports. Spectators are welcome.
 
 Tuesday 24 September: How To Kickstart workshop <http://league-league.org/?
 p=1725>
-Free but limited admission Ã¢â‚¬â€  get your ticket beginning 26 August at
+Free but limited admission ââ‚¬”  get your ticket beginning 26 August at
 <https://www.eventbrite.com/event/6656795655>
 Recently expanded to Canada, Kickstarter is a funding platform for creative
 projects. Join Kickstarter Art Program Director Stephanie Pereira for a primer on

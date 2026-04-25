@@ -12,9 +12,9 @@ CALL FOR ARTISTS
 The Anonymous Art Show
 
 The North Vancouver Community Arts Council & CityScape Community Art 
-Space are very excited to announce the 9th Annual â€œAnonymous Art Showâ€ . 
+Space are very excited to announce the 9th Annual “Anonymous Art Show” . 
 This group exhibition and fundraising event will include emerging and 
-established two-dimensional artists working strictly on unframed 8â€  x 8â€  x 1Â½â€  
+established two-dimensional artists working strictly on unframed 8”  x 8”  x 1Â½”  
 back stapled canvas or wood cradle panel.
 
 Artists are encouraged to participate in this worthwhile event as it is a 
@@ -44,7 +44,7 @@ who have sold works throughout the show twitter.com/NVArtsCouncil Hash
 Tag #AAS13
 
 All Artwork MUST meet the following requirements:
-Â· We only accept unframed, 8â€  x 8â€  x 1 Â½â€ , back stapled canvas or wood 
+Â· We only accept unframed, 8”  x 8”  x 1 Â½” , back stapled canvas or wood 
 cradle panel
 · A limit of 3 submissions per artist
 · Two dimensional works only - No relief work - No three dimensional 
@@ -53,9 +53,9 @@ work
 accepted
 · Full name, signature, title and website (if available) must be written on 
 the back of the canvas (Canvases signed on the front will not be accepted.)
-Â· All works must have a title and may not be called â€œUntitledâ€ .
+Â· All works must have a title and may not be called “Untitled” .
 · Paintings must be submitted completely dry and unwired.
-Â· Mark an â€œupâ€  arrow on the back of canvas to indicate top
+Â· Mark an “up”  arrow on the back of canvas to indicate top
 Diptychs and triptychs are acceptable but will not be shown together
 
 Please obtain the Artist Information Sheet and the Artist Contract to hand in 

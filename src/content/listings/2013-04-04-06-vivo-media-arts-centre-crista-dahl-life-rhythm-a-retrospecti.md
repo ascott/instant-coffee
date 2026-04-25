@@ -42,7 +42,7 @@ In the adjacent Gallery 1965, a collection of Dahl's drawings, paintings,
 sculpture and video form a context and counterpoint to the dynamics of the
 Life Rhythm project.
 
-On April 18th three performances â€”Generations, Spiral Brain & Revolutionâ
+On April 18th three performances —Generations, Spiral Brain & Revolutionâ
 €”
 will serve as workshops through which audiences can experience Life
 Rhythm's structures of ancient knowledge and behavior in light of current

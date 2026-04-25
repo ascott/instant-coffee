@@ -13,7 +13,7 @@ CALL FOR PAPERS (DEADLINE EXTENDED TO DECEMBER 15TH)
 As Hal Foster has noted in a recent questionnaire on the subject,
 contemporaneity-while not a new term-has at our present moment assumed a
 relevance as insistent as it is diverse. Encompassing a wide array of
-concerns including the ambitions and anxieties of the â€œnewâ€  in historical
+concerns including the ambitions and anxieties of the “new”  in historical
 and neo-avant-gardes, the epistemological status of collected objects, and
 the ontological status of the historian, contemporaneity lies at the heart
 of many of the most pressing questions currently preoccupying the
@@ -28,9 +28,9 @@ anticipate our shared futures.
 
 Possible topics may include:
 
--Contemporaneity and the notion of â€œpresent-nessâ€ 
+-Contemporaneity and the notion of “present-ness” 
 
--Contemporaneity and the notion of â€œpast-nessâ€ 
+-Contemporaneity and the notion of “past-ness” 
 
 -Technology and the temporal aspects of cultural exchange
 
@@ -42,7 +42,7 @@ Possible topics may include:
 
 -Contemporary art and the contemporary art market
 
--The status of the prefix â€œpostâ€ 
+-The status of the prefix “post” 
 
 -Periodization in the humanities (Antiquity, Renaissance, Modern etc.)
 

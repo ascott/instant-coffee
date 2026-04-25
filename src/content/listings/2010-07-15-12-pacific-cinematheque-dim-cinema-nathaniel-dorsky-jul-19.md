@@ -65,6 +65,6 @@ __________________
 
 Amy Lynn Kazymerchyk
 Associate Programmer: DIM
-Pacific CinÃ©mathÃ¨que
+Pacific Cinémathèque
 cinematheque.bc.ca
 dimcinema.ca

@@ -68,7 +68,7 @@ Gallery Curator Jordan Strom. Subjects of the presentations and
 conversation will include: how the South of Fraser region inspires each
 artist’s work; why it’s important to them to make art that reveals the
 history of change in this region; how artists seek to capture the present
-moment - â€œthe nowâ€  - through their work; and how their work explores ways
+moment - “the now”  - through their work; and how their work explores ways
 of depicting the human figure. Admission to this event is free.
 
 About the Speakers
@@ -97,7 +97,7 @@ Playing with an expanded idea of portraiture, the artists in Views from the
 Southbank II create representations or impressions of people and places,
 some working in traditional portraiture style and others using more
 experimental and collaborative methods. Their work is situated in context
-to the rapidly growing â€œSouth of Fraserâ€  region of British Columbiaâ€™s Lower
+to the rapidly growing “South of Fraser”  region of British Columbia’s Lower
 Mainland, comprising the municipalities of Surrey, Langley, Delta, and
 White Rock. In capturing the character(s) of a place that is constantly
 changing, the artists offer a brief interval in time—the present moment
@@ -407,7 +407,7 @@ Oana Clitan, Rotterdam
 Sylvana d'Angelo, Vancouver
 Alexander Gusstafson, Zurich
 Alexandra Lucerna, Moscow
-AneÅ¾ka MinařÃ­kovÃ¡, Prague
+AneÅ¾ka MinařÃ­ková, Prague
 Larissa Monteiro, Brazil
 Ana Radovanović, Belgrade
 Daniel Rincon, Vancouver
@@ -443,10 +443,10 @@ the Alternator Centre for Contemporary Art.
 The exhibit is headed by Chris Bose and features work from other members of
 Kamloops’ Arbour Collective, an urban Aboriginal, Métis and Inuit artist
 association.
-â€œThe underworld is a community that society rarely acknowledges,â€  says
+“The underworld is a community that society rarely acknowledges,”  says
 Bose. “This exhibit brings outsider art from the fringes of our social
 systems; it is created for people who will never step foot in a gallery or
-museum.â€ 
+museum.” 
 Much of the exhibit’s contentious content wrestles with themes of missing
 Aboriginal women, poverty and issues of injustice facing an array of
 underserved and plighted communities.
@@ -457,8 +457,8 @@ The new exhibit follows gallery manager Peter Green’s address to Kelowna’s
 City Council earlier this month that outlined the importance of the
 Alternator’s socially engaged art.
 “Street art and graffiti are often vilified and synonymous with urban
-decay,â€  says Green. â€œGod Save the Underworld is however politically
-charged and an incredibly potent expression.â€ 
+decay,”  says Green. “God Save the Underworld is however politically
+charged and an incredibly potent expression.” 
 In honour of National Aboriginal Day on June 21st, the Bose will partner
 with an undisclosed downtown business to paint a public mural.
 The Alternator and Bose are slated to participate in the city’s Canada Day
@@ -578,7 +578,7 @@ NONAME
 New works by Janice Cheung
 
 Janice Cheung is a Vancouver based installation artist with a background in
-photography and extended media through the University of Guelph. Cheungâ€™s
+photography and extended media through the University of Guelph. Cheung’s
 work consists of interactive multimedia installations, often incorporating
 a multiple of some kind. She is also the Creative Director of the Young
 Asian Canadian Twin Artist Collective a.k.a >> Yactac
@@ -647,7 +647,7 @@ condition. He studied cultural anthropology at Duke University and
 completed his Masters in film production at UBC.
 
 Dhruv’s films are distributed globally and have been nominated for various
-awards on the festival circuit. His debut feature, â€œFrom Dustâ€  was
+awards on the festival circuit. His debut feature, “From Dust”  was
 critically acclaimed by the international press and screened at the United
 Nations for its exposé of gentrification in the wake of natural disasters.
 
@@ -690,10 +690,10 @@ his critically acclaimed presentation at dOCUMENTA 13 in 2012. How Do I Fit
 This Ghost in My Mouth? illustrates Farmer’s ability to create
 extraordinary art from simple yet strategic use of found materials, taking
 Gallery visitors on a memorable journey that evokes personal, social and
-art historical narratives,â€  said Kathleen S. Bartels, Director of the
+art historical narratives,”  said Kathleen S. Bartels, Director of the
 Vancouver Art Gallery. “We are especially thrilled to display for the first
 time The Surgeon and the Photographer, a monumental installation that was
-acquired by the Gallery in 2010.â€ 
+acquired by the Gallery in 2010.” 
 
 Geoffrey Farmer is renowned for his sculptural works that unfold as
 theatrical narratives involving mechanical plays, assemblage and tableaux.
@@ -713,7 +713,7 @@ narratives of history. In locating this exhibition at the Vancouver Art
 Gallery, he begins by evolving the dramatic life of Francis Rattenbury, the
 architect of the original courthouse building, one where Farmer’s father
 once served as a prosecutor. Stories that are real and surreal are woven
-into a complex and pulsating experience of discovery for the viewer,â€  said
+into a complex and pulsating experience of discovery for the viewer,”  said
 Daina Augaitis, Chief Curator/Associate Director of the Vancouver Art Gallery.
 
 (...)
@@ -949,7 +949,7 @@ power of mirage and what exactly constitutes an oasis (and for whom) in a
 trenchant critique of the dividends of colonialism and cultural capital.
 During shooting of The Conquerer in Utah, horses hooves churned up lethal
 sand storms—a befouled legacy of more than 119 above-ground nuclear
-testsâ€”resulting in the slow but inexorable poisoning of â€œdownwinders,â€ 
+tests—resulting in the slow but inexorable poisoning of “downwinders,” 
 largely Shivwits extras from the Paiute nation. The Prussian blue produced
 in cyanotypes printed from frames of the 1954 film is also used to treat
 radiation sickness; a literal and symbolic recuperation of the image
@@ -959,11 +959,11 @@ aesthetics of destruction to the construction of aesthetics with the
 velocity and intensity of a shooting star. In some surreal present or
 future on some simulacrum of a soundstage The Nurse exhorts us to take a
 yes or no quiz while we are fleetingly exposed to alarming and disjointed
-images. â€œDid the man harm them,â€  (s)he enquires? â€œDo you feel comfortable
-in a disciplined environment?â€  In the spaces between the interrogatories
-and the daft fleetness of photographic â€œevidenceâ€  we internalize the nature
+images. “Did the man harm them,”  (s)he enquires? “Do you feel comfortable
+in a disciplined environment?”  In the spaces between the interrogatories
+and the daft fleetness of photographic “evidence”  we internalize the nature
 of artifice and adapt it to our experience as voyeurs. Congratulations are
-in order. â€œYou have a split emotional register. Would you like to reseal it?â€ 
+in order. “You have a split emotional register. Would you like to reseal it?” 
 
 Rä di Martino is a graduate of Chelsea College of Art and of the Slade
 School of Art. Born in Rome, she moved to London in 1997 and to New York in
@@ -981,7 +981,7 @@ Mardin, Turkey (2013);Mission Afterviews, Victoria Theatre, San Francisco
 (2012).
 
 Shambhavi Kaul's cinematic constructions conjure uncanny, science-fictive
-non-places. Described as creating â€œzones of compression and dispersion,â€ 
+non-places. Described as creating “zones of compression and dispersion,” 
 her work utilizes strategies of montage and recirculation, inviting an
 affective response while simultaneously measuring our capacity to know what
 we encounter. She has exhibited her work worldwide at venues such as
@@ -1116,7 +1116,7 @@ concerns along with notions of identity politics, labor, and different ways
 of seeing come together in a manner that tackles questions of ambiguity,
 identity, community, and the body. Among these works a space is created
 where we may explore the ways in which our lives are, as Nancy puts it,
-â€œwoven through with strangers and strangeness.â€  The strangeness of
+“woven through with strangers and strangeness.”  The strangeness of
 inhabiting a body; of the simultaneous necessity and impossibility of
 communicating the experience of that body; of the process of coming to know
 one’s self and one’s relation to others; and the strangeness of certain
@@ -1288,7 +1288,7 @@ numerous shifts in both method and expression over the course of his
 career. It is a trajectory he has likened to a stream of consciousness. At
 its core, however, is a persistent inquiry into the nature and consequences
 of our relationship with the material world, an exploration, to quote the
-artist, â€œof the space that engages our physical selves.â€  Perhaps not
+artist, “of the space that engages our physical selves.”  Perhaps not
 surprisingly, this investigation has resulted in a body of work unified by
 its sensuous—and stubborn—materiality. Johnston brings his architecture and
 ceramics background to this exhibition. The Chamber is an enormous
@@ -1296,7 +1296,7 @@ inflating and deflating installation that shrouds and reveals an enormous
 mass of discarded household items diverted from what the artist terms "the
 waste stream." Mesmerizing and sobering, The Chamber suggests to viewers,
 as Johnston states, “the paradoxical relationship between limited resources
-and seemingly unlimited appetite.â€ 
+and seemingly unlimited appetite.” 
 
 *
 Ian Johnston is an internationally exhibited architect turned sculptor
@@ -1349,9 +1349,9 @@ Curated by Margaret Stern
 The Or Gallery is pleased to present #saltandwater: The Palestinian-Israeli
 Conflict, an exhibition of four Palestinian artists. In his 1981 book, The
 Political Unconscious, Fredric Jameson asserts the idea of Louis
-Althusserâ€™s â€œabsent causeâ€  within a structure. He posits that the structure
-itself is intrinsic to its effects, that Jacques Lacanâ€™s â€œrealâ€  and Louis
-Althusserâ€™s â€œabsent causeâ€  can never be represented in their entirety, as
+Althusser’s “absent cause”  within a structure. He posits that the structure
+itself is intrinsic to its effects, that Jacques Lacan’s “real”  and Louis
+Althusser’s “absent cause”  can never be represented in their entirety, as
 the signifier will always take the place of the signified. In looking at
 the Palestinian-Israeli conflict, Jameson’s argument can bring new light to
 the violence and unspeakable totality of the ongoing occupation. Seemingly
@@ -1367,7 +1367,7 @@ importance. In the summer of 2014, approximately 350 Palestinian prisoners
 participated in a hunger strike. 183 administrative detainees –
 Palestinians held without charge or trial – were unfairly detained in
 Israeli jails. The hashtag that emerged from the strike was
-â€œ#saltandwater,â€  supporting the consumption by the prisoners of only salt
+“#saltandwater,”  supporting the consumption by the prisoners of only salt
 and water for survival. Salt and water became symbols for life, for
 solidarity, and symbols of a lack of access to basic human necessities. The
 Palestinian people do not have access to enough clean, useable water. They
@@ -1456,7 +1456,7 @@ Programmed by Michèle Smith
 
 Using abstraction, animation, and re-enactments, Toronto-based artist
 Jean-Paul Kelly — the 2014 recipient of the Kazuko Trust Award for
-â€œartistic excellence in the moving imageâ€  at the New York Film Festival â€”
+“artistic excellence in the moving image”  at the New York Film Festival —
 has created a powerful series of short videos that examine the attractors
 and repulsors of various forms of media representation. Details from
 documentaries, press cuttings, publications, and online media streams are
@@ -1468,7 +1468,7 @@ documentaries, which have been stripped of their naturalistic signifiers
 to bring underlying ideologies into sharper focus. “This film is not only
 a bang-on piece of filmic analysis; it also poses fundamental questions
 about the representation of social institutions, and those stuck inside of
-themâ€  (Michael Sicinski, Keyframe Magazine).
+them”  (Michael Sicinski, Keyframe Magazine).
 
 PROGRAM
 
@@ -1689,7 +1689,7 @@ complaint letters that were written in the late sixties and now sit in a
 folder within the Vancouver Archives. This folder was created by the
 Kitsilano Ratepayer's Association (KRA), a group of property owners in
 Vancouver's west side neighbourhood, and is an artifact of its coordinated
-efforts. As historian Daniel Ross has shown, defining the â€œhippy problemâ€ 
+efforts. As historian Daniel Ross has shown, defining the “hippy problem” 
 was a way for neighbourhood elites to make sense of, and control, the new
 identities converging in Kitsilano, “based on a youthful and sometimes
 hedonistic exploration of alternatives to middle-class values and consumer

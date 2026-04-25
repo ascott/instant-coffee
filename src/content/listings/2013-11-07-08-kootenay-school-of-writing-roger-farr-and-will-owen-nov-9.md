@@ -30,7 +30,7 @@ Kootenay School of Writing
 
 +
 
-â€œCantonese 49â€ 
+“Cantonese 49” 
 
 One of the seven lakes, and these passages:
 Rainy River Navigation
@@ -93,7 +93,7 @@ And the power of the beast.
 +
 
 KRS-One
-from â€œSound of Da Policeâ€ 
+from “Sound of Da Police” 
 
 Now here's a little truth, open up your eyes
 While you're checking out the boom-bap, check the exercise
@@ -107,7 +107,7 @@ You need a little clarity, check the similarity
 +
 
 Zhou Zan
-â€œMr. Zhang San Rides through Town on a Minibusâ€ 
+“Mr. Zhang San Rides through Town on a Minibus” 
 
 4.
 
@@ -116,7 +116,7 @@ revolutionary enterprise,
 these are antitheses in the books he's read;
 the question he has no time for allegorized
 by passengers getting on and off in turn: “Those who want to get on, get on;
-if it's your stop, say somethingâ€  â€“ history's meaning
+if it's your stop, say something”  – history's meaning
 found in excessive annotations of ordinary speech.
 
 But why must his identity be made clear?
@@ -127,9 +127,9 @@ how much his business has earned.
 His youth is promising; is his seat on the minibus
 nothing more than a mark of the nouveau riche?
 
-â€œWill have bread, will have everything.â€  He admires
+“Will have bread, will have everything.”  He admires
 the Marlboro pressed between his fingers, distinguished emblem
 of two esteemed cultures, characters: Act! Victory lies ahead! Yet he
 identifies himself with the cigarette: “I am being burned
 to the utmost degree by my own flame
-and curl up in my own smoke.â€
+and curl up in my own smoke.”

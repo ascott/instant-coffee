@@ -52,7 +52,7 @@ grateful for the support of Vancouver Foundation and our members, donors
 and volunteers.
 
 Contemporary Art Gallery, 555 Nelson Street, Vancouver, BC, V6B 6R5, Canada
-www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½ 6 pm.
+www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½ 6 pm.
 Admission is free by donation.
 
 For more information please contact: info@contemporaryartgallery.ca or

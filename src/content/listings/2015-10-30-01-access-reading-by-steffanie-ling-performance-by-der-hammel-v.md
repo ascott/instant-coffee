@@ -20,7 +20,7 @@ which features written contributions by Tanya Lukin Linklater and
 Steffanie Ling. We will mark this occasion with an informal reading by
 Ling, and a special appearance by Der Hammel von Kouver (a.k.a.
 exhibiting artist Mike Bourscheid), performing the composition
-â€œIntroducing Myself to the Canada Geeseâ€  on bespoke bagpipes.
+“Introducing Myself to the Canada Geese”  on bespoke bagpipes.
 
 *
 

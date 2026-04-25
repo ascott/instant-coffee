@@ -144,7 +144,7 @@ try them out. FREE with gallery admission ($7-$22.40)
 
 Drawing Your Dreams Workshop at Thunderbird - 1pm - 3:30pm
 Thunderbird Community Centre, 2311 Cassiar Street, Vancouver
-This event for â€œnon-drawersâ€  of all ages with artist Yoko Tomita invites 
+This event for “non-drawers”  of all ages with artist Yoko Tomita invites 
 you to drop in and draw at a fun, easy and inspiring workshop on the 
 theme of dreams! FREE
 

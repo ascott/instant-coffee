@@ -44,8 +44,8 @@ Opening reception: Thursday May 13th, 6 to 8pm
 www.equinoxgallery.com
 
 Equinox Gallery is pleased to present an exhibition of new works by
-Vancouver artist Sonny Assu. Sonny Assu is Laich-kwil-tach (Kwakwakaâ��wakw)
-of the Wekaâ��yi First Nation (Cape Mudge) and looks to his heritage to
+Vancouver artist Sonny Assu. Sonny Assu is Laich-kwil-tach (Kwakwaka’wakw)
+of the Weka’yi First Nation (Cape Mudge) and looks to his heritage to
 address, unravel, and in some instances, complicate, the issues of personal
 lineage within the realm of contemporary culture.
 
@@ -140,7 +140,7 @@ experience frequently mediated by props or forms of armour that alleviate
 the tension and self-consciousness that often accompanies such
 performances. Funny Business also investigates the reception of
 performative works of art, and how the gallery space functions as a
-platform for more ephemeral modes of artistic engagement â�� both at the
+platform for more ephemeral modes of artistic engagement ’ both at the
 exhibition's opening reception and for its duration. Specifically, the
 exhibition will address the absence and presence of an audience as an
 integral component to the comedic process.
@@ -798,9 +798,9 @@ non-verbal communication, and representing and positioning subjectivities.
 The festival is exited to present the work of: Mitchell Akiyama | Raymond
 Boisjoly | Jubal Brown | Roy Caussy | Kevin Clancy | Aleesa Cohene | Benny
 Nemerofsky Ramsay | Ian William Craig | Brady Cranfield | Spencer Davis |
-RÃ¤ di Martino | Felix Dufour-LaperriÃ¨re | Francisca Duran | Empress | Peter
+RÃ¤ di Martino | Felix Dufour-Laperrière | Francisca Duran | Empress | Peter
 Eramian | Gabriela Golder | Lief Hall | Max Hattler | Tijmen Hauer | Alex
-Hetherington | Pil & Galia Kollectiv | Pascal LiÃ¨vre | Heidi Nagtegaal |
+Hetherington | Pil & Galia Kollectiv | Pascal Lièvre | Heidi Nagtegaal |
 Hee Won Navi Lee | Lance Olsen | Heidi Phillips | Elodie Pong | Anahita
 Razul | Mary Reid Kelley | Billy Roisz | Josh Rose | Sade Sade | prOphecy
 Sun | Leslie Supnet | DJ Tapes | Yi Xin Tong | Sydney Vermont | Paul Walde
@@ -895,12 +895,12 @@ www.contemporaryartgallery.ca. Review of applications will begin on Monday,
 ------------------------------------------------------------------------
 DAZIBAO, CENTRE DE PHOTOGRAPHIES ACTUELLES
 
-JEUNE TÃ�TE D'AFFICHE CONTEST
+JEUNE TTE D'AFFICHE CONTEST
 
 DEADLINE > JUNE 1ST
 
 Call for proposals for students of Canadian universities and/or Canadian
-students studying abroad who are completing a Masterâ��s degree in Fine Arts
+students studying abroad who are completing a Master’s degree in Fine Arts
 during the year
 
 Dazibao, centre de photographies actuelles offers an artist graduating in
@@ -929,10 +929,10 @@ We do not accept proposals via e-mail. Incomplete submissions or
 submissions sent after the competition closing date will not be accepted.
 
 Send to:
-Jeune tÃªte dâ��affiche Contest
+Jeune tÃªte d’affiche Contest
 Dazibao, centre de photographies actuelles
 4001 rue Berri, espace 202
-MontrÃ©al (QuÃ©bec) H2L 4H2
+Montréal (Québec) H2L 4H2
 
 
 

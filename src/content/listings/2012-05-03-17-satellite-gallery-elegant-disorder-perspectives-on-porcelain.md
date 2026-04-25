@@ -47,7 +47,7 @@ elegant surface.
 Artist Biographies
 Sin-Ying Ho’s works are part of her series Meeting Places (2007-2009). 
 Her work reflects the impact of globalization on the cultural borrowings 
-and interactions in an accelerated â€œglobal village.â€  She currently 
+and interactions in an accelerated “global village.”  She currently 
 teaches at Queen’s College in New York City. 
 
 Paul Mathieu is interested in the role and function of ceramics within 

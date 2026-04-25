@@ -16,11 +16,11 @@ Saturday, October 31st, 2015
 https://www.facebook.com/events/1001380883226670/
 
 Far Away So Close: Part III exhibiting artist Alana Bartol will lead an
-exploration of the history, use, and tools of dowsing or â€œwater-witchingâ€ 
-(using â€œYâ€  or â€œLâ€  shaped rods [often a bent coat hanger or found
+exploration of the history, use, and tools of dowsing or “water-witching” 
+(using “Y”  or “L”  shaped rods [often a bent coat hanger or found
 branch] to locate ground water without the use of scientific technology).
 After a trip to Nova Scotia, Bartol learned that the women in her
-motherâ€™s family have long been regarded for their â€œwater witchingâ€ 
+mother’s family have long been regarded for their “water witching” 
 abilities. Drawing on her family history and traditions of divining, she
 explores dowsing as a creative method and mode of inquiry
 investigating ways of knowing within and beyond the human body.

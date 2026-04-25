@@ -24,13 +24,13 @@ visual arts. There is no clear or one path in becoming an artist, but there
 are steps involved in maintaining an exciting and enriching career. As
 emerging artists you have to be creative, not just in your work, but in
 practical life. The workshop is designed to be both formal and informal.
-You will have a solid artist â€œpackageâ€ (statement, proposal, and portfolio)
+You will have a solid artist “package” (statement, proposal, and portfolio)
 that you can modify for funding, exhibition submissions, residencies, and
 maybe even getting into other programs. And you will have an intimate
 conversation with a working artist in how to maintain a practice, be
 disciplined with your methodology, and be part of an artistic community.
 
-Jade Yumang was named after his motherâ€™s beauty salon and from an earlier
+Jade Yumang was named after his mother’s beauty salon and from an earlier
 age has been obsessed with beautiful, yet slightly off things. His work
 primarily focuses on the concept of queer form through sculptural
 abstraction, installation, and performance. He received his MFA at Parsons

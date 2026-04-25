@@ -23,8 +23,8 @@ Canada now. Twenty-four galleries in the province will also be exhibiting
 artworks by
 Manitoba and Indigenous women artists. Hop on the free party bus that will roam
 between exhibitions on Friday, October 3. Attend the “What Is Feminist
-Art?â€  and â€œIs
-Art Gendered?â€  debates on Saturday, October 4 at the Garrick Theatre. Donâ€™t
+Art?”  and “Is
+Art Gendered?”  debates on Saturday, October 4 at the Garrick Theatre. Don’t
 miss
 the Throwdown Hoedown dance party on Saturday, October 4 at the Marlborough
 Hotel. And join us for a closing lecture and reception at the University of
@@ -113,14 +113,14 @@ All Winnipeg galleries open and exhibiting Manitoba and Indigenous women’s
 artwork.
 
 3-5pm
-â€œWhat Is Feminist Art?â€  â€” panelists duke it out, presenting examples of
+“What Is Feminist Art?”  — panelists duke it out, presenting examples of
 artworks they believe are feminist, artworks they believe are not, and why.
 Featuring down-and-dirty Sharlene Bamboat (Toronto), keepin’-it-Riel Cathy
 Mattes (Brandon) and lay-it-on-the-line Joan Borsa (Saskatoon), refereed by
 Dominique Rey (Winnipeg). The Garrick Theatre, 330 Garry St. Free!
 
 8-10pm
-â€œIs Art Gendered?â€  â€” an Oxford-style debate pitting two teams of
+“Is Art Gendered?”  — an Oxford-style debate pitting two teams of
 opinionated art divas: Amy Fung (Vancouver), Seema Goel (Winnipeg), Kristin
 Nelson (Winnipeg) and Praba Pilar (Winnipeg), refereed by Diana
 Thorneycroft (Winnipeg). The Garrick Theatre. Free!

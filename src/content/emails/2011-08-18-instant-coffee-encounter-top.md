@@ -361,7 +361,7 @@ interactive-film-video-series/>
 .
 
 This Interactive Film and Video Series at G++ was made possible
-through the joint BC Film/BC Arts Council â€œInteractive Fundâ€ .
+through the joint BC Film/BC Arts Council “Interactive Fund” .
 
 Link to PDF: Call for Media Artists: Interactive Film & Video Series
 at G++ 
@@ -570,7 +570,7 @@ Janice Cheung, Mike Gagne, and Mike Ness.
 PLEXI, PLASTIC, WOOD & ASS examines the foundations of material
 processing and the subversive nature of humour. The impetus of 
 this exhibition aims to examine the relationships that form between 
-co- existing â€œobjects of artâ€  within the framed space and the 
+co- existing “objects of art”  within the framed space and the 
 narratives that often assimilate.
 
 Born and raised in Manila Philippines, Vancouver based artist 
@@ -920,7 +920,7 @@ time.
 
 Hosting workshops
 
-Renowned emcee (recently described as â€œillustriousâ€  by the Fringe 
+Renowned emcee (recently described as “illustrious”  by the Fringe 
 Festival!) David C. Jones will be presenting his popular hosting 
 workshop on Sunday August 28th.
 

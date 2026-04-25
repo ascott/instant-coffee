@@ -31,7 +31,7 @@ people who live and work on the margins. His endurance process
 developed in tandem with his astuteness to the ebb and flow of life 
 passing through capital. In Lost Book Found Cohen reflects, “I became 
 invisible, and then I began to see things that had once been invisible to 
-me.â€ 
+me.” 
 
 "New York" begins with Cohen's 1988 film, This is a History of New 
 York, which borrows the narrative of monumental epochs to frame 

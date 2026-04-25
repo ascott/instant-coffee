@@ -102,12 +102,12 @@ internationally.
 
 “My work is a quiet act of defiance in a digital age. I wish to draw
 attention to the tactile, sensual subtleties of our world at a time when
-the word â€œtouchâ€  frequently references a finger-swipe across a flat,
+the word “touch”  frequently references a finger-swipe across a flat,
 rectangular screen. I use a deliberately physical process and emphasize the
 handmade mark in creating works that explore subtleties of expression; I
 hope that the lines, textures, and accumulation of marks in my work suggest
 a process, a history, and a sense of presence that will invite the viewer
-to pause, if even momentarily.â€  - Laura Widmer.
+to pause, if even momentarily.”  - Laura Widmer.
 
 Additional work by Widmer can be viewed in our display case at the Shadbolt
 Centre for the Arts.
@@ -213,8 +213,8 @@ for the duration of the exhibition
 Establishments, institutions, public areas, domestic spaces, even ephemeral
 situations carry with them protocols with which we are asked to comply as
 we encounter, enter, or pass through them. Our contemporary understanding
-of â€œprotocolâ€  is as â€œan official procedure or system of rules governing
-affairs or behaviours.â€  However, early definitions of the termâ€”a
+of “protocol”  is as “an official procedure or system of rules governing
+affairs or behaviours.”  However, early definitions of the term—a
 provisional draft, a working manuscript—imply the opposite. This project is
 sited within a triangular space in Vancouver’s Chinatown: at Access
 Gallery, Avenue (a grass-roots artist-operated space engaged in cultivating
@@ -223,7 +223,7 @@ expanded space as a grey area (an interstice, a draft, a hybrid form), the
 works of Mallory Amirault, Loes van Bruinessen, Rikke Goldbech, Fernanda
 Gutierrez, Jennifer Juba, Anchi Lin, Candice Okada, Felix Rapp, Alina
 Senchenko, Christian Vistan and Jacobo Zambrano address, navigate through
-and reconfigure our assumptions of the term â€œprotocolâ€  in institutional,
+and reconfigure our assumptions of the term “protocol”  in institutional,
 domestic, urban, social and political spaces, as well as through those of
 the art world itself.
 
@@ -393,8 +393,8 @@ mathematical layout of seeds provides rich inspiration for cyclic
 arrangements in Kadish’s art.
 
 “Subtle Emergences questions how we see and understand ecological
-complexity in our world,â€  said gallery manager Peter Green. â€œFor me, the
-exhibit inspires a re-enchantment with the natural world.â€ 
+complexity in our world,”  said gallery manager Peter Green. “For me, the
+exhibit inspires a re-enchantment with the natural world.” 
 
 The exhibition will be extended into public space with a wood-based
 sculptural installation located between the Rotary Centre for the Arts and the
@@ -404,7 +404,7 @@ people moving through the grassy space, and the gallery’s indoor
 sculptures.
 
 “Drawing on this eco-tech dichotomy, our monthly Draw by Night event on
-April 2nd will be themed inorganic beings,â€  said gallery assistant Megan
+April 2nd will be themed inorganic beings,”  said gallery assistant Megan
 Bowers. The event will coincide with Downtown Kelowna’s initiative to keep
 Cultural District businesses open late the first Thursday of each month.
 
@@ -468,7 +468,7 @@ analysis.
 share her experience with hən̓q̓əmin̓əm̓
 naming efforts at UBC
 - And Ah To the renowned illustrator of “The Great Canton and Hong Kong
-Proverbsâ€  will join us from Hong Kong via Skype for a current view of the
+Proverbs”  will join us from Hong Kong via Skype for a current view of the
 status of Cantonese language resilience and grass-roots language defense
 efforts in that city.
 
@@ -564,7 +564,7 @@ Jerry Zaslove is a writer and teacher who has taught at Simon Fraser
 University since 1965. His photograph, “Fred Douglas’s Car, 2005" is an
 homage to Fred Douglas’s art and writing. The image is one fragment from a
 series of essays and photographs titled Understanding Posthumous Memory.
-The installation and publication, â€œKafka in the Penal Colony,â€  presented at
+The installation and publication, “Kafka in the Penal Colony,”  presented at
 the SFU Gallery is a recent work.
 
 Open by appointment from April 1st - 28th,
@@ -637,7 +637,7 @@ words of Olu Oguibe, the expectation that "the ‘ethnics,’ ‘postcolonials,�
 particular flavor, deal with a certain set of themes, exhibit in particular
 avenues in particular locations outside the mainstream, or be prepared to
 offer work of a particular nature to earn momentary mainstream
-acknowledgement, after which they are quietly returned to obscurityâ€ .
+acknowledgement, after which they are quietly returned to obscurity” .
 
 Taking a cue from the Transnational Decolonial Institute in recognizing the
 “confinement that Euro-centered concepts of arts and aesthetics have
@@ -667,16 +667,16 @@ and whether First Nations artists in particular are weighted down by
 expectations that these issues be central themes of their work.
 
 -If “traditionally, the significance of museums was based on their role to
-relate a master narrative that was shared by their audienceâ€ , and there
+relate a master narrative that was shared by their audience” , and there
 “exist today competing histories (religious, ethnic, or postcolonial) that
-deconstruct an exclusive significance of â€˜artâ€™â€ , then what is the role of
+deconstruct an exclusive significance of ‘art’” , then what is the role of
 the museum of today? Is the museum obsolete?
 
 -Recognizing that art history is a western construct, how can art criticism
 be applied to art and artists from non-western societies without being
-â€œcomplicit with globalizationâ€ , transcribing â€œthe â€˜localâ€™ into a
-â€˜universalâ€™â€ , and â€œreducing difference to a series of essentialising and
-exoticising posesâ€ ?
+“complicit with globalization” , transcribing “the ‘local’ into a
+‘universal’” , and “reducing difference to a series of essentialising and
+exoticising poses” ?
 
 Based in Canada, Breach prioritizes content pertaining to current social
 issues and political debates within the Canadian context. However, we do
@@ -760,7 +760,7 @@ Cost including taxes: $1015 for private bedroom, or $750 for shared bedroom
 facilitation, and an exhibition)
 
 Luminous Bodies is a two-week residency to create artworks that shed new
-light on the human body. Its objective is to challenge â€œnormativityâ€  and
+light on the human body. Its objective is to challenge “normativity”  and
 Otherness. Its goal is to reinvent and re-present the body in most
 inclusive and diverse ways. Audio-visual screenings, guest artist talks
 followed by studio visits, a gallery tour and readings, uncover how our
@@ -1036,7 +1036,7 @@ take on a range of topics, from the forbidden pleasures of men crying and
 the secret logic of the book of Genesis to Las Vegas suicides and
 companies jockeying to be at the start of the phone book. “Beebe’s films
 are both erudite and punk, lo-fi yet high-brow shorts that wrestle with a
-disfigured, contemporary American landscapeâ€  (Wyatt Williams, Creative
+disfigured, contemporary American landscape”  (Wyatt Williams, Creative
 Loafing).
 
 Thursday, April 2, 7:30 pm: Artist Talk at Falaise Park Fieldhouse, 3434
@@ -1300,7 +1300,7 @@ Gallery Jones is pleased to present The Mnemonic Landscape, a solo
 exhibition of new works by James Nizam. The exhibition continues Nizam’s
 exploration of the relationship between photography and sculpture, and
 their capacity (alone and in conjunction) to comment on the vagaries of the
-â€œexpandedâ€  artifact. Weaving together photo-sculptural works through a
+“expanded”  artifact. Weaving together photo-sculptural works through a
 spatial tableau, The Mnemonic Landscape considers the architectural
 fragment as a framework on which to suspend memory. Focused on the
 threshold where memory meets its vanishing point, the works waver at the

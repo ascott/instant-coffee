@@ -68,7 +68,7 @@ During a career that spans 40 years, Wall has established an international
 reputation for his photographic work. In the mid-1970s, he began making
 colour transparencies displayed in lightboxes, a format with which he is
 widely associated. These luminous backlit pictures revolutionized the way
-photographic art could be presented. Wall's images are often largeâ��some
+photographic art could be presented. Wall's images are often large’some
 more than 12-feet wide. He sees them as 'tableaux', a term traditionally
 attached to painting. He has called his work 'cinematography' because of
 the way methods normally associated with filmmaking are combined with

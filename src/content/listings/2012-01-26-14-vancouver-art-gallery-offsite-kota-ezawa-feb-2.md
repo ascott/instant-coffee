@@ -29,7 +29,7 @@ Vote towers over the street and passersby. Ezawa says, “There is a
 boldness to it. In my own trajectory as an artist, this is an important 
 piece. When I first started I was best known as a digital animator. This 
 is such a physical piece, and marks a real departure from my earlier 
-works.â€  The sculpture is made of Douglas fir, in keeping with the artistâ€™s 
+works.”  The sculpture is made of Douglas fir, in keeping with the artist’s 
 desire to connect the work to this area.
 
 In addition to wood sculptures such as Hand Vote, Ezawa’s diverse 

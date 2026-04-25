@@ -9,23 +9,23 @@ summary: "Or Gallery | Beach Talks 2: Kristina Lee Podesva | AUG 18"
 ---
 
 Beach Talks 2 / Saturday, August 18, 4PM, Kristina Lee Podesva - 
-Going Under: â€œJohn Marr & Other Sailors With Some Sea Piecesâ€  & a 
+Going Under: “John Marr & Other Sailors With Some Sea Pieces”  & a 
 Few Shanties For Good Measure
 
 TALK
 
 Beach Talks Series:
 Kristina Lee Podesva 
-Going Under: â€œJohn Marr & Other Sailors With Some Sea Piecesâ€  & a 
+Going Under: “John Marr & Other Sailors With Some Sea Pieces”  & a 
 Few Shanties For Good Measure 
 Saturday, August 18, 4PM 
 Jericho Beach, west of the Jericho Sailing Centre (map of approximate 
 location)
 
 Part recitation, part listening party, Going Under takes inspiration from 
-a reading of Herman Melvilleâ€™s 1888 â€œJohn Marrâ€  alongside a 
+a reading of Herman Melville’s 1888 “John Marr”  alongside a 
 presentation of sea shanties and African American work songs to 
-broadly explore coping in â€œsinking shipâ€  times. In such a milieu, not 
+broadly explore coping in “sinking ship”  times. In such a milieu, not 
 unlike our own, Podesva asks what is or might be the artist’s 
 relationship to society? Is this dynamic one structured by obsolescence 
 or consequence, solidarity or passivity, camaraderie or alienation? How 
@@ -35,7 +35,7 @@ articulation of demands and dreams?
 This talk will depart from the evidence left in Melville’s story, published 
 just before his death in 1891, and will encourage the development of 
 new strategies and relations tailored to our own time and terrain. 
-Copies of â€œJohn Marrâ€  will be made available at the talk.
+Copies of “John Marr”  will be made available at the talk.
 
 Kristina Lee Podesva is an artist, writer, and Editor at Fillip. She is also 
 currently Visiting Scholar at the California College of the Arts in San 

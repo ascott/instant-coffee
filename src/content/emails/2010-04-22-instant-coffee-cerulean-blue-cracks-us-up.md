@@ -530,13 +530,13 @@ Artist Talk, Tuesday, April 27th
 
 Fillip and the Or Gallery are pleased to co-present a talk with
 Brooklyn-based artist
-David Horvitz this Tuesday at 7pm at Fillipâ��s Vancouver office.
+David Horvitz this Tuesday at 7pm at Fillip’s Vancouver office.
 
-A prolific, and incredibly diverse artist, Horvitzâ��s practice incorporates
+A prolific, and incredibly diverse artist, Horvitz’s practice incorporates
 photography, publishing, performance, and mail art, often through
 collaboration with friends and strangers. Many of his projects are
 completed through ASDF, a collaborative entity formed Mylinh Trieu Nguyen
-in 2007. Recent projects have included The Wikipedia Reader (2008â��09), One
+in 2007. Recent projects have included The Wikipedia Reader (2008’09), One
 Hundred $1 Grants (2009), and Songs for the Arctic Ocean (2009).
 
 Following up on his visit to Vancouver last spring, Horvitz will present
@@ -622,7 +622,7 @@ Emily Carr graduation exhibitions
 
 Join us as we showcase the work of our 2010 Graduates and Undergraduates.
 
-These exhibitions highlight studentsâ�� creativity and innovation across
+These exhibitions highlight students’ creativity and innovation across
 visual arts,
 
 media and design. Exhibitions are free and open to the public.
@@ -762,9 +762,9 @@ open to the public.
 
 Other events taking place in association with the conference proceedings
 include:
-â�¢ Art exhibition "Breathless Days 1959-1960: A Chronotropic
+’¢ Art exhibition "Breathless Days 1959-1960: A Chronotropic
 Experiment," at the Morris and Helen Belkin Art Gallery (April 16- June 2)
-â�¢ Film screening of Jean-Luc Godard's "A Bout de Souffle" (1960) and
+’¢ Film screening of Jean-Luc Godard's "A Bout de Souffle" (1960) and
 Alfred Hitchcock's "Psycho" (1960) in their original 35mm format at Pacific
 Cinematheque (May 2 - 3, 7:00pm), http://www.cinematheque.bc.ca/
 Online collaborative project (2009-2010) open to the public,
@@ -780,7 +780,7 @@ the organizers at conf5960@interchange.ubc.ca.
 Breathless Days: 1959-1960 is made possible by the support of: the Social
 Sciences and Humanities Research Council of Canada, Aid to Research
 Workshops and Conferences; the Consulate General of France in Vancouver; the
-Pacific CinÃ�Â©mathÃ�Â¨que (www.cinematheque.bc.ca). The following offices at the
+Pacific CinÂ©mathÂ¨que (www.cinematheque.bc.ca). The following offices at the
 University of British Columbia: the Office of the Dean, Faculty of Arts; the
 Department of Art Visual Art, and Theory; the Teaching and Learning
 Enhancement Fund, Office of the Provost and Vice President Academic; the

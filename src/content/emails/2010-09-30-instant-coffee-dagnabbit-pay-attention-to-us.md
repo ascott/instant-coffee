@@ -236,10 +236,10 @@ Christos Dikeakos, Brian Howell, Keith Langergraber, Evan Lee, Alison
 MacTaggart, Corin Sworn, Colette Urban, and Paul Wong
 
 According to the late French philosopher Jean Baudrillard, the game of hide
-and seek is â€œone of life's primal situations.â€  When one plays this game, he
-says, â€œyou mustn't hide too well. You mustn't be too good at the game.â€ 
-â€œthe player,â€  Baudrillard points out â€œmust never be bigger than the game
-itself.â€  What this says is that not only must one play by the rules of the
+and seek is “one of life's primal situations.”  When one plays this game, he
+says, “you mustn't hide too well. You mustn't be too good at the game.” 
+“the player,”  Baudrillard points out “must never be bigger than the game
+itself.”  What this says is that not only must one play by the rules of the
 game, but the game is by its nature a social situation that one cannot step
 beyond. Games, for Baudrillard, are about an interplay of relations with
 others, more than they are about end results. Clues to the way that games
@@ -252,11 +252,11 @@ re-interpreted games, portrayals of existing recreational subcultures like
 BMX biking and skateboarding, video games, amateur sport, alternative
 playgrounds, board games to paintball. In Grand Theft Love Song (2010),
 Myfanwy Ashmore choreographs the main thug character in a “first-person
-shooterâ€  video game to perform modern interpretive dance to a Duke
+shooter”  video game to perform modern interpretive dance to a Duke
 Ellington score. Mimicking the camera angles, tracking and zoom shots of
-â€œpoker televisionâ€  and gambling room video surveillance, Paul Wongâ€™s
+“poker television”  and gambling room video surveillance, Paul Wong’s
 Mahjong (2010) installation reveals the intricate micro-dynamics and verbal
-and visual queues that are integral to this classic game. â€œMinor leagueâ€ 
+and visual queues that are integral to this classic game. “Minor league” 
 professional wrestling shows off its carnival spectacle, theatrical prowess
 and undercurrent of racial and class dynamics in Brian Howell’s Wrestlers
 (2001) series.
@@ -292,7 +292,7 @@ sport has been shaped and transformed by contemporary mass media and new
 technology.
 
 Described by Thomas Elsaesser as “cinema’s most illustrious
-artist-archeologist,â€  Berlin-based Farocki has been a pioneer in the field
+artist-archeologist,”  Berlin-based Farocki has been a pioneer in the field
 of documentary art for the past four decades. Farocki has made close to 90
 films, including features, essays and documentaries. His media installation
 artworks have been presented in galleries and museums around the world,
@@ -437,21 +437,21 @@ materials in his work.
 
 “In an increasingly two-dimensional world, sculpture is reasserting itself
 as an essential art practice. This is good news in a city that for three
-decades has been developing some of the best sculptors in Canada,â€  said Jon
+decades has been developing some of the best sculptors in Canada,”  said Jon
 Tupper director of the Art Gallery of Greater Victoria. “The work of Daniel
-Laskarin fits into the unique practice that one finds in Victoria.â€ 
+Laskarin fits into the unique practice that one finds in Victoria.” 
 
 “Laskarin uses a wide variety of materials to intrigue and repulse,
 materials that suggest or refer to the familiar but somehow can not be
-defined,â€  said exhibition curator Nicole Stanbridge. In Laskarinâ€™s most
+defined,”  said exhibition curator Nicole Stanbridge. In Laskarin’s most
 recent work, now beacon, now sea, he pushes his material explorations to
 the limits. Laskarin takes a familiar object, a chair, made of steel and
 ravaged by a shotgun, and gently swathes it in luxurious fabric. “An homage
-to the Baroque, no doubt, but with a tenacious sobriety,â€  added Stanbridge.
+to the Baroque, no doubt, but with a tenacious sobriety,”  added Stanbridge.
 
 “I set out to create objects which might look almost recognizable, but
 never quite identifiable – that hover within the agnostic condition of
-uncertainty between the general and the specific,â€  said Laskarin.
+uncertainty between the general and the specific,”  said Laskarin.
 
 Laskarin whose sculptures and public art commissions have been presented
 across Canada and internationally was educated at Simon Fraser University
@@ -694,7 +694,7 @@ Vancouver, Canada - September 27th, 2010.
 The Waldorf Hotel, designed in 1947 by architects Mercer & Mercer, was
 remarkable from the beginning for its modernist style. In 1955,
 capitalizing on an emerging interest in Polynesian culture, the complex was
-transformed into one of North Americaâ€™s most renowned â€œtikiâ€  themed bars
+transformed into one of North America’s most renowned “tiki”  themed bars
 and hotels. A post-war phenomenon, tiki culture was rooted partially in the
 nostalgic tropical memories of returned soldiers but also in the erotic
 fantasies of a middle class fascinated by the exotic and forbidden. The

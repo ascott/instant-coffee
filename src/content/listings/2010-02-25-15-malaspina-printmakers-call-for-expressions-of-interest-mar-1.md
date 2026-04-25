@@ -29,7 +29,7 @@ inside and outside, the cultural and the natural; the poetic and the literal.
 Paul Walde lives and works in London, Ontario where he teaches studio art
 at the University of Western Ontario, is also the Artistic Director and
 visual arts curator of LOLA, the London Ontario Live Arts festival, and is
-the artist in residence at the Biotron, Canadaâ��s experimental climate
+the artist in residence at the Biotron, Canada’s experimental climate
 change research centre. He has exhibited extensively in the United States
 and Canada, was the winner of The Prescott Fund Award from the National
 Arts Club in New York City, and has received awards from the Canada Council

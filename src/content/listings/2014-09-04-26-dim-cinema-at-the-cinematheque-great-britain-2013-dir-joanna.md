@@ -12,7 +12,7 @@ Great Britain , 2013. Dir: Joanna Hogg. 104 min.
 
 The third feature from writer-director Joanna Hogg
 (Unrelated, Archipelago) “reaffirms Hogg's status as a distinctive,
-singular, and challenging voice of British cinemaâ€  (Mark Kermode, The
+singular, and challenging voice of British cinema”  (Mark Kermode, The
 Guardian). Doyenne of punk Viv Albertine and Turner-nominated artist Liam
 Gillick play a married couple who decide to move house, a midlife upheaval
 that awakens dreams, memories, and fears that have imprinted themselves on

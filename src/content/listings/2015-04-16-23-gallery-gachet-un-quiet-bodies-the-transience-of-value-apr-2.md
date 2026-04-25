@@ -23,7 +23,7 @@ Un Quiet Bodies features the work of Aja Rose Bond and Chandra Melting Tallow.
 
 Un Quiet Bodies delves into the complex realities of the physiology of
 trauma, self-awareness, and levels of ability impacting one’s capacity to
-survive in a society designed for the â€œable-bodiedâ€ . Bondâ€™s work emphasizes
+survive in a society designed for the “able-bodied” . Bond’s work emphasizes
 the relationship between work, leisure and self-care when accounting for
 physical and mental limitations. Melting Tallow explores the implications
 of ability through the lens of colonial and intergenerational trauma and

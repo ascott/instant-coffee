@@ -29,7 +29,7 @@ reviews have appeared in Art Journal, Grey Room, Journal of Modern Craft,
 and Texte zur Kunst. Her first book, Bauhaus Weaving Theory: From Feminine
 Craft to Mode of Design, is forthcoming in November from University of
 Minnesota Press. She is currently developing a new book project,
-provisionally titled â€œTextile Media and Philosophy,â€  which will examine the
+provisionally titled “Textile Media and Philosophy,”  which will examine the
 use of textiles as figures of thought within art history, philosophy, and
 political economy since the 19th-century.
 
@@ -38,7 +38,7 @@ political economy since the 19th-century.
 Scrivener’s Monthly is a series of public presentations that explore the
 space between material practices and spoken words: a periodical that talks.
 Set alongside the exhibitions program at Western Front, this experiment in
-â€œnot publishingâ€  involves readings, performances, and other articulations.
+“not publishing”  involves readings, performances, and other articulations.
 
 For more information, please visit
 http://front.bc.ca.

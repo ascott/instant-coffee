@@ -48,7 +48,7 @@ which features written contributions by Tanya Lukin Linklater and
 Steffanie Ling. We will mark this occasion with an informal reading by
 Ling, and a special appearance by Der Hammel von Kouver (a.k.a.
 exhibiting artist Mike Bourscheid), performing the composition
-â€œIntroducing Myself to the Canada Geeseâ€  on bespoke bagpipes.
+“Introducing Myself to the Canada Geese”  on bespoke bagpipes.
 
 *
 
@@ -276,11 +276,11 @@ Saturday, October 31st, 2015
 https://www.facebook.com/events/1001380883226670/
 
 Far Away So Close: Part III exhibiting artist Alana Bartol will lead an
-exploration of the history, use, and tools of dowsing or â€œwater-witchingâ€ 
-(using â€œYâ€  or â€œLâ€  shaped rods [often a bent coat hanger or found
+exploration of the history, use, and tools of dowsing or “water-witching” 
+(using “Y”  or “L”  shaped rods [often a bent coat hanger or found
 branch] to locate ground water without the use of scientific technology).
 After a trip to Nova Scotia, Bartol learned that the women in her
-motherâ€™s family have long been regarded for their â€œwater witchingâ€ 
+mother’s family have long been regarded for their “water witching” 
 abilities. Drawing on her family history and traditions of divining, she
 explores dowsing as a creative method and mode of inquiry
 investigating ways of knowing within and beyond the human body.
@@ -580,7 +580,7 @@ light, and image... I am searching for a musical vocabulary that can
 represent the climate and environment in cities like Hong Kong, Beijing,
 and Vancouver. I believe this project will allow me to create a method
 of expression that speaks of the 21st Century and my experience as a
-Chinese-Canadian on the West Coast of Canada.â€ 
+Chinese-Canadian on the West Coast of Canada.” 
 
 The other highlight of the program will be the premiere of a piece by
 interdisciplinary media artist Sammy Chien who will perform (dance)
@@ -588,7 +588,7 @@ and lead the musicians through physical gestures: “With this piece I’d
 like to explore the notion of Wu Wei, which is a Taoist philosophy of the
 ‘non-doing’. I see it as an attitude, a way of life that is without much
 effort and intentions while naturally attaining harmony with the
-universe.â€ 
+universe.” 
 
 Alan Lau will contribute two pieces to the program: one, a premiere
 presenting a condensed chronology of the development of Chinese
@@ -598,7 +598,7 @@ the sound and texture of the Korean a-ak
 Confucian rituals introduced from China around the 12th century. The
 Ensemble will also present​ pieces by composers Jin Zhang
 and Xiao
-Peng​ that resemble the â€˜ancientâ€™ pieces that represent the less
+Peng​ that resemble the ‘ancient’ pieces that represent the less
 known,
 discordant and rebellious side of early Chinese music.
 
@@ -679,7 +679,7 @@ in the world.
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-10-30-17-screening-dim-cinema-stella-polare-nov-11">17. SCREENING | DIM Cinema | Stella Polare | NOV 11</a>
 ------------------------------------------------------------------------
-â€œThis port city, itâ€™s much like any port city: itâ€™s everywhere and nowhere.â€ 
+“This port city, it’s much like any port city: it’s everywhere and nowhere.” 
 
 For Remembrance Day, DIM Cinema presents Stella Polare, an immersive essay
 film on the nature of war, terror and resistance; loss, memory and
@@ -689,10 +689,10 @@ casting our stranger’s gaze across an unnamed European city. There we
 encounter some of the town’s inhabitants as they stroll along a jetty in
 the fading evening light, peer into shop windows in half-deserted streets,
 and drift through the interiors of 19th-century apartments and museums,
-following the â€œdusted faded traces of a glorious imperial past.â€  From
+following the “dusted faded traces of a glorious imperial past.”  From
 these images, and from fragments of sounds and voices, develops a forensic
 narrative around “past histories, events and incidents that bleed into the
-presentâ€  (Andy Birtwhistle, Vertigo Magazine).
+present”  (Andy Birtwhistle, Vertigo Magazine).
 
 Stella Polare | Great Britain 2006. Dir: Anthea Kennedy and Ian Wiblin. 76
 min. Beta SP
@@ -711,7 +711,7 @@ memory. These have been shown at international festivals and galleries
 including Rotterdam, EMAF, Thessaloniki, Athens Ohio, Tate Modern,
 Whitechapel Gallery London and Collection Regard Berlin.
 
-â€œA lyrical meditation on memory, history and violent political activismâ€ 
+“A lyrical meditation on memory, history and violent political activism” 
 (Geoff Andrew, Time Out, Rotterdam Film Festival review).
 
 Wednesday, November 11, 2015
@@ -764,7 +764,7 @@ continues Marks's journey through experimental film and video,
 vanguard media studies, and her deep engagement with Arab visual
 culture. Introducing a body of work that will be unfamiliar to many,
 Marks’s searching analyses and insights make an invaluable
-contribution to the field.â€  â€”Akira Mizuta Lippit, Chair, Bryan Singer
+contribution to the field.”  —Akira Mizuta Lippit, Chair, Bryan Singer
 Division of Critical Studies, USC School of Cinematic Arts
 
 
@@ -781,7 +781,7 @@ Kingsway, Vancouver BC
 
 “It always seems a bit artificial to find your way back because all that
 change has gone on, through the thinking before, the making and then
-the aftermath.â€ - Chantal Joffe
+the aftermath.” - Chantal Joffe
 
 Echoing the idea of Chantal Joffe, we cannot speak of the original
 intentions of the Tex Mex paintings. The series began as a reaction to

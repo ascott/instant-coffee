@@ -34,7 +34,7 @@ was born in Vancouver, British Columbia and has resided in Victoria since
 genres of poetry, short fiction, spoken word performance poetry, video
 poetry and recorded poems with music and scriptwriting. You can hear Janet
 on the radio as she hosts Native Waves Radio on CFUV fm and Tribal Clefs on
-CBC radio one fm in Victoria BC. Her radio documentaries â€œBring Your Drumâ€ 
+CBC radio one fm in Victoria BC. Her radio documentaries “Bring Your Drum” 
 (50 years of indigenous protest music) and Resonating Reconciliation won
 Best Radio at the imagaineNATIVE Film and Media festival 2011 and 2013.
 

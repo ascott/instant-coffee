@@ -25,11 +25,11 @@ link below. No pre-reading or research is required.
 
 The Marxist revolutionary penned 'Why I am an Atheist', a profound indictment 
 of religion as he languished in an Indian prison awaiting execution. Accused of 
-â€œarrogant pride and vanityâ€  by critics who decried his sustained repudiation of 
+“arrogant pride and vanity”  by critics who decried his sustained repudiation of 
 theism, Singh authored this compelling manifesto in an effort to articulate and 
 expound upon his opinions on life and struggle. Laden with polemics which lend 
 new perspectives on fundamental philosophical questions of revolutionary 
-theory, â€œWhy I Am An Atheistâ€  is a stirring argument against religious mysticism 
+theory, “Why I Am An Atheist”  is a stirring argument against religious mysticism 
 and dogma of every sort.
 
 ---

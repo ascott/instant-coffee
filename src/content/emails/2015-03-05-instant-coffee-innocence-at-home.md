@@ -139,7 +139,7 @@ Thurs 1 - 5pm
 
 Willee Aimee, Elysse Bell, Marina Bender, Mimi Chen, Lisa Chen-Wing, Jack
 Chiu, Bo Ha, Shiori Harada, Abby Hung, Angela Ko, Andy Kung, Hannah Lin,
-Pelle Noren, Lauren Oâ�™Sullivan, Rebecca Ou, Amy Park, Robert Psutka, Romy
+Pelle Noren, Lauren O’™Sullivan, Rebecca Ou, Amy Park, Robert Psutka, Romy
 Sank, Karena Yeung, Tung Yi, Sherman Yik
 
 An exhibition of students working in various media from a fourth year open

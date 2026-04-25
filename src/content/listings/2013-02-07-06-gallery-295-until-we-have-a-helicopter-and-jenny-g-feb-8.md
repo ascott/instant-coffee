@@ -22,7 +22,7 @@ photographs. These new works are documentation of archetypal wilderness
 signals that the artists have created in attempt to communicate not only with 
 each other, but with the encountering world, Anybody.
 
-Jenny G will occupy our LightBox project space. JennyÃ¢€™s practice is firmly 
+Jenny G will occupy our LightBox project space. Jennyâ€™s practice is firmly 
 based in painting and drawing. The artist used this opportunity produce her 
 first large scale photographic work.
 

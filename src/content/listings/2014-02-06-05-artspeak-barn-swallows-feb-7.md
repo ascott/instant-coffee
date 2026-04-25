@@ -8,7 +8,7 @@ venue: "Artspeak"
 summary: "Artspeak | Barn Swallows | FEB 7"
 ---
 
-â€œBarn Swallowsâ€ 
+“Barn Swallows” 
 
 CAROLINE MONNET, DEVIN TROY STROTHER, LAWRENCE PAUL 
 YUXWELUPTUN

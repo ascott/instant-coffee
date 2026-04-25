@@ -40,7 +40,7 @@ and fashion AES+F expose the fantasy visualization of pop culture.
 Superimposed on a surreal landscape, beautiful airbrushed youth
 dressed in camouflage sportswear, wield baseball bats, golf clubs
 and swords enacting a choreographed slow-motion battle
-accompanied by the music of Wagners GÃ¶tterdÃ¤mmerung.
+accompanied by the music of Wagners GötterdÃ¤mmerung.
 Weapons are raised and threaten repeatedly and brutally, yet the
 hand-to-hand combat is bloodless and without pain.
 

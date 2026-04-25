@@ -26,7 +26,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2012-01-19-12-ecu-damian-moppett-artist-talk-jan-26">12. ECU | DAMIAN MOPPETT: ARTIST TALK | JAN 26</a>
 <a href="/instant-coffee/listings/2012-01-19-13-richmond-art-gallery-stuart-mccall-neil-wedman-jan-26">13. Richmond Art Gallery | Stuart McCall & Neil Wedman | JAN 26</a>
 <a href="/instant-coffee/listings/2012-01-19-14-western-front-media-arts-jeremy-bailey-artist-talk-performan">14. Western Front Media Arts | Jeremy Bailey: Artist Talk + Performance | JAN 26</a>
-<a href="/instant-coffee/listings/2012-01-19-15-presentation-house-gallery-c-1983-jan-27">15. Presentation House Gallery | â€œC. 1983â€  | JAN 27</a>
+<a href="/instant-coffee/listings/2012-01-19-15-presentation-house-gallery-c-1983-jan-27">15. Presentation House Gallery | “C. 1983”  | JAN 27</a>
 <a href="/instant-coffee/listings/2012-01-19-16-shudder-gallery-ive-plumbed-the-depths-of-this-whole-zone-ja">16. Shudder Gallery | Ive Plumbed The Depths Of This Whole Zone | JAN 27</a>
 <a href="/instant-coffee/listings/2012-01-19-17-yactac-gallery-microcosms-jan-28">17. Yactac Gallery | MICROCOS(MS) | JAN 28</a>
 <a href="/instant-coffee/listings/2012-01-19-18-contemporary-art-society-of-vancouver-call-emerging-artists-">18. Contemporary Art Society of Vancouver | Call Emerging Artist’s Prize | JAN 31</a>
@@ -229,9 +229,9 @@ gallery supporter, Karen Lievesley on The Artist’s Reality: exploring the cult
 landscape and realities of being an artist.
 
 This 4-week workshop series will cover topics ranging from “The history of 
-artist run centres and cultural institutionsâ€  to â€œVancouverâ€™s Art Scene and 
-Outsider Art - where does Gachet fit?â€ ; from â€œThe economic truth of being an 
-artistâ€  to â€œWays in which to survive economicallyâ€ ; Participants will be 
+artist run centres and cultural institutions”  to “Vancouver’s Art Scene and 
+Outsider Art - where does Gachet fit?” ; from “The economic truth of being an 
+artist”  to “Ways in which to survive economically” ; Participants will be 
 encouraged to think about how they sit in relation to the artist run culture 
 movement in Canada and specifically, Vancouver, as well as help them develop 
 their own arts’ careers.
@@ -434,7 +434,7 @@ Talon Books.
 
 Carl Peters will read from textual vishyuns, which attests that bill 
 bissett’s entire body of work consists of an integrated aesthetic praxis 
-of â€œthe whole artâ€ ; that his drawings, paintings, collages and 
+of “the whole art” ; that his drawings, paintings, collages and 
 assemblages challenge artistic conventions of visual language in the 
 same way that his poetry challenges linguistic conventions of syntax 
 and grammar to escape the strictures of Western modes of binary and 
@@ -576,7 +576,7 @@ prize) in Germany’s Young Art Prize exhibition at Berlin’s Hamburgerbahnhof.
 In The Recovery of Discovery, Gaillard notoriously built a pyramid out of 72,000 
 bottles of beer at KW Institute for Contemporary Art in Berlin and invited visitors 
 to contribute to the work by drinking it. As Gaillard states:. “The physical 
-hangover is also an architectural one, from which one has to recover.â€  
+hangover is also an architectural one, from which one has to recover.”  
 
 Gaillard was recently awarded the 2010 Prix Marcel Duchamp, France’s most 
 prestigious award for contemporary visual arts.
@@ -687,7 +687,7 @@ Stylishly idiosyncratic director Toshiki Okada is known for crafting sharp
 and visually vibrant works of theatre out of the most ordinary of 
 interactions. Founded in 1997, his Tokyo-based company is called 
 chelfitsch, a neologism that evokes a childish deformation of the 
-English word â€œselfish.â€  A rising star on the international theatre scene, 
+English word “selfish.”  A rising star on the international theatre scene, 
 chelfitsch has presented shows in the major theatre festivals of Berlin, 
 Vienna, Paris, Singapore and New York, returning to Vancouver after 
 the 2009 PuSh Festival favourite Five Days in March.
@@ -810,7 +810,7 @@ since 1968, he has been making images for over 25 years.
 
 Since the 1990s he has worked with Vancouver artist Neil Wedman on various 
 photo based projects including “Every Bus Stop from My Place to the 
-Racetrackâ€  (1997), and â€œMovies â€˜til Dawnâ€  (2009). Represented in Vancouver by 
+Racetrack”  (1997), and “Movies ‘til Dawn”  (2009). Represented in Vancouver by 
 the Vancouver Art Gallery Art Rentals and Sales and in Calgary at the Axis 
 Contemporary Art Gallery, his work has also been shown at the Surrey Art 
 Gallery, Port Moody Arts Centre and Canvas Gallery in Vancouver.
@@ -844,14 +844,14 @@ Western Front Media Arts is pleased to present a performance by Toronto
 based media artist Jeremy Bailey. Bailey will present a performative artist talk 
 and performance in the Grande Luxe Hall, as part of Western Front Media Arts 
 ongoing engagement with networked media arts practice. Bailey as a self-
-proclaimed â€œFamous New Media Artistâ€  employs wry humor to critique â€˜new 
+proclaimed “Famous New Media Artist”  employs wry humor to critique ‘new 
 media’ vocabularies and to explore the tension between technology and the 
 body through the cartoonish aesthetic of online culture.
 
 Employing expert knowledge of softwear design, Bailey designs specific 
 platforms for both online and live performative contexts, often using consumer 
 technology. At Western Front Bailey will perform Nam June Paik for Western 
-Front, in which he designates himself the first practitioner of â€œKinect Artâ€ , in 
+Front, in which he designates himself the first practitioner of “Kinect Art” , in 
 which he utilizes the consumer gaming system Microsoft Kinect, referencing 
 Nam June Paik’s relationship to the invention of video art.
 
@@ -892,9 +892,9 @@ W. www.front.bc.ca
 E. sarahtodd@front.bc.ca
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-01-19-15-presentation-house-gallery-c-1983-jan-27">15. Presentation House Gallery | â€œC. 1983â€  | JAN 27</a>
+<a href="/instant-coffee/listings/2012-01-19-15-presentation-house-gallery-c-1983-jan-27">15. Presentation House Gallery | “C. 1983”  | JAN 27</a>
 ------------------------------------------------------------------------
-â€œC. 1983â€ 
+“C. 1983” 
 
 Marian Penner Bancroft, Kati Campbell, Stan Douglas, Ellie Epp, Arni Runar 
 Haraldsson, Laiwan, Ken Lum, Michelle Normoyle, Elizabeth Vander Zaag, Ian 
@@ -945,7 +945,7 @@ the plague. The living death. Quickly closing its fist over the entire
 planet. Then we heard the rumors. That the last scientists were working 
 on a cure that would end the plague and restore the world. Restore 
 it……WHY? I like the death. I like the misery. I LIKE THIS 
-WOOOORRRRLLLLLLLLDDDD!!!!!â€  - Cyborg (1989 dir. Albert Pyun)
+WOOOORRRRLLLLLLLLDDDD!!!!!”  - Cyborg (1989 dir. Albert Pyun)
 It is with the eyes that the mutants have witnessed the most atrocities 
 therefore it is with these drawings that we commit upon the mutant an 
 act of ocular defenestration. The eyes must always be the first to go.
@@ -1035,7 +1035,7 @@ YacTac Gallery, 7206 Ontario St (@ E 56th)
 teams of experts are indefatigably at work searching for new and deadlier 
 gases; or for soluble poisons capable of being produced in such quantities as to 
 destroy the vegetation of whole continents; or for breeds of disease germs 
-immunised against all possible antibodies.â€  â€“ George Orwell - 1984
+immunised against all possible antibodies.”  – George Orwell - 1984
 
 A people who’s primary aims are driving, shopping, and television are subject to 
 terrorism at any time. – Steven Deitz
@@ -1072,7 +1072,7 @@ go to www.casv.ca
 <a href="/instant-coffee/listings/2012-01-19-19-exit-22-at-capilano-university-the-crucible-feb-15">19. Exit 22 at Capilano University | THE CRUCIBLE | FEB 15</a>
 ------------------------------------------------------------------------
 THE CRUCIBLE: Exit 22 presents The Crucible. Directed by Stuart Aikins, Arthur 
-Millerâ€™s The Crucible tells the tale of the Salem Witch Trials in1692. Sanctimony 
+Miller’s The Crucible tells the tale of the Salem Witch Trials in1692. Sanctimony 
 has poisonous  consequences when a vengeful teenager accuses a rival of 
 witchcraft. Those  accusations  multiply to consume the entire village. February 
 15-18, 2012 , 8pm. North Shore Credit Union Centre for the Performing Arts (Birch 

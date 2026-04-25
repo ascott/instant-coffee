@@ -53,4 +53,4 @@ personalities and capture the decisive moment so essential for such a
 photograph. Byron has accompanied me on some of my forays into the older 
 parts of the city and he consistently comes away with strong, innovative 
 photographs. We both derive enormous pleasure from each others company 
-during these walkabouts.â€  â€” Fred Herzog
+during these walkabouts.”  — Fred Herzog

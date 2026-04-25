@@ -544,7 +544,7 @@ and desired by others. But is Wikipedia really a valuable resource if
 anyone can add to it? If uneducated enthusiasts can argue opinion on its
 pages with academic professionals, and the peer review system is just
 everyone, can we trust its content to be the best possible information? If
-Second Life is really an online Utopiaâ�¢ where anything and everything can
+Second Life is really an online Utopia’¢ where anything and everything can
 happen, then why do most Avatars conform to contemporary ideas about the
 ideal human body? Why does it have an economy based on capitalism? Why does
 it so closely resemble the world we already occupy?
@@ -573,7 +573,7 @@ Space
 
 Allison Tweedie, Shawna Mclellan
 
-September 5 â�� October 18
+September 5 ’ October 18
 
 Opening Reception September 5, 8pm
 
@@ -583,20 +583,20 @@ to twilight, a homonym that describes the diffused illumination of a
 nearing dark sky as well as an uncertain state of being, here space is
 investigated both literally and figuratively.
 
-In Jim Jarmuschâ��s film Deadman, Train Fireman (Crispin Glover) asks William
-Blake (Johnny Depp) to look out the boxcar window. He says: â��Doesnâ��t it
-remind you of when youâ��re in the boat, and then later that night you were
+In Jim Jarmusch’s film Deadman, Train Fireman (Crispin Glover) asks William
+Blake (Johnny Depp) to look out the boxcar window. He says: ’Doesn’t it
+remind you of when you’re in the boat, and then later that night you were
 lying looking up at the ceiling and the water in your head was not
 dissimilar from the landscape - and you think to yourself, why is it that
-the landscape is moving, but the boat is still?â�� Using the language of
-collage, Allison Tweedieâ��s video projection produces pivots of parallactic
+the landscape is moving, but the boat is still?’ Using the language of
+collage, Allison Tweedie’s video projection produces pivots of parallactic
 disorientation, an effect defined as the apparent displacement of an object
 caused by a change in observational position. Tweedie follows the sight of
 a satellite in the night sky and as stars roll by on the periphery, the
 orbiting satellite holds a still and faint position in our gaze.
 
-Shawna Mclellanâ��s Phosphorescent Incubator asks the question what is an
-experience? At the hub of Mclellanâ��s project is the childhood game of
+Shawna Mclellan’s Phosphorescent Incubator asks the question what is an
+experience? At the hub of Mclellan’s project is the childhood game of
 turning small imaginative spaces into a rainbow of situations and meaning.
 Made out of raw canvas coated with glow-in-the-dark paint, Phosphorescent
 Incubator is a makeshift polygonal prism slightly smaller than the room in
@@ -1020,10 +1020,10 @@ Germany; The Seattle Art Museum, and The Henry Art Gallery, Seattle.
 
 Using techniques/tropes of conceptual and psychedelic art, rock video,
 experimental and documentary film to rework primary and produce secondary
-source materials, Jeremy Shawâ��s practice is immersed in discussing the
+source materials, Jeremy Shaw’s practice is immersed in discussing the
 transcendence-seeking activities of both mainstream and subculture, with a
 particular interest in the moment when the two collide. In keeping with
-this body, Shawâ��s current exhibition posits scientific representations of
+this body, Shaw’s current exhibition posits scientific representations of
 altered states with populist notions and the subsequent commercial goods
 they adorn.
 
@@ -1538,12 +1538,12 @@ Applications must include
 THE APPLICATION MUST REACH FLAGGFABRIKKEN BY POST OR E-MAIL NO LATER THAN
 OCTOBER 1ST 2008. The residencies will be decided before November 15th 2008.
 
-POST THE APPLICATION TO: Artist in residence Flaggfabrikken â�� senter for
+POST THE APPLICATION TO: Artist in residence Flaggfabrikken ’ senter for
 fotografi og billedkunst M¸llendalsveien 17, 5009 Bergen Norway
 
 or e-mail to: post@flaggfabrikken.net
 
-For those using courier services â�� Note that the package/envelope should
+For those using courier services ’ Note that the package/envelope should
 also be marked with: "Entrance from Klaus Hanssens vei"
 
 PLEASE NOTE: if you want your submitted material in return you have to

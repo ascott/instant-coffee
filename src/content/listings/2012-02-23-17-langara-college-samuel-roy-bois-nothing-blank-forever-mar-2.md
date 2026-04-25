@@ -26,7 +26,7 @@ developing a public art project in the shape of
 an architectural intervention titled Nothing Blank Forever. The purpose 
 of the structure is to house the 
 production of every component of a road movie. This “makeshift movie 
-studioâ€  has been constructed in the 
+studio”  has been constructed in the 
 Quadrangle (outside the Langara Students’ Union), which will serve as 
 the project’s heart and home. The 
 temporary studio will take on many roles over eight months including a 

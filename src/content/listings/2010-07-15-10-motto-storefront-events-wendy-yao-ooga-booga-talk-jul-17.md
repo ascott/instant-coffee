@@ -17,7 +17,7 @@ Motto Storefront is organized by Artspeak and Fillip, with Motto, Berlin.
 Motto Storefront transforms Artspeak into a temporary space for the sale,
 presentation, and discussion of contemporary art publishing. The selection
 of printed matter for the store has been made by Motto, a Berlin and
-ZÃ¼rich-based bookstore and distributor specializing in experimental, small
+Zürich-based bookstore and distributor specializing in experimental, small
 run, and self-published artist books, magazines, and fanzines.
 
 Talks and Workshops

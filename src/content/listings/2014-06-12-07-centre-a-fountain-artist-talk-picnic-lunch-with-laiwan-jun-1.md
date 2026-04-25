@@ -43,7 +43,7 @@ About the speakers:
 BRUCE MACDONALD is a historical consultant specializing in Vancouver’s 
 past. His work for the City of Vancouver has included speaking, cartography, 
 historical plaque writing and design, and heritage house assessment. He is 
-the author of the award-winning book â€œVancouver: A Visual Historyâ€  (1992), 
+the author of the award-winning book “Vancouver: A Visual History”  (1992), 
 which has led to work with many local artists and writers on projects 
 involving awareness of the city, and with various media interested in 
 Vancouver, such as local TV and radio, the Vancouver Sun, Maclean’s and 

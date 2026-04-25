@@ -62,13 +62,13 @@ that musicians and non-musicians might produce new versions of his operas,
 by way of typographical scores. The bulk of this book is a result of that
 proposal: scores for Dust (1998) and Celestial Excursions (2003). These
 operas’ characters have, until now, been solely produced by and are the
-stories exchanged between Ashley and his â€œbandâ€  (singers Sam Ashley, Joan
+stories exchanged between Ashley and his “band”  (singers Sam Ashley, Joan
 La Barbara, Thomas Buckner, and Jacqueline Humbert); in landscapes
 (technological, imaginary, acoustic, organisational, sonic, ocular)
-produced by â€œBlueâ€  Gene Tyranny, Tom Hamilton, David Moodey, Cas Boumans,
+produced by “Blue”  Gene Tyranny, Tom Hamilton, David Moodey, Cas Boumans,
 and Mimi Johnson—the result of a thirty-year relationship. As such, any
-â€œscoresâ€  were written for this intimate readership. It hadnâ€™t been
-considered that any one outside this â€œbandâ€  might produce this work.
+“scores”  were written for this intimate readership. It hadn’t been
+considered that any one outside this “band”  might produce this work.
 
 The scores for Dust and Celestial Excursions are preceded by a selection of
 Ashley’s work, from 1963 to 2008, drawing attention to the varying

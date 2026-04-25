@@ -40,12 +40,12 @@ Continues until Sunday February 3, 2013
 Dan Starling's solo exhibition takes Charlie and the Chocolate Factory, the 
 popular children’s book written by Roald Dahl in 1964 as it's starting point. 
 Dahl was criticized for his racist characterization of the workers in the 
-chocolate factory of the book as â€œpygmies from Africa.â€  In the subsequent 
+chocolate factory of the book as “pygmies from Africa.”  In the subsequent 
 edition, he chose to refer to them instead as the “Oompa-loompas from 
-Oompaloompaland.â€  Starling chose to redraw all the original illustrations from 
+Oompaloompaland.”  Starling chose to redraw all the original illustrations from 
 the second edition using drypoint and then produce a series of subsequent 
 alterations to the images that call attention to this history as a kind of “return 
-of the repressed.â€  Working in drypoint and etching, a new medium for Starling, 
+of the repressed.”  Working in drypoint and etching, a new medium for Starling, 
 the final project will encompass four new books showing this evolution as it 
 progresses.
 
@@ -112,8 +112,8 @@ life at the military base situated in the vast Middle Eastern landscape.
 installations that explore the ambiguities of war by linking personal history 
 with wider cultural and political issues. Although this work reflects on the 
 complex situation in Afghanistan, Stimson deflects the focus away from the 
-truncated newsreel moments to daily life affirming moments.â€  â€“ excerpt from, 
-â€œHolding Our Breath: The Work of Adrian Stimsonâ€  by Elizabeth Matheson. 
+truncated newsreel moments to daily life affirming moments.”  – excerpt from, 
+“Holding Our Breath: The Work of Adrian Stimson”  by Elizabeth Matheson. 
 
 The work includes Stimson’s own personal perspective on serving in the 
 military as well as his family’s history serving in the Canadian military as 
@@ -238,21 +238,21 @@ Here's a sampling of comments from previous battles!
 TOO MUCH INFORMATION:
 “k. i am kinda in this new relationship and it makes doing anything other than 
 copulation almost impossible; i.e., sorry my comments are late–and here’s to 
-hoping my period is notâ€¦â€ 
+hoping my period is not…” 
 ANGRY:
-Back off, or I will beat the slime out of you with my aluminum walker. â€ 
+Back off, or I will beat the slime out of you with my aluminum walker. ” 
 CHEATING:
 “Wow. Does voting even matter any more? For what it’s worth, both stories in 
 this round are very good. I wish you the both of luck, and pray you both don’t 
 resort to cheating to win. Personally, I’d like to see the BP folks address the 
-blatant cheating from last roundâ€¦â€ 
+blatant cheating from last round…” 
 “You must have half of england voting for you…either that or a couple 
-computer geeks, can i be the first one to cry â€œFoul!â€ â€¦â€ 
+computer geeks, can i be the first one to cry “Foul!” …” 
 COME-ONS: 
 “Madeline… first of all, you have a wicked name. I’ve liked Madeline ever 
 since a high-school crush broke my heart because I went outside for a 
 cigarette instead of cuddling with her. Tragedy. And Masters? Sounds 
-powerful, and of course packed with some pun potential.â€ 
+powerful, and of course packed with some pun potential.” 
 more top comments from last year here.
 
 
@@ -562,7 +562,7 @@ WITH IAN WALLACE
 
 In conjunction with the landmark exhibition Ian Wallace: At the Intersection of 
 Painting and Photography, this series of talks and conversations provides a 
-rare opportunity for ﬁrst-hand insight into Wallaceâ€™s expansive career. 
+rare opportunity for ﬁrst-hand insight into Wallace’s expansive career. 
 Renowned artists and critics, in conversation with Wallace himself, will 
 contextualize the evolution of his artistic practice as it relates to the larger 
 arena of contemporary art.

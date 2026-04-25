@@ -28,7 +28,7 @@ WITH IAN WALLACE
 
 In conjunction with the landmark exhibition Ian Wallace: At the Intersection of
 Painting and Photography, this series of talks and conversations provides a
-rare opportunity for ﬁrst-hand insight into WallaceÃ¢â‚¬â„¢s expansive career.
+rare opportunity for ﬁrst-hand insight into Wallaceââ‚¬â„¢s expansive career.
 Renowned artists and critics, in conversation with Wallace himself, will
 contextualize the evolution of his artistic practice as it relates to the larger
 arena of contemporary art.

@@ -48,7 +48,7 @@ Lorna Brown is an artist, writer, independent curator and founding
 member of Other Sights and participant in the Communications Office.
 
 This conversation is the final installment of “The Situation is This: 
-Speakers Series 2011â€  and a bridge to â€œThe Future is Floatingâ€ , a 
+Speakers Series 2011”  and a bridge to “The Future is Floating” , a 
 series of Communication Office events that will take place in various 
 locations around Vancouver during 2012.
 

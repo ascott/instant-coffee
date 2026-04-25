@@ -39,7 +39,7 @@ instant coffee listings / send us your art posts for free
 Call for New Director
 
 The Ministry of Casual Living seeks a cracking new Director/Curator, or 
-â€œMinisterâ€ . The nature of exhibitions and operations is entirely 
+“Minister” . The nature of exhibitions and operations is entirely 
 determined by the Minister with Board support. Right now the Ministry is 
 at its most flexible in terms of new directions and is enjoying record 
 support. It is an auspicious time to be involved as Minister, so we are 
@@ -273,7 +273,7 @@ In his essay "Don't Explain" Christopher Brayshaw writes of Enn:
 Erisalu worked hard to defamiliarize his audiences. His notebooks bear 
 witness to how he came time and again came to the act of painting 
 without the benefit of conventional beliefs, without religious or political 
-certainties, without, in his words, â€œTOXIC IDEAS.â€  To me, his paintingsâ€™ 
+certainties, without, in his words, “TOXIC IDEAS.”  To me, his paintings’ 
 complex formal games – their mirrorings, their repetitions, tautologies 
 and repeat attempts to trompe l’oeil are attempts to induce a 
 precarious uncertainty in viewers, to make us question our most 
@@ -281,7 +281,7 @@ cherished assumptions about painting’s relationship to language, and
 to make us think dialectically, seeing words as images, and images as 
 words. This purpose was not cheerful and by all accounts never easy, 
 but it is one I respect and admire, and one I therefore can’t, and won’t, 
-â€œexplain.â€ 
+“explain.” 
 
 Opening Reception Thursday February 9th, 6-9 pm in the Trench @ 
 148 Alexander Street.
@@ -733,7 +733,7 @@ Opening: February 16th at 7pm
 Exhibition: February 17th – March 31st, 2012
 
 As any good collective would, in 2005 the members of Instant Coffee 
-drafted a â€œmanifestoâ€  of sorts. In it, they define themselves and their 
+drafted a “manifesto”  of sorts. In it, they define themselves and their 
 objectives in terms of their caffeinated namesake: Instant Coffee 
 "mimics the real thing without the pretense of being better. It isn't that 
 much easier to make, but that much is reason enough to justify its 
@@ -767,7 +767,7 @@ Exhibition dates: February 17th- March 4th
 The exhibition The Romance Capital of the Yukon focuses on the idea
 of shelter and the romanticism of trying to find a space for yourself in
 the context of the north, specifically the town of Dawson City in
-Canadaâ€™s Yukon Territory. Each of the artists has based their work 
+Canada’s Yukon Territory. Each of the artists has based their work 
 for
 this show on personal experiences from their time spent in the Yukon
 Territory in the summer of 2011. The show features work by Northern
@@ -919,7 +919,7 @@ Founded as Gallery Atsui in 2008, Director Sascha Yamishita has
 dedicated himself to providing affordable, contentious studio space and 
 exhibition environment in the founding of Fukai and brings the 
 Vancouver community other annual exhibits like 10x10, which features 
-the work of 10 artists on 10- 10â€  by 10â€  panels (Sponsored by Opus art 
+the work of 10 artists on 10- 10”  by 10”  panels (Sponsored by Opus art 
 and Framing.)
 Design24 embraces the parallels between art and design/ designer and 
 artist in paying respect to the duality of commercial design work, its 
@@ -928,7 +928,7 @@ Submission details:
 -Submission deadline: March 12th, 2012
 -Please confirm submissions prior to submission deadlines via email to 
 designtwo4@gmail.com.
--Each piece submitted must be 11â€  x17â€  allowing for a 2â€  perimeter 
+-Each piece submitted must be 11”  x17”  allowing for a 2”  perimeter 
 bleed around the artwork.
 -Each submission is limited to Black (one color) on white background.
 -The final pieces will be exhibited in portrait layout format but how he 
@@ -944,8 +944,8 @@ upcoming exhibit will be considered at first priority for the next
 installment of Design24.
 -Deadline for print ready pieces selected from the submissions must be 
 received in either .ai or .eps format no later than March 19th, 2011 and 
-include a 2â€  bleed around the artwork (printed art work area= 11â€  x17â€  
-â€“ Canvas/ art board size= 13â€  x19â€ )
+include a 2”  bleed around the artwork (printed art work area= 11”  x17”  
+– Canvas/ art board size= 13”  x19” )
 -Print ready deadline: March 19th, 2012
 
 Exhibition details:

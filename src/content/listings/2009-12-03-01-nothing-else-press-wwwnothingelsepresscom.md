@@ -37,7 +37,7 @@ Edition of 25
 $50.00 CAD
 
 Snukal responds to a postcard edition originally created by Yoko Ono and
-altered by Diter Rot. Making literal a quote from a Julio CortÃ�Â¡zar novel
+altered by Diter Rot. Making literal a quote from a Julio CortÂ¡zar novel
 that invokes a euphoric epiphany as equivocal to pushing a pebble through
 one's asshole, Snukal one-up's Diter with a third iteration.
 

@@ -58,7 +58,7 @@ Submissions can be sent on DVD (NTSC) enclosed with the following:
 
 Send all materials to 
 
-SAVAC â€“ MONITOR 10 
+SAVAC – MONITOR 10 
 
 401 Richmond Street West, Suite 450 
 

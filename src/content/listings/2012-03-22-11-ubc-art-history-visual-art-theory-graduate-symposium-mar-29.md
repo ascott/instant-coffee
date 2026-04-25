@@ -37,7 +37,7 @@ March 29th - April 7th, 2012
 
 Opening Reception: March 30th, 5 - 7 pm
 
-â€œThe Unseenâ€  features works by seven graduate students that explore 
+“The Unseen”  features works by seven graduate students that explore 
 the limits of the unseen. A common dialogue around the body as 
 invisible or absent emerges through an examination of the qualities of 
 specific media such as film as well as in contemporary technologies. 
@@ -65,7 +65,7 @@ Chris Jones (University of Florida), “'Walk into the View':
 Rephotography as Art Practice 1975-2010"
 11:30 – 12:15:
 Frances Cullen (University of Alberta), “Stillness in Motion: Alex 
-Pragerâ€™s Despair and the Reassessment of Cinematic Timeâ€ 
+Prager’s Despair and the Reassessment of Cinematic Time” 
 
 12:15 – 1:15:
 Lunch Break
@@ -83,7 +83,7 @@ Panel II:
 Exhibition Introduction
 3:45 – 4:30:
 Alexandra L. Simpson (Queen’s University), “Blindness and Site: Art 
-Illustrating the Invisible in Touch Tour Picturesâ€ 
+Illustrating the Invisible in Touch Tour Pictures” 
 
 5:00 – 7:00:
 Reception and Exhibition
@@ -95,12 +95,12 @@ Saturday, March 31st, 2012
 Panel III
 10:45 – 11:30:
 Catherine Walsh (Boston University), “Displacement and Figuration in 
-Giambolognaâ€™s Appenninoâ€ 
+Giambologna’s Appennino” 
 11:30 – 12:15:
-Christina Gray (UCLA), â€œHumour and Adolf Loosâ€ 
+Christina Gray (UCLA), “Humour and Adolf Loos” 
 12:15 – 1:00:
 Alexey Golubev (UBC), “Unseen Materiality in Marginalia of Post-
-Stalinist Soviet Magazinesâ€ 
+Stalinist Soviet Magazines” 
 
 1:00 – 2:00:
 Lunch Break
@@ -108,10 +108,10 @@ Lunch Break
 Panel IV
 2:00 – 2:45:
 Carley Hodgkinson (NSCAD), “Re-imagining the Temporary and Void 
-Spaces of the Cityâ€ 
+Spaces of the City” 
 2:45 – 3:30:
 Erica Zacharias (UBC), “Insight Out of Site: Staging Gordon Matta-
-Clarkâ€ 
+Clark” 
 
 3:30 – 4:00
 Closing Remarks

@@ -18,11 +18,11 @@ Opening reception: Friday September 6, 6- 9 pm
 In his first exhibition at Republic since 2009, Vancouver photographer Jim
 Breukelman returns with a new body of work highlighting his recent
 experimentation with photoassemblage. As its title implies, Out of Fiction
-borrows from both fantasy â€“ as expressed in raw creativity responding to the
-banal templates often offered in childrenâ€™s colouring books â€“ and reality: 
+borrows from both fantasy – as expressed in raw creativity responding to the
+banal templates often offered in children’s colouring books – and reality: 
 how
-these processes of imagination manifest themselves â€œin ways both
-foreseeable and unforeseeableâ€ . The act of bringing these elements 
+these processes of imagination manifest themselves “in ways both
+foreseeable and unforeseeable” . The act of bringing these elements 
 together
 in finished photographic works illuminates the proximity of their origins in a
 historical, cultural imaginary, as well as the tenuousness of the divisions

@@ -15,7 +15,7 @@ Friday March 18 2011, Opening 7-11pm, Screening 8pm, Talk 8:30pm
 1965 Main St. Vancouver www.vivomediaarts.com
 
 Exhibition of new works, produced in residence, “But life is not changed
-magically by a poetic actâ€  and screening of "Living Mega-Structures"
+magically by a poetic act”  and screening of "Living Mega-Structures"
 (2003/2004). Urban Subjects, Ivan Drury and Amy Kazymerchyk will hold a
 discussion on ideas of neigbourhood and urban self-management, and about
 what art can say about our urban lives.
@@ -23,7 +23,7 @@ what art can say about our urban lives.
 But life is not changed magically by a poetic act is a video installation
 that builds a narrative about autogestion (or self-management) in a
 community in Caracas, Venezuela. Using wall projections and an installation
-of monitors, â€œBut life is not changed magically by a poetic actâ€  sets
+of monitors, “But life is not changed magically by a poetic act”  sets
 documentary interviews, architectural and urban establishing shots, and
 textual elements in dialogue. Using long takes of an expropriated Coca Cola
 bottling plant, a small community-run brick making factory, and vernacular
@@ -37,7 +37,7 @@ also tries to grasp a sense of the deeply affective alliances that
 autogestion builds in the texture of everyday urban life: how can a hybrid
 form of documentary and aesthetic video installation represent the textures
 and possibilities of urban life? Cutting across the naturalized form of
-documentaries â€œBut life is not changed magically by a poetic actâ€  opens the
+documentaries “But life is not changed magically by a poetic act”  opens the
 manner in which the community activists in Caracas take apart North
 American media frames of Venezuela and its social programs. What emerges is
 a complex moment of performance, global-local media analysis, critical

@@ -39,7 +39,7 @@ The Documentary Organization of Canada (DOC) is the largest professional
 non-profit association of independent filmmakers in Canada, with more than
 850 members across the country and over 200 members in the BC Chapter.
 Since 1983, DOC (formerly called the CIFC/Canadian Independent Film Caucus)
-â€“ has been the champion of independent documentary film and television in
+– has been the champion of independent documentary film and television in
 Canada.
 
 http://docbc.org

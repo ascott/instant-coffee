@@ -18,7 +18,7 @@ INTERVIEWS with
 
 Raymond Pettibon
 “I like to say things with a visual economy of line and, as much as I can,
-in words.â€  states Pettibon in an interview with Border Crossings. The
+in words.”  states Pettibon in an interview with Border Crossings. The
 California-based artist talks with BC about his comic-like works on paper
 that combine text and drawn images inspired by figures from popular
 American culture.

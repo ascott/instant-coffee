@@ -18,7 +18,7 @@ Hundreds of enquiring minds have attended the series at the College over the
 past two seasons to discuss and debate a host of philosophical issues. The 
 fall 2013 season has a distinct focus on definitions of freedom and will open 
 with a discussion on privacy. In this digital age, where personal information is 
-considered â€œthe new oil of the internetâ€ , where does the value of privacy fit? 
+considered “the new oil of the internet” , where does the value of privacy fit? 
 What happens to our democracy when people are more and more transparent 
 (for safety) and government is more and more secret (for security)? The topic 
 will be explored by lawyer Micheal Vonn, who is the policy director for the BC 

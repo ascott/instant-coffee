@@ -71,10 +71,10 @@ Mitchell.
 
 ‘Born in Flames poses the question of whether oppression against women will 
 be eliminated under any kind of social system. […] It is a fantasy presenting 
-a group of women who, confronted with the very â€œordinaryâ€  oppression women 
+a group of women who, confronted with the very “ordinary”  oppression women 
 have been experiencing for decades, refuse to take it any longer and become 
 armed fighters against the government. Their position is that oppression 
-against women is not eliminated automatically with â€œsocialismâ€  â€“ not only do 
+against women is not eliminated automatically with “socialism”  – not only do 
 political values have to change, cultural values must change and become 
 embedded in practice.’ — Lizzie Borden in Heresies #16, 1983
 

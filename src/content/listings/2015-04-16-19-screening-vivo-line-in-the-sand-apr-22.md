@@ -37,14 +37,14 @@ falling oil prices, coinciding with a fall federal election, mean that
 energy politics will be at the forefront of conversation for quite some
 time. The Northern Gateway is the single most salient and significant
 marker of that trend in Canada, and treating it as a case study might help
-to forecast the direction similar debates will take in the future.â€ 
+to forecast the direction similar debates will take in the future.” 
 
 The location of the film’s Vancouver premiere at VIVO Media Arts Centre is
 equally significant: “VIVO has a long and storied history of ruffling
 feathers. They’ve amassed one of the most significant collections of
 independent media in Canada, and have been there to witness similar stories
 of struggle in the past – Clayoquot Sound, Lyell Island, to name a few.
-Itâ€™s a huge honour to hold the screening in that setting.â€ 
+It’s a huge honour to hold the screening in that setting.” 
 
 The April 22nd screening marks the conclusion to a 14-stop premiere tour of
 the film throughout communities in Northern BC. Other screenings on that
@@ -56,7 +56,7 @@ wanted to premiere the film in Northern BC as a condition of respect to
 those impacted by the project. There’s a tendency for journalists to
 ‘parachute in’, collect material, and then leave. We wanted to respect the
 intrinsic link between place and identity felt by many who live in the path
-of the pipeline by holding the first screenings in the regions in question.â€ 
+of the pipeline by holding the first screenings in the regions in question.” 
 x
 
 Facebook Event: https://www.facebook.com/events/1064891950192880/

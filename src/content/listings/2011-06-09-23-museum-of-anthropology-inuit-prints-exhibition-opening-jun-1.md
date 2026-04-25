@@ -12,7 +12,7 @@ This exhibition features exquisite and extraordinarily rare prints from
 Japan and Cape Dorset, Nunavut, from the late 1950s and early 1960s. It
 also tells the little-known
 
-story of how, fifty years ago, the Canadian artist and â€œdiscovererâ€  of
+story of how, fifty years ago, the Canadian artist and “discoverer”  of
 Inuit art, James Houston, travelled to Japan to study printmaking with
 Un’ichi Hiratsuka.
 

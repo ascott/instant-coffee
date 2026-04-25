@@ -28,7 +28,7 @@ Founded in 1992, Raqs Media Collective is a prolific collaborative
 project by Jeebesh Bagchi, Monica Narula, and Shuddhabrata 
 Sengupta. Crossing and combing different media, they work as artists, 
 filmmakers, writers, curators, editors, event organizers, and more. 
-Inspired by a self-defined notion of â€œkinetic contemplationâ€ , their 
+Inspired by a self-defined notion of “kinetic contemplation” , their 
 practice restlessly explores new forms and methods of production while 
 preserving a consistent rigor. Their work as artists and as curators has 
 been presented at major institutions internationally.

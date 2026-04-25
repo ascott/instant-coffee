@@ -25,7 +25,7 @@ collide in performances by Vancouver’s fiercest dance troupe.
 * MOVE the company: Acclaimed dancer/choreographer Josh Beamish creates
 surreal spectacle and movement in the gallery.
 * The Dusty Flowerpot Cabaret: Imagination rules in an immersive
-installation by the creators of â€œHard Times Hit Parade.â€ 
+installation by the creators of “Hard Times Hit Parade.” 
 * Neworld Theatre goes Surreal with a mash-up of surrealist
 manifestoes, poetry, drama and contemporary "found text". Elements include:
 Ubu Roi, by Alfred Jarry; Surrealist manifestos and writing; and

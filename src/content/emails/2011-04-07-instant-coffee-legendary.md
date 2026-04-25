@@ -71,9 +71,9 @@ political opinion in its most direct form is expressed.
 
 For this recent work Hayes takes protest as a subject. In select 
 public sites she picketed with placards bearing archaic slogans, 
-such as â€œWho approved the war in Vietnam?â€  a phrase originally 
+such as “Who approved the war in Vietnam?”  a phrase originally 
 used in 1962 at the Charter Day Protest at the University of 
-California and â€œI am a Man,â€  a slogan taken from the civil rights 
+California and “I am a Man,”  a slogan taken from the civil rights 
 movement during the Memphis Sanitation strike in 1968. Hayes’ 
 discursive and aesthetic investigation chimes with the recent 
 snowballing of mass demonstrations in the Middle East, as well as 
@@ -241,7 +241,7 @@ Landscape. The show offers an investigation into Vancouver’s
 relationship to landscape, as a space outside of the traditional
 Canadian landscape trope and sitting on the western edge of the
 continent. The works chosen address contemporary conceptions of
-landscape and marginality in multiple ways. The term â€œedgeâ€  is
+landscape and marginality in multiple ways. The term “edge”  is
 examined as a complex set of meeting points and contact zones of 
 urban
 and natural environments and the anxiety produced in these 
@@ -751,7 +751,7 @@ something immediate, contingent and volatile in his documentation
 of far-flung artist projects gathered in the 2009 work Album VIII. 
 Hundreds of images conspire to form of an encyclopedia of modern 
 and conceptualist art that blooms into a visual poem about invention 
-and imagination.â€ 
+and imagination.” 
 
 Jacob is represented by Birch Libralato in Toronto. 
 
@@ -989,8 +989,8 @@ April 15 – June 12, 2011
 
 Opening: Thursday April 14 at 7pm
 
-â€œHomage to the Heartâ€  addresses themes of memory, oral history, 
-spirituality and â€œthe enduring heartâ€  as artist Brenda Joy Lem 
+“Homage to the Heart”  addresses themes of memory, oral history, 
+spirituality and “the enduring heart”  as artist Brenda Joy Lem 
 explores her family history and the threads that connect 
 generations. Working from family and archival images and stories 
 told to her by relatives, she recounts fragments from the history of 
@@ -1248,7 +1248,7 @@ http://burrardbridgestairwell.blogspot.com/
 Call for Submissions: Front Magazine commemorative tattoo
 
 There is nothing more reckless than making a permanent decision 
-quickly. The theme of Front Magazineâ€™s last issue is â€œReckless,â€  and 
+quickly. The theme of Front Magazine’s last issue is “Reckless,”  and 
 we are dedicated to following that to its logical conclusion. So we 
 are inviting you to submit something: a word, phrase, drawing, 
 photo, anything. Front Magazine’s current Art Director, Karianne 
@@ -1261,7 +1261,7 @@ comment upon the existence of Front Mag within the context of
 Vancouver’s art and cultural production, or reference the history of 
 artist publications within BC.
 
-All submissions should fit in an area no larger than 2.5â€ x 5â€  
+All submissions should fit in an area no larger than 2.5” x 5”  
 (horizontal or vertical), and be reproducible in 3 colours of ink or 
 less. The tattoo will be located on the inside right upper arm. Please 
 keep in mind that tattooing is a low-resolution medium of 
@@ -1861,7 +1861,7 @@ HOW TO REGISTER
 
 To register for the workshop, please email 
 education@vivomediaarts.com
-with â€œSLAB 5: Registrationâ€  in the subject line. We need your full 
+with “SLAB 5: Registration”  in the subject line. We need your full 
 name,
 your phone number, your email, and your commitment to attending 
 all or

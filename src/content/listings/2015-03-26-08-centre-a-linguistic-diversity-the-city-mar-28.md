@@ -60,6 +60,6 @@ analysis.
 share her experience with hən̓q̓əmin̓əm̓
 naming efforts at UBC
 - And Ah To the renowned illustrator of “The Great Canton and Hong Kong
-Proverbsâ€  will join us from Hong Kong via Skype for a current view of the
+Proverbs”  will join us from Hong Kong via Skype for a current view of the
 status of Cantonese language resilience and grass-roots language defense
 efforts in that city.

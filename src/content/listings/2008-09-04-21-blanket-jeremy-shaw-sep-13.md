@@ -26,10 +26,10 @@ Germany; The Seattle Art Museum, and The Henry Art Gallery, Seattle.
 
 Using techniques/tropes of conceptual and psychedelic art, rock video,
 experimental and documentary film to rework primary and produce secondary
-source materials, Jeremy Shawâ��s practice is immersed in discussing the
+source materials, Jeremy Shaw’s practice is immersed in discussing the
 transcendence-seeking activities of both mainstream and subculture, with a
 particular interest in the moment when the two collide. In keeping with
-this body, Shawâ��s current exhibition posits scientific representations of
+this body, Shaw’s current exhibition posits scientific representations of
 altered states with populist notions and the subsequent commercial goods
 they adorn.
 

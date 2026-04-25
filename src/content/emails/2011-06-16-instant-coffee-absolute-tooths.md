@@ -206,7 +206,7 @@ Undercovers provides 13 artists with the chance to riff off performance-based
 pieces that inspire them.
 
 Each starting point is a work by an artist ranging from prolific to obscure that is 
-then â€œcoveredâ€  and transformed into a contemporary piece which sits within a 
+then “covered”  and transformed into a contemporary piece which sits within a 
 renewed and developed cultural context.
 
 While all the pieces in the show take their cue from performance-based works 
@@ -502,7 +502,7 @@ ABOUT GROW
 
 Grow is a public art project that acts as a public forum, teaching tool and 
 creative laboratory for ecological and social sustainability practices in South East 
-False Creek (SEFC). Located in Vancouverâ€™s â€œgreenest developmentâ€ , the 
+False Creek (SEFC). Located in Vancouver’s “greenest development” , the 
 Olympic Village, Grow explores sustainability issues through a series of walks, 
 workshops and creative experiments in urban agriculture.
 GET INVOLVED:
@@ -528,16 +528,16 @@ SFU Gallery Burnaby, June 18th - August 5
 Evergreen Cultural Centre, June 18th - September 3
 
 These two exhibitions, which share the same title, provide an intriguing
-overview of Robert Youngâ€™s practice since 1977. A history of his work will
+overview of Robert Young’s practice since 1977. A history of his work will
 be at the Evergreen Cultural Centre and an in-depth survey of his paintings
 of domestic architectural spaces will constitute the exhibition at the SFU
-Gallery Burnaby. When combined with Youngâ€™s "Quotidian View" exhibition at
+Gallery Burnaby. When combined with Young’s "Quotidian View" exhibition at
 the Burnaby Art Gallery in 2009, the three shows add up to a true
 retrospective of an artist who has created virtual communities of
 chronologically disparate people and places in his art for the past fifty
 years. Operating at the interface of drawing and painting, his pictures are
 sometimes reminiscent of Renaissance formal languages and at others of a
-Postmodern colliding of cultures. Youngâ€™s quotational and citational
+Postmodern colliding of cultures. Young’s quotational and citational
 practices, which date back to the early 1960s, presaged the art of the
 1980s as well as the quotational times in which we live today.
 
@@ -563,7 +563,7 @@ parking attendant).
 
 Simon Fraser University Gallery | Academic Quadrangle, Room 3004 | SFU
 Burnaby Campus| 778-782-4266 | gallery@sfu.ca | sfu.ca/gallery
-Gallery Hours: Tuesday â€“ Friday: 10am â€“ 4pm, Saturday: 12pm â€“ 5pm. 
+Gallery Hours: Tuesday – Friday: 10am – 4pm, Saturday: 12pm – 5pm. 
 Closed
 Saturdays on holiday long weekends.
 

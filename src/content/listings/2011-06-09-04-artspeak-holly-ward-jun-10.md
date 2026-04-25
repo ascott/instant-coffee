@@ -21,7 +21,7 @@ social progress and political power, and serves to examine the role of art
 within this. In Persistence of Vision, Ward investigates symbolic
 strategies of resistance and the use of utopian discourse as a starting
 point for revolution. The exhibition creates a linkage between contemporary
-spaces of protest and historical representations of the â€œutopianâ€  city
+spaces of protest and historical representations of the “utopian”  city
 square. Featuring new sculptural and print work, the exhibition is an
 extension of Ward′s ongoing interest in social engagement and the utopian
 imaginary.

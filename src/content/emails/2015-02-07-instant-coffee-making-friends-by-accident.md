@@ -60,10 +60,10 @@ world through Google Art Project.
 
 “This is a groundbreaking project for the Vancouver Art Gallery. We are
 excited to work with Google to expand our audience by permanently featuring
-Douglas Coupland: everywhere is anywhere is anything is everything online,â€ 
+Douglas Coupland: everywhere is anywhere is anything is everything online,” 
 said Kathleen S. Bartels, the Vancouver Art Gallery’s Director. “We hope to
 engage visitors from around the globe to consider what defines contemporary
-culture through the artworks of Douglas Coupland.â€ 
+culture through the artworks of Douglas Coupland.” 
 (...)
 
 http://google.com/culturalinstitute/collection/vancouver-
@@ -79,8 +79,8 @@ turns the world upside down. The viewer looks through a telescope at a
 location two kilometres away, at a rapidly changing East Vancouver,
 optically inverted. Centred in the telescope image is a large led display,
 placed upside down but appearing right side up to the viewer. Across the
-display scroll phrases of valediction: â€œFarewell Libido;â€  â€œFarewell
-Hollywood;â€  â€œFarewell to the Idea of Infinite Growth.â€ 
+display scroll phrases of valediction: “Farewell Libido;”  “Farewell
+Hollywood;”  “Farewell to the Idea of Infinite Growth.” 
 
 It’s like a funeral procession in words, evoking loss on a massive scale
 and reminding us of the things we may have taken for granted. Rounding out
@@ -264,7 +264,7 @@ inmates and staff alike. As the exhibition curator Jan Allen notes, “Inside
 Kingston Penitentiary offers an empathetic confrontation driven by a
 compulsion to understand the situation of all those within the walls. It
 is, after all, a situation created by, and accountable to, those outside
-the walls.â€ 
+the walls.” 
 
 Signed copies of Inside Kingston Penitentiary will be available at the
 special launch price of $35.
@@ -485,7 +485,7 @@ Reception: Sunday, February 15, 2-4 p.m.
 Curator Talk: Saturday, March 7, 2 p.m.
 Free Bookbinding Workshops: Sunday, March 8, Kids 11 a.m. and Adults 2 p.m.
 
-â€œMAKE RE|MAKE UN|MAKEâ€  highlights the work of six artists, each working
+“MAKE RE|MAKE UN|MAKE”  highlights the work of six artists, each working
 in different media, whose work utilizes repetition as a device to
 investigate diverse ideas and themes. Repetition is intrinsic to each of
 these artists’ creative processes, and is used both formally and
@@ -506,7 +506,7 @@ difference through the archetypal figure of Frankenstein’s monster. Tamara
 Skubovius employs repetition to tell stories about the land and those who
 inhabit it, and through the process of porcelain casting, creates serial
 objects that hold cultural symbolism and contemporary significance for the
-Tāltān First Nation. Janice Wuâ€™s realistic gouache paintings
+Tāltān First Nation. Janice Wu’s realistic gouache paintings
 illustrate her
 habit of collecting mundane objects, and present the symbolic and
 sentimental qualities these objects possess that extend further than their
@@ -995,7 +995,7 @@ Registration Call Centre: 604-276-4300, Monday to Friday, from 8:30 am -
 5:30 pm
 In person: Richmond Cultural Centre front desk, 7700 Minoru Gate, Richmond BC
 
-This workshop is offered as part of the exhibition â€œClose Listeningâ€ : Eli
+This workshop is offered as part of the exhibition “Close Listening” : Eli
 Bornowsky, Jeremy Hof, Monique Mouton, Jinny Yu. Organized and circulated
 by the Ottawa Art Gallery, on view at the Richmond Art Gallery from January
 31-March 29, 2015.

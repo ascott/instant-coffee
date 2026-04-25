@@ -71,7 +71,7 @@ information, including works by Hong Hao, Nobuo Kubota, Shen Yuan, Germaine
 Koh, Sharmila Samant, Yang Jiechang, Koki Tanaka, Khan Lee, Roy Caussy,
 Jinhan Koh, Santiago Bose, Mo Salemy, Leung Chi-Wo, Babak Golkar and many
 others. The gallery will be divided into a number of discursive spaces: a
-cinema, a cafÃ�Â©, a library, a bookstore, a lounge and a radio station.
+cinema, a cafÂ©, a library, a bookstore, a lounge and a radio station.
 
 Publications and limited editions will be available for sale. Video in the
 gallery, and on the website, will feature highlights from past
@@ -161,7 +161,7 @@ Cultural Capital
 Moderator: Hank Bull, Executive Director, Centre A
 
 Vancouver is in the grips of a city-wide debate about the place of arts and
-culture in the cityâ��s vision of its future. What kind of spaces are we
+culture in the city’s vision of its future. What kind of spaces are we
 building for art? What does Vancouver have to say to the world? This
 closing discussion will consider these questions and identify the next
 steps forward.
@@ -169,7 +169,7 @@ steps forward.
 CONFIRMED SPEAKERS
 
 The symposium features speakers who will kindle discussion with short
-interventions, as well as â��active listenersâ�� invited to contribute to the
+interventions, as well as ’active listeners’ invited to contribute to the
 ensuing dialogue. Those interested in speaking are invited to submit
 proposals for short interventions. The following speakers are confirmed.
 
@@ -231,7 +231,7 @@ NETWORKING
 
 The symposium will be preceded by a blog and streamed live to the Internet.
 Participation in the event will be possible by Skype and Twitter. The
-proceedings will edited and archived on Centre Aâ��s website.
+proceedings will edited and archived on Centre A’s website.
 
 LUNCH AND DINNER
 
@@ -245,7 +245,7 @@ be provided.
 
 PATRONS
 
-Letâ��s Twist Again is made possible in part by the generous support of the
+Let’s Twist Again is made possible in part by the generous support of the
 following individual patrons:
 
 Project Patron: Anndraya T. Luui

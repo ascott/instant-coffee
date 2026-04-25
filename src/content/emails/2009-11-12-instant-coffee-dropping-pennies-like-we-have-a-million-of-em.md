@@ -484,7 +484,7 @@ Emily Carr University, 1399 Johnston Street, Vancouver, BC V6H 3R9
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2009-11-12-10-ubcs-ams-and-ahva-galleries-weareart-nov-13">10. UBC's AMS and AHVA Galleries | WEAREART | NOV 13</a>
 ------------------------------------------------------------------------
-UBCâ��s AMS and AHVA Galleries present WEAREART, a collaborative show and
+UBC’s AMS and AHVA Galleries present WEAREART, a collaborative show and
 fundraiser featuring works from Faculty, Staff, and Students from the
 Department of Art History, Visual Art, and Theory at UBC. WEAREART is a
 mixed media event centered on each artist's interpretation of the grey
@@ -616,7 +616,7 @@ tyrant and a wolfbat.
 Erin Moure's most recent book of poems is inspired by the medieval Iberian
 lyric repertoire: O Cadoiro (2007). Her translations of Chus Pato from
 Galician and (with Robert Majzels) Nicole Brossard from French are widely
-known Chus Pato's m-TalÃ¡ just appeared in Moure's English version in
+known Chus Pato's m-Talá just appeared in Moure's English version in
 spring of 2009. A new book of poetry, O Resplandor, will appear from Anansi
 in 2010. Moure will be writer in residence at the University of Ottawa from
 January-April 2010.
@@ -631,7 +631,7 @@ Tuesday, November 17, 7pm
 
 Expanding Horizons
 Tour / John O'Brian / In the Gallery, Meet at the Title Wall
-John Oâ€™Brian, renowned art historian and author ofÂ Beyond Wilderness: The
+John O’Brian, renowned art historian and author ofÂ Beyond Wilderness: The
 Group of Seven, Canadian Identity, and ContemporaryÂ Art, speaks on
 landscape, Canadian art history and national identity.
 
@@ -980,7 +980,7 @@ confidential letters of reference (either included in the application, or
 sent under separate cover).
 
 The applications and inquiries should be addressed to: Professors John
-Oâ��Brian and Catherine Soussloff, Co-Chairs, Visual Art Search Committee,
+O’Brian and Catherine Soussloff, Co-Chairs, Visual Art Search Committee,
 Department of Art History, Visual Art and Theory, University of British
 Columbia, 403-6333 Memorial Road, Vancouver, B.C., V6T 1Z2, Canada.
 
@@ -1173,8 +1173,8 @@ Centre d'art contemporain / Contemporary Art Centre
 (418) 662-7280
 sagamie@cgocable.ca http://www.sagamie.com/
 
-Si vous souhaitez Ãªtre retirÃ© de notre liste d'envoi, vous n'avez qu'Ã 
-rÃ©pondre Ã	ce message en indiquant comme objet : "SVP RETIREZ-MOI DE LA
+Si vous souhaitez Ãªtre retiré de notre liste d'envoi, vous n'avez qu'Ã 
+répondre Ã	ce message en indiquant comme objet : "SVP RETIREZ-MOI DE LA
 LISTE D'ENVOI".
 
 If you wish to be removed from our mailing list, please reply to this

@@ -47,23 +47,23 @@ exhibit-photos/
 
 The new project is the third installment of the mahal exhibit. It explores 
 the packing and unpacking of the balikbayan box, the oversized 
-cardboard box â€œfilledâ€  with gifts by Filipino im/migrants living and 
+cardboard box “filled”  with gifts by Filipino im/migrants living and 
 working abroad, and sent to family and friends in the Philippines. This 
 collaborative project builds upon narratives depicted in the short film, 
 produced by the UBC Ethnographic Film Unit and directed by Dada 
 Docot, Almira Walde-Renaud and Daniel Smartt, “Balikabayan: Return 
-to the Nationâ€  (http://vimeo.com/24159140). 
+to the Nation”  (http://vimeo.com/24159140). 
 
 The project, as part of the IVEFS coursework, endeavors to add to the 
 discourse involving cultural global flows associated with (im)migrant 
 communities, specifically the Philippine community in Vancouver. With 
 academic, artistic, and community-based exploration of the balikbayan 
-box phenomena, the project aims to â€œunpackâ€  personal and community 
+box phenomena, the project aims to “unpack”  personal and community 
 narratives of the Filipina/o in Vancouver. 
 
-Instead of releasing the typical â€œcall for artworksâ€ , the project 
+Instead of releasing the typical “call for artworks” , the project 
 introduces the project to the Filipino (im)migrant community in 
-Vancouver with a â€œcall for padala (gifts)â€ . These collected gifts will then 
+Vancouver with a “call for padala (gifts)” . These collected gifts will then 
 be contained in two ordinary balikbayan boxes, for shipping to the 
 Philippines. Essential to this project is the recording of the narratives 
 behind the gifts. Who are the gifts' senders, and who are its recipients? 
@@ -75,9 +75,9 @@ ignored, when migrants are reduced to mere numbers and statistics.
 The Vancouver component of the project collaborates with academic 
 institutions and art spaces both in Vancouver and Manila. The UBC Liu 
 Institute for Global Issues and the YACTAC Gallery are points of 
-â€œdepartureâ€  for the packing, and display, of the balikbayan boxes as 
+“departure”  for the packing, and display, of the balikbayan boxes as 
 they fill up with padala. When the boxes arrive in Manila, the Kanto The 
-Collective Artists-run Space, will then serve as a point of â€œarrival.â€  It is 
+Collective Artists-run Space, will then serve as a point of “arrival.”  It is 
 in this space where the balikbayan boxes will be unpacked by the 
 recipients of the gifts who would have then been notified of the boxes' 
 opening night. It is within these spaces and among the communities 

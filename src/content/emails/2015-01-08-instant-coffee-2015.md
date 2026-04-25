@@ -80,7 +80,7 @@ demonstrates an interest in process and new materials, has encompassed a
 number of disciplines including sculpture, early performance art, video,
 painting and iconic hand-built houses on the Maplewood Mudflats and Hornby
 Island. Currently most well known for his innovative monochromatic cast
-resin â€œpaintings/sculpturesâ€  produced during the last forty-five years,
+resin “paintings/sculptures”  produced during the last forty-five years,
 this exhibition examines the full breadth of his career with works from the
 Belkin’s permanent collection and others borrowed from the artist,
 collectors and public institutions.
@@ -696,7 +696,7 @@ remains always similar and immovable. Relative space is some movable
 dimension or measure of the absolute spaces; which our senses determine by
 its position to bodies; and which is commonly taken for immovable space;
 such is the dimension of a subterraneous, an aerial, or celestial space,
-determined by its position in respect of the earth.â€  â€“ Isaac Newton
+determined by its position in respect of the earth.”  – Isaac Newton
 
 UBC Sharing Science is seeking proposals for an interdisciplinary art
 exhibition to be held at the University of British Columbia's AMS Art
@@ -1133,17 +1133,17 @@ flight from Iran after which he eventually found refuge in Vancouver.
 “This installation [addresses] intellectual claustrophobia through language
 as a weapon of attack and defense; what is lost in the communication
 becomes loud sounds, weaponized sounds, sounds through the presence of
-pins. Pins are a universal symbol of pain, like a loud â€œouch,â€  but silent
+pins. Pins are a universal symbol of pain, like a loud “ouch,”  but silent
 at the same time.
 
 It is also a portrait, but reduced to just eyes and language. The
 self-portrait of pinheads, though there is no specific self, is perhaps a
 very oddball portrait – oddballs of displacement and misplacement and the
-â€œdoorâ€  separating Us and Them. The Persian language written on the â€œdoorâ€ 
+“door”  separating Us and Them. The Persian language written on the “door” 
 is used as decoration or beauty (surface). The English is used as tag or
-brandification â€“ one as â€œunknown,â€  one as insult/poetry or slogan of the
+brandification – one as “unknown,”  one as insult/poetry or slogan of the
 collective experiences of refugees, the exiled, marginalized or what is
-â€œnormallyâ€  perceived as â€œthe Others.â€ 
+“normally”  perceived as “the Others.” 
 
 – Ahmad Tabrizi, artist statement.
 
@@ -1560,7 +1560,7 @@ why you want to perform here, etc. Include whatever you think we should see
 to get a sense of your practice. Local, international, established, and
 emerging artists are all welcome.
 
-Submissions will not be treated as â€œaccepted/not acceptedâ€  but rather
+Submissions will not be treated as “accepted/not accepted”  but rather
 accrued towards a bank of artists that we can return to whenever we are
 programming.
 
@@ -1578,7 +1578,7 @@ feminist, post/decolonial, and queer issues. *RATS 9 is wheelchair accessible
 
 LINK & PIN Mandate:
 LINK & PIN’s mandate is to present performance art specific works. Though I
-am not interested in policing what is and isnâ€™t â€œperformance artâ€  the goal
+am not interested in policing what is and isn’t “performance art”  the goal
 of this mandate is to offer space to work that is not supported via the
 plethora of dance and theatre institutions in Montreal. We love you but if
 the work you’re showing could be programmed there, go there.
@@ -2111,7 +2111,7 @@ legacy and succession planning
 reimagining funding models
 
 Please submit up to a 500 word proposal outlining your presentation topic
-with the subject heading â€œARCCO 2015 Conference Submissionâ€ .
+with the subject heading “ARCCO 2015 Conference Submission” .
 
 Please note that submissions will be accepted by email only. Any hardcopy
 submissions received will not be returned.

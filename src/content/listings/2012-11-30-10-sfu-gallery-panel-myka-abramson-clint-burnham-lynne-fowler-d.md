@@ -33,7 +33,7 @@ the role of the university as a site for knowledge, critique and action. As Clin
 Burnham writes in a recent review of the SFU Gallery exhibition, “ "This Ain’t 
 China" becomes less a comment on shopworn Maoist revolution and more a 
 critique of the globalized conditions of learning from, and looking at, art 
-today.â€ 
+today.” 
 
 Panelists
 

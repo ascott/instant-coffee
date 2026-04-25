@@ -15,7 +15,7 @@ UBCs Museum of Anthropology - 6393 NW Marine Drive
 Presented by UBC's Museum of Anthropology, Without Masks:
 Contemporary Afro-Cuban Art features over 80 Afro-Cuban artworks
 collected by Chris and Marina von Christierson. Curated by Cuban poet,
-art critic and curator Orlando HernÃ¡ndez, the exhibition was first shown at
+art critic and curator Orlando Hernández, the exhibition was first shown at
 the Johannesberg Art Gallery. It explores the ties that link the histories
 and cultures of Cuba and Africa, and includes works that reflect
 controversial and conflicting aspects of the Cuban national reality that

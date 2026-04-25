@@ -82,7 +82,7 @@ debris, and mythology, the gesture of dancers, graphs, politics and dreams.
 I draw to get back to basics, to the initial mark making process with
 carbon, the fundamental molecule of all life. I also enjoy manipulating
 materials and discovering what each material has to say about this place we
-shareâ€ .
+share” .
 
 About the work; Florescence is an exploration tied to my previous works
 inspired by botany, printing and by the image of the vital organs found in

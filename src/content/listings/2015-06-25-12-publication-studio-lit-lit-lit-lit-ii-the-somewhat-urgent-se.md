@@ -38,7 +38,7 @@ http://modercatalyst.ca/
 Ronan K. Nanning-Watson is a filmmaker, writer and artist from British
 Columbia. His work ranges in scope, medium, and aesthetic, but is
 consistently uncompromising. Recently he finished his first feature film
-â€œCrusadeâ€  about a group of young hipsters who start a holy war. The next
+“Crusade”  about a group of young hipsters who start a holy war. The next
 two parts in the trilogy are in preproduction.
 
 Ingrid Olauson is a writer and trawler of people’s lives. She recently
@@ -50,8 +50,8 @@ The Somewhat Urgent Series is a series of chapbooks which document select
 texts from previous LIT LIT LIT LIT readings.The following texts will be
 available for the official launch:
 
-â€œIâ€™D HURT A FLY, I DONâ€™T CARE IF I KILL A FLY, Iâ€™D KILL A FLYâ€  by Kara Hansen
+“I’D HURT A FLY, I DON’T CARE IF I KILL A FLY, I’D KILL A FLY”  by Kara Hansen
 
 &
 
-â€œClean Indoor Air Act 1, 2 of 3â€  by Steffanie Ling
+“Clean Indoor Air Act 1, 2 of 3”  by Steffanie Ling

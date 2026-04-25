@@ -35,7 +35,7 @@ nervous, as many of my heroes were in that screening room that night); and,
 3) The Ottawa Gay and Lesbian Film Festival invited me to do a fundraiser
 for them, and I agreed. The organizers of the screening made the screening
 an OUTDOOR screening at a common mall area. So that was amazing to
-witness, the shorts playing for everyone passing by to see.â€ 
+witness, the shorts playing for everyone passing by to see.” 
 
 The time has come experience the hilarity again. 
 

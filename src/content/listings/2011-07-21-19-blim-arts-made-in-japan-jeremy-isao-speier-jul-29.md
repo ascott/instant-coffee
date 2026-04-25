@@ -23,7 +23,7 @@ In Japan, (2011) a sculptural, kinetic installation and collected ephemera by
 Vancouver-based artist Jeremy Isao Speier. On opening night in celebration of 
 the 35th Annual Powell Street Festival we are happy to have catering by Open 
 Sesame with a Japanese themed Made In Japan menu. Led by Deep Purple's, 
-Space Truckin', (1972) dj Darwin Meyers will spin a 1970's â€œstadiumâ€  Rock mix 
+Space Truckin', (1972) dj Darwin Meyers will spin a 1970's “stadium”  Rock mix 
 on classic vinyl.
 
 In Made In Japan, Artist Jeremy Isao Speier heralds consumer electronics of the 

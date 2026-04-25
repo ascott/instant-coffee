@@ -31,7 +31,7 @@ artists working in the emerging forms of multimedia and performed cinema.
 ANTHONY ROBERTS is a writer/director, composer and teacher. He has worked
 on a number of groundbreaking film and multimedia projects whose concerns
 range from interactivity to improvisation to surrealist collage. In 1990 he
-formed The Truth Channel with filmmaker Bill Mullanâ��an experimental
+formed The Truth Channel with filmmaker Bill Mullan’an experimental
 multimedia group that has co-produced over two-dozen
 installations/performances.
 

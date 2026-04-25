@@ -54,7 +54,7 @@ be returned.
 4. Submission deadline: portfolios must be received at the IDB Cultural
 Center by April 30, 2009.
 
-5. All entries must be mailed to FÃ&#65533;ï¿½Ã&#65533;Â©lix Ã&#65533;ï¿½Ã¯Â¿Â½ngel, IDB Cultural Center,
+5. All entries must be mailed to FÃ&#65533;ï¿½Ã&#65533;Â©lix Ã&#65533;ï¿½ïÂ¿Â½ngel, IDB Cultural Center,
 1300 New
 York Avenue, Washington, DC 20577, USA . Telephone: 1 202 623 1239.
 (Please send portfolios, hard copy or disk, via courier service since

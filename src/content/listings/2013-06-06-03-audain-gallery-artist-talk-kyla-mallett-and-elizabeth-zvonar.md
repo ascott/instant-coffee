@@ -54,7 +54,7 @@ Running from May 9 to August 17, 2013, The Biography of Images: Parallel
 Biographies is the third in a series of group exhibitions from the Austrian
 Federal Photography Collection, in this case bringing together artists from
 Vienna and Vancouver. The exhibition includes work by the Vienna-based
-artists Thomas Freiler, KrÃ¼ger & Pardeller, Tatiana Lecomte, Christian
+artists Thomas Freiler, Krüger & Pardeller, Tatiana Lecomte, Christian
 Mayer, Sissa Micheli, and Anita Witek, and the Vancouver-based artists Arni
 Haraldsson, Tim Lee, Kyla Mallett, Jayce Salloum, Kevin Schmidt, and
 Elizabeth Zvonar.
@@ -74,7 +74,7 @@ Brady Cranfield | Gallery Assistant
 Audain Gallery 
 Simon Fraser University
 Goldcorp Centre for the Arts
-#3275 â�� 149 West Hastings
+#3275 ’ 149 West Hastings
 Vancouver BC V6B 1H4
 P: (778) 782-9102 
 E: info@audaingallery.ca 

@@ -14,9 +14,9 @@ Above and Below
 Opening reception: Saturday October 18, 2pm to 4pm
 
 Monte Clark Gallery is pleased to present a new body of work by Derek
-Root entitled â€œAbove and Below.â€ 
+Root entitled “Above and Below.” 
 
-In the exhibition â€œAbove and Below,â€  Derek Root continues to expand
+In the exhibition “Above and Below,”  Derek Root continues to expand
 his language of abstraction, presenting a series of acrylic-on-canvas
 works. The paintings depict seemingly random forms that sit
 harmoniously together, tethered by their subtle texture and colour.

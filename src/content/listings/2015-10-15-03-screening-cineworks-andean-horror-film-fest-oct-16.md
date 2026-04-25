@@ -64,7 +64,7 @@ Spanish with English subtitles
 Set in Huamanga, the film explores the effects of collective paranoia and
 hysteria through a community terrorized by the presence of Pishtaco, a
 mythical assassin who kills Andean villagers to extract their body fat and
-sell it to industrialized countries. Martínez Gamboaâ€™s film reflects on the
+sell it to industrialized countries. Martínez Gamboa’s film reflects on the
 climate of mistrust experienced by many communities during the years of
 terrorism, and presents a critical view of extraction economy as a means
 for economic development.

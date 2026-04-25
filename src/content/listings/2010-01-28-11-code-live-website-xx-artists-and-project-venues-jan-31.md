@@ -36,7 +36,7 @@ Seed: Napoleon Brosseau and Gabe Sahwney
 Mondo Spider: Zero Emissions: eatART (Canada)
 mo_ving: Raquel Kogan, curated by Claudio Rivera-Seguel (Brazil/Chile)
 Breaking the Ice: Societé des arts technologiques (Canada)
-Reactable: Sergi JordÃ , Martin Kaltenbrunner, GÃ¼nter Geiger and Marcos
+Reactable: Sergi JordÃ , Martin Kaltenbrunner, Günter Geiger and Marcos
 Alonso (Austria/Spain)
 Instant Places: Canada CODE: Ian Birse, Laura Kavanaugh (Canada)
 PLAY: The Hertzian Collective: Geoffrey Shea (Canada)

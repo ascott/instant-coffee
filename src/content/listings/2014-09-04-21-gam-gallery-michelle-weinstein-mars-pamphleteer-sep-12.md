@@ -38,7 +38,7 @@ invented time-lapse geologic history; planetary habitation by
 four-dimensional beings (either of alien origin or manifestations of spirit
 sent from human shamanic wanderings); and the laboratory creation of plant
 and microscopic life. Mars Pamphleteer is a functional storyboard, a new
-form of diagrammatic imagery that â€œacts outâ€  its own representation. The
+form of diagrammatic imagery that “acts out”  its own representation. The
 work attempts to find a boundary where a diagrammatic image can create an
 affective experience of the space or narrative that it is representing. 
 

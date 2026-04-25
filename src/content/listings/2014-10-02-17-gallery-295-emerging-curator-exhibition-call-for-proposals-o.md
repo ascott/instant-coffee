@@ -24,7 +24,7 @@ curatorial project, while being fully supported by the fantastic team
 members behind Gallery 295. There are not many opportunities like this open
 to young curators working in Vancouver, and since 'Locate' the support for
 the Gallery 295 community and beyond has been unwavering. I would encourage
-all curators working in Vancouver with ambition to apply.â€  - Avalon Mott
+all curators working in Vancouver with ambition to apply.”  - Avalon Mott
 
 Our Call for Proposals has been extended to October 10th, 2014.
 

@@ -10,7 +10,7 @@ summary: "BLANKET | Beau Dick | MAY 6"
 
 Beau Dick
 Pookwis
-May 6th â�� June 27th, 2010
+May 6th ’ June 27th, 2010
 
 Opening Reception Thursday May 6th 6-9pm
 Artist in Attendance

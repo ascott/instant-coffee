@@ -32,7 +32,7 @@ Surrey Urban Screen before touring to other venues internationally.
 The works are part of the McLuhan in Europe 2011 initiative 
 celebrating the centennial birth year of Canadian media theorist 
 Marshall McLuhan. The exhibition was developed in order to explore 
-Marshall McLuhanâ€™s notion of â€œelectric speedâ€ . 
+Marshall McLuhan’s notion of “electric speed” . 
 
 In Explore the Future of Creativity Jeremy Bailey produces a multi-level 
 advertising campaign for himself as a "famous new media artist", using 

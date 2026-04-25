@@ -34,7 +34,7 @@ studio evidence of utility and production is collected throughout, tools hung on
 the wall, a wrist watch hung on the work bench. Wall’s photos hover between 
 a moment of reflection and a lifetime of creation.
 
-With this exhibition â€œTo See Farâ€  Trench continues to excavate the expansive 
+With this exhibition “To See Far”  Trench continues to excavate the expansive 
 history that is Vancouver’s late-Modernist art and invites viewers to discover 
 the virtuosity of David Marshall’s skill and craftsmanship. Drawn from the 
 artist’s collection, these sculptures and preparatory drawings exemplify a 

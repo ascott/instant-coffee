@@ -23,7 +23,7 @@ the artifact that only appears to be a story, but in fact is not, and you
 understood it as a story, then in your mind it would be lodged as a 
 story and nothing you or I could say to the contrary would change 
 that. Once it is a story it remains one or fades. It could be a series of 
-lies or mistakes, but nevertheless it is a story or it doesnâ€™t exist.â€  â€”
+lies or mistakes, but nevertheless it is a story or it doesn’t exist.”  —
 Fred Douglas
 
 In celebration of Access’ twentieth year we are inviting artists to re-

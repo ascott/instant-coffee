@@ -36,11 +36,11 @@ in North America and is one of the most important gateways to the Asia
 Pacific. For the past 25 years, the Gallery has been at the forefront of the 
 incredible exchange of art and ideas between these two regions, and we 
 are thrilled to continue building upon this commitment with the launch of 
-the Institute of Asian Art,â€  said Kathleen Bartels, Director of Vancouver Art 
+the Institute of Asian Art,”  said Kathleen Bartels, Director of Vancouver Art 
 Gallery. “With dedicated curatorial leadership and the support of an 
 international network of advisors, the Institute of Asian Art will be an 
 important resource for our community, stimulating new dialogue and further 
-strengthening the ties between Vancouver and the Asian Pacific region.â€  
+strengthening the ties between Vancouver and the Asian Pacific region.”  
 
 The Institute of Asian Art’s inaugural programs focus on historical and 
 contemporary Chinese art and include: 
@@ -63,11 +63,11 @@ collection of contemporary Asian Art.
 
 “I am absolutely delighted to see the realization of the Institute of Asian Art. 
 The timing is perfect as we celebrate two significant Chinese exhibitions at 
-the Gallery in the coming weeks,â€  said Zheng Shengtian, Trustee of the 
+the Gallery in the coming weeks,”  said Zheng Shengtian, Trustee of the 
 Vancouver Art Gallery. “The Institute is a logical result of years of the 
 Gallery’s efforts to exhibit and promote Asian art for the community, and it 
 will no doubt open a new and exciting chapter for the Vancouver Art 
-Gallery through expanded programs and outreach.â€ 
+Gallery through expanded programs and outreach.” 
 
 Located in one of North America’s largest cities on the Pacific Rim, the 
 Vancouver Art Gallery has spearheaded major Asian art projects and 

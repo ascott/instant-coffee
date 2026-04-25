@@ -16,8 +16,8 @@ work that tests the absolute limits of the medium itself. Drawing
 primarily on natural forms and environments as subject matter for his
 celluloid manipulations — an array of classic and novel in-camera,
 darkroom, printing, and editing techniques — Tuohy “abstracts out the
-fleshiness of the particularâ€  to create dynamic studies of form,
-structure, time, and pattern, an approach he describes as â€œcine-cubism.â€ 
+fleshiness of the particular”  to create dynamic studies of form,
+structure, time, and pattern, an approach he describes as “cine-cubism.” 
 The filmmaker will present a series of 16mm films, culminating in a live
 performance using two projectors.
 

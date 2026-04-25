@@ -31,8 +31,8 @@ subjects. The process of getting sitters to relax is much less extreme now,
 but it can still be difficult. For commercial photographers, the skill of
 putting strangers at ease is crucial but not always successful.
 
-In his current work, photographic portraits mediate Ron Tranâ��s interactions
-with unfamiliar people â�� in some cases the strangers are nameless people
+In his current work, photographic portraits mediate Ron Tran’s interactions
+with unfamiliar people ’ in some cases the strangers are nameless people
 found in lost snapshots, and sometimes they are the portrait photographers
 themselves.
 
@@ -40,15 +40,15 @@ Over a number of months Ron Tran visited Photonation, Photo Express, and
 the Sears Portrait Studio, not to photograph people, but to work with the
 photographers there, to foreground their backgrounds, taking pictures of
 props. He would bring out toppled columns, guitars and flowers, tires and
-bats â�� imbricating inanimate subjects that signify gender, culture, or
+bats ’ imbricating inanimate subjects that signify gender, culture, or
 class. Photographed together, their relationships become complicated, as
 they should be.
 
-But photographs by themselves donâ��t tell our stories, at least not the way
+But photographs by themselves don’t tell our stories, at least not the way
 we would tell them. We collaborate with our pictures and build stories
 around them, stories that we tell others, stories that we tell ourselves.
 Occasionally, however, photographs remind us of stories that we once told,
-but donâ��t want to tell anymore. Sometimes we lose our photos, and sometimes
+but don’t want to tell anymore. Sometimes we lose our photos, and sometimes
 we never wanted them in the first place. Sometimes they end up in places we
 never intended them to be.
 
@@ -58,8 +58,8 @@ during his wanderings in Vancouver and abroad, or donated to his collection
 by family and friends. By cutting and sandwiching these photos together,
 Ron Tran plays with the contingent nature of the photographs, creating new
 possibilities for narratives from the vestiges of lost ones. With their
-bent corners and unknown faces, these photographs are props â��objects as
-much as imagesâ�� and you can do anything with them under such circumstances.
+bent corners and unknown faces, these photographs are props ’objects as
+much as images’ and you can do anything with them under such circumstances.
 
 -Jesse Birch-
 

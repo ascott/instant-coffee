@@ -20,7 +20,7 @@ Opening Reception // Thursday, September 23rd // 7pm - 11pm
 Captivated by still life, Les Ramsay seeks an intimacy with form while
 romancing notions and techniques of abstract painting. His work is invested
 in the exploration of tropes found in modern, cubist, and abstract art
-examining the contrasts between the artistsÃ¢ï¿½ï¿½ intellect and their whim. He
+examining the contrasts between the artistsâï¿½ï¿½ intellect and their whim. He
 exhibits several new paintings and sculptures that investigate
 circumstances where subject and composition exist in limbo.
 

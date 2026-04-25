@@ -35,7 +35,7 @@ explicate and to resist the ways in which victimhood is constructed.
 
 CECILY NICHOLSON has worked with women of the downtown eastside community
 of Vancouver for the past ten years and is currently the Coordinator of
-Funds with the Downtown Eastside Womenâ��s Centre. She has collaborated most
+Funds with the Downtown Eastside Women’s Centre. She has collaborated most
 recently as a member of the VIVO Media Arts collective, the Press Release
 poetry collective and the No One is Illegal, Vancouver collective. Triage,
 a book of poetry, is forthcoming from Talonbooks in Spring 2011.

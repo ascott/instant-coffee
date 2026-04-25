@@ -127,7 +127,7 @@ of intense and nonchalant energy, the soundtrack to a pimp on an
 interstellar journey.
 Joker's musical peers include Rustie, Gemmy and Kode 9, the recognised
 tastemaker and man behind Hyperdub who identified Joker as one to watch
-when he named him as his protÃ�Â©gÃ�Â©e for Mary Anne Hobbs hugely seminal
+when he named him as his protÂ©gÂ©e for Mary Anne Hobbs hugely seminal
 follow-up to Dubstep Wars, Generation Bass; broadcast worldwide on BBC
 Radio 1.
 Joker's video can be viewed on Youtube and in testament to the level of
@@ -265,13 +265,13 @@ this remarkable collection, that reveals the scholarship, intuitions and
 passions of the collectors.
 
 The exhibition features iconic as well as anonymous images that
-underscore the Malcolmsonâ��s interest in experimental approaches to the
+underscore the Malcolmson’s interest in experimental approaches to the
 medium, from Fox Talbot to Robert Frank. The beginnings of photography is
 represented by salted paper prints from paper negatives of the mid-1840s
-and twenty-first century photography, by several of Vancouverâ��s most
+and twenty-first century photography, by several of Vancouver’s most
 notable contemporary artists. This range of images draws links between the
 earliest innovations in the medium to those of today; for instance, Gustave
-Le Grayâ��s 1850s seascape produced from two negatives precedes the collage
+Le Gray’s 1850s seascape produced from two negatives precedes the collage
 techniques of modernist photography that continue in digital practices.
 While alluding to historical developments and stylistic periods, the
 exhibition knits together images from diverse contexts, genres and time
@@ -300,8 +300,8 @@ chaotic energies and visual dynamics of modern cities. Abstraction and
 visuality itself as subject matter are prevalent threads in the exhibition.
 
 The exhibition reveals how developments in camera and print
-technologies impacted â��the new vision.â�� The unique character of each
-vintage print emphasizes the very materiality of photographsâ��their physical
+technologies impacted ’the new vision.’ The unique character of each
+vintage print emphasizes the very materiality of photographs’their physical
 surfaces, the patinas of aging and accidents of chemicals interacting with
 paper. These visual effects emphasize the mysterious, elusive qualities of
 photographic images as traces of a moment in time and the strong poetic and
@@ -465,7 +465,7 @@ Koerner Library
 The gallery located in room 112, Koerner Library presents the work of
 students from VISA 480 in a two-part exhibition. The class, split in two,
 proposes thematics to each other and formulates two group exhibitions.
-Doublethink is the second exhibition running from Wednesday December 2 â��
+Doublethink is the second exhibition running from Wednesday December 2 ’
 Saturday December 5.
 
 The power of holding two contradictory beliefs in one's mind
@@ -474,12 +474,12 @@ genuinely believing in them, to forget any fact that has become
 inconvenient, and then, when it becomes necessary again, to draw it back
 from oblivion for just so long as it is needed, to deny the existence of
 objective reality and all the while to take account of the reality which
-one denies â�� all this is indispensably necessary. Even in using the word
+one denies ’ all this is indispensably necessary. Even in using the word
 doublethink it is necessary to exercise doublethink. For by using the word
 one admits that one is tampering with reality; by a fresh act of
 doublethink one erases this knowledge; and so on indefinitely, with the lie
 always one leap ahead of the truth.
-â��George Orwell. Nineteen Eighty-Four. (Martin Secker & Warburg Ltd, London)
+’George Orwell. Nineteen Eighty-Four. (Martin Secker & Warburg Ltd, London)
 1949. 220.
 
 As the globe undergoes a continuous transformation, where space and time
@@ -489,15 +489,15 @@ delivered rapid-fire news, images, and stories that must first pass through
 our own sensory sieve. This has sparked our interest in the orchestrated
 reality that is composed and performed for us and by us on a daily basis.
 
-While Orwellâ��s seminal novel may offer a vision of the future that seems at
+While Orwell’s seminal novel may offer a vision of the future that seems at
 the very least hyperbolic, it also offers some startling insights into the
 nature of the forces that construct our own reality. With this in mind,
-Doublethink brings together the work of twelve artists whose thatâ�� range
+Doublethink brings together the work of twelve artists whose that’ range
 from childhood experience to time travel to choreography to the occult.
 
 As reference to the ways in which Orwellian language leads to a concomitant
 sanitization of thought, Doublethink proposes to explore the processes by
-which our thinking â�� as a society as well as individuals â�� only seems
+which our thinking ’ as a society as well as individuals ’ only seems
 natural, when in fact it is profoundly not our own. At what point do our
 mind and our body cease to communicate with one another? How does this
 affect our ability to perceive the world around us? To what extent are our
@@ -675,7 +675,7 @@ about the role of the artist in the green burial movement, and in funeral
 rites and memorials, including some examples and images that have inspired me.
 Joseph Montague (Artist/Artisan)
 Joseph Montague is a ceramicist, painter and printmaker. Early in his
-career he worked as a preparator for his â��day jobâ��, framing and matting the
+career he worked as a preparator for his ’day job’, framing and matting the
 permanent collection at the Guggenheim Museum in Manhattan. He spent seven
 summers working at a printmaking studio in Tuscany, and his Fountain of
 Time is permanently installed at the main branch of the Vancouver Public
@@ -686,8 +686,8 @@ naturally in water, thus incorporating both a philosophy that reflects the
 impermanence of the material world, and respect for the environment by
 minimizing the eco-footprint. He has also created unique dual purpose
 containers, one of which was selected for the international art competition
-â��Ashes to Artâ�� in 2008. These are creations suitable for use as a vase
-during a personâ��s lifetime, therefore imbued with the memory of flowers,
+’Ashes to Art’ in 2008. These are creations suitable for use as a vase
+during a person’s lifetime, therefore imbued with the memory of flowers,
 which with the addition of a lid become a ceremonial container to hold ashes.
 Mountain View Cemetery phone:604.325.2646
 mountainview.cemetery@vancouver.ca
@@ -739,7 +739,7 @@ Step 2
 Shortlisted artists will be contracted to develop their
 concepts in detail. A design fee of $1,000 will be provided.
 A technical review, with feedback to the artist, will take
-place prior to the artistâ��s presentation of their design
+place prior to the artist’s presentation of their design
 concept to the selection panel. One proposal will be
 commissioned following the recommendations of the
 selection panel and acceptance by the Public Art Advisory
@@ -761,7 +761,7 @@ wellness centres, and multi-purpose rooms. The
 architectural concept for the building and landscaping is
 motion, rhythm, and flow. Inspiration for the forms is derived
 from the idea of repetition as a visual identifier of movement
-â�� experienced by both traveling past and within the centre.
+’ experienced by both traveling past and within the centre.
 Since the building serves all ages, this motion can reflect
 
 CITY OF SURREY PUBLIC AND COMMUNITY ART PROGRAM
@@ -855,12 +855,12 @@ addition, a PC compatible CD may also be mailed or
 delivered to back up the e-mail. As an added back-up, if
 you have a website with your complete submission in
 the required format, please provide us with your URL.
-ï�· File Size â�� Files must be less than five (5) MB.
-ï�· CDs must be labelled with the artistâ��s last name and
+ï�· File Size ’ Files must be less than five (5) MB.
+ï�· CDs must be labelled with the artist’s last name and
 the abbreviation CRC or title Cloverdale Recreation
 Centre
 ï�· Images - numbered indicating viewing order,
-followed by the artistâ��s last name.
+followed by the artist’s last name.
 
 Page 1. Letter of Interest (1 page)
 This letter should explain why your work is appropriate for
@@ -879,9 +879,9 @@ In PDF format, describe and/or illustrate your design
 approach for this facility. Your submissions are held in
 confidence.
 
-Pages 4 and 5. ArtistÃ¢ï¿½ï¿½s RÃ�Â©sumÃ�Â© (max. 2 pages)
-Include a professional artistâ��s resume. For team
-applications, please include rÃ�Â©sumÃ�Â©s for all team members
+Pages 4 and 5. Artistâï¿½ï¿½s RÂ©sumÂ© (max. 2 pages)
+Include a professional artist’s resume. For team
+applications, please include rÂ©sumÂ©s for all team members
 (and contact information including email addresses). All
 team members must have confirmed participation prior to
 submission.
@@ -896,7 +896,7 @@ Submit up to 10 images of your past work in PDF format.
 
 Page 16.Image list of your Work (1 page)
 Please include detailed information about each artwork
-including: the artistâ��s name, artwork title, medium/materials,
+including: the artist’s name, artwork title, medium/materials,
 completion date, dimensions, total budget and project
 contact information. Applicants must state their role in the
 creation of the artwork.
@@ -912,14 +912,14 @@ at www.arts.surrey.ca
 
 E-MAIL TO:
 purchasing@surrey.ca
-with â��subject lineâ��
+with ’subject line’
 1220-50-05-09 Cloverdale Public Art
 
 If also mailing a CD:
-City of Surrey, Purchasing 6645 â�� 148th Street, Surrey BC
+City of Surrey, Purchasing 6645 ’ 148th Street, Surrey BC
 Canada, V3S 3C7 Attention Violet McGregor, CMA,C.P.P.
 
-This call is one of several to be posted as part of the Cityâ��s
+This call is one of several to be posted as part of the City’s
 Public Art program for 2009/2010. Upcoming calls will be
 posted at www.arts.surrey.ca
 Please note in your submission if your credentials can be
@@ -935,7 +935,7 @@ the City, that the City will not be responsible for any costs,
 expenses, losses, damages (including damages for
 loss of anticipated profit) or liabilities incurred by the artist
 as a result of or arising out of submitting a proposal,
-or due to the City's acceptance or nonâ��acceptance of their
+or due to the City's acceptance or non’acceptance of their
 proposal, or arising out of any contract award not made in
 accordance with the expressed or implied terms of the artist
 call. Until a written contract, in a form satisfactory
@@ -972,7 +972,7 @@ Projects that demonstrate artistic excellence and a knowledge and interest
 in: aboriginal, francophone, multimedia, photographic and LGBT communities
 will be given priority.
 
-On the Road is the brainchild of five of Winnipegâ��s Artist-Run Centres:
+On the Road is the brainchild of five of Winnipeg’s Artist-Run Centres:
 Platform: centre for photographic + digital arts, aceartinc., Video Pool
 media arts centre, La Maison Des Artistes and Urban Shaman: Contemporary
 Aboriginal Art.

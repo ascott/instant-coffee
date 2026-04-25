@@ -36,7 +36,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2010-01-14-01-blanket-audrey-capel-doray-jan-14">01. Blanket | Audrey Capel Doray | JAN 14</a>
 ------------------------------------------------------------------------
 Audrey Capel Doray
-How I Became A Solitary Noisemaker: works from 1965 â�� 66
+How I Became A Solitary Noisemaker: works from 1965 ’ 66
 January 14 - February 20, 2010
 
 Opening Reception Thursday January 14th, 2010 5-8pm
@@ -185,7 +185,7 @@ prominent subject in the work in all of the images collected by Lee,
 the on-camera flash is reflected in the mirror and results in a white
 overexposed area which obscures the identity of the subject.
 Continuing his experiments with photography and its processes, Lee
-prints the Flashers using a giclÃ�Æ�Ã�Â©e pigment (inkjet) process onto the
+prints the Flashers using a giclÆ�Â©e pigment (inkjet) process onto the
 reverse of vintage photographic paper. These anachronistic materials
 are not compatible, and the result is like mixing oil and water: the
 ink, prohibited from absorption, does not adhere or dry. Lee uses
@@ -287,7 +287,7 @@ traditional and functional artifacts: nineteenth and twentieth century wool
 and cedar weavings produced within a network of inter-related and
 over-lapping oral traditions. This legacy is expanded in the exhibition and
 brought into the present with the work of contemporary practitioners Keith
-Nahanee (Squamish Nation), and Melvin Williams (LilÃ�Â¹wat Nation).
+Nahanee (Squamish Nation), and Melvin Williams (LilÂ¹wat Nation).
 
 The exhibition is organized by Presentation House Gallery and generously
 supported by The Audain Foundation and by the North Vancouver Office of
@@ -427,20 +427,20 @@ Psychoanalysis, and Seminar XX: On Feminine Sexuality, The Limits of Love
 and Knowledge, and some of the selected fragments from Television. He
 proposes that there are four fundamental discourses, or structures of
 discourse, that produce different social bonds for the subject. These
-discourses consist of the masterÃ¢â�¬â�¢s discourse, the hystericÃ¢â�¬â�¢s discourse, the
-university discourse, and the analystÃ¢â�¬â�¢s discourse. While Lacan is concerned
+discourses consist of the masterâ’¬’¢s discourse, the hystericâ’¬’¢s discourse, the
+university discourse, and the analystâ’¬’¢s discourse. While Lacan is concerned
 with the limitation of the master's discourse and the university discourse,
 he sees the potential of transformation in the analyst's discourse.
 Although he asserts that it is necessary to make an hysterization of
-discourse in the process of analysisÃ¢â�¬â��because this is the first step towards
-questioning the masterÃ¢â�¬â�¢s discourseÃ¢â�¬â��he asserts that this discourse must then
-be shifted to the analystÃ¢â�¬â�¢s discourse for Real change to occur. Seminar
+discourse in the process of analysisâ’¬’because this is the first step towards
+questioning the masterâ’¬’¢s discourseâ’¬’he asserts that this discourse must then
+be shifted to the analystâ’¬’¢s discourse for Real change to occur. Seminar
 XVII, which took place in 1969, follows the student and social revolt of
 May 68, a historical moment in which Lacan was immersed. He is critical of
 revolutions that appear to simply question the master and the university,
 and as a consequence only reproduce a new master, without shifting social
 bonds, as he cynically suggests that the Parisian students of 68 were in
-danger of doing. However, we do find moments in LacanÃ¢â�¬â�¢s seminars in which
+danger of doing. However, we do find moments in Lacanâ’¬’¢s seminars in which
 he suggests that a writer can hold a similar position as an analyst, and
 thus one would assume, also be able to shift these other discourses to
 enact some social change. Therefore, I am using this frame to ask
@@ -448,7 +448,7 @@ questions, develop a dialogue, about poetics and social change. Can
 poetics operate like the analyst's discourse to create a different social
 bond through language? Do poets intervene in these other discourses or
 intersect with them in subversive ways that shift discourse and social
-bonds? Is LacanÃ¢â�¬â�¢s concept of the structure of the four discourses useful
+bonds? Is Lacanâ’¬’¢s concept of the structure of the four discourses useful
 for us today, particularly as we head into financial cuts in the arts and
 academia that may limit interventions in hegemonic discourses? Or do we
 need to rethink what poetics and discourse are and reconsider how we engage
@@ -456,7 +456,7 @@ with and disseminate them?
 
 - Nancy Gillespie
 
-A further description of LacanÃ¢â�¬â�¢s four discourses will be available for
+A further description of Lacanâ’¬’¢s four discourses will be available for
 workshop registrants.
 
 for more information click here : http://www.kswnet.org/
@@ -551,7 +551,7 @@ Guest speaker Hank Bull
 A Listener's Lab (http://tiny.cc/soundlab) is a curatorial project by Debra
 Zhou to investigate and map the sound art presence in Vancouver through
 interviews and conversations with artists, curators, art historians and
-musicians. Sheâ��ll interview Hank Bull on the history of Art's Birthday in
+musicians. She’ll interview Hank Bull on the history of Art's Birthday in
 Vancouver, it's origin, evolvement and role in the practice of
 radio/network art.
 
@@ -693,7 +693,7 @@ An Invitation to An Infiltration
 Fia Backstrom, Lucy Clout, Hadley+Maxwell, Jonathan Middleton, Dexter
 Sinister, Holly Ward, and Jordan Wolfson
 
-January 22 â�� February 28, 2010
+January 22 ’ February 28, 2010
 
 Opening Reception: Thursday, January 21, 6 to 9pm
 
@@ -711,7 +711,7 @@ designed to exacerbate and examine it.
 
 Several artists will explicitly address the Olympics via its symbolism, its
 expressed ideals, and its effects on Vancouver and its citizens, while
-others will play up or deny the curatorial premise. Holly Wardâ��s works read
+others will play up or deny the curatorial premise. Holly Ward’s works read
 the Olympics as an act of appropriation of the city, which is facing budget
 cuts in human services and cuts to cultural services at the provincial
 level. Outside the building, Dexter Sinister will cover the windows in a
@@ -719,7 +719,7 @@ new wallpaper design of linking rings. Hadley+Maxwell will replicate the
 base of a Zane, a figure of Zeus erected by penitent athletes caught
 cheating in the ancient Olympics. And Fia Backstrom will organize a public
 conversation between a game theorist and a hockey strategist during the
-Olympic Hockey finals. Jordan Wolfson ignores the exhibitionâ��s call for
+Olympic Hockey finals. Jordan Wolfson ignores the exhibition’s call for
 competition by separating his work from the rest. Lucy Clout creates
 another division with her piece, Untitled (eyebrow), which will be
 suspended in front of the reception desk. Jonathan Middleton will perform
@@ -767,7 +767,7 @@ Frank Shebageget will present an artist's talk and exhibition preview in
 conjunction with his premiere West Coast solo exhibition, Model Life at the
 Surrey Art Gallery. Model Life presents both new and older works that
 explore the artist's interest in the industrialization of the built
-environment and the symbols of modernization that linked many of Canadaâ��s
+environment and the symbols of modernization that linked many of Canada’s
 more remote communities during the past century. The role of shelter and
 transportation in building and dividing communities is a reoccurring theme
 in the work of this Ottawa-based Anishinabe artist. Through the careful
@@ -797,7 +797,7 @@ presented in conjunction with Ruth Scheuing: Silkroads, Quilt of Belonging,
 and Me and My World: Art by Surrey Secondary Students. The official opening
 for all exhibitions is on Saturday January 23, 2 to 4pm.
 
-Surrey Art Gallery 13750 â�� 88th Avenue, 1 Block east of King George Hwy in
+Surrey Art Gallery 13750 ’ 88th Avenue, 1 Block east of King George Hwy in
 Bear Creek Park, Surrey, B.C. For more information visit www.arts.surrey.ca.
 
 ------------------------------------------------------------------------
@@ -830,7 +830,7 @@ Victoria. His work has been included in exhibitions at Artspeak,
 Contemporary Art Gallery, Ministry of Casual Living, Helen Pitt
 Gallery, the Western Front, Lobby Gallery and Blanket Gallery among
 others.
-Edgar Heap of Birdsâ�� exhibition record includes The Museum of Modern
+Edgar Heap of Birds’ exhibition record includes The Museum of Modern
 Art, Whitney Museum of American Art, The National Museum of the
 American Indian, Smithsonian Institute, The National Gallery of
 Canada, Documenta 8, and the Venice Biennale. He was awarded an
@@ -854,7 +854,7 @@ Design. Trasov was selected by the Vancouver Sun as one of the top one
 hundred British Columbians who shaped the province over the past
 century.
 
-Lawrence Paul Yuxweluptunâ��s work has been included in numerous
+Lawrence Paul Yuxweluptun’s work has been included in numerous
 international exhibitions, such as INDIGENA: Contemporary Native
 Perspectives, and at the National Gallery of Canada, the Smithsonian
 Institute, grunt gallery, the Western Front and the Vancouver Art
@@ -865,7 +865,7 @@ For more information please contact Andrea Pinheiro at:
 1555 Duranleau Street, Granville Island, Vancouver, BC V6H 3S3
 604-688-1724 malaspinagallery@telus.net www.malaspinaprintmakers.com
 
-Gallery Hours: Tuesday â�� Friday 10-5 pm Saturday and Sunday 11-5pm
+Gallery Hours: Tuesday ’ Friday 10-5 pm Saturday and Sunday 11-5pm
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2010-01-14-15-gropps-gallery-call-the-full-circle-artist-residency-jan-22">15. Gropp's Gallery | CALL | the Full Circle Artist Residency | JAN 22</a>
@@ -909,12 +909,12 @@ Details of Residency:
 
 46-day stay in furnished, wood heated circular Yurta, 6 blocks from the
 Vancouver 2010 Olympic village. Access to gallery bathrooms and communal
-meals included, Art budget of $500 - $1000 (receipts required). Groppâ��s
+meals included, Art budget of $500 - $1000 (receipts required). Gropp’s
 Gallery charges a 15% commission on all works sold during the opening of
 the Blood & Culture exhibition on February 12th, 2010. A Legacy Donation of
 one piece of art (chosen by the artist) is to be donated to the Rare Earth
-Societyâ��s permanent collection. With the exception of the Blood & Culture
-exhibition opening commission charge to Groppâ��s Gallery, and the donated
+Society’s permanent collection. With the exception of the Blood & Culture
+exhibition opening commission charge to Gropp’s Gallery, and the donated
 piece to the Rare Earth Society (as outlined above), the Artist will hold
 100% ownership of all works created and sold during their residency. The
 chosen artist is required to hold open studios minimum 4 hours a day 5 days
@@ -942,7 +942,7 @@ Rare Earth Society Nelson BC
 
 Sculpture Shop Manager
 
-Groppâ��s Gallery Vancouver BC
+Gropp’s Gallery Vancouver BC
 
 
 
@@ -963,7 +963,7 @@ enlivening Vancouver's downtown streets during the 2010 Olympic and
 Paralympic Winter Games with three major public art installations in the
 city's most prominent locations. Using the exuberant floral patterns of
 Taiwanese fabric, Taipei-based artist Michael Lin will cover the Gallery's
-entire northern faÃ�Â§ade with a massive hand-painted mural. The southern side
+entire northern faÂ§ade with a massive hand-painted mural. The southern side
 of the Gallery will be transformed into an outdoor theatre presenting a
 continuous flow of video-based works on a massive LED screen. At Vancouver
 Art Gallery Offsite, the Gallery's recently launched outdoor exhibition
@@ -986,7 +986,7 @@ Michael Lin: A Modest Veil January 23 to May 2, 2010
 The Georgia Street Plaza, the largest public square in downtown Vancouver,
 will be backed by nearly 6,000-square-feet of brilliant colour composing
 Michael Lin's massive mural titled Georgia Street Plaza 23.01 - 02.05.10,
-2010. Covering the Gallery's entire northern faÃ�Â§ade, Lin's enveloping
+2010. Covering the Gallery's entire northern faÂ§ade, Lin's enveloping
 intervention will dramatically transform this high-traffic area. Thousands
 of passersby will be invited to reinterpret the altered architecture of the
 Gallery's neo-classical building and consider the cultural references and
@@ -1014,7 +1014,7 @@ CUE: Artists' Videos January 23 to March 21, 2010,
 CUE: Artists' Videos will present the most innovative and compelling local,
 national and international artists working in film and video today.
 Presented on a nearly 20-foot, high-resolution LED screen on the Gallery's
-Robson Street faÃ�Â§ade, the series will run daily from 5 am to 2 am. The
+Robson Street faÂ§ade, the series will run daily from 5 am to 2 am. The
 adjacent Robson Street Plaza, one of the city's busiest pedestrian hubs,
 will be particularly lively during the Olympic Winter Games when the area
 becomes an official site for live entertainment and a major centre for
@@ -1061,13 +1061,13 @@ Lower Mainland.
 Ken Lum is a Vancouver artist whose work questions the relationship between
 modernism, mass culture and everyday experience, often blurring the
 boundaries separating high art and popular culture. Over the past twenty
-years, Lumâ��s work has been presented in solo exhibitions throughout North
+years, Lum’s work has been presented in solo exhibitions throughout North
 America, Europe and Asia. He has also represented Canada at the Istanbul
-Biennial, SÃ�Â£o Paulo Biennial, Shanghai Biennale, Gwangju Biennale and
-Documenta. The Galleryâ��s Offsite exhibition space near the intersection of
-Georgia and Thurlow streets in Vancouverâ��s downtown core offers a rotating
+Biennial, SÂ£o Paulo Biennial, Shanghai Biennale, Gwangju Biennale and
+Documenta. The Gallery’s Offsite exhibition space near the intersection of
+Georgia and Thurlow streets in Vancouver’s downtown core offers a rotating
 program of innovative public art projects by local and international
-artists, which respond to the cityâ��s unique urban environment.
+artists, which respond to the city’s unique urban environment.
 
 Vancouver Art Gallery Offsite: Ken Lum is organized by the Vancouver Art
 Gallery and curated by Audain Curator of British Columbia Art, Grant Arnold
@@ -1079,16 +1079,16 @@ During the 2010 Olympic and Paralympic Winter Games, the Vancouver Art
 Gallery will present the best of British Columbia to the world and the best
 of the world in British Columbia. From a landmark exhibition of drawings by
 Leonardo da Vinci and an arresting presentation of contemporary art based
-on the human form, to a massive two-floor survey of British Columbiaâ��s
+on the human form, to a massive two-floor survey of British Columbia’s
 visual art, visitors will experience some of the most exciting programming
-in the Galleryâ��s history. Thanks to a partnership that will see the
-Province of British Columbiaâ��s BC Canada Pavilion located on the fourth
+in the Gallery’s history. Thanks to a partnership that will see the
+Province of British Columbia’s BC Canada Pavilion located on the fourth
 floor of the Gallery, all exhibitions will be free to the public during the
 17 days of the Olympic Winter Games.
 
 Leonardo da Vinci: The Mechanics of Man -- February 6 to May 2, 2010
 
-Visceral Bodies â�� February 6 to May 16, 2010
+Visceral Bodies ’ February 6 to May 16, 2010
 
 Visions of British Columbia: A Landscape Manual -- January 23 to April 18, 2010
 
@@ -1112,12 +1112,12 @@ WINTER WHITE SPACE
 
 The Jeffrey Boone Gallery is pleased to present a winter-themed selection
 of paintings by Vancouver artist Steven Hubert. Running from January 9 -
-30, this timely exhibition explores the boundary between snow for snowâ��s
+30, this timely exhibition explores the boundary between snow for snow’s
 sake and snow as landscape affectation for the purpose of introducing, or
 leaving, white space for compositional reasons.
 
 An addendum to Hubert's previous show with the gallery, the painting
-Morning Trophy Question relates the original setting for that showâ��s query
+Morning Trophy Question relates the original setting for that show’s query
 "�what would a bush party look like in the morning after a sporting
 victory?" This missing context, which was wholly absent in the original
 exhibition, marks the artist's tendency to remove context from strings of
@@ -1222,7 +1222,7 @@ The Director is appointed by Kunsthal Charlottenborg's Governing Board, to
 which he or she will report directly. This appointment is fixed term.
 
 Any queries with respect to the position should be directed to Mr Michael
-BjÃ�Â¸rn Nellemann, Governing Board Chair, Kunsthal Charlottenborg, at + 33 6
+BjÂ¸rn Nellemann, Governing Board Chair, Kunsthal Charlottenborg, at + 33 6
 78 79 06 38; or by email to micnel@um.dk
 
 Written applications attaching a CV and a brief outline of how you
@@ -1233,7 +1233,7 @@ micnel@kunsthalcharlottenborg.dk
 All correspondence in relation to the position of Kunsthal Charlottenborg
 director should be forwarded to:
 
-Mr Michael BjÃ�Â¸rn Nellemann
+Mr Michael BjÂ¸rn Nellemann
 Governing Board Chair
 Kunsthal Charlottenborg
 Nyhavn 2
@@ -1358,7 +1358,7 @@ instant coffee: instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2010-01-14-01-blanket-audrey-capel-doray-jan-14">01. Blanket | Audrey Capel Doray | JAN 14</a>
 ------------------------------------------------------------------------
 Audrey Capel Doray
-How I Became A Solitary Noisemaker: works from 1965 â�� 66
+How I Became A Solitary Noisemaker: works from 1965 ’ 66
 January 14 - February 20, 2010
 
 Opening Reception Thursday January 14th, 2010 5-8pm
@@ -1507,7 +1507,7 @@ prominent subject in the work in all of the images collected by Lee,
 the on-camera flash is reflected in the mirror and results in a white
 overexposed area which obscures the identity of the subject.
 Continuing his experiments with photography and its processes, Lee
-prints the Flashers using a giclÃ�Æ�Ã�Â©e pigment (inkjet) process onto the
+prints the Flashers using a giclÆ�Â©e pigment (inkjet) process onto the
 reverse of vintage photographic paper. These anachronistic materials
 are not compatible, and the result is like mixing oil and water: the
 ink, prohibited from absorption, does not adhere or dry. Lee uses
@@ -1609,7 +1609,7 @@ traditional and functional artifacts: nineteenth and twentieth century wool
 and cedar weavings produced within a network of inter-related and
 over-lapping oral traditions. This legacy is expanded in the exhibition and
 brought into the present with the work of contemporary practitioners Keith
-Nahanee (Squamish Nation), and Melvin Williams (LilÃ�Â¹wat Nation).
+Nahanee (Squamish Nation), and Melvin Williams (LilÂ¹wat Nation).
 
 The exhibition is organized by Presentation House Gallery and generously
 supported by The Audain Foundation and by the North Vancouver Office of
@@ -1749,20 +1749,20 @@ Psychoanalysis, and Seminar XX: On Feminine Sexuality, The Limits of Love
 and Knowledge, and some of the selected fragments from Television. He
 proposes that there are four fundamental discourses, or structures of
 discourse, that produce different social bonds for the subject. These
-discourses consist of the masterÃ¢â�¬â�¢s discourse, the hystericÃ¢â�¬â�¢s discourse, the
-university discourse, and the analystÃ¢â�¬â�¢s discourse. While Lacan is concerned
+discourses consist of the masterâ’¬’¢s discourse, the hystericâ’¬’¢s discourse, the
+university discourse, and the analystâ’¬’¢s discourse. While Lacan is concerned
 with the limitation of the master's discourse and the university discourse,
 he sees the potential of transformation in the analyst's discourse.
 Although he asserts that it is necessary to make an hysterization of
-discourse in the process of analysisÃ¢â�¬â��because this is the first step towards
-questioning the masterÃ¢â�¬â�¢s discourseÃ¢â�¬â��he asserts that this discourse must then
-be shifted to the analystÃ¢â�¬â�¢s discourse for Real change to occur. Seminar
+discourse in the process of analysisâ’¬’because this is the first step towards
+questioning the masterâ’¬’¢s discourseâ’¬’he asserts that this discourse must then
+be shifted to the analystâ’¬’¢s discourse for Real change to occur. Seminar
 XVII, which took place in 1969, follows the student and social revolt of
 May 68, a historical moment in which Lacan was immersed. He is critical of
 revolutions that appear to simply question the master and the university,
 and as a consequence only reproduce a new master, without shifting social
 bonds, as he cynically suggests that the Parisian students of 68 were in
-danger of doing. However, we do find moments in LacanÃ¢â�¬â�¢s seminars in which
+danger of doing. However, we do find moments in Lacanâ’¬’¢s seminars in which
 he suggests that a writer can hold a similar position as an analyst, and
 thus one would assume, also be able to shift these other discourses to
 enact some social change. Therefore, I am using this frame to ask
@@ -1770,7 +1770,7 @@ questions, develop a dialogue, about poetics and social change. Can
 poetics operate like the analyst's discourse to create a different social
 bond through language? Do poets intervene in these other discourses or
 intersect with them in subversive ways that shift discourse and social
-bonds? Is LacanÃ¢â�¬â�¢s concept of the structure of the four discourses useful
+bonds? Is Lacanâ’¬’¢s concept of the structure of the four discourses useful
 for us today, particularly as we head into financial cuts in the arts and
 academia that may limit interventions in hegemonic discourses? Or do we
 need to rethink what poetics and discourse are and reconsider how we engage
@@ -1778,7 +1778,7 @@ with and disseminate them?
 
 - Nancy Gillespie
 
-A further description of LacanÃ¢â�¬â�¢s four discourses will be available for
+A further description of Lacanâ’¬’¢s four discourses will be available for
 workshop registrants.
 
 for more information click here : http://www.kswnet.org/
@@ -1873,7 +1873,7 @@ Guest speaker Hank Bull
 A Listener's Lab (http://tiny.cc/soundlab) is a curatorial project by Debra
 Zhou to investigate and map the sound art presence in Vancouver through
 interviews and conversations with artists, curators, art historians and
-musicians. Sheâ��ll interview Hank Bull on the history of Art's Birthday in
+musicians. She’ll interview Hank Bull on the history of Art's Birthday in
 Vancouver, it's origin, evolvement and role in the practice of
 radio/network art.
 
@@ -2015,7 +2015,7 @@ An Invitation to An Infiltration
 Fia Backstrom, Lucy Clout, Hadley+Maxwell, Jonathan Middleton, Dexter
 Sinister, Holly Ward, and Jordan Wolfson
 
-January 22 â�� February 28, 2010
+January 22 ’ February 28, 2010
 
 Opening Reception: Thursday, January 21, 6 to 9pm
 
@@ -2033,7 +2033,7 @@ designed to exacerbate and examine it.
 
 Several artists will explicitly address the Olympics via its symbolism, its
 expressed ideals, and its effects on Vancouver and its citizens, while
-others will play up or deny the curatorial premise. Holly Wardâ��s works read
+others will play up or deny the curatorial premise. Holly Ward’s works read
 the Olympics as an act of appropriation of the city, which is facing budget
 cuts in human services and cuts to cultural services at the provincial
 level. Outside the building, Dexter Sinister will cover the windows in a
@@ -2041,7 +2041,7 @@ new wallpaper design of linking rings. Hadley+Maxwell will replicate the
 base of a Zane, a figure of Zeus erected by penitent athletes caught
 cheating in the ancient Olympics. And Fia Backstrom will organize a public
 conversation between a game theorist and a hockey strategist during the
-Olympic Hockey finals. Jordan Wolfson ignores the exhibitionâ��s call for
+Olympic Hockey finals. Jordan Wolfson ignores the exhibition’s call for
 competition by separating his work from the rest. Lucy Clout creates
 another division with her piece, Untitled (eyebrow), which will be
 suspended in front of the reception desk. Jonathan Middleton will perform
@@ -2089,7 +2089,7 @@ Frank Shebageget will present an artist's talk and exhibition preview in
 conjunction with his premiere West Coast solo exhibition, Model Life at the
 Surrey Art Gallery. Model Life presents both new and older works that
 explore the artist's interest in the industrialization of the built
-environment and the symbols of modernization that linked many of Canadaâ��s
+environment and the symbols of modernization that linked many of Canada’s
 more remote communities during the past century. The role of shelter and
 transportation in building and dividing communities is a reoccurring theme
 in the work of this Ottawa-based Anishinabe artist. Through the careful
@@ -2119,7 +2119,7 @@ presented in conjunction with Ruth Scheuing: Silkroads, Quilt of Belonging,
 and Me and My World: Art by Surrey Secondary Students. The official opening
 for all exhibitions is on Saturday January 23, 2 to 4pm.
 
-Surrey Art Gallery 13750 â�� 88th Avenue, 1 Block east of King George Hwy in
+Surrey Art Gallery 13750 ’ 88th Avenue, 1 Block east of King George Hwy in
 Bear Creek Park, Surrey, B.C. For more information visit www.arts.surrey.ca.
 
 ------------------------------------------------------------------------
@@ -2152,7 +2152,7 @@ Victoria. His work has been included in exhibitions at Artspeak,
 Contemporary Art Gallery, Ministry of Casual Living, Helen Pitt
 Gallery, the Western Front, Lobby Gallery and Blanket Gallery among
 others.
-Edgar Heap of Birdsâ�� exhibition record includes The Museum of Modern
+Edgar Heap of Birds’ exhibition record includes The Museum of Modern
 Art, Whitney Museum of American Art, The National Museum of the
 American Indian, Smithsonian Institute, The National Gallery of
 Canada, Documenta 8, and the Venice Biennale. He was awarded an
@@ -2176,7 +2176,7 @@ Design. Trasov was selected by the Vancouver Sun as one of the top one
 hundred British Columbians who shaped the province over the past
 century.
 
-Lawrence Paul Yuxweluptunâ��s work has been included in numerous
+Lawrence Paul Yuxweluptun’s work has been included in numerous
 international exhibitions, such as INDIGENA: Contemporary Native
 Perspectives, and at the National Gallery of Canada, the Smithsonian
 Institute, grunt gallery, the Western Front and the Vancouver Art
@@ -2187,7 +2187,7 @@ For more information please contact Andrea Pinheiro at:
 1555 Duranleau Street, Granville Island, Vancouver, BC V6H 3S3
 604-688-1724 malaspinagallery@telus.net www.malaspinaprintmakers.com
 
-Gallery Hours: Tuesday â�� Friday 10-5 pm Saturday and Sunday 11-5pm
+Gallery Hours: Tuesday ’ Friday 10-5 pm Saturday and Sunday 11-5pm
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2010-01-14-15-gropps-gallery-call-the-full-circle-artist-residency-jan-22">15. Gropp's Gallery | CALL | the Full Circle Artist Residency | JAN 22</a>
@@ -2231,12 +2231,12 @@ Details of Residency:
 
 46-day stay in furnished, wood heated circular Yurta, 6 blocks from the
 Vancouver 2010 Olympic village. Access to gallery bathrooms and communal
-meals included, Art budget of $500 - $1000 (receipts required). Groppâ��s
+meals included, Art budget of $500 - $1000 (receipts required). Gropp’s
 Gallery charges a 15% commission on all works sold during the opening of
 the Blood & Culture exhibition on February 12th, 2010. A Legacy Donation of
 one piece of art (chosen by the artist) is to be donated to the Rare Earth
-Societyâ��s permanent collection. With the exception of the Blood & Culture
-exhibition opening commission charge to Groppâ��s Gallery, and the donated
+Society’s permanent collection. With the exception of the Blood & Culture
+exhibition opening commission charge to Gropp’s Gallery, and the donated
 piece to the Rare Earth Society (as outlined above), the Artist will hold
 100% ownership of all works created and sold during their residency. The
 chosen artist is required to hold open studios minimum 4 hours a day 5 days
@@ -2264,7 +2264,7 @@ Rare Earth Society Nelson BC
 
 Sculpture Shop Manager
 
-Groppâ��s Gallery Vancouver BC
+Gropp’s Gallery Vancouver BC
 
 
 
@@ -2285,7 +2285,7 @@ enlivening Vancouver's downtown streets during the 2010 Olympic and
 Paralympic Winter Games with three major public art installations in the
 city's most prominent locations. Using the exuberant floral patterns of
 Taiwanese fabric, Taipei-based artist Michael Lin will cover the Gallery's
-entire northern faÃ�Â§ade with a massive hand-painted mural. The southern side
+entire northern faÂ§ade with a massive hand-painted mural. The southern side
 of the Gallery will be transformed into an outdoor theatre presenting a
 continuous flow of video-based works on a massive LED screen. At Vancouver
 Art Gallery Offsite, the Gallery's recently launched outdoor exhibition
@@ -2308,7 +2308,7 @@ Michael Lin: A Modest Veil January 23 to May 2, 2010
 The Georgia Street Plaza, the largest public square in downtown Vancouver,
 will be backed by nearly 6,000-square-feet of brilliant colour composing
 Michael Lin's massive mural titled Georgia Street Plaza 23.01 - 02.05.10,
-2010. Covering the Gallery's entire northern faÃ�Â§ade, Lin's enveloping
+2010. Covering the Gallery's entire northern faÂ§ade, Lin's enveloping
 intervention will dramatically transform this high-traffic area. Thousands
 of passersby will be invited to reinterpret the altered architecture of the
 Gallery's neo-classical building and consider the cultural references and
@@ -2336,7 +2336,7 @@ CUE: Artists' Videos January 23 to March 21, 2010,
 CUE: Artists' Videos will present the most innovative and compelling local,
 national and international artists working in film and video today.
 Presented on a nearly 20-foot, high-resolution LED screen on the Gallery's
-Robson Street faÃ�Â§ade, the series will run daily from 5 am to 2 am. The
+Robson Street faÂ§ade, the series will run daily from 5 am to 2 am. The
 adjacent Robson Street Plaza, one of the city's busiest pedestrian hubs,
 will be particularly lively during the Olympic Winter Games when the area
 becomes an official site for live entertainment and a major centre for
@@ -2383,13 +2383,13 @@ Lower Mainland.
 Ken Lum is a Vancouver artist whose work questions the relationship between
 modernism, mass culture and everyday experience, often blurring the
 boundaries separating high art and popular culture. Over the past twenty
-years, Lumâ��s work has been presented in solo exhibitions throughout North
+years, Lum’s work has been presented in solo exhibitions throughout North
 America, Europe and Asia. He has also represented Canada at the Istanbul
-Biennial, SÃ�Â£o Paulo Biennial, Shanghai Biennale, Gwangju Biennale and
-Documenta. The Galleryâ��s Offsite exhibition space near the intersection of
-Georgia and Thurlow streets in Vancouverâ��s downtown core offers a rotating
+Biennial, SÂ£o Paulo Biennial, Shanghai Biennale, Gwangju Biennale and
+Documenta. The Gallery’s Offsite exhibition space near the intersection of
+Georgia and Thurlow streets in Vancouver’s downtown core offers a rotating
 program of innovative public art projects by local and international
-artists, which respond to the cityâ��s unique urban environment.
+artists, which respond to the city’s unique urban environment.
 
 Vancouver Art Gallery Offsite: Ken Lum is organized by the Vancouver Art
 Gallery and curated by Audain Curator of British Columbia Art, Grant Arnold
@@ -2401,16 +2401,16 @@ During the 2010 Olympic and Paralympic Winter Games, the Vancouver Art
 Gallery will present the best of British Columbia to the world and the best
 of the world in British Columbia. From a landmark exhibition of drawings by
 Leonardo da Vinci and an arresting presentation of contemporary art based
-on the human form, to a massive two-floor survey of British Columbiaâ��s
+on the human form, to a massive two-floor survey of British Columbia’s
 visual art, visitors will experience some of the most exciting programming
-in the Galleryâ��s history. Thanks to a partnership that will see the
-Province of British Columbiaâ��s BC Canada Pavilion located on the fourth
+in the Gallery’s history. Thanks to a partnership that will see the
+Province of British Columbia’s BC Canada Pavilion located on the fourth
 floor of the Gallery, all exhibitions will be free to the public during the
 17 days of the Olympic Winter Games.
 
 Leonardo da Vinci: The Mechanics of Man -- February 6 to May 2, 2010
 
-Visceral Bodies â�� February 6 to May 16, 2010
+Visceral Bodies ’ February 6 to May 16, 2010
 
 Visions of British Columbia: A Landscape Manual -- January 23 to April 18, 2010
 
@@ -2434,12 +2434,12 @@ WINTER WHITE SPACE
 
 The Jeffrey Boone Gallery is pleased to present a winter-themed selection
 of paintings by Vancouver artist Steven Hubert. Running from January 9 -
-30, this timely exhibition explores the boundary between snow for snowâ��s
+30, this timely exhibition explores the boundary between snow for snow’s
 sake and snow as landscape affectation for the purpose of introducing, or
 leaving, white space for compositional reasons.
 
 An addendum to Hubert's previous show with the gallery, the painting
-Morning Trophy Question relates the original setting for that showâ��s query
+Morning Trophy Question relates the original setting for that show’s query
 "�what would a bush party look like in the morning after a sporting
 victory?" This missing context, which was wholly absent in the original
 exhibition, marks the artist's tendency to remove context from strings of
@@ -2544,7 +2544,7 @@ The Director is appointed by Kunsthal Charlottenborg's Governing Board, to
 which he or she will report directly. This appointment is fixed term.
 
 Any queries with respect to the position should be directed to Mr Michael
-BjÃ�Â¸rn Nellemann, Governing Board Chair, Kunsthal Charlottenborg, at + 33 6
+BjÂ¸rn Nellemann, Governing Board Chair, Kunsthal Charlottenborg, at + 33 6
 78 79 06 38; or by email to micnel@um.dk
 
 Written applications attaching a CV and a brief outline of how you
@@ -2555,7 +2555,7 @@ micnel@kunsthalcharlottenborg.dk
 All correspondence in relation to the position of Kunsthal Charlottenborg
 director should be forwarded to:
 
-Mr Michael BjÃ�Â¸rn Nellemann
+Mr Michael BjÂ¸rn Nellemann
 Governing Board Chair
 Kunsthal Charlottenborg
 Nyhavn 2

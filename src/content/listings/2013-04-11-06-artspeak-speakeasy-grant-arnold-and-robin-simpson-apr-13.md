@@ -77,7 +77,7 @@ If we can't or refuse to decide on a shared topic maybe we can
 change the way we speak. I'll present a number of strategies and 
 examples in voice modification. Some of these are easier and more 
 accessible than others. Special invitation is extended to those who 
-have caught that ambulating throat infection.â€ 
+have caught that ambulating throat infection.” 
 
 Robin Simpson is an art historian, curator, and student based in 
 Vancouver where he is currently pursuing a PhD at the University of 

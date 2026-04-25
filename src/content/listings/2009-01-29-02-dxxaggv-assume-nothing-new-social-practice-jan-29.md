@@ -39,7 +39,7 @@ their projects, click here to view a .pdf (1.78MB).
 
 Download the Assume Nothing Map & Event Guide.pdf or pick up a printed copy
 after January 29, 2009 at the following locations: Art Gallery of Greater
-Victoria, 1040 Moss St Ã&#65533;Â¢Ã¯Â¿Â½Ã&#65533;Â¢ Market Square, Unit 162A 560 Johnson St.
+Victoria, 1040 Moss St Ã&#65533;Â¢ïÂ¿Â½Ã&#65533;Â¢ Market Square, Unit 162A 560 Johnson St.
 
 In conjunction with the exhibition Assume Nothing: New Social Practice, the
 University of Victoria Faculty of Fine Arts and the Art Gallery of Greater
@@ -77,6 +77,6 @@ DR. WILLIAM K. CARROLL (Sociology)
 Keynote Address: FRIDAY, JANUARY 30, 7:30 pm
 
 Art Gallery of Greater Victoria, 1040 Moss Street
-Artist Talks: SATURDAY & SUNDAY, JANUARY 31 Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½ FEBRUARY 1, 9:30 am
-Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½ 5:00 pm
+Artist Talks: SATURDAY & SUNDAY, JANUARY 31 Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½ FEBRUARY 1, 9:30 am
+Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½ 5:00 pm
 University of Victoria, Harry Hickman Building, Room, 105

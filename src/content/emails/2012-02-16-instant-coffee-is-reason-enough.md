@@ -64,7 +64,7 @@ Western Front
 303 East 8th Avenue, Vancouver, BC Canada V5T 1S1
 T. +1 604 876 9343 F. +1 604 876 4099
 W. http://front.bc.ca E. exhibitions@front.bc.ca
-Gallery Hours: Tuesday â€“ Saturday 12 â€“ 5pm
+Gallery Hours: Tuesday – Saturday 12 – 5pm
 Admission Free
 
 ------------------------------------------------------------------------
@@ -221,7 +221,7 @@ cheap expired reels and industry tail ends, Price mixes chance with
 chemistry to work out tones, tints and grain. The images may fall off 
 altogether, but he doesn’t care. The intimacy of the alchemical process 
 will still remain and he will remember it. The films presented in “Film 
-Diaryâ€  touch central themes in Priceâ€™s archive: The City, The Family 
+Diary”  touch central themes in Price’s archive: The City, The Family 
 and The Sea. After Eden (2000) and Nine + 20 (2001) are part urban 
 ethnography and part excavation: the journey of a traveler in search of 
 faith amidst a landscape of concrete and lost souls. Ten Thousand 
@@ -437,14 +437,14 @@ Bear Witness: award-winning multimedia artist and filmmaker Bear
 Witness brings his DJ skills to FUSE;
 A Tribe Called Red: this DJ collective’s signature dubstep re-mixes of 
 native American drum circles have been called “the most exciting music 
-in Indian Countryâ€ ;
+in Indian Country” ;
 Dedos: recognized as one of Canada’s graffiti/b-boy pioneers, this 
 Juno Award-winning artist brings his dance style to the Gallery;
 Silver Jackson (Nicholas Galanin): showing another side of his artistic 
 expression, Tlingit/Aleut multimedia artist Galanin picks up his guitar 
 and performs as Silver Jackson;
 Skeena Reece: a multi-disciplinary Tsimshian/Gitskan and Cree artist, 
-Reece brings her special humour and â€œsacred clowningâ€  performance 
+Reece brings her special humour and “sacred clowning”  performance 
 to the Rotunda;
 Vancouver-based aboriginal artist Raymond Boisjoly makes a special 
 handstamp for the night.
@@ -716,7 +716,7 @@ revels in the illusionistic and material potential of paint. Kubis promotes
 the sheer pleasure of creating idiosyncratic pictures that arouse the 
 eye – in an age of anxiety she encourages engaged looking. For Kubis, 
 aesthetic engagement has the potential to change how we perceive the 
-world; in â€œFull Spectrumâ€  Kubis pursues well-being in painted form.
+world; in “Full Spectrum”  Kubis pursues well-being in painted form.
 Anda Kubis studied at Ontario College of Art and Design University 
 before moving on to complete a BFA at Nova Scotia College of Art and 
 Design and an MFA at York University in 1992. Currently Anda is Chair 
@@ -766,7 +766,7 @@ Surrey Urban Screen before touring to other venues internationally.
 The works are part of the McLuhan in Europe 2011 initiative 
 celebrating the centennial birth year of Canadian media theorist 
 Marshall McLuhan. The exhibition was developed in order to explore 
-Marshall McLuhanâ€™s notion of â€œelectric speedâ€ . 
+Marshall McLuhan’s notion of “electric speed” . 
 
 In Explore the Future of Creativity Jeremy Bailey produces a multi-level 
 advertising campaign for himself as a "famous new media artist", using 

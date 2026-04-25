@@ -18,13 +18,13 @@ To be beside yourself. To think of others, besides yourself. To feel outside
 yourself. We are in interaction with an affective field, the body a surface of 
 intensities, the brain translating these, at times, as emotions or feelings. 
 Artworks have the capacity to move us, and artworks contain much that 
-resists interpretation. The â€˜emotional turnâ€™ in art might stem from the 
+resists interpretation. The ‘emotional turn’ in art might stem from the 
 realization that the experience of the body means something, especially in 
-its connection to the surrounding world â€“ how relations between things, 
+its connection to the surrounding world – how relations between things, 
 object, beings, and events, assemblages of materials and entities external 
 to ourselves, have potential for sparking new affective relations. Feeling 
 the body destabilized and decentered can bring one closer to demystifying 
-the â€™primacy of the subject,â€™ a position upon which oppressive, 
+the ’primacy of the subject,’ a position upon which oppressive, 
 alienating 
 structures continue to capitalize. We have come to realize that to be 
 affected and to have the capacity to affect figures largely around questions 
@@ -63,7 +63,7 @@ Pamela Francis
 Reception/Financial Processing Specialist
 Department of Art History, Visual Art & Theory
 University of British Columbia
-400 â€“ 6333 Memorial Road
+400 – 6333 Memorial Road
 Vancouver, BC V6T 1Z2
 Tel: 604 822 2757 Fax: 604 822 9003
 ahva.dept@ubc.ca

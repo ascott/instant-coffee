@@ -48,7 +48,7 @@ Whitechapel Gallery, and the Tate Modern.
 
 Yota Kobayashi (b. 1980 Nagoya, Japan) is a Vancouver-based composer 
 pursuing his doctoral study in composition at UBC and has been conducting a 
-research project on â€œmusical affordance in humanâ€“computer interactionsâ€ . His 
+research project on “musical affordance in human–computer interactions” . His 
 works have been presented at numerous festivals and conferences in 
 North/South America and Europe. His accolades include Musica Nova (1st 
 prizes in 2008 and 2009, Czech Republic), Concorso Internazionale Luigi 

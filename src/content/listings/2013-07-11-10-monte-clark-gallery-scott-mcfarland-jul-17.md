@@ -65,7 +65,7 @@ Scott McFarland lives and works in Toronto, Canada. His works are
 included in public collections such as the Museum of Modern Art, the
 Vancouver Art Gallery, the National Gallery of Canada, the San
 Francisco Museum of Modern Art, and the J. Paul Getty Museum. An
-upcoming exhibition of McFarlandâ��s work from the last five years will
+upcoming exhibition of McFarland’s work from the last five years will
 be presented at the Art Gallery of Ontario in Spring of 2014.
 
 Gallery hours:

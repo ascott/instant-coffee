@@ -14,9 +14,9 @@ Kathleen Ritter, Guillermo Trejo
 24 January – 7 March, 2015
 
 “Everything that needs to be said has already been said. But since no one
-was listening, everything must be said again.â€ 
+was listening, everything must be said again.” 
 
-― AndrÃ© Gide
+― André Gide
 
 Far Away So Close is a series of exhibitions, publications, and events that
 explores the idea of distance, considers the bridging of distance as an
@@ -30,7 +30,7 @@ Part II is focused on the political utterance or gesture. Here, in a nod to
 the long history of this consideration by the avant-garde, Paris-based
 Kathleen Ritter and Ottawa-based Guillermo Trejo explore moments of
 revolutionary utterance and action: the call to arms and the “day after
-tomorrow.â€  They consider the roles of opacity, subterfuge and repetition,
+tomorrow.”  They consider the roles of opacity, subterfuge and repetition,
 and ways in which the creative act itself may above all be akin to the
 desire for political upheaval and change: foolishly impractical, resigned
 to the probability of failure and yet driven by an insuppressible hope

@@ -28,5 +28,5 @@ and Michelle Jacques (Chief Curator, Art Gallery of Greater Victoria). This
 will be followed by a reception at the Contemporary Art Gallery with
 traditional Trini Roti for purchase.
 
-Funded by the UBC Presidentâ��s Endowment Fund in partnership with the
+Funded by the UBC President’s Endowment Fund in partnership with the
 Roundhouse Community Arts and Recreation Centre and the CAG.

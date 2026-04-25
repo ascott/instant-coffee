@@ -35,7 +35,7 @@ inmates and staff alike. As the exhibition curator Jan Allen notes, “Inside
 Kingston Penitentiary offers an empathetic confrontation driven by a
 compulsion to understand the situation of all those within the walls. It
 is, after all, a situation created by, and accountable to, those outside
-the walls.â€ 
+the walls.” 
 
 Signed copies of Inside Kingston Penitentiary will be available at the
 special launch price of $35.

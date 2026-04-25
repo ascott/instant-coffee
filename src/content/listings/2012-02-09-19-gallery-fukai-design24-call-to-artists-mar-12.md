@@ -20,7 +20,7 @@ Founded as Gallery Atsui in 2008, Director Sascha Yamishita has
 dedicated himself to providing affordable, contentious studio space and 
 exhibition environment in the founding of Fukai and brings the 
 Vancouver community other annual exhibits like 10x10, which features 
-the work of 10 artists on 10- 10â€  by 10â€  panels (Sponsored by Opus art 
+the work of 10 artists on 10- 10”  by 10”  panels (Sponsored by Opus art 
 and Framing.)
 Design24 embraces the parallels between art and design/ designer and 
 artist in paying respect to the duality of commercial design work, its 
@@ -29,7 +29,7 @@ Submission details:
 -Submission deadline: March 12th, 2012
 -Please confirm submissions prior to submission deadlines via email to 
 designtwo4@gmail.com.
--Each piece submitted must be 11â€  x17â€  allowing for a 2â€  perimeter 
+-Each piece submitted must be 11”  x17”  allowing for a 2”  perimeter 
 bleed around the artwork.
 -Each submission is limited to Black (one color) on white background.
 -The final pieces will be exhibited in portrait layout format but how he 
@@ -45,8 +45,8 @@ upcoming exhibit will be considered at first priority for the next
 installment of Design24.
 -Deadline for print ready pieces selected from the submissions must be 
 received in either .ai or .eps format no later than March 19th, 2011 and 
-include a 2â€  bleed around the artwork (printed art work area= 11â€  x17â€  
-â€“ Canvas/ art board size= 13â€  x19â€ )
+include a 2”  bleed around the artwork (printed art work area= 11”  x17”  
+– Canvas/ art board size= 13”  x19” )
 -Print ready deadline: March 19th, 2012
 
 Exhibition details:

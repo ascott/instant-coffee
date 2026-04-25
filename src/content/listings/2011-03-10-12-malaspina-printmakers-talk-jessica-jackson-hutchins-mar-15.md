@@ -21,8 +21,8 @@ North Building, Room 285, Emily Carr University of Art + Design
 Portland-based American artist Jessica Jackson Hutchins was recently
 featured in the 2010 Whitney Biennial at the Whitney Museum of American Art
 (New York, NY). She is included in the forthcoming sculpture exhibition
-â€œThe Shape Of Things To Comeâ€  at the Saatchi Gallery (London, U.K.). Her
-solo exhibition â€œThe Important Thing About A Chairâ€  opens at the Atlanta
+“The Shape Of Things To Come”  at the Saatchi Gallery (London, U.K.). Her
+solo exhibition “The Important Thing About A Chair”  opens at the Atlanta
 Contemporary Art Centre (Atlanta, GA) in April 2011.
 
 The work of Jessica Jackson Hutchins is known for its robust physicality.

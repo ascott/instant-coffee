@@ -25,7 +25,7 @@ take on a range of topics, from the forbidden pleasures of men crying and
 the secret logic of the book of Genesis to Las Vegas suicides and
 companies jockeying to be at the start of the phone book. “Beebe’s films
 are both erudite and punk, lo-fi yet high-brow shorts that wrestle with a
-disfigured, contemporary American landscapeâ€  (Wyatt Williams, Creative
+disfigured, contemporary American landscape”  (Wyatt Williams, Creative
 Loafing).
 
 Thursday, April 2, 7:30 pm: Artist Talk at Falaise Park Fieldhouse, 3434

@@ -91,7 +91,7 @@ with a printed image. In the time before photography such
 illustrations served as scientific evidence. The grand idea of 
 publishing these books was to give ordinary people access to 
 information that until then was confined to the “libraries of the 
-wealthy.â€ 
+wealthy.” 
 
 Image:
 Thomas Bewick, Untitled vignette, Wood engraving

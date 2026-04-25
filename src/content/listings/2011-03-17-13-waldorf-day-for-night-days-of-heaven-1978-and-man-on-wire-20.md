@@ -18,7 +18,7 @@ Day for Night: Films in the Afternoon presents a dreamy double bill:
 Days of Heaven (1978) and Man on Wire (2008)
 
 “Nobody’s perfect. There was never a perfect person around. You just
-have half-angel, half-devil in you.â€  - Linda Manz in Days of Heaven
+have half-angel, half-devil in you.”  - Linda Manz in Days of Heaven
 
 Following February's screening of Terrence Malick's Badlands (1973),
 Day for Night presents his second feature film, Days of Heaven (1978).

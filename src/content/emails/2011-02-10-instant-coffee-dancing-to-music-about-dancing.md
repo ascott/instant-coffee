@@ -225,7 +225,7 @@ Granville Island, Vancouver, BC V6H 3S3
 malaspinagallery@telus.net
 www.malaspinaprintmakers.com
 
-Gallery Hours: Tuesday â�� Friday 10 - 5 pm Saturday and Sunday 11 - 5 pm
+Gallery Hours: Tuesday ’ Friday 10 - 5 pm Saturday and Sunday 11 - 5 pm
 
 
 ------------------------------------------------------------------------
@@ -293,7 +293,7 @@ more information, contact office@fillip.ca.
 <a href="/instant-coffee/listings/2011-02-10-05-robson-reading-series-andre-alexis-and-harry-karlinsky-feb-1">05. Robson Reading Series | Andre Alexis and Harry Karlinsky | FEB 10</a>
 ------------------------------------------------------------------------
 Please join us this Thursday, February 10 at 7 pm for a creatively
-historical reading and discussion with AndrÃ© Alexis and Harry Karlinsky.
+historical reading and discussion with André Alexis and Harry Karlinsky.
 We're looking forward to an intellectually stimulating evening with these
 two authors.
 
@@ -385,7 +385,7 @@ February 10, 7:30-8:30pm
 Santhosh_Living with a Wound_RAG
 
 TV Santhosh, Living with a Wound (2009) fiberglass, metal, LED panels
-60â€ x84â€ x30â€ . photograph courtesy of Richmond Art Gallery
+60” x84” x30” . photograph courtesy of Richmond Art Gallery
 
 You’re invited to join us for an informal tour of the Surrey Art Gallery’s
 current exhibitions with gallery curator, Jordan Strom. Jordan will
@@ -761,7 +761,7 @@ This exhibition is curated by Peter Gazendam, Artspeak Programme Coordinator.
 
 * Tel. 604.688.0051
 * Fax 604.685.1912
-* Tuesday â�� Saturday, 12-5pm
+* Tuesday ’ Saturday, 12-5pm
 * Admission is free
 
 
@@ -892,7 +892,7 @@ Series begins January 9th, 2011 and continues every Sunday.
 ------------------------------------------------------------------------
 Judy Jheung 
 
-â€œComposing You : the love gameâ€  
+“Composing You : the love game”  
 
 special performance by Karen and Peggy Ngan 
 
@@ -908,7 +908,7 @@ Feb 14, 2011 8:00pm
 
 Vancouver (between Victoria and Graveley) 
 
-Judy Jheung presents â€œComposing You: the love gameâ€  for Hammock Residency
+Judy Jheung presents “Composing You: the love game”  for Hammock Residency
 on the 
 
 eve of Valentine’s Day. Designed to engage with communities, the residency
@@ -926,7 +926,7 @@ a love fest, a
 love wander, ready be divulged, contemplated, maneuvered, conceptualized. 
 Bath 
 
-yourself in the â€œgameâ€  of love. At the end of the journey, participants
+yourself in the “game”  of love. At the end of the journey, participants
 may create an 
 
 unexpected composition according to his/her navigation routes. Consistent
@@ -1577,7 +1577,7 @@ selected. The FAC retains 25% commission on sales of work.
 
 Exhibition dates: April 13- May 15, 2011
 
-Gallery hours: Wed.- Sat. 1:00 p.m. â�� 5:00p.m.
+Gallery hours: Wed.- Sat. 1:00 p.m. ’ 5:00p.m.
 
 
 

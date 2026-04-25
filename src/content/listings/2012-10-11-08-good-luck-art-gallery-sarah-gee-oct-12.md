@@ -20,7 +20,7 @@ GoodLuckGallery@gmail.com
 
 Strata by Sarah Gee
 
-This is an exhibition of works called â€œstrataâ€ , totemic shapes made from 
+This is an exhibition of works called “strata” , totemic shapes made from 
 collaged paper and acrylic on matte board. The superimposition of 
 vibrant colour and mathematically-derived forms creates abstract 
 works I call heretical geometry.
@@ -33,7 +33,7 @@ Using a private language of symbols such as The Oar, Star and
 Halfstar, and Unblinking Eye, these strata are concerned both with the 
 formalities of hard edged abstraction and the implications of signage.
 
-The exhibition title is lifted from â€œThe Yellow Submarineâ€ , and Johnâ€™s 
+The exhibition title is lifted from “The Yellow Submarine” , and John’s 
 sensible approach to solving the problems of being trapped in the past.
 
 -

@@ -24,7 +24,7 @@ Kingsley Hall experiment (1965-1970) while he was working on his own
 series of social and psychological experiments called The Social 
 Engineer (1999). Fowler’s interest in Laing’s practice, and the 
 documentation of Kingsley Hall, evolved into the film What You See Is 
-Where Youâ€™re At (2001). Laingâ€™s hypotheses on the â€œdouble bindâ€ , the 
+Where You’re At (2001). Laing’s hypotheses on the “double bind” , the 
 family nexus, and ontological security in books such as The Divided 
 Self (1960) and The Politics of Experience (1967) shaped Fowler’s own 
 concerns with family, community, and collaborative formation; self and 
@@ -34,7 +34,7 @@ Situationists, the Free Cinema Movement, and free improvisation. All of
 these elements fold into Fowler’s poly-rhythmic compositions of sound 
 and images — formal experiments in tune with divided selves.
 
-The Way Out profiles Xentos â€œFray Bentosâ€  Jones, one of the founding 
+The Way Out profiles Xentos “Fray Bentos”  Jones, one of the founding 
 members of the post-punk band The Homosexuals. Pilgrimage from 
 Scattered Points reflects on the English composer Cornelius Cardew 
 (1936-1981) and The Scratch Orchestra (1968-73). Bogman 

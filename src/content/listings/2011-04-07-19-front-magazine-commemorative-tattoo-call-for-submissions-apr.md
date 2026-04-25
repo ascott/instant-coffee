@@ -11,7 +11,7 @@ summary: "Front Magazine commemorative tattoo | Call for Submissions | APR 18"
 Call for Submissions: Front Magazine commemorative tattoo
 
 There is nothing more reckless than making a permanent decision 
-quickly. The theme of Front Magazineâ€™s last issue is â€œReckless,â€  and 
+quickly. The theme of Front Magazine’s last issue is “Reckless,”  and 
 we are dedicated to following that to its logical conclusion. So we 
 are inviting you to submit something: a word, phrase, drawing, 
 photo, anything. Front Magazine’s current Art Director, Karianne 
@@ -24,7 +24,7 @@ comment upon the existence of Front Mag within the context of
 Vancouver’s art and cultural production, or reference the history of 
 artist publications within BC.
 
-All submissions should fit in an area no larger than 2.5â€ x 5â€  
+All submissions should fit in an area no larger than 2.5” x 5”  
 (horizontal or vertical), and be reproducible in 3 colours of ink or 
 less. The tattoo will be located on the inside right upper arm. Please 
 keep in mind that tattooing is a low-resolution medium of 

@@ -37,9 +37,9 @@ political opinion in its most direct form is expressed.
 
 For this recent work Hayes takes protest as a subject. In select 
 public sites she picketed with placards bearing archaic slogans, 
-such as â€œWho approved the war in Vietnam?â€  a phrase originally 
+such as “Who approved the war in Vietnam?”  a phrase originally 
 used in 1962 at the Charter Day Protest at the University of 
-California and â€œI am a Man,â€  a slogan taken from the civil rights 
+California and “I am a Man,”  a slogan taken from the civil rights 
 movement during the Memphis Sanitation strike in 1968. Hayes’ 
 discursive and aesthetic investigation chimes with the recent 
 snowballing of mass demonstrations in the Middle East, as well as 

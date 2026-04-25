@@ -40,7 +40,7 @@ Infor­mal Com­mu­ni­ties:
 Celes­tial, Ter­res­trial and Sub­ter­ranean Movements
 Other Sights for Artists’ Projects is pleased to announce a recent addition to 
 our Commissioned Texts series: “Informal Communities: Celestial, Terrestrial 
-and Subterranean Movementsâ€  by Randy Lee Cutler.
+and Subterranean Movements”  by Randy Lee Cutler.
 
 http://www.othersights.ca/informal-communities-pdf
 
@@ -147,10 +147,10 @@ Mitchell.
 
 ‘Born in Flames poses the question of whether oppression against women will 
 be eliminated under any kind of social system. […] It is a fantasy presenting 
-a group of women who, confronted with the very â€œordinaryâ€  oppression women 
+a group of women who, confronted with the very “ordinary”  oppression women 
 have been experiencing for decades, refuse to take it any longer and become 
 armed fighters against the government. Their position is that oppression 
-against women is not eliminated automatically with â€œsocialismâ€  â€“ not only do 
+against women is not eliminated automatically with “socialism”  – not only do 
 political values have to change, cultural values must change and become 
 embedded in practice.’ — Lizzie Borden in Heresies #16, 1983
 
@@ -513,7 +513,7 @@ Saturday, August 25, 4PM
 Kitsilano Beach
 (map of approximate location)
 
-The â€œhuman microphoneâ€  is the latest armament in the political protest 
+The “human microphone”  is the latest armament in the political protest 
 arsenal. While known primarily as an information delivery system, one which 
 involves a conductor and a partisan audience (where amplification equipment 
 is forbidden), it is also deployed as a critical response mechanism designed 
@@ -522,15 +522,15 @@ at their disposal — a dual function that alludes to definitions of ideology as
 both a belief system and that which masks conditions perpetuated by belief 
 systems.
 
-My interest in the â€œhuman microphoneâ€  is concerned less with its ability to 
+My interest in the “human microphone”  is concerned less with its ability to 
 alternately deliver and block information than the sensations it evokes in those 
 on either side of its electronic equivalent, a sensation that many have 
-described as â€œcreepy.â€  The question I am interested in is why a system this 
+described as “creepy.”  The question I am interested in is why a system this 
 effective should unsettle those it helps to empower? To assist us (in what I 
 hope will be more a seminar-style discussion than a lecture) I will include 
-several historical examples, such as the â€œGreek Chorusâ€  in Sophoclesâ€™s 
+several historical examples, such as the “Greek Chorus”  in Sophocles’s 
 Antigone (c. 441 BC), Carl Orff’s Antigonae (1949), Pete Seeger’s version of 
-â€œWe Shall Overcomeâ€ , and the use of unison sonic structures in trance and 
+“We Shall Overcome” , and the use of unison sonic structures in trance and 
 techno music.
 
 - Michael Turner
@@ -604,11 +604,11 @@ http://vancouverpublicspace.wordpress.com/.
 <a href="/instant-coffee/listings/2012-08-23-10-quinary-art-projects-june-yun-aug-30">10. Quinary Art Projects | June Yun | AUG 30</a>
 ------------------------------------------------------------------------
 
-Quinary Art Projects presents â€œDuck Boat in Zhujiajiaoâ€  by June Yun
+Quinary Art Projects presents “Duck Boat in Zhujiajiao”  by June Yun
 Artist Reception/closing party for popup gallery: Thursday August 30, 7-10pm
 popup gallery @ 1387 Richards Street @ Pacific Blvd, Yaletown.
 
-â€œDuck Boat in Zhujiajiao, 2012â€  is a video work June shot at a typical ancient 
+“Duck Boat in Zhujiajiao, 2012”  is a video work June shot at a typical ancient 
 water town in the south of the Yangtze River when I was doing an artist 
 residency in Shanghai Hymalaya Art Museum in 2011..................Zhujiajiao 
 is a graceful and quiet town located in a suburb of Shanghai city. Walking on 
@@ -667,7 +667,7 @@ Li, Qin Shen, Howard Ursuliak, Weide Xu, Siming Yang, Qin Zhao
 Curated by Wei Xia
 
 A series of exhibitions “Space beyond the Boxes – The Choice of 
-Destinyâ€  was launched in Shangdong Contemporary Arts Center in 
+Destiny”  was launched in Shangdong Contemporary Arts Center in 
 Nanjing, China in May 2011.
 
 Presenting artists from different regions, cultural backgrounds and 
@@ -758,7 +758,7 @@ Instead she intervenes by adding her own animal images to found
 drawings dating anywhere from the mid nineteenth century to the 
 present that she buys in thrift stores or on-line. These unwitting 
 collaborations are surprising and provocative, and as the artist says, 
-like â€œstories half told.â€ 
+like “stories half told.” 
 
 Seymour Art Gallery
 4360 Gallant Ave North Vancouver BC V7G 1L2
@@ -872,7 +872,7 @@ assemblage sculptures which address issues of social expression and
 constraint, historical reference, authenticity and personal mortality. Lewis 
 believes found materials, as Heidegger put it, create “a kind of knowing-how 
 rather than knowing-that…what is most important and meaningful in our lives 
-is not and should not be accessible to critical reflection.â€ 
+is not and should not be accessible to critical reflection.” 
 
 A 4 channel video installation at Trench Annex: I Won’t Take Your Hand 
 Monsieur Manet, I Have Not Washed in Eight Days, continues Lewis’s 
@@ -882,10 +882,10 @@ Cezanne’s small strokes of warm and cool colours as an alternative to
 perspective, his decades-long play with temporal looping of film and video, 
 both Cezanne’s and Manet’s instigation of modern art, and Duchamp’s 
 Fountain, Lewis creates a process-present work that merges a temporal 
-relationship between the past and future. These â€œbath[s] of knowledgeâ€  in 
+relationship between the past and future. These “bath[s] of knowledge”  in 
 nature (as Cezanne described it), appropriate the tinkling and rushing of the 
 fountains as well, and, as Duchamp states: “whether Mr. Mutt with his own 
-hands made the fountain or not has no importance. He chose it.â€ 
+hands made the fountain or not has no importance. He chose it.” 
 
 For more information please contact Trench at 604-681-2577.
 info@trenchgallery.com

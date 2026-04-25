@@ -21,7 +21,7 @@ seemingly ordinary and fleeting to the supernatural.
 
 Lucie Chan’s drawings are derived from her conversations with others, 
 often strangers, who share their stories with her in what she calls a 
-â€œcultural lesson.â€  Her method of gathering stories varies according to the 
+“cultural lesson.”  Her method of gathering stories varies according to the 
 situations she creates; in one she placed an ad calling for participants; in 
 another she interviewed taxi drivers as she was being driven to the airport; 
 more recently she lived and worked for a month in a small town in 
@@ -42,7 +42,7 @@ Marigold Santos’ large scale paintings are informed by both her immigrant
 experience and Filipino folklore she grew up with as a child. Notions of 
 attachment and separation, being grounded or uprooted relate to her 
 explorations of home, identity and place. Featured in some of Santos’ 
-paintings is a frightening creature known as the â€œasuangâ€  in Filipino 
+paintings is a frightening creature known as the “asuang”  in Filipino 
 folklore. This vampire-like creature, generally depicted as female, severs 
 her body from the waist up, hunting at night and returning to her lower half 
 before morning. The supernatural serves to address multiple ways of being 

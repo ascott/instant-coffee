@@ -33,7 +33,7 @@ Without the presence of the crowd to complete the effect of the
 participatory cheer, his peculiar salute seems ominous and unsettling. Not
 shared with others in the circular sweep of the stadium, it summons up both
 the history of the arena in western culture and the evolution of the salute
-gesture. The stranded fan performs his part in isolation, his â��communityâ��
+gesture. The stranded fan performs his part in isolation, his ’community’
 imaginary - making his action deliberate and personal.
 
 Silent, and consisting of two one-minute segments, Vox Pop slows down the
@@ -62,7 +62,7 @@ regulatory conditions of public places and public life.
 Vox Pop is the inaugural project of Looking Up, a curated series of artist
 works that engage with public space and civic agency.
 
-presented by Other Sights for Artistsâ�� Projects Association
+presented by Other Sights for Artists’ Projects Association
 
 www.othersights.ca
 

@@ -11,7 +11,7 @@ summary: "Spark Box | National Artist Residency Award | DEC 15"
 SPARK BOX NATIONAL RESIDENCY AWARD
 
 So many artists are trying to fit their practice into the hours outside of
-their day job. Many are setting up â€œstudiosâ€  on their living room floors or
+their day job. Many are setting up “studios”  on their living room floors or
 dining room tables. At Spark Box we offer artists time and space to focus
 on their work in an encouraging and supportive environment. Imagine one
 full month to get a new project off the ground. One full month to think

@@ -45,7 +45,7 @@ information is neither constant nor absolute but requires constant negotiation.
 A second body of work, An Eye for An Eye, produced this year with
 Vancouver’s Malaspina Printmakers continues the colours used in Kennedy’s
 Ethics 101 series which are based around idioms of exchange and power
-dynamics. Kennedy terms this colour scheme â€œthe Maher Arar coloursâ€ 
+dynamics. Kennedy terms this colour scheme “the Maher Arar colours” 
 referring to the torture and detainment of this eponymous Canadian citizen
 beginning with his interception at New York’s Kennedy Airport in September
 2002 and his subsequent deportation to Syria under the program of

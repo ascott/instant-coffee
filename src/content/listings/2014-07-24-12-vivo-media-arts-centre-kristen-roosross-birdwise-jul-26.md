@@ -45,7 +45,7 @@ laboratory, storage facility, moving company, studio, haunted house, shrine
 KRISTEN ROOS is a Vancouver based artist whose practice includes site-
 specific installations, sound design for dance, and live performance. The 
 exploration of the underground, the low frequency, and the hidden is 
-present in many of his works. This includes his 2007 piece â€œGhost Station,â€  
+present in many of his works. This includes his 2007 piece “Ghost Station,”  
 which was installed in an unused Toronto subway station and used 
 recordings derived from subwoofers and subway trains. He has exhibited 
 in artist-run centers and festivals across Canada, and performed in new 

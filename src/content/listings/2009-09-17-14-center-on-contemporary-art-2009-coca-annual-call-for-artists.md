@@ -25,7 +25,7 @@ For this year’s 20th anniversary of the show, CoCA is proud to have
 Jess Van Nostrand as juror. Jess Van Nostrand is Exhibitions Curator
 at Cornish College of the Arts and author of numerous essays and
 articles about the arts including the popular “Artists’ Guide to
-Seattleâ€  published by the Seattle Convention and Visitors Bureau. She
+Seattle”  published by the Seattle Convention and Visitors Bureau. She
 holds a BA in Art History from The George Washington University and an
 MA in Art History from Richmond University, London.
 

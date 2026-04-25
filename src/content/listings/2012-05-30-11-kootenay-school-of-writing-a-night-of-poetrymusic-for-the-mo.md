@@ -23,7 +23,7 @@ closure of accessible public education, KSW presents an evening of
 poetry and music hosted by Rhizome Café, responding to the request 
 for solidarity and support for the Legal Committee of the CLASSE, 
 whom the Montreal Gazette have dubbed “Quebec’s most militant 
-student groupâ€ .
+student group” .
 
 Featuring: The Vancouver Complaints Choir, Wayde Compton, Kim 
 Minkus, Jamie Reid, Daphne Marlatt,, William Owen, Donato Mancini, 
@@ -45,7 +45,7 @@ fight, on principle, against this judicialization of a political conflict, we
 have no choice but to acknowledge that the struggle on the streets has 
 been, for many, transferred to the courtroom and we must act to 
 defend our classmates, our friends and our family. This defense needs 
-your help.â€  (full text below)
+your help.”  (full text below)
 
 All proceeds from the fundraiser will go to the Legal Defense 
 Committee of La Classe. See the full text of the call for support, below, 

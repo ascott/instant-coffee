@@ -12,7 +12,7 @@ Tuesday, November 17, 7pm
 
 Expanding Horizons
 Tour / John O'Brian / In the Gallery, Meet at the Title Wall
-John Oâ€™Brian, renowned art historian and author ofÂ Beyond Wilderness: The
+John O’Brian, renowned art historian and author ofÂ Beyond Wilderness: The
 Group of Seven, Canadian Identity, and ContemporaryÂ Art, speaks on
 landscape, Canadian art history and national identity.
 

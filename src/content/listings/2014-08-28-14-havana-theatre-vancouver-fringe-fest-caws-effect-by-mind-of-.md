@@ -16,10 +16,10 @@ beautiful and unique, with handmade layered projections, puppetry, masks,
 and original music. The story can be seen as a modern fable, a
 tongue­-in­-cheek nature documentary, or the animated dream of a sleeping
 bird. In July, Caws & Effect premiered at the Winnipeg Fringe, winning
-â€œPatronâ€™s Pickâ€  with sold out shows and raven reviews!
+“Patron’s Pick”  with sold out shows and raven reviews!
 
-★★★★★ â€œa gorgeous and wondrous work of artâ€  -CBC
-★★★★1/2 â€œa whimsical live-Â­action storybook thatâ€™s mesmerizingâ€  -Winnipeg
+★★★★★ “a gorgeous and wondrous work of art”  -CBC
+★★★★1/2 “a whimsical live-Â­action storybook that’s mesmerizing”  -Winnipeg
 Free Press
 
 Good for adults & kids 7+
@@ -45,7 +45,7 @@ B.C. Since 2003, Chloé Ziner and Jessica Gabriel have been developing a
 multilayered style of visual storytelling using overhead projectors as
 their main light source. They are known for their original aesthetic,
 quirky humor and unique approach to storytelling. They are the creators of
-past fringe hits â€œAgainst Gravityâ€  and â€œPlasticity Nowâ€  and in 2013, they
+past fringe hits “Against Gravity”  and “Plasticity Now”  and in 2013, they
 won the Joanna Marratta Award for professional development from the
 Vancouver Fringe.
 

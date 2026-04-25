@@ -29,7 +29,7 @@ as the x-ray vision of mystic Kuda Bux, the ectoplasmic materializations of
 Helen Duncan, the fingertip vision of Rosa Kuleshova, and the dermo optical
 perception of Madame Duplessis. MacWilliam's interest in the idea that
 seeing is believing' is explored her installation at Presentation House
-Gallery. F-L-A-M-M-A-R-I-O-N of 2009 is inspired by a 1931 sÃ�Â©ance in
+Gallery. F-L-A-M-M-A-R-I-O-N of 2009 is inspired by a 1931 sÂ©ance in
 Winnipeg where a teleplasm spelling flammarion appeared.
 
 Susan MacWilliam has exhibited worldwide and in 2009 represented Northern
@@ -81,7 +81,7 @@ Stylistically reminiscent of film noir, Biscotti's film The Undercover Man
 Pistone who successfully infiltrated the New York City mafia in the guise
 of a jewel thief named Donnie Brasco. Susan MacWilliam also assumes the
 role of an investigator working with hearsay in her re-creation of a 1931
-sÃ�Â©ance in Winnipeg, F-L-A-M-M-A-R-I-O-N (2009).
+sÂ©ance in Winnipeg, F-L-A-M-M-A-R-I-O-N (2009).
 
 -- 
 

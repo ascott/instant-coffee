@@ -58,7 +58,7 @@ Glass, Eliza Houg, Devon Lindsay and Bo Yeung.
 SCHEDULE
 
 Wednesday, June 17
-â€œâ€¦strange things doneâ€¦â€  opening: 6-7pm @ SOVA
+“…strange things done…”  opening: 6-7pm @ SOVA
 Festival Opening Remarks: 7:30pm @ KIAC Ballroom
 Keynote Speaker: Sven Dupré: 7:45pm @ KIAC Ballroom
 

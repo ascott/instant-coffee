@@ -23,7 +23,7 @@ Smith, George Tzanetakis, Paul Walde
 
 Conveners: Gabriel Mindel Saloman and Jordan Strom
 
-Musicians and artists have long incorporated â€œfield recordingsâ€  of the
+Musicians and artists have long incorporated “field recordings”  of the
 natural and human world into their compositions and performances. Likewise,
 researchers like biologists and anthropologists have long relied on sound
 recordings to preserve knowledge of the natural and human worlds for future
@@ -34,7 +34,7 @@ reproduce systems of power and control through preservation and
 presentation that has deep roots in the colonial projects of centuries past.
 
 The Sound Thinking 2014 symposium will feature musicians, sound artists,
-and researchers who use sound to actively participate in a â€œconversationâ€ 
+and researchers who use sound to actively participate in a “conversation” 
 with their areas of interest. The symposium discussions will examine this
 more multidirectional approach as it is situated within a number of new
 sound practices including: artists whose work is created collaboratively

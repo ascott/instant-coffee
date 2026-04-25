@@ -45,7 +45,7 @@ gay artists have used language in their art to explore their identity.
 Playful manipulation of language is demonstrated in Luis Jacob’s work, a 
 print derived from the action of him kissing a sheet of paper, a la Joyce 
 Weilland, while singing the disco funk anthem, Sylvester’s “You Make Me 
-Feel (Mighty Real)â€ . Keith Cole marries text and visual in collages derived 
+Feel (Mighty Real)” . Keith Cole marries text and visual in collages derived 
 from mass media and advertising as he draws upon popular culture.
 
 Text can be immediate, and billboards and signage exemplify the 

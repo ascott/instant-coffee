@@ -19,7 +19,7 @@ into questions of politics, identity, and religion. A cynically morose tone
 lingers closely overhead as the artists struggle to find clarity in a foggy 
 landscape. 
 
-â€œIt's All Around Youâ€  presents a feeling of contemplation and solitude. It 
+“It's All Around You”  presents a feeling of contemplation and solitude. It 
 is the ocean that surrounds you as you drift away from land and the 
 realization of self takes hold. Each artist, in his or her own way, has 
 created a space of quiet contemplation. Initially embarking on different 

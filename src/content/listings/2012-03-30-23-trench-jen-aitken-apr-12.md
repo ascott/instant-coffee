@@ -12,7 +12,7 @@ TRENCH
 CONTEMPORARY ART
 
 Is pleased to present
-â€œComponentsâ€ 
+“Components” 
 New Sculpture and Drawings
 By Jen Aitken
 April 12 till May 12th, 2012.
@@ -22,9 +22,9 @@ full time on her sculpture practice. Now residing in Toronto Aitken is
 presenting 4 sculptures, a selection of drawings and a multiple for her 
 first solo show at Trench.
 
-Calling the sculptures â€œComponentsâ€  Aitken has created a series of 
+Calling the sculptures “Components”  Aitken has created a series of 
 modular, interrelated forms that can be either shown as singular 
-objects or fitted together to create a larger â€œhabitatâ€  of sculpture. Long 
+objects or fitted together to create a larger “habitat”  of sculpture. Long 
 inspired by Sol Lewitt and his self- generating systems Aitken was 
 looking for some arbitrary parameters to work within and came up with 
 a series of measurements based on the Fibonacci sequence to guide 
@@ -35,7 +35,7 @@ interpretation and playfully reference the body as well as a multitude of
 other forms and objects such as organs, furniture, machine parts or 
 sea life. Never letting the viewer to commit to any one of these 
 references as a starting point Aitkens desire is to “evoke brief in-body 
-experiences and visceral reactionsâ€  to the works. Aitkens sculpture 
+experiences and visceral reactions”  to the works. Aitkens sculpture 
 allows the viewer to wander in and out, sensually exploring the forms, 
 their playful nature, possible origins and her exquisite attention to 
 detail. That detail is found in how the artist handles her materials 

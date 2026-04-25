@@ -40,7 +40,7 @@ compared to nothingness macrocosm; Center in between nothing and
 everything. Endlessly far from understanding extremes – both, end and
 beginning of things are unobtainable, hidden with impermeable secret;
 equally powerless to see the essence, where its been torn out and the
-infinity where its going to be swallowedâ€  - Blaise Pascal
+infinity where its going to be swallowed”  - Blaise Pascal
 _____________________________
 
 Artists in the Visitor Vegetable show are wanderers and observers, the most

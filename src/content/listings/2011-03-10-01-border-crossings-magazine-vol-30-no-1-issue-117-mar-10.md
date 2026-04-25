@@ -22,19 +22,19 @@ Canadian photographer, Edward Burtynsky, renowned for his large-scale
 photographs of industrial landscapes and most recently, the oil spill in
 the Gulf of Mexico, talks with BC about his extensive bodies of work in
 which he attempts to “…raise our consciousness about how we’re collectively
-changing the landscape.â€ 
+changing the landscape.” 
 
 This issue also features an interview with New York-based video artist Mika
 Rottenberg. Meeka Walsh writes of Rottenberg’s work, “The videos have
 elements that are unnerving and disturbing in the situations they present,
-but they also hold images of unexpected beauty.â€ 
+but they also hold images of unexpected beauty.” 
 
 ARTICLES
 
-Daniel Baird contributes an article on â€œThe Last Newspaper,â€  an exhibition
+Daniel Baird contributes an article on “The Last Newspaper,”  an exhibition
 at the New Museum in NY, which looks at the role of the newspaper in art
 from the 1960s onwards, “…focusing on newspapers’ contentious role as
-authoritative arbiters of information about the world.â€ 
+authoritative arbiters of information about the world.” 
 
 EC Woodley writes on Vancouver artist Liz Magor’s recent sculptural work
 which blurs the line between the artificial and the real.
@@ -52,7 +52,7 @@ Koop, Cedric Bomford, and much more.
 
 NOW: Border Crossings’ Winnipeg Alphabestiary Collection was recently
 acquired by the Winnipeg Art Gallery and will be shown for the first time
-in an exhibition titled â€œBestial Encounters,â€  from April 1 to June 12,
+in an exhibition titled “Bestial Encounters,”  from April 1 to June 12,
 2011. For more information visit: wag.ca
 
 Border Crossings is a quarterly cultural magazine published in Winnipeg.

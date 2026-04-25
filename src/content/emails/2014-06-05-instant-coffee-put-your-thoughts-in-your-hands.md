@@ -347,7 +347,7 @@ everywhere he goes. With these photos he makes collages and drawings
 which finally get resolved as silkscreen prints. Though clearly 
 photographic in nature, Matthew’s prints take on an added layer of 
 obscurity through this translation by hand, depicting worlds that reference 
-â€œthe realâ€  but are a little too good (or bad) to be true.
+“the real”  but are a little too good (or bad) to be true.
 
 Malaspina Printmakers
 1555 Duranleau Street
@@ -507,7 +507,7 @@ game code. What they share is a compelling desire to fail: to explore the
 fallibility of materials or process, the foundering of language and 
 communication, or the point at which presumptions around assigned value 
 and viewership expectations collapse. Whether colossal or quiet, the 
-â€œfailuresâ€  that mark these works are not end-points but beginnings; assuming 
+“failures”  that mark these works are not end-points but beginnings; assuming 
 the role of provocateur, they playfully prompt us to question our assumptions 
 and offer new possibilities for connectivity and for thinking about our place in 
 the world. 
@@ -543,7 +543,7 @@ k.phillips@accessgallery.ca
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2014-06-05-11-artspeak-where-does-it-hurt-jun-6">11. Artspeak | Where Does it Hurt? | JUN 6</a>
 ------------------------------------------------------------------------
-â€œWhere Does it Hurt?â€ 
+“Where Does it Hurt?” 
 
 CATHY BUSBY, DAVID MACWILLIAM, RACHELLE SAWATSKY,
 KRISTA BELLE STEWART 
@@ -1157,8 +1157,8 @@ Asian Collective Twins Artist Collective – who are two sets of twin sisters
 "WeMix" features an eclectic mix of emerging Asian Canadian artists working 
 in a variety of different forms. As working artists themselves, YACTAC‟s 
 affinity runs deep with interdisciplinary and collaborative practice. “It is like a 
-milkshake,â€  say YACTAC. â€œWe mix butoh, shakuhachi flute, conceptual art, 
-poetry, music and design.â€ 
+milkshake,”  say YACTAC. “We mix butoh, shakuhachi flute, conceptual art, 
+poetry, music and design.” 
 
 Among the collaborating artists are visual artist Kuh de Rosario and graphic 
 designer Ryan Romero, who will converge to explore the grey area between 

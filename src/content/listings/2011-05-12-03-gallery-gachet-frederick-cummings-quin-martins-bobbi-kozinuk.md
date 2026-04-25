@@ -45,17 +45,17 @@ dating back to Plato. Often, something that is described as a simulacrum is
 thought of as being inferior to its original. Theorist Jean Baudrillard
 argues that a simulacrum is not a copy but is a thing that becomes truth in
 its own right. Martins asserts that this idea of simulacrum can be
-transposed onto the mental health community; wherein the â€œmentally illâ€ 
+transposed onto the mental health community; wherein the “mentally ill” 
 person in society is seen through the simulacra lens as a lesser version of
-a â€œnormalâ€  person; so that the entrenched stigmatization of the â€œmentally
-illâ€  person is reified.
+a “normal”  person; so that the entrenched stigmatization of the “mentally
+ill”  person is reified.
 
 Martins states: “There are symptoms of certain mental illnesses that even
 give a person the sensation of being a living simulacrum. A person can
 feel as if they are an actor and that their life is some sort of film or TV
 show. A person can also have the sensation that they are somehow not a
-â€œwholeâ€  person again reinforcing the nightmarish idea of the mentally ill
-as simulacra.â€ 
+“whole”  person again reinforcing the nightmarish idea of the mentally ill
+as simulacra.” 
 
 This exhibit of Martins’ explores these fascinating ideas around mental
 illness and stigmatization through his video and installation works.

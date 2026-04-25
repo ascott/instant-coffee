@@ -27,7 +27,7 @@ Four local artists have come together to explore the game as an artistic
 medium. We invite you to play these art games, discuss and reflect on
 this emerging medium.
 
-â€œI know of no other way of coping with great tasks, than play.â€ 
+“I know of no other way of coping with great tasks, than play.” 
 — Friedrich Nietzsche
 
 What is an art game?

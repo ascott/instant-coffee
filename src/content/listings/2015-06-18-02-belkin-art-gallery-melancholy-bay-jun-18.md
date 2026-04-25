@@ -24,7 +24,7 @@ c̓əsnaʔəm, looks out over
 English Bay, Howe Sound and the Georgia Straight, all bodies of water
 renamed by George Vancouver in the 1790s. The title Melancholy Bay is a
 reference to Vancouver’s dispirited response to what he saw as “a sublime,
-though gloomy spectacle.â€  The settler culture that followed Vancouver to
+though gloomy spectacle.”  The settler culture that followed Vancouver to
 establish jurisdiction and displace the indigenous villages and place names
 has been consistent in admixing descriptions of majestic landscape with
 ideas of frontier and resource extraction. As a result we tend to

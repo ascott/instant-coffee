@@ -126,7 +126,7 @@ HOW TO REGISTER
 
 To register for the workshop, please email 
 education@vivomediaarts.com
-with â€œSLAB 5: Registrationâ€  in the subject line. We need your full 
+with “SLAB 5: Registration”  in the subject line. We need your full 
 name,
 your phone number, your email, and your commitment to attending 
 all or

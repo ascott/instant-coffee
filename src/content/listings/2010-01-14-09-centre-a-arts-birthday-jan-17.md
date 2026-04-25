@@ -72,7 +72,7 @@ Guest speaker Hank Bull
 A Listener's Lab (http://tiny.cc/soundlab) is a curatorial project by Debra
 Zhou to investigate and map the sound art presence in Vancouver through
 interviews and conversations with artists, curators, art historians and
-musicians. Sheâ��ll interview Hank Bull on the history of Art's Birthday in
+musicians. She’ll interview Hank Bull on the history of Art's Birthday in
 Vancouver, it's origin, evolvement and role in the practice of
 radio/network art.
 

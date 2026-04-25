@@ -22,11 +22,11 @@ The Paintings of Ruth Killam Massey
 January 16 – February 23, 2013
 
 Like the edge of a shadow, which Ruth Massey referred to as being “so 
-eloquent,â€  Masseyâ€™s paintings express the ever-changing mood of the coastal 
+eloquent,”  Massey’s paintings express the ever-changing mood of the coastal 
 landscape, using a distinct colour pallet and soft-edged brushwork. Hernando 
 Island, where she had a summer home, was a favourite muse of Massey’s 
 and this is one place where her view that “the expression of mood in nature 
-through its slate of vibrant inter-relationshipsâ€  could be explored on the 
+through its slate of vibrant inter-relationships”  could be explored on the 
 boundary between the sea and shore and the hillside and forest. Massey 
 framed views of the ocean through piles of driftwood and windswept grasses 
 and at times, turned her perspective inland to capture the interplay of light and 

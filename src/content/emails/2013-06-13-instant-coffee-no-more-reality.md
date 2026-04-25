@@ -121,7 +121,7 @@ will be made and additional work will be included as the exhibition evolves
 into its fully realized form.
 
 Works by: Brian Kokoska, Peter Schuyff, Walter Scott, Jeremy Shaw, Beau
-Dick, Emily Hill, and Mark De Long. Enzo Mari designed â€œautoprogettazioneâ€ 
+Dick, Emily Hill, and Mark De Long. Enzo Mari designed “autoprogettazione” 
 furniture built entirely by gallery staff.
 
 Macaulay Fine Art
@@ -320,7 +320,7 @@ O’Brian.
 
 Zhang Yaxin: Model Operas features a suite of images by Chinese
 photographer Zhang Yaxin that vividly record the actors and scenery of the
-Communist Party-sanctioned â€œmodel operasâ€  staged during the latter part of
+Communist Party-sanctioned “model operas”  staged during the latter part of
 the Cultural Revolution. Yaxin, who also served as chief photographer of the
 Communist Party leaders, devoted eight years of his life to photographing the
 operas, which assembled China’s best playwrights and performers. His
@@ -843,13 +843,13 @@ Western Front
 303 East 8th Avenue, Vancouver, BC Canada V5T 1S1
 T. +1 604 876 9343 F. +1 604 876 4099
 W. www.front.bc.ca E. admin@front.bc.ca
-Gallery Hours: Tuesday â€“ Friday 12 â€“ 5pm
+Gallery Hours: Tuesday – Friday 12 – 5pm
 Admission Free
 
 Unsubscribe | View in Browser Copyright (C) 2011 Western Front Society
 All rights reserved
 
-Sent to vancouver@instantcoffee.org Ã¢â‚¬â€  why did I get this?
+Sent to vancouver@instantcoffee.org ââ‚¬”  why did I get this?
 unsubscribe from this list | update subscription preferences
 Western Front Society Â· 303 East 8th Ave. Â· Vancouver, BC V5T 1S1
 
@@ -886,7 +886,7 @@ OMG On Main Gallery - SOCIAL MEDIA ART
 ON MAIN GALLERY LAUNCHES NEW SOCIAL MEDIA ART INITIATIVE
 
 On Main Gallery (OMG) launches the summer festival season with “On Main
-Gallery Social Media Art Zones #OMGSMAZâ€ .
+Gallery Social Media Art Zones #OMGSMAZ” .
 
 This innovative and imaginative pilot project hits the pavement and
 airwaves running at this years Main St. Car Free Festival, June 16th, 12-7
@@ -948,11 +948,11 @@ Monday June 17th, 7:30pm
 1131 Howe St. Vancouver Tix: $11/9 +$3 membership
 http://www.dimcinema.ca/ http://www.thecinematheque.ca
 
-â€œErth, and Other Landscapesâ€  presents a series of musings on nature,
+“Erth, and Other Landscapes”  presents a series of musings on nature,
 technology, perception, and time by two generations of renowned artists and
 filmmakers. The program commences with a journey from the origin of the
 cosmos to the appearance of a “brilliant streptococcus organism for which
-no antidote existsâ€ ; and concludes with a year-long study of a forest,
+no antidote exists” ; and concludes with a year-long study of a forest,
 enacted by following the continually shifting movement of colour, light,
 and shadow across natural forms, articulating then obliterating them into
 pure abstraction. Between these parentheses, Peter Hutton discovers the
@@ -1131,7 +1131,7 @@ Total Running Time 39:20
 
 Experiment in Landscape No. 2, Sarah Fuller (3:03)
 
-A mountain scene viewed through the ground glass of an 8â€ x10â€  large format
+A mountain scene viewed through the ground glass of an 8” x10”  large format
 film camera. The artist enters the scene from the right, encountering deep
 show and unstable ground.
 
@@ -1189,7 +1189,7 @@ Vancouver, BC – grunt gallery, Western Front and VIVO Media Arts Centre are
 pleased to announce that Kristie MacDonald will be presenting a talk on
 Canadian artist-run archives on Wednesday June 19, 2013 at 7pm. It will
 take place at VIVO Media Arts Centre. Her lecture, “Towards a History of
-Artist-Run Archives in Canada: Traditional and Non-Traditional Forms,â€ 
+Artist-Run Archives in Canada: Traditional and Non-Traditional Forms,” 
 explores archives, collections and preservation initiatives within Canada’s
 artist-run community.
 
@@ -1462,7 +1462,7 @@ Availability: Part-time, 15-20 h/week
 Salary: 12/h
 
 To apply please send an email with your Resume and Cover Letter to Paul
-Kyle at info@elanfineart.ca with the subject line â€œGallery Assistantâ€ . We
+Kyle at info@elanfineart.ca with the subject line “Gallery Assistant” . We
 will begin interviews as soon as possible, and the start date is Tuesday
 June 25th or another mutually agreeable date. Visit our website:
 www.elanfineart.ca

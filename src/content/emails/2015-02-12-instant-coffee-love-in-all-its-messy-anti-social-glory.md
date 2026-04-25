@@ -67,7 +67,7 @@ February 12th — March 14th, 2015
 Opening February 12th, 6:00 — 10:00 PM
 
 We are pleased to announce Stephanie Aitken as our first exhibiting artist
-of 2015. Her exhibition titled â€œBreathing Machinesâ€  opens on Thursday,
+of 2015. Her exhibition titled “Breathing Machines”  opens on Thursday,
 February 12th from 6:00 — 10:00 PM.
 
 These paintings are about trees, tree parts, dead trees, stumps, burn
@@ -198,7 +198,7 @@ surface through the application of a painted mask. In the first, small
 pinhole images are reduced to little more than gestures hidden beneath
 thick daubs of paint. The wide angle distortion of the lens used transforms
 the photographic index into a semi-abstracted island on the photo paper.
-Pinheiroâ€™s Paper series shifts the responsibility of the camera as
+Pinheiro’s Paper series shifts the responsibility of the camera as
 documentarian to the scanner, where sheets of blank photographic paper are
 applied with paint and allowed to transform within the bed of the scanner,
 as the colour shifts through its exposure to light.
@@ -360,10 +360,10 @@ Free admission.
 Info 604.606.6400 www.thedancecentre.ca
 
 Migrant Bodies is a two-year research project created through a partnership
-between The Dance Centre (Vancouver), Circuit-Est centre chorÃ©graphique
+between The Dance Centre (Vancouver), Circuit-Est centre chorégraphique
 (Montreal), Comune di Bassano del Grappa (Italy), The Croatian Institute
 for Movement and Dance (Croatia), and La Briqueterie - Centre de
-dÃ©veloppement chorÃ©graphique du Val-de-Marne (France). Migrant Bodies aims
+développement chorégraphique du Val-de-Marne (France). Migrant Bodies aims
 to use artistic and cultural tools to open up a civil reflection on
 migration in European and Canadian societies.
 
@@ -377,8 +377,8 @@ Opera Estate Festival Veneto.
 
 The Vancouver creative team includes Su-Feh Lee, Co-Artistic Director of
 battery opera performance; interdisciplinary artist Sammy Chien; and
-writers Alexa Mardon and Andreas Kahre. The other choreographers are CÃ©cile
-Proust (France), Manuel Roque (QuÃ©bec), Alessandro Sciarroni (Italy) and
+writers Alexa Mardon and Andreas Kahre. The other choreographers are Cécile
+Proust (France), Manuel Roque (Québec), Alessandro Sciarroni (Italy) and
 Jasna VinovrÅ¡ki (Croatia).
 
 ------------------------------------------------------------------------
@@ -390,7 +390,7 @@ Feb, 19, 2015 | 7pm – 9:30pm
 Tickets: $55/individual; $100/couple
 
 Limited to ONE EVENING ONLY and 48 seats, “Light and Shadows: an evening
-with Beijingâ€™s Shadow Puppeteersâ€  is a rare opportunity to touch the magic,
+with Beijing’s Shadow Puppeteers”  is a rare opportunity to touch the magic,
 literally. A 40-minute performance by the world-renowned Beijing Shadow
 Play Art Troupe is followed by a hands-on workshop teaching the guests how
 to build and operate their own shadow puppet. All guests receive 1
@@ -634,7 +634,7 @@ the road crew moves from west to east, bottom to top, patching and
 re-patching. As Miguel López writes, “The markings not only function as
 odd, abstract images, but also as traces of one of the most active routes
 of the mining trade, whose repairs allegorize the fragility of an economy
-burdened by social conflicts only partially and superficially solvedâ€ .
+burdened by social conflicts only partially and superficially solved” .
 
 David Zink Yi’s multi-faceted art practice comprises sculpture, film and
 photography. His investigations, often centred on the body, explore
@@ -679,11 +679,11 @@ James Lee Byars: The World Question Center
 Programmed by Michèle Smith
 
 "Could you offer us a question that you feel is pertinent in regards to
-your own evolution of knowledge?â€  asks the voice at the end of the line.
+your own evolution of knowledge?”  asks the voice at the end of the line.
 It’s James Lee Byars calling, the American performance and installation
 artist “whose idiosyncratic, Zen-influenced blendings of Minimal and
 Conceptual art stressed questions over answers, absence over presence, and
-a lush momentary experience of beauty over permanenceâ€  (Roberta Smith, New
+a lush momentary experience of beauty over permanence”  (Roberta Smith, New
 York Times). Byars's initial idea for this project was to lock 100
 brilliant minds together behind closed doors and invite them to ask each
 other the questions they had been asking themselves. It evolved into The
@@ -693,7 +693,7 @@ a ring of university students (the entire cast dressed in pink robes, but,
 alas, filmed in B&W) telephoned thinkers, scientists, and artists with his
 question. Filmmaker Jef Cornelis documented the proceedings: “That the
 network even broadcast this adventure, let alone at 10 o’clock on a Friday
-evening, is still a puzzle to me.â€ 
+evening, is still a puzzle to me.” 
 
 PROGRAM
 
@@ -705,7 +705,7 @@ The World Question Center | Jef Cornelis/Belgium 1969. 63 min. DCP
 <a href="/instant-coffee/listings/2015-02-12-20-dpt-art-history-visual-art-theory-ubc-artists-talk-emily-war">20. TALK | Dpt. Art History Visual Art & Theory, UBC | Artist’s talk Emily Wardill | FEB 25</a>
 ------------------------------------------------------------------------
 An Artist’s talk by Emily Wardill
-â€œand they lay them before you like reasonsâ€ 
+“and they lay them before you like reasons” 
 Distinguished Visiting Artist Program
 Department of Art History, Visual Art & Theory, University of British Columbia
 

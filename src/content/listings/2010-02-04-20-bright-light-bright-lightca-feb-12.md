@@ -32,7 +32,7 @@ March 21, 2010
 Most installations are free and open to the public
 
 Bright Light brings together the creative energy of fourteen arts
-organizations active in Vancouverâ��s Downtown Eastside. Outdoor
+organizations active in Vancouver’s Downtown Eastside. Outdoor
 performances, video projections, urban planning demonstrations, social
 events and a parade are just some of the manifestations that animate the
 historical heart of the city. The group includes artist-run centres, a
@@ -43,7 +43,7 @@ Bright Light is one of a wide variety of public art projects that have been
 commissioned to mark the occasion of the Vancouver 2010 Olympics and
 Paralympic Games. In the case of Bright Light, the intention is to animate
 the newly completed Carrall Street Greenway with projects that explore new
-understandings of public art. In todayâ��s mobile, digital era, public art
+understandings of public art. In today’s mobile, digital era, public art
 has moved beyond sculpture. Time-based multi-media, internet social spaces
 and even books can be understood as situations for public art.
 

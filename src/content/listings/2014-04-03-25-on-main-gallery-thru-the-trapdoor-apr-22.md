@@ -27,7 +27,7 @@ the home-base for VIVO Media Arts, Alderbridge Mini-Storage, Gallery 1965,
 and many other organizations and artists.
 On Main Gallery has occupied one of the storefronts since 2007. In 2011, it 
 was completely renovated and expanded by Rick Erickson who put in a 
-â€œsecret trap doorâ€  in the gallery that leads down to the 6500 sq. ft. of mini-
+“secret trap door”  in the gallery that leads down to the 6500 sq. ft. of mini-
 storage lockers. It is a labyrinth of hallways with 70 spaces in all sizes and 
 shapes.
 We have invited several dozen artists who will transform this unique 

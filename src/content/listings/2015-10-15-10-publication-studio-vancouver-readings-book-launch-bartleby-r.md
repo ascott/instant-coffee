@@ -22,7 +22,7 @@ Gazendam and a new design by Jaz Halloran. Please join us at the launch for
 readings by past contributors, Kara Hansen and Ingrid Olauson.
 
 In Vancouver, we have many of what art historian William Wood described as
-â€œoccasional criticsâ€ â€”the off-duty journalist or curator, the intrigued
+“occasional critics” —the off-duty journalist or curator, the intrigued
 artist, writers and poets. He wrote this about Vancouver in 1990, and for
 the most part, it’s still the case. BARTLEBY publishes writing that might
 otherwise be lost to the pruned paradigm. Melville's scrivener usually

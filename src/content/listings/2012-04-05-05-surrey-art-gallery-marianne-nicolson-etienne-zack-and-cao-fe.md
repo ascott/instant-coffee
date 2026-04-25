@@ -39,10 +39,10 @@ by combining optical effects from the past and future. Nicolson
 describes her latest work as addressing “vision and perception, in 
 particular, the differences in cultural perception regarding resource 
 management, economy, and the massive resource extraction of oil 
-from Canada's tar-sands.â€  Zack explains that his new paintings are 
+from Canada's tar-sands.”  Zack explains that his new paintings are 
 “a way to explore picture making to activate and pry open different 
 pictorial, cultural, and historical forces in order to experience them 
-yet again in idiosyncratic ways.â€  Both artists take the optical 
+yet again in idiosyncratic ways.”  Both artists take the optical 
 machinery of an earlier time (such as prisms and magic lanterns) 
 and the outmoded electronic technologies of the recent past (like 
 overhead projectors and videotape cassettes) back into the sensual 

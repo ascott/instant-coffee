@@ -242,13 +242,13 @@ history in four parts", documenting a five year process of site-specific
 installation on the land and water across Canada and in Japan, was
 purchased by the National Gallery of Canada for its Permanent Collection.
 Her most recent interdisciplinary installation "New Readings In Female
-Anatomy", opened at the AGNL in St. Johnâ��s in 2001, and traveled to
+Anatomy", opened at the AGNL in St. John’s in 2001, and traveled to
 Carleton University Art Gallery 2002. In addition to her visual arts
-practice, Hall has written and illustrated childrenâ��s books, teaches
+practice, Hall has written and illustrated children’s books, teaches
 graduate students in the United States, and works as a production designer
 in the film industry. Her work on "Rare Birds" was recognized for
-Outstanding Achievement in Production Design by the Directorâ��s Guild of
-Canada. She lives and works in St. Johnâ��s.
+Outstanding Achievement in Production Design by the Director’s Guild of
+Canada. She lives and works in St. John’s.
 
 Margaret Dragu is a warm-hearted, fearless and indomitable spirit who has
 left her mark across disciplines and across the country. Dragu's
@@ -265,7 +265,7 @@ activating public projects including the multi-faceted Walking Woman in
 association with the RAG.
 
 Participating artists will be in attendance. An Artist Talk with Margaret
-Dragu will be held on Nov 14, Friday from 5 â�� 6pm. Opening Reception is
+Dragu will be held on Nov 14, Friday from 5 ’ 6pm. Opening Reception is
 September 11 from 7 - 9pm.
 
 Emily Rosamond
@@ -406,10 +406,10 @@ Germany; The Seattle Art Museum, and The Henry Art Gallery, Seattle.
 
 Using techniques/tropes of conceptual and psychedelic art, rock video,
 experimental and documentary film to rework primary and produce secondary
-source materials, Jeremy ShawÃ&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½s practice is immersed in discussing the
+source materials, Jeremy ShawÃ&#65533;Â¢ïÂ¿Â½ïÂ¿Â½s practice is immersed in discussing the
 transcendence-seeking activities of both mainstream and subculture, with a
 particular interest in the moment when the two collide. In keeping with
-this body, ShawÃ&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½s current exhibition posits scientific
+this body, ShawÃ&#65533;Â¢ïÂ¿Â½ïÂ¿Â½s current exhibition posits scientific
 representations of
 altered states with populist notions and the subsequent commercial goods
 they adorn.
@@ -954,8 +954,8 @@ subjects. The process of getting sitters to relax is much less extreme now,
 but it can still be difficult. For commercial photographers, the skill of
 putting strangers at ease is crucial but not always successful.
 
-In his current work, photographic portraits mediate Ron Tranâ��s interactions
-with unfamiliar people â�� in some cases the strangers are nameless people
+In his current work, photographic portraits mediate Ron Tran’s interactions
+with unfamiliar people ’ in some cases the strangers are nameless people
 found in lost snapshots, and sometimes they are the portrait photographers
 themselves.
 
@@ -963,15 +963,15 @@ Over a number of months Ron Tran visited Photonation, Photo Express, and
 the Sears Portrait Studio, not to photograph people, but to work with the
 photographers there, to foreground their backgrounds, taking pictures of
 props. He would bring out toppled columns, guitars and flowers, tires and
-bats â�� imbricating inanimate subjects that signify gender, culture, or
+bats ’ imbricating inanimate subjects that signify gender, culture, or
 class. Photographed together, their relationships become complicated, as
 they should be.
 
-But photographs by themselves donâ��t tell our stories, at least not the way
+But photographs by themselves don’t tell our stories, at least not the way
 we would tell them. We collaborate with our pictures and build stories
 around them, stories that we tell others, stories that we tell ourselves.
 Occasionally, however, photographs remind us of stories that we once told,
-but donâ��t want to tell anymore. Sometimes we lose our photos, and sometimes
+but don’t want to tell anymore. Sometimes we lose our photos, and sometimes
 we never wanted them in the first place. Sometimes they end up in places we
 never intended them to be.
 
@@ -981,8 +981,8 @@ during his wanderings in Vancouver and abroad, or donated to his collection
 by family and friends. By cutting and sandwiching these photos together,
 Ron Tran plays with the contingent nature of the photographs, creating new
 possibilities for narratives from the vestiges of lost ones. With their
-bent corners and unknown faces, these photographs are props â��objects as
-much as imagesâ�� and you can do anything with them under such circumstances.
+bent corners and unknown faces, these photographs are props ’objects as
+much as images’ and you can do anything with them under such circumstances.
 
 -Jesse Birch-
 
@@ -1024,15 +1024,15 @@ Gallery at San Diego, Brauer Museum of Art in Valparaiso Indiana,
 Georgetown University Gallery in Washington D.C. and the University of
 Maine Museum of Art in Orono, Maine.
 
-â��An interest in the use of symbolic personal objects to create visual
+’An interest in the use of symbolic personal objects to create visual
 narratives has been a constant thread throughout the work by Torrie
 Groening. The new digitally collaged works presented in A Maximalist for
 Dinner represent a new focus for the artist that incorporates traditional
 and non-traditional approaches to creating prints. The concepts of identity
-and representation are present in each work signifying Groeningâ��s interest
+and representation are present in each work signifying Groening’s interest
 in exploring her own identity and the multiplicity of meaning that objects
 may symbolize in relation to one another and within the context of each
-digital collage.â�� says the exhibitionâ��s curator Darrin Martens.
+digital collage.’ says the exhibition’s curator Darrin Martens.
 
 An opening reception will be held Saturday, September 13, from 1-3 p.m.
 The artist will be in attendance.
@@ -1045,7 +1045,7 @@ hour from 1-4 p.m. No pre-registration is required.
 September 19, 12:10-12:50 p.m., $8.50 (advanced registration required).
 * Artist Talk on Sunday, September 21, 5-6:30 p.m. free of charge.
 
-For more information about the Galleryâ��s exhibits, programs, tours or
+For more information about the Gallery’s exhibits, programs, tours or
 registration call 604.297.4422 or visit burnabyartgallery.ca.
 
 The Burnaby Art Gallery located at 6344 Deer Lake Avenue. The galleries are
@@ -1204,7 +1204,7 @@ Kirkenes has become a real bordertown, with trade and movement across the
 borders. Kirkenes has become a laboratory for a new time. It used to be a
 physical and psychological disadvantage. But not any more. Now it´s an
 interesting place at the forefront of exploding the closed and controlled
-national borders.â&#65533;&#65533; (Morten StrÃ¸ksnes, writer and historian, 2003)
+national borders.â&#65533;&#65533; (Morten Strøksnes, writer and historian, 2003)
 
 
 ------------------------------------------------------------------------
@@ -1354,13 +1354,13 @@ YOUR PROPOSAL MUST INCLUDEÃ&#65533;Â
 Ã&#65533;Â a precise description of your project proposal, the technical equipment
 and facilities required to produce the work and the technical equipment and
 assistance necessary to disseminate the work
-a budget of the projectâ��s technical production
+a budget of the project’s technical production
 a self-addressed stamped envelopeÃ&#65533;Â 
 
 SELECTION CRITERIAÃ&#65533;Â 
 
 The overall innovation of the project
-The projectâ��s pertinence to contemporary art practices
+The project’s pertinence to contemporary art practices
 The synthesis between the proposed content and the technology usedÃ&#65533;Â 
 
 We do not accept proposals via e-mail. Incomplete submissions or
@@ -1389,7 +1389,7 @@ DEADLINE > OCTOBER 31ST 2008
 In January 2009 Dazibao will present an exhibition by Dutch conceptual
 artist, performer, filmmaker and photographer Bas Jan Ader. On the occasion
 of this event, entitled Gravita, Dazibao will organize an evening of
-performances inspired by AderÃ¢ï¿½ï¿½s work.Ã&#65533;Â 
+performances inspired by Aderâï¿½ï¿½s work.Ã&#65533;Â 
 
 Bas Jan Ader - GravitÃ&#65533;Â©
 
@@ -1399,11 +1399,11 @@ Opening: Thursday, January 8 at 5 p.m. Ã&#65533;Â
 
 The exhibition includes three videos projected on a loop that show Bas Jan
 Ader falling, trying to defy gravity. Not without a quiet humour as well as
-a certain romanticism, Jan Aderâ��s conceptual performances, created for the
+a certain romanticism, Jan Ader’s conceptual performances, created for the
 camera, provoke a state of expectation and contemplation, leaving the
 viewer on the lookout for the moment when the artist relinquishes his hold
 on gravity. The exhibition is completed by two additional works playing on
-gravity in a completely different register: the famous Iâ��m Too Sad To Tell
+gravity in a completely different register: the famous I’m Too Sad To Tell
 You, showing a close-up of the artist in tears, and Night Fall. Ã&#65533;Â 
 
 Bas Jan Ader was born in The Netherlands but lived and worked for many
@@ -1433,7 +1433,7 @@ YOUR PROPOSAL MUST INCLUDE Ã&#65533;Â
 
 2. a 500 word description of the intended performance project, including a
 clear mention on how it enters into dialogue with the thematic of the
-exhibition and Aderâ��s work.
+exhibition and Ader’s work.
 
 3. a visual dossier (formatted in PowerPoint, MAC compatible) - 10 images
 maximum
@@ -1471,7 +1471,7 @@ stf@dazibao-photo.org
 514 845 0063
 
 
-instant perplexity coffee: Ã&#65533;ÂÃ&#65533;Â sorry for the garbled formatting. We're looking into Ã&#65533;Â Ã&#65533;Â Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½s
+instant perplexity coffee: Ã&#65533;ÂÃ&#65533;Â sorry for the garbled formatting. We're looking into Ã&#65533;Â Ã&#65533;Â Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½s
 
 
 ................................................................

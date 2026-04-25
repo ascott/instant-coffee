@@ -334,14 +334,14 @@ sign has generated great debate, and in 2001 the newly appointed provincial
 Liberals had it quietly removed.
 
 At the time of the removal, B.C. Federation of Labour President Jim
-Sinclair wrote â��Ginger Goodwin was not only an Officer of the Federation,
+Sinclair wrote ’Ginger Goodwin was not only an Officer of the Federation,
 he was a miner, an organizer, a community leader and a tireless advocate
-for the rights of working peopleâ�¦ At least five BC communities have streets
+for the rights of working people’¦ At least five BC communities have streets
 commemorating coal baron Robert Dunsmuir. Ginger Goodwin Way provides a
-very modest balance.â��
+very modest balance.’
 
 The story of Ginger Goodwin has always been plural and ambiguous: one
-figureâ��s story with many variants. In many ways his story could be seen as
+figure’s story with many variants. In many ways his story could be seen as
 a point of contestation between official narratives and those that
 circulate by other means.
 
@@ -354,7 +354,7 @@ re- interpreting and taking ownership of narratives that are either in
 danger of being lost, or are only told from one dominant position. The
 exhibition itself derives from the idea that a story can be told within a
 story or beside a story without being the only anchor of the particular
-narrative. Goodwinâ��s story then, becomes an entry point to approach the
+narrative. Goodwin’s story then, becomes an entry point to approach the
 diverging stories present in the exhibition itself.
 
 Or Gallery
@@ -618,7 +618,7 @@ Seed: Napoleon Brosseau and Gabe Sahwney
 Mondo Spider: Zero Emissions: eatART (Canada)
 mo_ving: Raquel Kogan, curated by Claudio Rivera-Seguel (Brazil/Chile)
 Breaking the Ice: Societé des arts technologiques (Canada)
-Reactable: Sergi JordÃ , Martin Kaltenbrunner, GÃ¼nter Geiger and Marcos
+Reactable: Sergi JordÃ , Martin Kaltenbrunner, Günter Geiger and Marcos
 Alonso (Austria/Spain)
 Instant Places: Canada CODE: Ian Birse, Laura Kavanaugh (Canada)
 PLAY: The Hertzian Collective: Geoffrey Shea (Canada)
@@ -1191,7 +1191,7 @@ such as administration, ambient music, detours, neologisms, loitering, and
 secretive acts. Artworks were often performed furtively and were not
 necessarily visible. Evidence of such gestures may remain as documentary
 images, video footage, anecdotes, research, maps, scripts, detonated low
-munitions, accessories, fraudulent products, a sense of dÃ©jÃ -vu, an awkward
+munitions, accessories, fraudulent products, a sense of déjÃ -vu, an awkward
 encounter, or distant memory. Works may have been disseminated by
 exhibition, print, mail, lecture, free gifts, invitation, word of mouth, or
 reenactment. Ritter has worked under different aliases including, but not

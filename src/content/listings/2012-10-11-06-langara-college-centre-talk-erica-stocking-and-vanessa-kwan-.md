@@ -26,7 +26,7 @@ community and civic history, the Geyser was commissioned by
 the City of Vancouver. The water feature is a reference to both the
 natural and man-made elements of the centre: it is thematically
 tied to the history of underground streams in the area, and is also
-mechanically tied to the LEED-certified buildingâ€™s grey water
+mechanically tied to the LEED-certified building’s grey water
 collection cistern.
 speaker bios
 Vanessa Kwan and Erica Stocking are Vancouver-based artists
@@ -36,7 +36,7 @@ to produce work that is materially diverse, conceptually oriented,
 and concerned with the communities and histories that inform a
 site or situation. They both graduated from Emily Carr University
 of Art and Design in 2004 and they have collaborated on the
-performance art collective â€œNormaâ€ , which received a Mayorâ
+performance art collective “Norma” , which received a Mayorâ
 €™s Art
 Award for Public Art in 2011.
 about the Centre

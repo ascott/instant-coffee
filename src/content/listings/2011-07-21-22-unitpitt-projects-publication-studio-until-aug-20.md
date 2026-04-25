@@ -25,7 +25,7 @@ spine, and Publication Studio will re-bind your book in your own homemade
 cover. Materials for a new cover will be provided, or you are welcome to bring 
 your own. A small service fee will apply.
 
-July 30 â€“ book launch: â€œNatural Progressâ€  by Kate Noble, a new edition of "A 
+July 30 – book launch: “Natural Progress”  by Kate Noble, a new edition of "A 
 User's Guide to Demanding the Impossible" by the Laboratory of Insurrectionary 
 Imagination and a new book by leannej (the first in a series of Rereading The 
 Riot Act books, co-published by Publication Studio and UNIT/PITT) from 2 to 4 
@@ -33,7 +33,7 @@ pm
 
 August 6 – Rebound Party from 12 to 5pm
 
-August 13 â€“ book launch: â€œI Look Up, Volume 2â€  by Mina Totino from 2 to 4 pm
+August 13 – book launch: “I Look Up, Volume 2”  by Mina Totino from 2 to 4 pm
 
 Please consult www.unitpitt.ca for complete details, and announcements of 
 additional events during the residency.
@@ -52,10 +52,10 @@ visit www.publicationstudio.biz for more detailed information.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 +++++
 
-â€œI Look Up, Volume 2â€  by Mina Totino
+“I Look Up, Volume 2”  by Mina Totino
 
 This book is the second in a series of three volumes that comprise Mina 
-Totinoâ€™s â€œI Look Upâ€ . Here Totinoâ€™s ongoing project of Polaroid cloud photographs 
+Totino’s “I Look Up” . Here Totino’s ongoing project of Polaroid cloud photographs 
 is presented as a conceptual artist book. Totino has long been drawn to clouds 
 as subject matter for their whimsical, sublime, and mundane character and for 
 their rich associations from cloud watching as an idle pursuit to transcendent 

@@ -22,8 +22,8 @@ solo exhibition Walking, Square, Cylinder, Plane on November 25 at 6pm.
 
 The exhibition will feature a new body of paintings that have come out of
 Eli Bornowsky's dedicated studio practice in the past six months. Compared
-to his previous works, a turn can be seen in the artistâ��s output. The newer
-works have expanded in size and visual vocabulary. Previously, Bornowskyâ��s
+to his previous works, a turn can be seen in the artist’s output. The newer
+works have expanded in size and visual vocabulary. Previously, Bornowsky’s
 canvases assumed a relatively polite size and played on the repetition of
 similar geometric motifs, most notably the circle, with slight and
 energetic variations in size, texture and colouring. What connects his
@@ -45,7 +45,7 @@ or a small box containing its own miniature landscape, are just some of the
 figures that seem to offer concrete positioning for the eye. Each large
 canvas is crowned with an accompanying smaller canvas, which is positioned
 in no repeatable method, except to say that they rest above. These smaller
-canvases recall Bornowskyâ��s older works, both in size and content, but they
+canvases recall Bornowsky’s older works, both in size and content, but they
 further obfuscate the visual conversation that happens throughout each
 painting. The companion canvases introduce a sensation of both belonging
 and foreignness. They are a curious and constant reminder for you to go

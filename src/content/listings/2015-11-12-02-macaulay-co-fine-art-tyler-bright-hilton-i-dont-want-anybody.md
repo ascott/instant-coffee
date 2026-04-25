@@ -9,7 +9,7 @@ summary: "Macaulay & Co. Fine Art | Tyler Bright Hilton: I Don't Want Anybody El
 ---
 
 Macaulay & Co Fine Art is thrilled to present a solo show by Tyler
-Bright Hilton "I Don't Want Anybody Elseâ€ , curated by W. Bruce C.
+Bright Hilton "I Don't Want Anybody Else” , curated by W. Bruce C.
 Bailey. Please join us on Thursday, November 12th for the opening
 reception.
 

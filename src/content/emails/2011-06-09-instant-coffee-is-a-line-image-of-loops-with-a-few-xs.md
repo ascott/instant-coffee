@@ -195,7 +195,7 @@ social progress and political power, and serves to examine the role of art
 within this. In Persistence of Vision, Ward investigates symbolic
 strategies of resistance and the use of utopian discourse as a starting
 point for revolution. The exhibition creates a linkage between contemporary
-spaces of protest and historical representations of the â€œutopianâ€  city
+spaces of protest and historical representations of the “utopian”  city
 square. Featuring new sculptural and print work, the exhibition is an
 extension of Ward′s ongoing interest in social engagement and the utopian
 imaginary.
@@ -420,9 +420,9 @@ As an immigrant, James had observed that Canada is technically behind in
 comparison to China. One Percent acknowledges this perspective by
 referencing the look and feel of Windows 95, the pervasive Microsoft
 operating system in use at the end of the 20th century. One Percent’s
-â€œLoading Vancouverâ€  graphic parodies the font used in Windows 95. Its
+“Loading Vancouver”  graphic parodies the font used in Windows 95. Its
 background blue field mimics the official blue used in the City of
-Vancouver emblem: â€œfor the sea and sky that surround our city.â€  Viewers
+Vancouver emblem: “for the sea and sky that surround our city.”  Viewers
 will see One Percent buffer from 0 to 86% waiting to see what is never
 revealed; lost histories, unrecorded moments, or things yet to come. This
 is a media artwork that toys with viewer anticipation and expectation. Yan
@@ -932,7 +932,7 @@ for the exhibition by Asian Art curator Barry Till.
 significant wars were fought and won, against China in 1894-1895 and
 against Russia in 1904-1905. Commissioned by the Japanese propaganda office
 in Tokyo, these patriotic images helped to create a sense of national
-unity,â€  explains Till.
+unity,”  explains Till.
 Prints depicting three major Japanese earthquakes in 1855, 1896 and 1923
 are also featured in War and Disaster. Prints were made in lieu of
 photographs and were used to commemorate and inform people of the
@@ -941,7 +941,7 @@ spectacular Tsunami Disaster in Meiji Era woodblock print of the June 1896
 tsunami in northeastern Japan.
 “The print tells the miraculous story of a woman who was taking a bath in a
 wooden tub when the tsunami hit and was swept along and deposited unharmed,
-still in the tub, on the top of a hill,â€  said Till.
+still in the tub, on the top of a hill,”  said Till.
 For more information, visit www.aggv.ca or call 250-384-4171.
 
 -30-
@@ -989,7 +989,7 @@ collide in performances by Vancouver’s fiercest dance troupe.
 * MOVE the company: Acclaimed dancer/choreographer Josh Beamish creates
 surreal spectacle and movement in the gallery.
 * The Dusty Flowerpot Cabaret: Imagination rules in an immersive
-installation by the creators of â€œHard Times Hit Parade.â€ 
+installation by the creators of “Hard Times Hit Parade.” 
 * Neworld Theatre goes Surreal with a mash-up of surrealist
 manifestoes, poetry, drama and contemporary "found text". Elements include:
 Ubu Roi, by Alfred Jarry; Surrealist manifestos and writing; and
@@ -1075,12 +1075,12 @@ Community Arts Council of Vancouver creates community through the arts.
 ------------------------------------------------------------------------
 Progressive Filipino Canadians in Vancouver to host national conference
 “Counterspin: Taking root and building a home: Deepening our understanding
-of genuine settlement and integrationâ€ 
+of genuine settlement and integration” 
 
 Vancouver, B.C. – June 18th and 19th will mark a momentous occasion for the
 Filipino Canadian community in Vancouver as it hosts “Counterspin: Taking
 root and building a home. Deepening our understanding of genuine settlement
-and integration.â€  This two-day national conference will, once again,
+and integration.”  This two-day national conference will, once again,
 heighten the unity of progressive Filipino Canadians to advance the
 struggle towards the community’s full participation and entitlement in Canada.
 
@@ -1103,10 +1103,10 @@ exploitative policies. The Kalayaan Centre, Kapit Bisig Centre, and
 Magkaisa Centre have been at the forefront of these struggles. “The
 Filipino Canadian community, especially the youth, looks forward to a
 future where they can fully participate, engage and exercise their full
-entitlement in all aspects of Canadian society,â€  states Krystle Alarcon,
+entitlement in all aspects of Canadian society,”  states Krystle Alarcon,
 conference organizer and member of the Philippine Women Centre of B.C.
 
-â€œCounterspinâ€  will focus on some key issues, including: the Filipino
+“Counterspin”  will focus on some key issues, including: the Filipino
 Canadian community as a transnational community; history of migration in
 Canada; community organizing and building a progressive movement; making
 the youth count; youth and alienation; and arts and culture as a form of
@@ -1117,7 +1117,7 @@ novelist, writer and feminist revolutionary Ninothcka Rosca will be a
 conference guest speaker.
 
 As we forge unity towards the community’s advancement and development,
-â€œCounterspinâ€  national conference will be another milestone in reclaiming
+“Counterspin”  national conference will be another milestone in reclaiming
 their rightful place in a multicultural and multi-ethnic Canada. All
 participation and involvement in this conference will be a testament of the
 community’s commitment in overcoming economic marginalization, combating
@@ -1234,7 +1234,7 @@ This exhibition features exquisite and extraordinarily rare prints from
 Japan and Cape Dorset, Nunavut, from the late 1950s and early 1960s. It
 also tells the little-known
 
-story of how, fifty years ago, the Canadian artist and â€œdiscovererâ€  of
+story of how, fifty years ago, the Canadian artist and “discoverer”  of
 Inuit art, James Houston, travelled to Japan to study printmaking with
 Un’ichi Hiratsuka.
 
@@ -1368,7 +1368,7 @@ accompaniment to a collection of Bull’s unedited 8mm and 16mm reels.
 
 As an homage to analogue television broadcasting, Signal & Noise presents
 two archives that reflect the social impact of regional production. Serbian
-born Artist Aleksandra Domanovićâ€™s anthology of television news-music from
+born Artist Aleksandra Domanović’s anthology of television news-music from
 the geographic region of ex-Yugoslavia will echo Anu Sahota’s installation
 of CBC program titles and station IDs from the 1950’s-1980’s. Station ID
 music from both archives will be remixed and performed by Basketball, Brady
@@ -1378,7 +1378,7 @@ The poetic aura of archives are central to Armenian Filmmaker Atavazd
 Pelechian’s oeuvre, which addresses violence of the twentieth century: its
 mass migrations, wars and dictatorships, through a lens on the Armenian
 people. Signal & Noise presents a retrospective of this little-known master
-of â€œdistance montageâ€ .
+of “distance montage” .
 
 Ellie Ga’s five-month residency aboard a research sailboat frozen in the
 ice near the North Pole informs her autobiographical performance featuring
@@ -1417,7 +1417,7 @@ FIT - freie internationale tankstelle
 Waldorf Hotel
 June 2 – September 15, 2011
 
-FIT is a â€œfueling station for the creative spiritâ€  by Berlin artist Dida
+FIT is a “fueling station for the creative spirit”  by Berlin artist Dida
 Zende, the first project presented in connection with the Goethe Satellite
 Vancouver, a two-year initiative of the Goethe-Institut with partner
 Revised Projects <http://www.revisedprojects.com/> .

@@ -214,10 +214,10 @@ Dylan Mira
 Adam Putnam
 
 Rachelle Sawatsky is a Los Angeles based artist who works with painting, 
-drawing, ceramics and writing. Recent exhibitions include â€œOver Mindâ€  at 
-the Finley Gallery in Los Angeles, â€œAugustâ€  as part of â€œCurated Byâ€  at 
-Galerie Mezzanin in Vienna, â€œCherubâ€  at 2nd Cannons in Los Angeles, and 
-â€œPersian Rose Chartreuse Muse Vancouver Greyâ€  at Equinox Gallery in 
+drawing, ceramics and writing. Recent exhibitions include “Over Mind”  at 
+the Finley Gallery in Los Angeles, “August”  as part of “Curated By”  at 
+Galerie Mezzanin in Vienna, “Cherub”  at 2nd Cannons in Los Angeles, and 
+“Persian Rose Chartreuse Muse Vancouver Grey”  at Equinox Gallery in 
 Vancouver. Sawatsky has an MFA from University of Southern California in 
 Los Angeles (2013) and a BFA from Emily Carr Institute of Art and Design 
 in Vancouver (2005).
@@ -261,7 +261,7 @@ speaks less about homage, and more to the notion of a constant return to
 repeated subject matter – a gaze that never leaves, that stares un-
 blinkingly – mechanically – at the same subject. This was my Empire, 
 comprised of whatever was on hand in my studio, sculptural fragments, 
-broken mirrors, architectural models and other detritus.â€ 
+broken mirrors, architectural models and other detritus.” 
 
 His work has been exhibited at PS1 Contemporary Art Center New York, 
 The Whitney Museum, Artists Space in New York and Galerie Mezzanin in 
@@ -473,7 +473,7 @@ somebody. Taking my headphones off was like realizing one had left the
 oven on. A sensation I feel some duty to report as I am referring to the fact 
 that Avenue was once a pizza parlour. I rushed into the larger room to find 
 a studio mate sitting beneath his light, listening in full blast to an album 
-called New History Warfare by Colin Stetson. â€œThis, is mixing with that?â€  
+called New History Warfare by Colin Stetson. “This, is mixing with that?”  
 Against the sound coming from the boom box my friend could’ve only seen 
 a mouthed statement along with a few giggly arm gestures directed at the 
 Balmoral, it probably looked as though I was dancing, raving towards the 
@@ -499,7 +499,7 @@ Dynamo Arts Association
 Reception: Saturday October 25, 8pm 
 *** with performance at 9pm
 
-The word â€œvesselsâ€ offers an array of different meanings and 
+The word “vessels” offers an array of different meanings and 
 connotations. 
 Some of the most common refer to an object used as a container, a craft 
 designed for water transportation, or the more literary translation which 
@@ -515,14 +515,14 @@ Paul presents a series of carved wooden forms whose surfaces have been
 worked meticulously over time. He then juxtaposes each of his forms with 
 a distinctly foreign matter such as latex, sand, or metallic nails. The 
 infusion of foreign matter acts like a protective membrane for its wooden 
-counterpart. Some of Paulâ€™s sculptures stand upright freely while 
+counterpart. Some of Paul’s sculptures stand upright freely while 
 others 
 succumb to gravity and reach outwardly on the surface of the floor.
 
 Darius offers a multitude of forms and media chronicling the permutations 
 of a hand-tended, manicured grass lawn in the shape of his 11 x 7 ft. fourth 
 floor balcony. He exhibits multiple objects that recount the stages of the 
-lawnâ€™s care, its journey through False Creek and its inevitable decay: a 
+lawn’s care, its journey through False Creek and its inevitable decay: a 
 grass lawn, a raft constructed for the transportation of his lawn (complete 
 with short picket fence), a video performance embedded within the floor of 
 his raft following the safe transport of the lawn from its origin on his 
@@ -862,7 +862,7 @@ Tuesday, October 28
 
 The unusual landscapes painted in Rebecca Chaperon’s Eccentric 
 Gardens are imagined physical spaces brimming with creative energy. 
-They represent the inner â€œplacesâ€  we access for creativity and imagination, 
+They represent the inner “places”  we access for creativity and imagination, 
 places that exist within our larger internal/personal landscape.
 In the Eccentric Gardens exhibition at Initial Gallery we see new sculptures 
 and paintings from Chaperon that reveal the artist’s nostalgia for place 
@@ -997,13 +997,13 @@ To be beside yourself. To think of others, besides yourself. To feel outside
 yourself. We are in interaction with an affective field, the body a surface of 
 intensities, the brain translating these, at times, as emotions or feelings. 
 Artworks have the capacity to move us, and artworks contain much that 
-resists interpretation. The â€˜emotional turnâ€™ in art might stem from the 
+resists interpretation. The ‘emotional turn’ in art might stem from the 
 realization that the experience of the body means something, especially in 
-its connection to the surrounding world â€“ how relations between things, 
+its connection to the surrounding world – how relations between things, 
 object, beings, and events, assemblages of materials and entities external 
 to ourselves, have potential for sparking new affective relations. Feeling 
 the body destabilized and decentered can bring one closer to demystifying 
-the â€™primacy of the subject,â€™ a position upon which oppressive, 
+the ’primacy of the subject,’ a position upon which oppressive, 
 alienating 
 structures continue to capitalize. We have come to realize that to be 
 affected and to have the capacity to affect figures largely around questions 
@@ -1042,7 +1042,7 @@ Pamela Francis
 Reception/Financial Processing Specialist
 Department of Art History, Visual Art & Theory
 University of British Columbia
-400 â€“ 6333 Memorial Road
+400 – 6333 Memorial Road
 Vancouver, BC V6T 1Z2
 Tel: 604 822 2757 Fax: 604 822 9003
 ahva.dept@ubc.ca
@@ -1112,7 +1112,7 @@ sitelines 2 0 14 : Unsettled Landscapes, site Santa Fe and L'avenir
 (looking forward), La Biennale de Montréal. Carleton University Art Gallery 
 will present new and recent
 works in fall 2014 in an exhibition titled Interlocutions. This fall, Boisjoly will 
-serve as Lead Faculty for â€œIn Kindâ€  Negotiations, a thematic residency at 
+serve as Lead Faculty for “In Kind”  Negotiations, a thematic residency at 
 the Banff Centre.
 
 Vanessa Kwan is a Vancouver-based artist and curator. Her work has been 
@@ -1141,7 +1141,7 @@ Thursday, October 30, 7-10pm
 
 Free at the Burnaby Art Gallery
 Get ready for a spooky surrealist evening out! The collaborative, chance-
-based drawing game known as â€œExquisite Corpseâ€  puts your imagination to 
+based drawing game known as “Exquisite Corpse”  puts your imagination to 
 the test as you create non-sensical and often hilarious drawings. 
 Addmission is free, but seating is limited; call 604-297-4422 to reserve 
 your spot. 19 years and up. Event is facilitated by artist, Ben Frey.

@@ -68,7 +68,7 @@ sitelines 2 0 14 : Unsettled Landscapes, site Santa Fe and L'avenir
 (looking forward), La Biennale de Montréal. Carleton University Art Gallery 
 will present new and recent
 works in fall 2014 in an exhibition titled Interlocutions. This fall, Boisjoly will 
-serve as Lead Faculty for â€œIn Kindâ€  Negotiations, a thematic residency at 
+serve as Lead Faculty for “In Kind”  Negotiations, a thematic residency at 
 the Banff Centre.
 
 Vanessa Kwan is a Vancouver-based artist and curator. Her work has been 

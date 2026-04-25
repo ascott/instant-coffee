@@ -26,7 +26,7 @@ for the exhibition by Asian Art curator Barry Till.
 significant wars were fought and won, against China in 1894-1895 and
 against Russia in 1904-1905. Commissioned by the Japanese propaganda office
 in Tokyo, these patriotic images helped to create a sense of national
-unity,â€  explains Till.
+unity,”  explains Till.
 Prints depicting three major Japanese earthquakes in 1855, 1896 and 1923
 are also featured in War and Disaster. Prints were made in lieu of
 photographs and were used to commemorate and inform people of the
@@ -35,7 +35,7 @@ spectacular Tsunami Disaster in Meiji Era woodblock print of the June 1896
 tsunami in northeastern Japan.
 “The print tells the miraculous story of a woman who was taking a bath in a
 wooden tub when the tsunami hit and was swept along and deposited unharmed,
-still in the tub, on the top of a hill,â€  said Till.
+still in the tub, on the top of a hill,”  said Till.
 For more information, visit www.aggv.ca or call 250-384-4171.
 
 -30-

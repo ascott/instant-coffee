@@ -35,7 +35,7 @@ video work from the 2009 Hive Festival. Houle’s contribution includes a
 recent series of pin-hole photographs documenting and questioning
 aboriginal stereotypes within the context of First Nations dioramas at the
 Calgary Stampede alongside a new video projection, which examines the myths
-and proliferations of â€œIndian Sign Languageâ€  and the question of identity
+and proliferations of “Indian Sign Language”  and the question of identity
 within this context.
 
 Friend or Foe boldly questions how the Aboriginal body may be utilized to

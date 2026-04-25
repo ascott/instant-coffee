@@ -35,7 +35,7 @@ sound and movement.
 
 Jeppe Hein is emerging as an influential artist within international art
 circles. In 2007 he exhibited Objects in the Mirror are Closer than They
-Appear, CarrÃ&#65533;Â© dÃ¢ï¿½ï¿½Art, MusÃ&#65533;Â©e dÃ¢ï¿½ï¿½art contemporain, Nimes, France; In-between,
+Appear, CarrÃ&#65533;Â© dâï¿½ï¿½Art, MusÃ&#65533;Â©e dâï¿½ï¿½art contemporain, Nimes, France; In-between,
 SCAI, The Bathhouse, Tokyo and Distance and The Curve, Barbican Art Centre,
 London, UK. He has most recently presented From Seriousness to Silliness a
 collaborative exhibition with Dan Graham at Galerie RÃ&#65533;Â¼diger SchÃ&#65533;Â¶ttle,

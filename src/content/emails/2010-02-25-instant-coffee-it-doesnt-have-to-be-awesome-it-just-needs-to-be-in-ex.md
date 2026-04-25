@@ -128,7 +128,7 @@ in Vancouver, Toronto, Montreal, New York, Philadelphia and Calgary where
 she was Markin Flanagan Writer in Residence. She is the author most
 recently of Unleashed (BookThug), a selection of posts from the first four
 years of her blog. Her previous collection of poetry, Expressway (Coach
-House 2009) was nominated for a Governor Generalâ��s Award and a selection
+House 2009) was nominated for a Governor General’s Award and a selection
 from that book won Gold in the National Magazine Awards. Lemon Hound (Coach
 House 2006) won a Lambda Award and the Pat Lowther Award. In 2005 she
 edited Open Field: 30 Contemporary Canadian Poets, for Persea Books. She is
@@ -200,9 +200,9 @@ the Tate Modern and many other key museums worldwide.
 YouTube video and full transcript of his remarks are here:
 http://stopbcartscuts.wordpress.com/2010/02/18/artist-rafael-lozano-hemmer-creator-of-the-vectorial-elevations-searchlight-piece-criticizes-bcs-arts-cuts/
 
-Explanation of the â��9-11â�³ remark in the video clip: Before Vectorial
-Elevations was launched, its energy use wasnâ��t fully understood and the
-piece was accused of being â��an environmental 9-11.â�� In fact, for its entire
+Explanation of the ’9-11’³ remark in the video clip: Before Vectorial
+Elevations was launched, its energy use wasn’t fully understood and the
+piece was accused of being ’an environmental 9-11.’ In fact, for its entire
 month-long run, the artwork uses the same amount of power as only 10 hockey
 games.
 
@@ -230,7 +230,7 @@ West Hastings, Vancouver | hosts Open Data + Culture Day. A day long series
 on the impact of digital media, citizen engagement, copyright laws and the
 Olympics with guests Mayor Gregor Robertson, Vancouver City Councillor
 Andrea Reimer, Harvard University Professor Lawrence Lessig, Martha Rans of
-Creative Commons Canada and Jean HÃ�Â©bert,a PhD Candidate and Sessional
+Creative Commons Canada and Jean HÂ©bert,a PhD Candidate and Sessional
 Instructor in the School of Communication at Simon Fraser University.
 
 10:00am - W2 welcomes Mayor Gregor Robertson and Vancouver City Councillor
@@ -254,7 +254,7 @@ Martha Rans | Creative Commons Canada | will introduce the lecture and
 share takes on participatory media culture and the changing nature of
 content ownership and usage in the Digital Age.
 
-Jean HÃ�Â©bert | PhD Candidate, School of Communication, Simon Fraser
+Jean HÂ©bert | PhD Candidate, School of Communication, Simon Fraser
 Univerity | will moderate an in-house discussion from 4:30-5pm.
 
 5pm-7pm - Public Cinq a Sept reception courtesy of Bell Canada.
@@ -281,7 +281,7 @@ Center and a former board member of the Electronic Frontier Foundation.
 Wireside Chat w/ Lawrence Lessig:
 http://openvideoalliance.org/event/lessig/?l=en
 
-Jean HÃ�Â©bert (@jeanh)| PhD Candidate and Sessional Instructor in the School
+Jean HÂ©bert (@jeanh)| PhD Candidate and Sessional Instructor in the School
 of Communication at Simon Fraser University. He is also the Program Manager
 of the Mobile Muse Network (mobilemuse.ca). His research interests include
 mass participatory media, mobile culture, popular music, political economy
@@ -333,7 +333,7 @@ the evening. There will be pillow fights, masks for disappearing, gigantic
 smoke rings, and pancakes in the morning made by Heidi Nagtegaal.
 
 Ikbal Singh, will be silk-screening the logo of the collective, Albrecht
-Durerâ��s Sechs Kissen (6 Pillows), made in 1493. Please bring a t-shirt,
+Durer’s Sechs Kissen (6 Pillows), made in 1493. Please bring a t-shirt,
 paper, cloth or surface that you want the design to be silk-screened on.
 
 Covering Up, a project by Lois Klassen and Pierre-André Sonolet will also
@@ -387,7 +387,7 @@ Thoughts on the Relationship between Art and the Real.
 
 About the Artist
 
-Ken Lumâ��s art is concerned with the dialectics of the private and public
+Ken Lum’s art is concerned with the dialectics of the private and public
 construction of identity, space and politics. His public art work titled
 Monument for East Vancouver, installed on the northwest corner of Clark and
 Great Northern Way in Vancouver, is his third public art commission in
@@ -398,10 +398,10 @@ Sydney Biennale (1992), Venice Biennale (1995, 2001), Istanbul Biennale
 (2007), Gwangju Biennale (2008), and Documenta XI in Kassel, Germany (2002).
 
 Lum was Head of the Graduate Program in Studio Art at UBC from 2000 to
-2006, and spent 2 years as a visiting professor at the Ã�cole Nationale
+2006, and spent 2 years as a visiting professor at the cole Nationale
 Supérieure des Beaux-Arts in Paris. He also guest-taught at the Akademie
 der Bildenden Kunst in Munich, Germany, the China Art Academy in Hangzhou,
-China and the lâ��Ecole dâ��Arts Plastique in Fort de France, Martinique. He
+China and the l’Ecole d’Arts Plastique in Fort de France, Martinique. He
 has published widely and is the founding editor of Yishu: The Journal of
 Contemporary Chinese Art. Lum was awarded a Guggenheim Fellowship in 1999,
 a Killam Award for Outstanding Research in 1998, and the Hnatyshyn
@@ -554,7 +554,7 @@ exhibition: a pioneer of experimentation with photography, the artist forms
 a central argument and invites contemporary counterparts to re-interpret and
 further his project, questioning the meaning of making abstract images and
 the possibilities of the medium. Markus Amm, Walead Beshty, Liz Deschenes
-and James Welling present a selection of photograms â�� images that
+and James Welling present a selection of photograms ’ images that
 incorporate the camera-less, negative-less photographic process, while Lorna
 Macintyre and Mark Soo invite us to look at their photographic practice as
 simultaneously abstract and representational constructions that have
@@ -573,7 +573,7 @@ included in the Triumph of Painting 4: Germania opening in 2007 at the
 Saatchi Gallery, London, England. Amm lives and works in London, UK.
 
 Walead Beshty (b. 1976, London, UK) is an Associate Professor
-in the Graduate Art Department of Art Center College of Design. Beshtyâ��s
+in the Graduate Art Department of Art Center College of Design. Beshty’s
 work has exhibited internationally with solo exhibitions at Thomas Dane
 Gallery, London; The Hirshhorn Museum and Sculpture Garden, Washington; The
 University of Michigan Museum of Art, Ann Arbor; LAXART, Los Angeles;
@@ -593,16 +593,16 @@ the Fall of 2010 monographs of his work are due out on JRP/Ringier and
 Damiani. He lives and works in Los Angeles, CA.
 
 Liz Deschenes (born 1966, Boston, MA) has recently had an exhibition at the
-â��Modern Wing Inaugural Installation of Contemporary Photograph,â�� curated by
+’Modern Wing Inaugural Installation of Contemporary Photograph,’ curated by
 Matthew Witkovski, at The Art Institute of Chicago. Deschenes was also
-included in â��Color Chartâ�� at the Museum of Modern Art, New York and was
-featured in the exhibition â��Photography on Photography: Reflections on the
-Medium since 1960â�� at the Metropolitan Museum of Art. She has had solo
+included in ’Color Chart’ at the Museum of Modern Art, New York and was
+featured in the exhibition ’Photography on Photography: Reflections on the
+Medium since 1960’ at the Metropolitan Museum of Art. She has had solo
 exhibitions at Miguel Abreu Gallery, New York, Sutton Lane, London, and
 participated in group shows at Luhring Augustine Gallery, New York and
 Sutton Lane, Paris. Deschenes teaches at Bennington College, and is a
 visiting artist at Columbia University, School of Visual Arts. Her work was
-recently featured in â��Blind Spotâ��#36 and is in the permanent collections of
+recently featured in ’Blind Spot’#36 and is in the permanent collections of
 the Whitney Museum of American Art, The Metropolitan Museum of Art, The Art
 Institute of Chicago, the Hirshhorn Museum and Sculpture Garden, and the CCS
 Bard Hessel Museum in Annandale-on-Hudson, New York. Deschenes lives and
@@ -666,9 +666,9 @@ For more information please contact the gallery: info@blanketgallery.com or
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2010-02-25-11-gallery-atsui-mark-neufeld-and-cedric-bomford-mar-5">11. Gallery Atsui | Mark Neufeld and Cedric Bomford | MAR 5</a>
 ------------------------------------------------------------------------
-TschaikowskistraÃ�e 51
+Tschaikowskistrae 51
 
-Gallery Atsui invites you to come explore TschaikowskistraÃ�e 51, Berlin,
+Gallery Atsui invites you to come explore Tschaikowskistrae 51, Berlin,
 through the perspective of Mark Neufeld and Cedric Bomford. Opening
 reception March 5, 8 pm. This exhibition is on from March 5 to 27.
 info@galleryatsui.com
@@ -680,7 +680,7 @@ info@galleryatsui.com
 ------------------------------------------------------------------------
 W2 Community Media Arts and SFU Visual Art Students Present:
 
-SFUâ��s Visual Art Student Show
+SFU’s Visual Art Student Show
 
 March 6-14, 2010
 Opening - Friday March 5, 7pm
@@ -781,18 +781,18 @@ constantly evolving.This site will bring together light and dark, silence
 and sound, living with the dead, and the 4 virtues: truth, bravery,
 non-violence and generosity, all transforming the modernist Celebration
 Hall into an installation space for encountering video art. $10 at the door
-â�� enter at 39th+Fraser St., Vancouver, BC free parking.
+’ enter at 39th+Fraser St., Vancouver, BC free parking.
 
 Collaborator Joey (Shithead) Keithley will rock the living and the dead in
 a homage to Les Paul (1915-2009), inventor of the Gibson electric guitar.
 Additional works include Spring, Easter Parade, History of VHS: Death of
 Violence, Ross, Elsie and Kay, Burka, Hungry Ghosts, Floral Alphabet,
-Little Big Horn, Luminous Pollution: the Team â��5â�� Collection, Luminous
+Little Big Horn, Luminous Pollution: the Team ’5’ Collection, Luminous
 Pollution: A Happy Planet, in ten sity, Hell Money, Exit Upon Arrival by
 Paul Wong, Vigil 5.4 by Rebecca Belmore and Paul Wong, and 60 Unit; Bruise
 by Paul Wong and Kenneth Fletcher.
 
-â��5â�� is commissioned by The City of Vancouver through its Olympic and
+’5’ is commissioned by The City of Vancouver through its Olympic and
 Paralympic Public Art Program, as part of Mapping and Marking
 Artist-Initiated Projects for Vancouver 2010.
 
@@ -800,22 +800,22 @@ The Reviews Are In For 5.2 Zooooom, Feb.20th WE RULED THE ROAD!
 
 For all of those who missed or want to revisit 5.1 the webcast, or 5.2
 ZOOOOOM, the reviews and documentation are in, Culture Seen was there!
-â��Who knew that riding on a bus could be such a great experience? [Culture
+’Who knew that riding on a bus could be such a great experience? [Culture
 Seen] could see seven screens from the back of the bus but as it got
 darker, the reflection in the window doubled that number at least twice so
 that [it looked like 21 screens, creating] an aural and visual cocoon...
 When Wong draped a little rubbery snake on Culture Seen he nearly hit the
 ceiling. Other passengers screamed...[there was] an odd feeling of
 displacement... as [they] watched one thing on the video and saw another on
-the street.â��
+the street.’
 http://communities.canada.com/VANCOUVERSUN/blogs/cultureseen/archive/2010/02/21/taken-for-a-ride-on-zoooooming-video-bus.aspx
 
 Catch Paul Wong in the air on Air Canada http://vimeo.com/9012941
 
-â��5â�� WALL is up http://www.youtube.com/watch?v=pyll7m_uBfI
+’5’ WALL is up http://www.youtube.com/watch?v=pyll7m_uBfI
 
 For complete list of works, reviews, documentation, high-resolution
-downloads, and to experience â��5â�� virtually visit www.5.paulwongprojects.com
+downloads, and to experience ’5’ virtually visit www.5.paulwongprojects.com
 
 -
 
@@ -873,7 +873,7 @@ inside and outside, the cultural and the natural; the poetic and the literal.
 Paul Walde lives and works in London, Ontario where he teaches studio art
 at the University of Western Ontario, is also the Artistic Director and
 visual arts curator of LOLA, the London Ontario Live Arts festival, and is
-the artist in residence at the Biotron, Canadaâ��s experimental climate
+the artist in residence at the Biotron, Canada’s experimental climate
 change research centre. He has exhibited extensively in the United States
 and Canada, was the winner of The Prescott Fund Award from the National
 Arts Club in New York City, and has received awards from the Canada Council

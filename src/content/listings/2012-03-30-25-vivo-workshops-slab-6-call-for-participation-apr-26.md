@@ -81,7 +81,7 @@ EXHIBITION: Interactive Installation
 HOW TO REGISTER
 
 To register for the workshop, please email 
-education@vivomediaarts.com with â€œSLAB 6: Registrationâ€  in the 
+education@vivomediaarts.com with “SLAB 6: Registration”  in the 
 subject line. We need your full name, your phone number, your email, 
 and your commitment to attending all or most workshop sessions. A 
 brief explanation why you want to take this workshop and what you wish 

@@ -38,8 +38,8 @@ mathematical layout of seeds provides rich inspiration for cyclic
 arrangements in Kadish’s art.
 
 “Subtle Emergences questions how we see and understand ecological
-complexity in our world,â€  said gallery manager Peter Green. â€œFor me, the
-exhibit inspires a re-enchantment with the natural world.â€ 
+complexity in our world,”  said gallery manager Peter Green. “For me, the
+exhibit inspires a re-enchantment with the natural world.” 
 
 The exhibition will be extended into public space with a wood-based
 sculptural installation located between the Rotary Centre for the Arts and the
@@ -49,7 +49,7 @@ people moving through the grassy space, and the gallery’s indoor
 sculptures.
 
 “Drawing on this eco-tech dichotomy, our monthly Draw by Night event on
-April 2nd will be themed inorganic beings,â€  said gallery assistant Megan
+April 2nd will be themed inorganic beings,”  said gallery assistant Megan
 Bowers. The event will coincide with Downtown Kelowna’s initiative to keep
 Cultural District businesses open late the first Thursday of each month.
 

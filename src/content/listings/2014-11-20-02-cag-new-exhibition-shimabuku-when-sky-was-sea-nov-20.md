@@ -18,7 +18,7 @@ November 21, 2014 to January 11, 2015
 
 Opening reception: Thursday, November 20, 7-10pm.
 
-The exhibition When Sky was Sea demonstrates the breadth of the artistÃ¢€™s
+The exhibition When Sky was Sea demonstrates the breadth of the artistâ€™s
 practice, works in the exhibition reveal an essential correspondence to
 things elsewhere in a wider world, insisting on our grasp of the continuity
 that exists between art and (non-art) life. As the artist travels the
@@ -30,8 +30,8 @@ artist in Japan, through to presenting a wide variety of more recent work
 for which he has since become internationally celebrated, the exhibition
 exemplifies an extraordinary curiosity and freedom of expression. Shimabuku
 uses installation, video, photography, drawings, sculpture and events alike
-to convey his intense fascination with the natural worldÃ¢€”equally the animal
-and vegetable realmsÃ¢€”and the countless manifestations of human culture
+to convey his intense fascination with the natural worldâ€”equally the animal
+and vegetable realmsâ€”and the countless manifestations of human culture
 within it. His artistic proposition is essentially one of storytelling and
 discovery.
 
@@ -47,8 +47,8 @@ Switzerland (2014); Something that Floats/Something that Sinks, Ikon
 Gallery, Birmingham, UK and Noto, 21st Century Museum of Contemporary Art,
 Kanazawa, Japan (2013); Leaves Swim, Nogueras Blanchard, Barcelona, Spain
 (2012); Man should try to avoid contact with alien life forms, Centre
-international d'art et du paysage de lÃ¢€™ÃƒŽle de VassiviÃƒÂ¨re, VassiviÃƒÂ¨re,
-France; On the water, CAPC musÃƒÂ©e dÃ¢€™art contemporain de Bordeaux (2011); The
+international d'art et du paysage de lâ€™ÃƒŽle de VassiviÃƒÂ¨re, VassiviÃƒÂ¨re,
+France; On the water, CAPC musÃƒÂ©e dâ€™art contemporain de Bordeaux (2011); The
 Watari Museum of Contemporary Art, Tokyo (2009); DAAD galerie, Berlin;
 Wilkinson Gallery (2007); Swansea Jack Memorial Dog Swimming Competition,
 Glynn Vivian Art Gallery, Swansea (2003); Then, I Decided To Give a Tour of

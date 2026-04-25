@@ -20,7 +20,7 @@ present a varied output exploring a range of media including video,
 ceramic, painting, performance, bronze and sound. The work can be in 
 one moment unassuming and heartfelt, swinging in the next moment 
 over to bold and improvised. The work discloses the influence of 
-Romanian sculptor Constantin BrÃ¢ncuși, the non-chalance of Danish 
+Romanian sculptor Constantin Brâncuși, the non-chalance of Danish 
 painter Tal R and the earnest but ridiculous joie de vivre of Swiss 
 rascals Fischli/Weiss. Similar to the latter, Laura Piasta and Johan 
 Björck's art gently invites us to explore an absurd summer realm 

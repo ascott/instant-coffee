@@ -39,19 +39,19 @@ our friend Sarah Spring of Loaded Pictures (Montreal).
 
 Review quotes:
 
-â��Challenge for Change seamlessly integrates the history of this classic
+’Challenge for Change seamlessly integrates the history of this classic
 National Film Board program with present day initiatives. It sets the stage
 for further exploration on the subject and deals comprehensively with the
 complex interrelation of English and French production. The first of its
-kind, this book is ambitious, accessible, and superbly informed.â��
+kind, this book is ambitious, accessible, and superbly informed.’
 
 - Darrell Varga, Division of Historical and Critical Studies, Nova Scotia
 College of Art and Design University
 
-â��Challenge for Change is amongst the most exciting, bold, and innovative
+’Challenge for Change is amongst the most exciting, bold, and innovative
 moments in the history of film. Now we are fortunate to have the perfect
 chronicle of this distinguished series through a stunning collection of
-documentation and critique. Bravo!â��
+documentation and critique. Bravo!’
 
 - Toby Miller, author of Global Hollywood
 
@@ -66,18 +66,18 @@ Notes to editors:
 
 1.The W2 Culture+Media House operations are in addition to the busy work W2
 is doing building a permanent 8800 sf community media arts facility across
-the street at Woodward'sâ��set to open in the summer of 2010. W2 is the lead
+the street at Woodward's’set to open in the summer of 2010. W2 is the lead
 community non-profit amenity for the Woodward's heritage building at the
 corner of Abbott & Hastings, with the W2 Cafe social enterprise opening in
 a few months. W2 is not supported by core government funds and relies
 instead on community volunteers and contributions.
 
 2.The W2 Community Media Arts Centre is a highly anticipated project
-opening in the Winter of 2009-2010 at the landmark Woodwardâ��s redevelopment
+opening in the Winter of 2009-2010 at the landmark Woodward’s redevelopment
 in downtown Vancouver, British Columbia. In the lead-up to opening, W2 is
 operating the 13,000 sq ft W2 Culture + Media House across the street at
 112 W Hastings. It is intended to provide a vibrant and complementary focal
-point in the redevelopment of Woodwardâ��s and act as a catalyst in the
+point in the redevelopment of Woodward’s and act as a catalyst in the
 revitalization of the Vancouver Downtown Eastside by emphasizing the
 development capacity by and for the DTES residents.
 

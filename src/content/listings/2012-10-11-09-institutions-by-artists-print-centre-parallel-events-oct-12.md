@@ -29,15 +29,15 @@ conjunction with the Institutions by Artists conference
 
 Oct. 12, 5 pm
 Talk: Sean Dockray
-â€œAAAAARG! Five Failuresâ€ 
+“AAAAARG! Five Failures” 
 
 Oct. 12, 6 pm
 Talk: Charlotte Cheetham
-â€œCurating Graphic Designâ€ 
+“Curating Graphic Design” 
 
 Oct. 13, 1 pm
 Launch: Yishu magazine
-Special issue on â€œInstitution for the Futureâ€  with guest-editor Biljana 
+Special issue on “Institution for the Future”  with guest-editor Biljana 
 Ciric and editors Keith Wallace and Kate Steinmann
 
 Oct. 13, 5 pm
@@ -47,7 +47,7 @@ Crass and the pacifist commune Dial House, founded by its members
 in 1967 (In the Cinema, 2nd floor)
 
 Oct. 13, 6 pm
-Talk: â€œA Story of the Museum of American Artâ€  (Berlin)
+Talk: “A Story of the Museum of American Art”  (Berlin)
 A Museum technician outlines the trajectory of an educational 
 institution dedicated to assembling, preserving, and exhibiting 
 memories—primarily those of the prewar MoMA.

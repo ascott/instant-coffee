@@ -21,13 +21,13 @@ Curated by Lilac Lang
 October 20-November 20 2011
 Opening Reception Thursday, October 20th, 6-9 p.m.
 
-The showâ€™s title, â€œShapelyâ€ , refers to seemingly unrelated aspects of both artistsâ€™ 
+The show’s title, “Shapely” , refers to seemingly unrelated aspects of both artists’ 
 practices: in Hannah Hughes’ figurative work, the pleasing form of the female 
 subjects, and in Ahbyah Baker’s abstract painting, the type of objects depicted. 
 Each artist’s work exhibits a common theme of tension between abstraction and 
 representation. 
 
-â€œShapelyâ€  acknowledges the urge to move beyond the technical ability of 
+“Shapely”  acknowledges the urge to move beyond the technical ability of 
 mimicking representational imagery in painting, even as the desire to 
 demonstrate these very things is fulfilled. The work is neither entirely abstract 
 nor objective. Even if one considers Baker’s minimalist paintings without the 

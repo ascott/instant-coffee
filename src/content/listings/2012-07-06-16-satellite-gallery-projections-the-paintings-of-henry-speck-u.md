@@ -20,7 +20,7 @@ http://www.satellitegallery.ca
 info@satellitegallery.ca
 
 The Kwakwaka’wakw artist Henry Speck, or Udzi’stalis (1908 – 1971), 
-became a â€œnewly discovered phenomenonâ€  in 1964 when his paintings 
+became a “newly discovered phenomenon”  in 1964 when his paintings 
 of masked dancers, coastal creatures, and sea monsters were shown 
 at Vancouver’s New Design Gallery.
 
@@ -29,7 +29,7 @@ leader, teacher, and cultural practitioner. By the 1930s he was also
 becoming known for his modern paintings, rendered in vibrant colours 
 and textures. His work caught the attention of the Austrian artist and 
 theorist, Wolfgang Paalen, and was declared by the Haida artist Bill 
-Reid to be â€œfar beyond anything attempted before in Kwakiutl art.â€ 
+Reid to be “far beyond anything attempted before in Kwakiutl art.” 
 
 Experience Henry Speck’s paintings through originals and large-scale 
 projections that refigure his work against a backstory of media images, 

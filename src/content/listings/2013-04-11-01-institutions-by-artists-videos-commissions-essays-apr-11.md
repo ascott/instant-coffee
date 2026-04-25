@@ -12,14 +12,14 @@ Pacific Association of Artist run Centres and Fillip are pleased to
 announce new essays commissioned as part of Institutions by Artists 
 are available at arcpost.ca/articles.
 
-They include: â€œCrises (and Coping) in the Work of General Ideaâ€  by 
+They include: “Crises (and Coping) in the Work of General Idea”  by 
 Philip Monk; “A Productive Irritant: Parasitical Inhabitations in 
-Contemporary Artâ€  by Matt Post & Chris Fitzpatrick, â€œInstitutions of 
-Regionalism: Artist-collectivism in London, Ontario, 1960-1990â€  by 
+Contemporary Art”  by Matt Post & Chris Fitzpatrick, “Institutions of 
+Regionalism: Artist-collectivism in London, Ontario, 1960-1990”  by 
 Christopher Regimbal, “Artmoreorless: The Early Performances of 
-Ascoâ€  by Jesi Khadivi, â€œImperfect Compliance: A Trajectory of 
-Transformationâ€  by Dana Claxton and Tania Willard and â€œManifesto 
-on Artistsâ€™ Rightsâ€  by Tania Bruguera.
+Asco”  by Jesi Khadivi, “Imperfect Compliance: A Trajectory of 
+Transformation”  by Dana Claxton and Tania Willard and “Manifesto 
+on Artists’ Rights”  by Tania Bruguera.
 
 SPECIAL COMMISSIONS ON ARCPOST
 
@@ -28,7 +28,7 @@ produced during the conference: Call to Order by Kathleen Ritter and
 James S. Maxwell and Study 1 by Artifact Institute. The complete Call 
 to Order recordings and scores are available for listening and 
 download. Artifact Institute has released the “Study 1: Participants in 
-the Institutions by Artists Conferenceâ€  report which can be 
+the Institutions by Artists Conference”  report which can be 
 downloaded here.
 
 A reminder: the complete video documentation of the Institutions by 
@@ -48,8 +48,8 @@ A report from Georgie Meagher for an
 
 Liz Park’s review for Afterall
 
-plus â€œInstitutions by Artists: Resistance or Retreat?â€  by Diana 
-Sherlock for C Magazine and â€œAll for Oneâ€  by Alexander Provan for 
+plus “Institutions by Artists: Resistance or Retreat?”  by Diana 
+Sherlock for C Magazine and “All for One”  by Alexander Provan for 
 Frieze Magazine.
 
 Big Thanks! to all our conference partners and volunteers!
@@ -70,7 +70,7 @@ PRODUCTION AND GUEST SERVICES VOLUNTEERS
 Barbara Cole, Brady Cranfield, Sydney Hart, Jesi Khadivi, Lauren 
 Marsden, Brian McBay, Justin Muir, Liz Park, Althea Thauberger, 
 Howie Tsui, Michael Turner, Julia Vallvé, Annabel Vaughan, Alexis 
-Zavialoff, Christina Andreola , JosÃ© Arias Montoya , Erin Brown , 
+Zavialoff, Christina Andreola , José Arias Montoya , Erin Brown , 
 Ajaye Bureyko , Sheena Clark , Andrea Creamer , Caroline 
 Engelstad , Emma Fitzmaurice , Lisa Graston , Michelle Hadbavny , 
 Dionne Horacsek , Dana Howell , Daniel Jeffery , Michelle Kee, 
@@ -94,14 +94,14 @@ If you wish to be removed from this mailing list please choose
 La Pacific Association of Artist Run Centres et Fillip sont heureux 
 d’annoncer que de nouveaux textes commissionnés pour Institutions 
 by Artists ont été publiés en ligne sur arcpost.ca/articles. Parmi ceux-
-ci, on retrouve : â€œCrises (and Coping) in the Work of General Ideaâ€  
+ci, on retrouve : “Crises (and Coping) in the Work of General Idea”  
 par Philip Monk; “A Productive Irritant: Parasitical Inhabitations in 
-Contemporary Artâ€  par Matt Post & Chris Fitzpatrick, â€œInstitutions of 
-Regionalism: Artist-collectivism in London, Ontario, 1960-1990â€  par 
+Contemporary Art”  par Matt Post & Chris Fitzpatrick, “Institutions of 
+Regionalism: Artist-collectivism in London, Ontario, 1960-1990”  par 
 Christopher Regimbal, “Artmoreorless: The Early Performances of 
-Ascoâ€  par Jesi Khadivi, â€œImperfect Compliance: A Trajectory of 
-Transformationâ€  par Dana Claxton et Tania Willard, et â€œManifesto on 
-Artistsâ€™ Rightsâ€  par Tania Bruguera.
+Asco”  par Jesi Khadivi, “Imperfect Compliance: A Trajectory of 
+Transformation”  par Dana Claxton et Tania Willard, et “Manifesto on 
+Artists’ Rights”  par Tania Bruguera.
 
 Oeuvres commandées sur arcpost
 Deux nouvelles œuvres commandées ont été réalisées dans le 
@@ -123,14 +123,14 @@ Plusieurs comptes-rendus de la conférence Institution By Artists ont
 
 Johanna Plant de Portage Press
 
-Une revue en deux-temps dâ€™Ian Harbour pour Decoy Magazine 
+Une revue en deux-temps d’Ian Harbour pour Decoy Magazine 
 
 Un compte-rendu de Georgie Meagher pour an
 
 Un exposé de Liz Park pour Afterall
 
-Et â€œInstitutions by Artists: Resistance or Retreat?â€  par Diana Sherlock 
-pour C Magazine et â€œAll for Oneâ€  par Alexander Provan pour Frieze.
+Et “Institutions by Artists: Resistance or Retreat?”  par Diana Sherlock 
+pour C Magazine et “All for One”  par Alexander Provan pour Frieze.
 
 Nous remercions sincèrement tous nos partenaires et bénévoles!
 
@@ -148,7 +148,7 @@ Routhier, Sandra Wintner
 BÉNÉVOLES : Barbara Cole, Brady Cranfield, Sydney Hart, Jesi 
 Khadivi, Lauren Marsden, Brian McBay, Justin Muir, Liz Park, Althea 
 Thauberger, Howie Tsui, Michael Turner, Julia Vallvé, Annabel 
-Vaughan, Alexis Zavialoff, Christina Andreola , JosÃ© Arias Montoya , 
+Vaughan, Alexis Zavialoff, Christina Andreola , José Arias Montoya , 
 Erin Brown , Ajaye Bureyko , Sheena Clark , Andrea Creamer , 
 Caroline Engelstad , Emma Fitzmaurice , Lisa Graston , Michelle 
 Hadbavny , Dionne Horacsek , Dana Howell , Daniel Jeffery , 

@@ -330,12 +330,12 @@ interviews, and short fiction), his latest being declining america
 (BookThug) and, just this month, Dreamland Theatre (Caitlin). His 
 recent interest is experimental activist ecopoetry; he is working on a 
 study of Devil’s Club / Hoolhghulh tentatively titled "Panax" and an 
-essay on animal-human relations called â€œThe Parahuman.â€ 
+essay on animal-human relations called “The Parahuman.” 
 
 Roger Farr is the author of Surplus (poetry; Line Books, 2006), IKMQ 
 (prose-poetry; New Star, 2012), and Means (poetry, radio script, 
 prose; Line Books, 2012). He has been described as “a poet of great 
-heart and aesthetic/political commitment.â€  As a cultural critic, his 
+heart and aesthetic/political commitment.”  As a cultural critic, his 
 writing on radical social movements and the avant-garde has 
 appeared in numerous literary and 'movement' periodicals, and has 
 been broadcast on the airwaves of several pirate radio stations on 
@@ -496,7 +496,7 @@ Galanin writes of this process, “The motions of creating these images
 explore, reference and mimic a customary (traditional) aesthetic that 
 has been ongoing for generations. An aesthetic that is put into motion 
 through our existence on this land. The Stellar remnant is what’s left, 
-the print, in motion like the birth of a star.â€ 
+the print, in motion like the birth of a star.” 
 
 Nicholas Galanin is a Tlingit/Aleut multi-disciplinary artist. Galanin 
 holds a BFA from London Guildhall with honours in Jewellery Design 
@@ -662,7 +662,7 @@ Meet with staff, interns, volunteers, legacy members, new artist
 members, collaborative partners, and the Board of Directors. Enjoy 
 live performances by the Vancouver Experimental Theremin 
 Orchestra, local favourites from VIVO’s critically-acclaimed music 
-improvisational series â€œDestroy Vancouver,â€  and take in a rare 
+improvisational series “Destroy Vancouver,”  and take in a rare 
 selection of media arts produced and presented at VIVO over the 
 years.
 
@@ -771,10 +771,10 @@ which are on view for the first time.
 “The Vancouver Art Gallery is extremely proud of the significant 
 growth we have experienced in our permanent collection, and this 
 exhibition is an acknowledgement of some of the recent generous 
-donations that have enriched our holdings,â€  said Kathleen S. Bartels, 
+donations that have enriched our holdings,”  said Kathleen S. Bartels, 
 the Vancouver Art Gallery’s Director. “Out of Sight exemplifies our 
 strategy to activate the Gallery’s permanent collection by showcasing 
-works in meaningful and engaging ways.â€ 
+works in meaningful and engaging ways.” 
 
 Artists presented in Out of Sight investigate the ambiguities of 
 perception—the imperfect nature of what we see and experience—by 
@@ -793,7 +793,7 @@ stand still.
 as a thematic starting point, Out of Sight offers stimulating 
 juxtapositions of contemporary and historical artists who collectively 
 encourage us to reconsider what we see in our everyday 
-encounters.â€  said Stephanie Rebick, Assistant Curator at the 
+encounters.”  said Stephanie Rebick, Assistant Curator at the 
 Vancouver Art Gallery. 
 
 The works included in Out of Sight are diverse in media and scale. 
@@ -895,7 +895,7 @@ universal great law of justice, whether the experience be good or
 bad, painful or sorrowful, pleasing or otherwise, and that these 
 experiences are but the wrap and woof of the pattern of our lives, we 
 will weave with more skillful fingers the design upon which we wish 
-to build.â€ 
+to build.” 
 -Lawren Harris
 
 Theosophy played a central role in Lawren Harris’ late abstract 
@@ -963,7 +963,7 @@ Columbia
 
 Rachel Haidu
 “Getting Past Difference: Black Audio Film Collective, James 
-Coleman, Steve McQueenâ€ 
+Coleman, Steve McQueen” 
 
 Wednesday, April 2, 2014
 5:30 pm Room 104 Frederic Lasserre Building
@@ -1327,7 +1327,7 @@ previous Not Sent Letters & Guests events here:
 http://notsentlettersproject.com/category/events
 
 For Notifications
-and news â€œlikeâ€  the Not Sent Letters Project facebook page:
+and news “like”  the Not Sent Letters Project facebook page:
 https://www.facebook.com/pages/Not-Sent-Letters-
 Project/147882091946917
 

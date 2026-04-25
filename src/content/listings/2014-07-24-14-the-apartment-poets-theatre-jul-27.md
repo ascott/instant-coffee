@@ -59,7 +59,7 @@ La Melia’s recent works fall under the loose rubric of "Purple Poses" and
 “come out of my research on decreation, dropouts, and disappearances; it 
 is an extension of my research on the affect of illness, in a broad sense, 
 and emerges out of research on figures such as Karen Carpenter, Janis 
-Joplin, Emmy Hennings, and Mark Twain's Aquarium Club.â€ 
+Joplin, Emmy Hennings, and Mark Twain's Aquarium Club.” 
 
 Contact info@theapt.ca for more information!
 

@@ -27,7 +27,7 @@ has become, turns the fun park into a sylvan pastoral.
 
 Captured in the process of returning to nature, the site still retains the human 
 presence of security guards, what the artist has called “guardians of a ‘dead’ 
-space.â€  As they patrol a place with no clear use or value, they become 
+space.”  As they patrol a place with no clear use or value, they become 
 representatives of corporate law and order that offers protection without 
 preservation. They stand idly by as the object of their surveillance slowly 
 disappears under rampant vegetation. Is this what an eventually depleted 

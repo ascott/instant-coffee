@@ -52,10 +52,10 @@ Canada from 1986 to the present, including the 2007 Garden Shed Galactica,
 Outdoor installation, London Museum, Ontario and 2008 Through the Looking
 Glass, Glenbow Museum, Calgary, Alberta.
 
-Gallery hours: Tuesday to Wednesday 10am â�� 6pm
-Thursday to Friday 10am â�� 8pm
-Saturday 10am â�� 6pm
-Sunday 1pm â�� 5pm
+Gallery hours: Tuesday to Wednesday 10am ’ 6pm
+Thursday to Friday 10am ’ 8pm
+Saturday 10am ’ 6pm
+Sunday 1pm ’ 5pm
 
 All images for the exhibition are listed on our web site under Dianne Bos:
 www.kostuikgallery

@@ -35,7 +35,7 @@ Victoria. His work has been included in exhibitions at Artspeak,
 Contemporary Art Gallery, Ministry of Casual Living, Helen Pitt
 Gallery, the Western Front, Lobby Gallery and Blanket Gallery among
 others.
-Edgar Heap of BirdsÃ¢ï¿½ï¿½ exhibition record includes The Museum of Modern
+Edgar Heap of Birdsâï¿½ï¿½ exhibition record includes The Museum of Modern
 Art, Whitney Museum of American Art, The National Museum of the
 American Indian, Smithsonian Institute, The National Gallery of
 Canada, Documenta 8, and the Venice Biennale. He was awarded an

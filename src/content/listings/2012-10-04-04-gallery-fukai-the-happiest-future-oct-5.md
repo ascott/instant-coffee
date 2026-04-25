@@ -20,7 +20,7 @@ stereotype, a sense of bigotry and ignorance that continues to be held against
 the First People in Canada.
 
 This work theorizes how propaganda could have been used as a tool used to 
-influence Canadians on the â€œIndian Problemâ€ .
+influence Canadians on the “Indian Problem” .
 
 The exhibit opens Friday October 5th at 8pm and closes October 27th.
 

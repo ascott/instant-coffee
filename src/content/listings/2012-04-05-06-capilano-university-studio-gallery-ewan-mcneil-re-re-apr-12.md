@@ -18,10 +18,10 @@ Capilano University Studio Gallery
 
 This exhibition is Curated by Marcus Bowcott . 
 
-â€œRE + REâ€  is a builderʼs term about â€œreviewing and replacingâ€  or 
+“RE + RE”  is a builderʼs term about “reviewing and replacing”  or 
 “reviewing and 
-renovatingâ€ . Itʼs an apt title for this exhibition. More importantly the 
-spirit of â€œRE + REâ€  is 
+renovating” . Itʼs an apt title for this exhibition. More importantly the 
+spirit of “RE + RE”  is 
 at the heart of McNeilʼs practice of photography, painting, sculpture 
 and collage. His 
 aesthetic process is a constant search of reconsideration and 
@@ -42,4 +42,4 @@ process. McNeilʼs self critical practice involves reconﬁguring highly
 articulated images in 
 relation to a table saw. After all, as he states... “the saw is a drawing 
 instrument, a tool 
-for editing.â€
+for editing.”

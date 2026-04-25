@@ -20,7 +20,7 @@ Cost including taxes: $1015 for private bedroom, or $750 for shared bedroom
 facilitation, and an exhibition)
 
 Luminous Bodies is a two-week residency to create artworks that shed new
-light on the human body. Its objective is to challenge â€œnormativityâ€  and
+light on the human body. Its objective is to challenge “normativity”  and
 Otherness. Its goal is to reinvent and re-present the body in most
 inclusive and diverse ways. Audio-visual screenings, guest artist talks
 followed by studio visits, a gallery tour and readings, uncover how our

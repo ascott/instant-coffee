@@ -154,7 +154,7 @@ Orders & Subscriptions
 Fillip is available from retailers worldwide, and from Motto Distribution
 (Europe), Textfield Distribution (USA), or direct from Fillip by emailing
 office@fillip.ca. Subscription are available for $25 (North America) and
-Ã�Â¢Ã¯Â¿Â½Ã�Â¬25 (elsewhere) via paypal.
+Â¢ïÂ¿Â½Â¬25 (elsewhere) via paypal.
 
 Advertising information can be found at http://fillip.ca/advertising.
 
@@ -205,7 +205,7 @@ Simpsons Comic Book Guy, the fan is consistently portrayed as one who lives
 life vicariously
 through narratives created by others. The relationships between fans and
 the objects of their
-fandom, however, are far more nuanced. The notion of the Ã¢â�¬Å�birth of the
+fandom, however, are far more nuanced. The notion of the â’¬Å�birth of the
 reader is certainly not
 new in cultural studies, but in the realm of the sci-fi fan this birth
 takes a particularly active and
@@ -230,10 +230,10 @@ corporate and government domination that run through the genre.
 By repeating the image of the spiral (an icon that has special significance
 in science fiction)
 Langergraber connects to another important influence on his artistic
-practiceÃ¢â�¬â��the work of Robert
-Smithson. In his brief essay Ã¢â�¬Å�The Shape of the Future and Memory (1966),
+practiceâ’¬’the work of Robert
+Smithson. In his brief essay â’¬Å�The Shape of the Future and Memory (1966),
 Smithson explored
-connections between art and time travelÃ¢â�¬â��a few years later Spiral Jetty
+connections between art and time travelâ’¬’a few years later Spiral Jetty
 appeared in the Great
 Salt Lake of Utah. Langergraber further exploits the relationship between
 fan culture, time travel
@@ -330,7 +330,7 @@ as the x-ray vision of mystic Kuda Bux, the ectoplasmic materializations of
 Helen Duncan, the fingertip vision of Rosa Kuleshova, and the dermo optical
 perception of Madame Duplessis. MacWilliam's interest in the idea that
 seeing is believing' is explored her installation at Presentation House
-Gallery. F-L-A-M-M-A-R-I-O-N of 2009 is inspired by a 1931 sÃ�Â©ance in
+Gallery. F-L-A-M-M-A-R-I-O-N of 2009 is inspired by a 1931 sÂ©ance in
 Winnipeg where a teleplasm spelling flammarion appeared.
 
 Susan MacWilliam has exhibited worldwide and in 2009 represented Northern
@@ -382,7 +382,7 @@ Stylistically reminiscent of film noir, Biscotti's film The Undercover Man
 Pistone who successfully infiltrated the New York City mafia in the guise
 of a jewel thief named Donnie Brasco. Susan MacWilliam also assumes the
 role of an investigator working with hearsay in her re-creation of a 1931
-sÃ�Â©ance in Winnipeg, F-L-A-M-M-A-R-I-O-N (2009).
+sÂ©ance in Winnipeg, F-L-A-M-M-A-R-I-O-N (2009).
 
 -- 
 
@@ -469,7 +469,7 @@ Emily Carr graduation exhibitions
 
 Join us as we showcase the work of our 2010 Graduates and Undergraduates.
 
-These exhibitions highlight studentsâ�� creativity and innovation across
+These exhibitions highlight students’ creativity and innovation across
 visual arts,
 
 media and design. Exhibitions are free and open to the public.
@@ -621,11 +621,11 @@ explore history and time and our place within them.
 Fiona was the Dutch representative at the 53rd Venice Biennale (2009)
 presenting her project Disorient. Previous presentations include solo and
 group exhibitions at the MCA Chicago, the New Museum in New York, Modern
-Art Oxford, Academie der KÃ�Â¼nste Berlin, the Tate Modern, Centre Pompidou,
+Art Oxford, Academie der KÂ¼nste Berlin, the Tate Modern, Centre Pompidou,
 the Istanbul Biennial, Yokohama Triennale, Documenta 11, the 49th Venice
 Biennale, the Shanghai Biennale and the Berlin Biennale. Fiona Tan won the
 Infinity Award for Art in 2004 and was short listed for the first Artes
-Mundi Prize in 2003 and the Deutsche BÃ�Â¶rse Photography Prize in 2007.
+Mundi Prize in 2003 and the Deutsche BÂ¶rse Photography Prize in 2007.
 
 Vanessa Kwan
 
@@ -646,7 +646,7 @@ www.vanartgallery.bc.ca
 ------------------------------------------------------------------------
 Beau Dick
 Pookwis
-May 6th â�� June 27th, 2010
+May 6th ’ June 27th, 2010
 
 Opening Reception Thursday May 6th 6-9pm
 Artist in Attendance
@@ -892,35 +892,35 @@ amount of pledges gets first pick! Some of the prizes packs you could win
 include:
 
 Prize Pack No.16: Your name in music
-â�¢ Hello Blue Roses (Sydney Hermant and Dan Bejar) will write and record a
+’¢ Hello Blue Roses (Sydney Hermant and Dan Bejar) will write and record a
 song about you
-â�¢ Gift Certificate to Umeboshi
-â�¢ Zulu Records Gift Certificate
-â�¢ Celebrated Vancouver radio host David Wisdom (CBC's Nightlines,
+’¢ Gift Certificate to Umeboshi
+’¢ Zulu Records Gift Certificate
+’¢ Celebrated Vancouver radio host David Wisdom (CBC's Nightlines,
 RadioSonic, Radio-On, and Pearls of Wisdom) will record your answering
 machine message using his best radio voice
-â�¢ Artspeak Publication: Micah Lexier - A Number of Things
-â�¢ Charles H. Scott/Emily Carr University/JRP Ringier Publication: "Aunt
+’¢ Artspeak Publication: Micah Lexier - A Number of Things
+’¢ Charles H. Scott/Emily Carr University/JRP Ringier Publication: "Aunt
 Maud's Scrapbook: Sydney Vermont"
 
 Prize Pack No.7: Lookin' sharp and quick on your feet
-â�¢ 1 Free haircut from Nicole of Moustache & Darling
-â�¢ Jewlery by Anna de Courcy, created with antique sterling silver: 28"
+’¢ 1 Free haircut from Nicole of Moustache & Darling
+’¢ Jewlery by Anna de Courcy, created with antique sterling silver: 28"
 anchor chain, with Victorian heart padlock clasp, antique swivel clasp, and
 London 1906 sterling silver thimble
-â�¢ 1 Free Express Pedicure by Morgan at Kokopelli
+’¢ 1 Free Express Pedicure by Morgan at Kokopelli
 
 Prize Pack No.14: The Right Moves
-â�¢ PuSh Festival Prize Pack: 2011 PuSh Pass, PuSh T-shirt plus an invite to
+’¢ PuSh Festival Prize Pack: 2011 PuSh Pass, PuSh T-shirt plus an invite to
 an Artists' Fete
-â�¢ A Private Contemporary Dance Lesson (for contestant and a friend) with
+’¢ A Private Contemporary Dance Lesson (for contestant and a friend) with
 Justine Chambers
-â�¢ Open Door Yoga $50 Gift Certificate
-â�¢ Action-Camera: Beijing Performance Photography
-â�¢ Belkin/KAG Publication: Rebecca Belmore: Fountain (Autographed)
-â�¢ Western Front Publication: Ritual in Contemporary Performance
-â�¢ VAG Publication Rebecca Belmore: Rising to the Occasion (Autographed)
-â�¢ grunt publication: Live at the end of the Century: Aspects of Performance
+’¢ Open Door Yoga $50 Gift Certificate
+’¢ Action-Camera: Beijing Performance Photography
+’¢ Belkin/KAG Publication: Rebecca Belmore: Fountain (Autographed)
+’¢ Western Front Publication: Ritual in Contemporary Performance
+’¢ VAG Publication Rebecca Belmore: Rising to the Occasion (Autographed)
+’¢ grunt publication: Live at the end of the Century: Aspects of Performance
 Art in Vancouver
 
 Check our website for more!

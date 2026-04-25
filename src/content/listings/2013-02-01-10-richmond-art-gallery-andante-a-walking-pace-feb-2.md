@@ -16,7 +16,7 @@ Artists: Cheryl L’Hirondelle, Mike Andrew McLean, Haruko Okano, Ruth
 Scheuing, UWHAH; a collaborative entity of Vancouver-based artists.
 
 The title of the exhibition draws from the tempo marking, andante, to mean - 
-â€œat a walking paceâ€  â€“ a moderately slow pace that enables one to be attentive 
+“at a walking pace”  – a moderately slow pace that enables one to be attentive 
 to one’s surroundings, literally and imaginatively. The history of walking is an 
 intriguing one with the capacity for narratives that hold cultural, political, social 
 and spiritual meanings.
@@ -27,7 +27,7 @@ consider. Walking has an intimate relationship with the earth – whether it is
 covered in concrete or left bare. Cheryl L’Hirondelle and Ruth Scheuing 
 explore the urban environment; their responses to the city’s architecture and 
 geography recall the ‘Situationists’ and ‘Psychogeography’, and the practice 
-of â€œderiveâ€  (drifting). Through their unplanned navigations to encounter new and 
+of “derive”  (drifting). Through their unplanned navigations to encounter new and 
 authentic experiences, both artists focus our attention to details abstracted 
 from their exploratory walks. The natural environment is the terrain traversed in 
 Haruko Okano and Mike Andrew McLean’s work. Haruko Okano immerses 

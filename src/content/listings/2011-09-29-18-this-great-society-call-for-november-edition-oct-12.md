@@ -9,7 +9,7 @@ summary: "This Great Society | Call for November edition | OCT 12"
 ---
 
 A new issue of This Great Society is up! This month, Society contributors 
-explore the theme of â€œLUCKâ€  through written, visual, time-based, and audio arts 
+explore the theme of “LUCK”  through written, visual, time-based, and audio arts 
 in all mediums. View the issue at www.thisgreatsociety.com.
 This Great Society is an online creative journal that publishes monthly. We are 
 based in Vancouver and focus on emerging artists from the Northwest and more.

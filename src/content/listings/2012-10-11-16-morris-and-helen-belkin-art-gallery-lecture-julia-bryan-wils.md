@@ -50,7 +50,7 @@ as in the Art Bulletin, Artforum, Bookforum, Camera Austria, Camera
 Obscura, October, Journal of Modern Craft and Oxford Art Journal. 
 She is the author of Art Workers: Radical Practice in the Vietnam War 
 Era (University of California, 2009), which was named an “outstanding 
-academic titleâ€  by Choice magazine, and the editor of Robert Morris, 
+academic title”  by Choice magazine, and the editor of Robert Morris, 
 forthcoming from MIT Press/October Files series. Bryan-Wilson was an 
 essayist for the State of Mind catalogue, as well as the project art 
 historian for the Pacific Standard Time exhibition Collaboration Labs.
@@ -75,7 +75,7 @@ works in the exhibition are comprised of collages, books, prints and
 other found objects and ephemera from the Permanent Collection, the 
 Archives and the Morris/Trasov Archive at the Belkin Art Gallery. 
 
-Fluxus â€“ which comes from the Latin word â€œto flowâ€  - was born from the 
+Fluxus – which comes from the Latin word “to flow”  - was born from the 
 experimental composition classes taught by avant-garde musician 
 John Cage from 1956 to 1961 at the New York School for Social 
 Research. Interested in Cage’s ideas about merging art and daily life, 

@@ -13,7 +13,7 @@ OMG On Main Gallery - SOCIAL MEDIA ART
 ON MAIN GALLERY LAUNCHES NEW SOCIAL MEDIA ART INITIATIVE
 
 On Main Gallery (OMG) launches the summer festival season with “On Main
-Gallery Social Media Art Zones #OMGSMAZâ€ .
+Gallery Social Media Art Zones #OMGSMAZ” .
 
 This innovative and imaginative pilot project hits the pavement and
 airwaves running at this years Main St. Car Free Festival, June 16th, 12-7

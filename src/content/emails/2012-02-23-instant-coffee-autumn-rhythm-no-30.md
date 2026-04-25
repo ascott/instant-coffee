@@ -30,7 +30,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2012-02-23-16-blim-art-drawings-and-films-of-tim-ray-mar-2">16. BLIM ART | Drawings and Films of Tim Ray | MAR 2</a>
 <a href="/instant-coffee/listings/2012-02-23-17-langara-college-samuel-roy-bois-nothing-blank-forever-mar-2">17. Langara College | Samuel Roy-Bois: Nothing blank forever | MAR 2</a>
 <a href="/instant-coffee/listings/2012-02-23-18-western-front-39th-annual-art-auction-preview-mar-3">18. Western Front | 39th Annual Art Auction Preview | MAR 3</a>
-<a href="/instant-coffee/listings/2012-02-23-19-trench-ron-stonier-1964-mar-8">19. TRENCH | Ron Stonier: â€œ1964â€  | MAR 8</a>
+<a href="/instant-coffee/listings/2012-02-23-19-trench-ron-stonier-1964-mar-8">19. TRENCH | Ron Stonier: “1964”  | MAR 8</a>
 <a href="/instant-coffee/listings/2012-02-23-20-haida-gwaii-museum-artists-residency-mar-18">20. Haida Gwaii Museum | artists residency | MAR 18</a>
 <a href="/instant-coffee/listings/2012-02-23-21-firehall-arts-centre-call-for-submissions-mar-31">21. Firehall Arts Centre | call for submissions | MAR 31</a>
 <a href="/instant-coffee/listings/2012-02-23-22-topdownbottomup-call-to-submission-mar-31">22. topdownbottomup | Call to Submission | MAR 31</a>
@@ -136,22 +136,22 @@ You and I… includes a series of illustrations with text, and two
 prototypes: Prototype A (the outdoor version) and Prototype B (the 
 indoor version). Viewers are welcome to examine Prototype B, which is 
 included in the exhibit but are not allowed to operate it. The artwork 
-does â€œfunctionâ€  but the intent is for this function to operate within its 
+does “function”  but the intent is for this function to operate within its 
 constructed state of potential and promise. With that said, MacTaggart 
 makes such objects to engage viewers in the process of looking and 
-imagining, rather than physical participation, in order to â€œactivateâ€  the 
+imagining, rather than physical participation, in order to “activate”  the 
 artwork.
 
-The illustrations that accompany the prototype â€œinstructâ€  and direct 
+The illustrations that accompany the prototype “instruct”  and direct 
 viewers to imagine a metaphorical purpose for the tuning-fork-like 
 apparatus and its two different embodiments. Complete with a written 
 abstract, diagrammatic drawings, descriptions and naming of the 
-prototypes and their parts, the visuals help â€œexplainâ€  to the viewer how 
-the prototypes â€œworkâ€ .
+prototypes and their parts, the visuals help “explain”  to the viewer how 
+the prototypes “work” .
 
 MacTaggart’s installation incorporates elements of both humour and 
 seriousness in order to simultaneously engage and unsettle the viewer. 
-The resulting works in the exhibit make â€œvibratoryâ€  references to 
+The resulting works in the exhibit make “vibratory”  references to 
 harmony and discordance, pitch, tone, elastic potential energy, and 
 other forces and effects. They promise an encounter between the 
 viewer(s) and the artwork, the viewer and his or herself, and the viewer 
@@ -260,7 +260,7 @@ Instant Coffee: Store Front 
  As part of their exhibition Feeling So Much & Doing So Little, 
 every 
 Saturday Instant Coffee will be selling necessary accessories and other 
-special items from their new â€œWest Coast Modernâ€  furniture collection, 
+special items from their new “West Coast Modern”  furniture collection, 
 and will on occasion be joined by other designers and artists, including 
 Robert Kleyn and Samuel Roy Bois. As part of Store Front each 
 Saturday Instant Coffee has also invited artists, critics and curators to 
@@ -270,7 +270,7 @@ Making Sense of Things Together
 
 Saturday, February 25th, 12-5pm
 
-As a response to ICâ€™s motto â€œGet Social or Get Lost,â€  join artist and 
+As a response to IC’s motto “Get Social or Get Lost,”  join artist and 
 critic Amy Fung for an endurance performance/lecture for which she 
 will assembling a 1000 piece jigsaw puzzle of a Jackson Pollock 
 painting she inherited at an Edmonton garage sale.
@@ -477,17 +477,17 @@ abundant references to a pop-cultural scene that Mader then seemed
 irreconcilable with. Thrift Stories (2007) saw the addition of banjos, 
 guitars, and jug, with guests like Mader’s performing cohort Petunia 
 and former Red Herring guitarist Steve Nikleva. It was a strangely 
-exuberant affair, including Maderâ€™s â€œDead Manâ€™s Pantsâ€  (given added 
+exuberant affair, including Mader’s “Dead Man’s Pants”  (given added 
 local fame by a novelty-tune rearrangement by the Creaking Planks) 
-and â€œRaven or Crowâ€ , which suggests Nick Cave gone rockabilly.
+and “Raven or Crow” , which suggests Nick Cave gone rockabilly.
 Mader’s most recent disc, Naive Ville, amps it up even further—it’s his 
 most confident and most musical offering to date, evoking at times the 
 hobo-jungle equivalent of Black Rider–era Tom Waits, with Mader’s 
 obsessive plunkings enriched by trumpets, accordion, keyboards, 
 violin, saw, whistling, and guitar, and songs spanning his trip to Iceland 
-(â€œReykjavikâ€ ), his disenfranchisement from the holiday season (â€œLetâ€™s 
-Not Bother With Christmasâ€ ), and statements of faith in human 
-mendacity (â€œNobodyâ€™s Telling Itâ€  and â€œNever Believeâ€ ). Cemeteries are 
+(“Reykjavik” ), his disenfranchisement from the holiday season (“Let’s 
+Not Bother With Christmas” ), and statements of faith in human 
+mendacity (“Nobody’s Telling It”  and “Never Believe” ). Cemeteries are 
 mentioned repeatedly.
 He's not an easy artist to assimilate or describe, but a certain stripe of 
 weirdo will love him!
@@ -885,7 +885,7 @@ Artspeak, Vancouver (2010). Her work has been included in the
 following group exhibitions Children’s Films, Bielefelder Kunstverein 
 (2011); The Problem of Nothing, Hayaka ARTI, Istanbul (2011); 
 Geschmacksverstärker, MMK Zollamt, Frankfurt (2010), Ghost Town, 
-â€œGhost Townâ€ , MOTHER, Frankfurt (2010).
+“Ghost Town” , MOTHER, Frankfurt (2010).
 
 For further information or press enquires please contact Catriona 
 Jeffries or Anne Low at +1 604 736 1554.
@@ -1003,11 +1003,11 @@ Blim presents:
 Drawings and Films of Tim Ray
 Work by Tim Ray and Jamie Clay
 “Please be careful, enlightenment without retribution and fear. Liberty 
-and freedom without prejudice and hate.â€ 
+and freedom without prejudice and hate.” 
 Opening Friday, March 2nd, will feature the drawings of Tim Ray, plus 
-a showing of the film â€œBuzz Wrayâ€  written by Neil Wedman and starring 
+a showing of the film “Buzz Wray”  written by Neil Wedman and starring 
 Tim Ray as Buzz. On Friday, March 16th Jamie Clay will be mixing 
-films and videos of Tim Rayâ€™s New York â€œAnti Folk Move- mentâ€  and 
+films and videos of Tim Ray’s New York “Anti Folk Move- ment”  and 
 including work from the Doreen Gray (Lenore Herb) Video Collection of 
 Art Punks from 1977 (such as I Braineater w/ Jim Cummins, UJ3RKS 
 with Jeff Wall, Ian Wallace, Rod- ney Graham, Tunnel Canary 
@@ -1021,14 +1021,14 @@ Since the first D.I.Y. release of 77, Ray has divided his time in
 international circles: New York, Paris, London. He is a filmmaker, 
 musician and artist. Involved in pioneering various movements from 
 Punk/ New Wave to the N.Y. Anti-Folk. Known for Visual Arts in N.Y. 
-and received many â€œChoice Picksâ€  in the N.Y. papers.
+and received many “Choice Picks”  in the N.Y. papers.
 C.B.C acquirement of 1987’s Sci-Fi and Horror series for Radio 3. 
 Exhibited in N.Y. F.I.Y. exhibit.. Known as a heri- tage artist and 
 visionary that anticipates culture and history. Recent subject of Bio-Doc 
-called â€œT. Ray The canned experienceâ€ .
+called “T. Ray The canned experience” .
 Clay and Ray are also writing/mixing/recording a new record together 
 with New York composer/musician Char- lie Mendoza. Scene leader 
-Ray will be releasing the famous New York â€œAnti Folkâ€  material in the 
+Ray will be releasing the famous New York “Anti Folk”  material in the 
 near future.
 --
 RUKUS new edge x MIYUKI MORI = METAMORPHOSE
@@ -1041,7 +1041,7 @@ a turning point to start designing jewelry with using precious and semi-
 precious stones. Also, he is a volunteer Qigong Healer. He 
 experienced Crystal Healing, Macrobiotic, Homeopathy, Naturopathy 
 etc. He has started his original Jewelry brand RUKUS -new age- in 
-2007. Heâ€™s also started a collaboration line â€œRUKUS x RWANDAâ€  to 
+2007. He’s also started a collaboration line “RUKUS x RWANDA”  to 
 contribute 50% of sales to the atelier in RWANDA. In 2009, he has 
 started to manage his own fashion brand, RUKUS –new edge-. He is 
 organizing a Creative Group Exhibition KIRA KIRA TOKYO with many 
@@ -1058,10 +1058,10 @@ moved back to Tokyo and had more experience in Fashion industry
 there. In 2008 she moved to Vancouver, Canada. With special effects 
 materials and techniques, she creates High Fashion and Advanced 
 Beauty.
-Her credits include â€œTeam America-world Policeâ€ (Paramount Pictures), 
-â€œSuper Naturalâ€ (CW), â€œVâ€ (ABC), â€œFinal Destination 5â€ (New Line 
-Cinema), â€œClayâ€ (Disney Chanel),â€œELFâ€ (New Line Cinema), â€œLooney 
-Tunesâ€ (Warner Broth- ers), â€œSmokinâ€™ Aces 2â€ (Universal), Nichole By 
+Her credits include “Team America-world Police” (Paramount Pictures), 
+“Super Natural” (CW), “V” (ABC), “Final Destination 5” (New Line 
+Cinema), “Clay” (Disney Chanel),“ELF” (New Line Cinema), “Looney 
+Tunes” (Warner Broth- ers), “Smokin’ Aces 2” (Universal), Nichole By 
 OPI, Comodynes, Angel Jeans Wear and Miu Cosmetics.
 photo credit: models by Tiah Seward / Tawnya Blackbird Marsh 
 accessories & clothes by RUKUS new edge Photo by Michael C. Boxall 
@@ -1097,7 +1097,7 @@ developing a public art project in the shape of
 an architectural intervention titled Nothing Blank Forever. The purpose 
 of the structure is to house the 
 production of every component of a road movie. This “makeshift movie 
-studioâ€  has been constructed in the 
+studio”  has been constructed in the 
 Quadrangle (outside the Langara Students’ Union), which will serve as 
 the project’s heart and home. The 
 temporary studio will take on many roles over eight months including a 
@@ -1157,7 +1157,7 @@ for more information about this event contact
 development@front.bc.ca
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-02-23-19-trench-ron-stonier-1964-mar-8">19. TRENCH | Ron Stonier: â€œ1964â€  | MAR 8</a>
+<a href="/instant-coffee/listings/2012-02-23-19-trench-ron-stonier-1964-mar-8">19. TRENCH | Ron Stonier: “1964”  | MAR 8</a>
 ------------------------------------------------------------------------
 TRENCH
 
@@ -1167,7 +1167,7 @@ Is pleased to present:
 
 Ron Stonier
 
-â€œ1964â€ 
+“1964” 
 
 March 8th through to April 7th 2012.
 

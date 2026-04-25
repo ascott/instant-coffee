@@ -15,7 +15,7 @@ Simon Fraser University at the Woodward's complex
 149 West Hastings St.
 Vancouver
 
-The Italian philosopher and critic Franco â€œBifoâ€  Berardi will give a
+The Italian philosopher and critic Franco “Bifo”  Berardi will give a
 free public lecture on the intersections of media, economics, and
 poetry at SFU Woodward’s on September 14.
 

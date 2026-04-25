@@ -23,7 +23,7 @@ the plague. The living death. Quickly closing its fist over the entire
 planet. Then we heard the rumors. That the last scientists were working 
 on a cure that would end the plague and restore the world. Restore 
 it……WHY? I like the death. I like the misery. I LIKE THIS 
-WOOOORRRRLLLLLLLLDDDD!!!!!â€  - Cyborg (1989 dir. Albert Pyun)
+WOOOORRRRLLLLLLLLDDDD!!!!!”  - Cyborg (1989 dir. Albert Pyun)
 
 It is with the eyes that the mutants have witnessed the most atrocities 
 therefore it is with these drawings that we commit upon the mutant an 

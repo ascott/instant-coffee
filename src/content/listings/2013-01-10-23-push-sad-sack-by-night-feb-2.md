@@ -17,7 +17,7 @@ dedicated to the expression of West Coast melancholy.
 
 Curated by artist Vanessa Kwan, the evening features words and slide
 shows by former host of CBC radio’s Nightlines, David Wisdom; a
-discussion of â€œMy Melancholy Babyâ€  with radical psychoanalyst Andrew
+discussion of “My Melancholy Baby”  with radical psychoanalyst Andrew
 Feldmar, a hearbreaker of a set by Hello, Blue Roses (Destroyer’s Dan
 Bejar with Sydney Vermont); and other surprises.
 A night to remember, mistily.

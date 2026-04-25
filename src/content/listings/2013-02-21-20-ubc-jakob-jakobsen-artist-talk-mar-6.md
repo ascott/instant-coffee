@@ -10,7 +10,7 @@ summary: "UBC | Jakob Jakobsen – Artist Talk | MAR 6"
 
 Jakob Jakobsen – Artist Talk
 “Self-institutionalization can be viewed as a kind of exorcism, a kind of 
-externalization of this internalized control.â€ 
+externalization of this internalized control.” 
 Wednesday, March 6, 2013 6:00 PM
 Jakob Jakobsen is a politically engaged visual artist, educator and activist. He 
 was part of the Copenhagen Free University from 2001 to 2007, was co-

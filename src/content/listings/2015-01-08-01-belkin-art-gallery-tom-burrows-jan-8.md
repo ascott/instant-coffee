@@ -34,7 +34,7 @@ demonstrates an interest in process and new materials, has encompassed a
 number of disciplines including sculpture, early performance art, video,
 painting and iconic hand-built houses on the Maplewood Mudflats and Hornby
 Island. Currently most well known for his innovative monochromatic cast
-resin â€œpaintings/sculpturesâ€  produced during the last forty-five years,
+resin “paintings/sculptures”  produced during the last forty-five years,
 this exhibition examines the full breadth of his career with works from the
 Belkin’s permanent collection and others borrowed from the artist,
 collectors and public institutions.

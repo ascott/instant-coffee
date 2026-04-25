@@ -13,7 +13,7 @@ Pulling Feathers from a Broken Tooth
 
 Casey Wei
 Jeremy Jansen
-Johan BjÃ¶rck
+Johan Björck
 Megan Hepburn
 Scott Lewis
 Steve Hubert

@@ -38,7 +38,7 @@ globe. Part III of Far Away So Close turns its attention to our always
 ultimately inadequate representation of landscape or, more properly, to
 three artists – Alana Bartol, Mike Bourscheid, and David Semeniuk – who
 examine the elaborate proxies we invent in our attempt to capture,
-represent or claim an â€œauthenticâ€  natural experience.
+represent or claim an “authentic”  natural experience.
 *
 
 Alana Bartol an interdisciplinary artist, curator, and educator from

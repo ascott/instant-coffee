@@ -35,7 +35,7 @@ communities exploring how language is used in advertising, its
 tactical role in colonization, and as a complex vehicle of 
 communication. Many of the English messages were translated and 
 displayed in Skwxwú7mesh, Kwak’wala, 
-hǝnâ€™qâ€™ǝminâ€™ǝmâ€™/Musqueam, Tahltan and Nlakaâ€™pamuctsin in 
+hǝn’q’ǝmin’ǝm’/Musqueam, Tahltan and Nlaka’pamuctsin in 
 addition to the hybrid forms that are part of twitter usage. Tweets 
 from the public were gathered and broadcast in the later part of the 
 month, making Digital Natives public art that the public not 

@@ -22,7 +22,7 @@ Landscape. The show offers an investigation into Vancouver’s
 relationship to landscape, as a space outside of the traditional
 Canadian landscape trope and sitting on the western edge of the
 continent. The works chosen address contemporary conceptions of
-landscape and marginality in multiple ways. The term â€œedgeâ€  is
+landscape and marginality in multiple ways. The term “edge”  is
 examined as a complex set of meeting points and contact zones of 
 urban
 and natural environments and the anxiety produced in these 

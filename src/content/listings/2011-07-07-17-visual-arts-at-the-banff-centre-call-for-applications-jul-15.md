@@ -23,8 +23,8 @@ collective and unconscious flows in the world. What unspeakable truth rises to
 the surface from this kind of looking? It’s a collaboration. Each participant 
 contributing equally, sharing authorship. Whilst there’ll be plenty of opportunity for 
 individual studio practice we’ll navigate this residency through field trips, hikes, 
-meetings with â€œrealâ€  people, collaborative video projects, individual quests, a lot 
-of â€œshow and tell,â€  too much late night Googling, coincidences and 
+meetings with “real”  people, collaborative video projects, individual quests, a lot 
+of “show and tell,”  too much late night Googling, coincidences and 
 misunderstandings, all tempered with the enjoyment of the potential to be found 
 in getting radically lost.
 

@@ -24,7 +24,7 @@ meteoric rise from small town to surging metropolis. Through his gorgeous
 portraiture, he grants us a unique look at political figures, local and
 visiting celebrities, and royal dignitaries. Although his own humble nature
 denied any such flattering titles, he was hailed as the “Karsh of
-Vancouverâ€  by Malcolm Parry of The Vancouver Sun. Self-taught, he believed
+Vancouver”  by Malcolm Parry of The Vancouver Sun. Self-taught, he believed
 in a formal education for photographers, and was instrumental in setting up
 the first professional photography diploma program at Langara College.
 

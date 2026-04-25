@@ -22,7 +22,7 @@ phone recordings, internet outings, confessions, media vigilantism, public
 shock and grief, we provide an artistic response to the Stanley Cup playoff
 riot, an event that will be well remembered long after the birthday candles
 have gone out on Vancouver 125. Jeff Chiba Stearns has created a series of
-120 drawings on 4â€  x 6â€  yellow sticky notes, animated at 12 frames per
+120 drawings on 4”  x 6”  yellow sticky notes, animated at 12 frames per
 second it is a refreshing visual form in comparison to the barrage of
 photo, video and blogging on this event. While sticky notes are most often
 used to post reminders and to-do lists, here they are used as an artistic
@@ -41,7 +41,7 @@ mayhem.
 “This idea is about peoples' reactions to cheer when good things happen and
 even when bad things happen. When the Olympic torch was relit for the
 Canucks' playoff run, people got excited... and when the city rioted people
-got even more excited. It's a strange world in which we liveâ€  (J.C.S., 2011).
+got even more excited. It's a strange world in which we live”  (J.C.S., 2011).
 
 Jeff Chiba Stearns is an animation and documentary filmmaker. Born in
 Kelowna, BC of Japanese and European heritage, a graduate of the Emily Carr

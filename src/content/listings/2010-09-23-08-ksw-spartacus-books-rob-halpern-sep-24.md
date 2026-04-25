@@ -28,7 +28,7 @@ Sensitive Skin (Atticus/Finch 2007), which will soon be reissued by
 Displaced Press.
 Currently, he's co-editing the poems of the late Frances Jaffer, together with
 Kathleen Fraser, and translating the early essays of Georges Perec, the second
-of which, Ã¢â‚¬Å“Commitment or the Crisis of Language,Ã¢â‚¬Â  recently appeared in the
+of which, ââ‚¬Å“Commitment or the Crisis of Language,ââ‚¬Â  recently appeared in the
 Review of Contemporary Fiction with an essay of his own on Perec. An active
 participant in the Nonsite Collective, Rob lives in San Francisco and
 Ypsilanti, Michigan.
@@ -69,9 +69,9 @@ The commons has become an important interdisciplinary site of research for
 political
 scientists and urban planners, geographers and ecologists, poets and artists,
 anti-poverty and anti-colonial activists. This work shop hopes to further our
-understanding of the commonsÃ¢â‚¬â€ its limits and possibilities, its enclosure and
-re-appropriationÃ¢â‚¬â€ via short talks, wide-ranging discussion, and possibly some
-participatory Ã¢â‚¬Å“commoning.Ã¢â‚¬Â 
+understanding of the commonsââ‚¬” its limits and possibilities, its enclosure and
+re-appropriationââ‚¬” via short talks, wide-ranging discussion, and possibly some
+participatory ââ‚¬Å“commoning.ââ‚¬Â 
 
 Thom Donovan lives in New York City, where he edits Wild Horses Of Fire
 weblog and
@@ -84,7 +84,7 @@ published widely
 in BOMB, PAJ: art + performance, Modern Painters, The Brooklyn Rail,
 Performa07, Museo,
 
-Fanzine, EXIT, and at the Poetry Foundationâ€™s Harriet weblog. Currently he
+Fanzine, EXIT, and at the Poetry Foundation’s Harriet weblog. Currently he
 is working on a
 
 collection of critical writings, Sovereignty and Us: Critical Objects

@@ -15,7 +15,7 @@ SFU Gallery, AQ 3004, 8888 University Drive, Burnaby
 
 Opening Events: Saturday September 14, 11am-1pm
 Breakfast, mimosas and live music.
-Starting at noon The Armadillo Quartet will play works by Antonin DvořÃ¡k and 
+Starting at noon The Armadillo Quartet will play works by Antonin Dvořák and 
 Philip Glass.
 
 Samuel Roy-Bois' practice is concerned with the conceptual and physical 

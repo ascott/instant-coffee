@@ -23,8 +23,8 @@ Tickets are $10 (at the door). Grab a copy of the magazine and celebrate
 with us! Cheap drinks!
 
 'Sad Mag' is a local, non-profit arts and culture magazine that is
-published quarterly, with a mandate to support Vancouverâ��s diverse culture
-and young artists. Sad Mag features the lives and work of Vancouverâ��s
+published quarterly, with a mandate to support Vancouver’s diverse culture
+and young artists. Sad Mag features the lives and work of Vancouver’s
 residents as seen through the eyes of burgeoning writers and visual artists
 based in the Vancouver area.
 

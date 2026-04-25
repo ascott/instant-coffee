@@ -13,17 +13,17 @@ grunt gallery | 350 E. 2nd Unit 116 | ph. 604.251.0784 | grunt.ca
 Sky Dome (props, patches, rips, and tears)
 
 Merritt Johnson
-Fri, May 14 â�� Sat, June 26
+Fri, May 14 ’ Sat, June 26
 Mid-exhibition Reception Fri. May 28, 8-11pm
 Curated by Tania Willard
 
-â��Land is home, it is evidence of not only itself, but of force- retaining
+’Land is home, it is evidence of not only itself, but of force- retaining
 and dissolving marks of everything it has housed and supported. It is also
-the dividing line of space- it is the plane where earth meets the sky.â��
+the dividing line of space- it is the plane where earth meets the sky.’
 Merritt Johnson
 
-Merritt Johnsonâ��s new work at grunt gallery investigates perceptions of
-division and confluence where land and sky meet. Johnsonâ��s work both
+Merritt Johnson’s new work at grunt gallery investigates perceptions of
+division and confluence where land and sky meet. Johnson’s work both
 constructs and dissolves the landscape, concrete and imagined, measuring
 the absurdity of boundries, borders and territories. Referencing mapping,
 her work also surveys sky by layering, revealing and inverting ideas of
@@ -34,7 +34,7 @@ of wind and water Johnson purposes new meridians and imaginary cartography
 into her drawings and paintings that suggest natural systems and rhythms.
 Symbolic animals depicted in the exhibition become protector, and witness
 to the impacts of land and resource exploitation. Revealing the broken sky
-Johnsonâ��s multi-disciplinary work seeks to repair it, following
+Johnson’s multi-disciplinary work seeks to repair it, following
 instructions found in the land itself as told by the sky.
 
 Merritt Johnson is an artist working in two and three dimensional media,

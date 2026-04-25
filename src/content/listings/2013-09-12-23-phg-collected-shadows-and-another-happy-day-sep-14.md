@@ -34,7 +34,7 @@ Through the juxtaposition of various contexts and photographic techniques,
 Collected Shadows focuses on the natural and supernatural: earth, fire, air, 
 and water, accompany subjects of astrology and flight. The AMC strives to 
 “store, explore, and represent the lost shadows that lens-based technologies 
-have scattered to the wind,â€  highlighting the criticality that can be brought into 
+have scattered to the wind,”  highlighting the criticality that can be brought into 
 our engagement with photography.
 
 The Archive of Modern Conflict is an organization and independent publisher 

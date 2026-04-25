@@ -62,7 +62,7 @@ Eric J. Paul’s sound installation transforms public feedback from the Surrey
 Art Gallery’s comment board into a musical score broadcasted in the inner 
 courtyard. The comments are broken down into letter units, and each letter is 
 converted into a morse code pattern to reflect the aspect of “hidden 
-messagesâ€ . The rhythmic pattern of the morse code is then scaled through 
+messages” . The rhythmic pattern of the morse code is then scaled through 
 computer programming to generate the sound composition. Determined by 
 numerological processing of the comments, this resulting composition erases 
 the melodic aspect of music, and its hierarchical position replaced by 

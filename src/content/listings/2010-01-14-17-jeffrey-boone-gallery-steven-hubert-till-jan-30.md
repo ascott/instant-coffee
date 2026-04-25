@@ -12,12 +12,12 @@ WINTER WHITE SPACE
 
 The Jeffrey Boone Gallery is pleased to present a winter-themed selection
 of paintings by Vancouver artist Steven Hubert. Running from January 9 -
-30, this timely exhibition explores the boundary between snow for snowâ��s
+30, this timely exhibition explores the boundary between snow for snow’s
 sake and snow as landscape affectation for the purpose of introducing, or
 leaving, white space for compositional reasons.
 
 An addendum to Hubert's previous show with the gallery, the painting
-Morning Trophy Question relates the original setting for that showâ��s query
+Morning Trophy Question relates the original setting for that show’s query
 "�what would a bush party look like in the morning after a sporting
 victory?" This missing context, which was wholly absent in the original
 exhibition, marks the artist's tendency to remove context from strings of

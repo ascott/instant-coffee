@@ -30,7 +30,7 @@ One of the questions posed by the Summer Institute 2014 will be how do
 feminists describe their work and how do we use feminist-informed language 
 to describe politicized art? Through readings, critique and hands-on creation, 
 participants will have the opportunity to consider a broad range of practices, 
-language and strategies that could be called â€œfeminist,â€  and that contribute to 
+language and strategies that could be called “feminist,”  and that contribute to 
 anti-oppression politics.
 
 This critical discursive opportunity will take place in Plug In ICA’s new 
@@ -49,14 +49,14 @@ DAG, has supported a variety of art projects, among them Les Blues, a group
 dedicated to increasing the visibility and histories of queer people of colour. 
 NAG, their angry letter writing campaign, took the Toronto International Film 
 Festival to task for their racist and misogynist list of “100 essential filmmakers 
-of all time.â€  Recent exhibitions include the presentation of art porn hybrid 
+of all time.”  Recent exhibitions include the presentation of art porn hybrid 
 Community Action Center by AL Steiner and AK Burns and a focus on the UK 
 based Cinenova collection as animated by eight local activists and artists.
 
 FAG is committed to the cultivation of a new kind of sisterhood that isn’t 
 based on gender and privilege and a new kind of brotherhood that isn’t based 
 on rape and pillage. FAG is feminist in its resistance and in its attempts to 
-reconcile â€œartsâ€  participation in oppressive systems. FAG is feminist in its 
+reconcile “arts”  participation in oppressive systems. FAG is feminist in its 
 insistence on closing the gap between studio, gallery, art, activism, social 
 and home. FAG is not fixed. FAG is not success. 
 https://www.facebook.com/FeministArtGallery

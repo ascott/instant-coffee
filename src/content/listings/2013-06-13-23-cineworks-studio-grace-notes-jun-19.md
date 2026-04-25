@@ -76,7 +76,7 @@ Total Running Time 39:20
 
 Experiment in Landscape No. 2, Sarah Fuller (3:03)
 
-A mountain scene viewed through the ground glass of an 8â€ x10â€  large format
+A mountain scene viewed through the ground glass of an 8” x10”  large format
 film camera. The artist enters the scene from the right, encountering deep
 show and unstable ground.
 

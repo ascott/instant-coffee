@@ -23,12 +23,12 @@ Through painting, photography, sculpture and mixed media installations, the
 artists offer a unique view of First Nations art in the region.
 
 “The vision for the project evolved directly from the concepts being investigated 
-in the work of artists, and co-curators, lessLIE and Rande Cook,â€  said Nicole 
+in the work of artists, and co-curators, lessLIE and Rande Cook,”  said Nicole 
 Stanbridge, AGGV Associate Curator of Contemporary Art and co-curator of 
 the exhibition. “They invited Dylan Thomas and Francis Dick to contribute to 
 the exhibition as well. The bodies of work presented by all four artists furthers 
 their investigation into personal stories, community histories and current 
-events.â€ 
+events.” 
 
 Conceived of as a two part exhibition, Urban Thunderbirds features Coast 
 Salish artists lessLIE and Dylan Thomas whose strong graphic work is 
@@ -73,7 +73,7 @@ Galapa (Rande Cook) was born in Alert Bay on the northern tip of Vancouver
 Island in 1977. Cook was inspired by artists who pushed the boundaries of 
 traditional art and challenged themselves to understand what defines Native 
 art and by those who produced work that followed the traditional spirit rather 
-than replicate historic masks in order to remain â€˜authenticâ€ . It is from this 
+than replicate historic masks in order to remain ‘authentic” . It is from this 
 inspiration that Ravens in a Material World takes shape. Cook looks to create 
 a new story from the old, this story line uses tradition as a foundation and 
 builds on it with contemporary themes.

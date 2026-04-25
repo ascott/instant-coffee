@@ -61,7 +61,7 @@ exchange. These spots glow and flicker suggesting the simultaneous coming
 together of people, places and points of public-ness. Maraya invites multiple 
 publics into the many visual and textual discourses that shapes our sense of 
 here in all its uncanny similarities and its disarmingly blatant differences to a 
-there.â€  â€“ Maraya
+there.”  – Maraya
 For the first time, Centre A, with the support of the Canada Interactive Fund, was 
 able to commission the artists to develop an experimental internet platform. It 
 invites publics to engage with the large scope of Maraya artworks, research 

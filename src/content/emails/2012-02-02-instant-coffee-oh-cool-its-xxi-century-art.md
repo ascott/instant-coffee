@@ -149,9 +149,9 @@ CAG on Facebook / CAG Blog / CAG on VIMEO / CAG on YouTube
 ------------------------------------------------------------------------
 
 OFFSITE: Kota Ezawa
-February 2, 2012 â€“ September 16, 2012
+February 2, 2012 – September 16, 2012
 
-Vancouver, BC - Opening at the Vancouver Art Galleryâ€™s Offsite space
+Vancouver, BC - Opening at the Vancouver Art Gallery’s Offsite space
 at Georgia and Thurlow on February 2nd, San Francisco-based artist
 Kota Ezawa presents Hand Vote, a timely and iconic image of
 democracy. At a moment when calls for social reform are a topic of
@@ -159,45 +159,45 @@ discussion both here in Canada and around the world, the large-scale
 wooden tableau depicts a diverse group of people raising their hands
 to vote in what appears to be a town hall meeting.
 
-Ezawaâ€™s Hand Vote is based on a stock photograph the artist found on
+Ezawa’s Hand Vote is based on a stock photograph the artist found on
 the internet. A small version of this work was commissioned for the
 2008 exhibition OURS: Democracy in the Age of Branding at Parsons
 The New School for Design in New York City. At Offsite, Ezawa has
 rendered the picture on large-scale, monumentalizing the image:
 standing more than six metres high and over nine metres wide, Hand
-Vote towers over the street and passersby. Ezawa says, â€œThere is a
+Vote towers over the street and passersby. Ezawa says, “There is a
 boldness to it. In my own trajectory as an artist, this is an important
 piece. When I first started I was best known as a digital animator. This
 is such a physical piece, and marks a real departure from my earlier
-works.â€ The sculpture is made of Douglas fir, in keeping with the artistâ€™s
+works.” The sculpture is made of Douglas fir, in keeping with the artist’s
 desire to connect the work to this area.
 
-In addition to wood sculptures such as Hand Vote, Ezawaâ€™s diverse
+In addition to wood sculptures such as Hand Vote, Ezawa’s diverse
 projects include digital animations, slide projections, light boxes, paper
 cut-outs, etchings, and ink drawings. He is perhaps best-known for his
 computer-generated animations of popular television, film and
-photographic images. Often Ezawaâ€™s inspiration comes from images of
+photographic images. Often Ezawa’s inspiration comes from images of
 what may be described as our collective cultural memory. Some of his
 noted works deal with culturally charged events, such as his 2002
 animated remake of the verdict in the O.J. Simpson trial, and short film
 versions of the assassinations of Presidents Abraham Lincoln and John
 F. Kennedy. In his hands, these well-known images become stylized
-and â€˜pared downâ€™, bringing the viewerâ€™s focus to the essentials of the
+and ‘pared down’, bringing the viewer’s focus to the essentials of the
 image, and calling on the viewer to re-assess their relationship with the
 memory of the event.
 
 Born in Cologne, Germany in 1969, Ezawa has been based in
 California since 1994. His work has been exhibited across Canada and
 the United States, including at the Museum of Modern Art, New York,
-Art Institute of Chicago and Musee dâ€™Art Moderne de la Ville de Paris.
+Art Institute of Chicago and Musee d’Art Moderne de la Ville de Paris.
 
-Offsite, the Galleryâ€™s outdoor exhibition space next door to the Shangri-
+Offsite, the Gallery’s outdoor exhibition space next door to the Shangri-
 La Hotel in downtown Vancouver, is dedicated to newly commissioned,
 innovative public art projects. Featuring work by acclaimed
 contemporary artists, the first four exhibitions were: the photo-based
 work of O Zhang in July 2009, a sculptural installation by Ken Lum in
 January 2010, a large-scale sculptural pavilion by artists Heather and
-Ivan Morison in October 2010 and Elspeth Prattâ€™s Second Date.
+Ivan Morison in October 2010 and Elspeth Pratt’s Second Date.
 
 Kota Ezawa will be speaking about Hand Vote at Offsite on Thursday,
 February 2nd at 6:30pm at the inauguration of the work.
@@ -211,7 +211,7 @@ City of Vancouver through the Public Art Program. The Gallery
 recognizes Ian Gillespie, President, Westbank; Ben Yeung, President,
 Peterson Investment Group; and the residents at Shangri-La for their
 support of this space. Offsite: Kota Ezawa is generously supported by
-our Visionary Partner: Michael Oâ€™Brian Family Foundation. Offsite is
+our Visionary Partner: Michael O’Brian Family Foundation. Offsite is
 curated by Kathleen Ritter, Associate Curator of the Vancouver Art
 Gallery.
 
@@ -423,7 +423,7 @@ the
 handmade but my practice is interdisciplinary and includes painting,
 drawing, print-making and animation in addition to book binding.
 --
-Opening: Friday, February 3 - 8 â€“ 11pm | Show Runs February 3-25
+Opening: Friday, February 3 - 8 – 11pm | Show Runs February 3-25
 
 www.megaspora.us
 
@@ -458,12 +458,12 @@ consider his position of power behind the canvas.
 
 Whilst Jay Senetchko and Jeremiah Birnbaum have approached the topic from 
 an intimate and personal perspective, Michael Abraham comments on the camp 
-and satirical nature of past â€œmasterpiecesâ€ . Keeping with his characteristic 
+and satirical nature of past “masterpieces” . Keeping with his characteristic 
 cubist technique, Marcus Macleod depicts modern variations of infamous 
 muses within his genre. Chad Krowchuk holds little back as he confronts the 
 taboo topics behind female sex and gender constructions. Finally, guest 
 Phantom, Jonathan Sutton, portrays the ghostly female inspirations behind the 
-historical â€œgreat menâ€  of art and literature. 
+historical “great men”  of art and literature. 
 
 Pennylane Shen is currently the associate curator of Elliott Louis Gallery and 
 has been the curator of Jacana Contemporary Art Gallery in Vancouver. She 
@@ -568,7 +568,7 @@ since 1968, he has been making images for over 25 years.
 
 Since the 1990s he has worked with Vancouver artist Neil Wedman on various 
 photo based projects including “Every Bus Stop from My Place to the 
-Racetrackâ€  (1997), and â€œMovies â€˜til Dawnâ€  (2009). Represented in Vancouver by 
+Racetrack”  (1997), and “Movies ‘til Dawn”  (2009). Represented in Vancouver by 
 the Vancouver Art Gallery Art Rentals and Sales and in Calgary at the Axis 
 Contemporary Art Gallery, his work has also been shown at the Surrey Art 
 Gallery, Port Moody Arts Centre and Canvas Gallery in Vancouver.
@@ -693,7 +693,7 @@ Reading the Kootenay School of Writing, which looks at contemporary
 poetics via Lacanian psychoanalysis. He often writes about visual art, 
 and with Lorna Brown was co-curator of the Digital Natives project 
 (2011), a public art installation on the electronic billboard on 
-Sḵwx̱wÃº7mesh territory next to the Burrard Street bridge in Vancouver. 
+Sḵwx̱wú7mesh territory next to the Burrard Street bridge in Vancouver. 
 He can be followed on twitter @Prof_Clinty.
 
 Stephen Collis is the author of four books of poetry, the most recent of 

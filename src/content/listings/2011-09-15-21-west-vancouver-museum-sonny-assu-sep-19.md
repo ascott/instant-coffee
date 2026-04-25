@@ -15,13 +15,13 @@ Artist Talk: October 19, 7 p.m.
 
 Longing is an installation of innovative, new work by Vancouver-based artist 
 Sonny Assu composed of sculptures and photographs. The sculptures are 
-found objects now displayed conceptually as â€œmasks.â€  As found objects they 
+found objects now displayed conceptually as “masks.”  As found objects they 
 provide the core focus of the investigation undertaken by the artist. Within this 
 context, found is juxtaposed to lost, or an art and culture altered or displaced by 
 conditions of colonialism and European settlement. The artist uses longing to 
 suggest a history reexamined and reclaimed.
 
-The photographs show the â€œmasksâ€  in situ within three sites, which characterize 
+The photographs show the “masks”  in situ within three sites, which characterize 
 the collecting and marketing of Northwest Coast art: as artifacts in the visible 
 storage area of an ethnographic museum, as fine art in an exhibition of aesthetic 
 objects in a commercial gallery, and the tourist shop emphasizing curiosities, 

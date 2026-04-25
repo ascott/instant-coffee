@@ -23,10 +23,10 @@ which are on view for the first time.
 “The Vancouver Art Gallery is extremely proud of the significant 
 growth we have experienced in our permanent collection, and this 
 exhibition is an acknowledgement of some of the recent generous 
-donations that have enriched our holdings,â€  said Kathleen S. Bartels, 
+donations that have enriched our holdings,”  said Kathleen S. Bartels, 
 the Vancouver Art Gallery’s Director. “Out of Sight exemplifies our 
 strategy to activate the Gallery’s permanent collection by showcasing 
-works in meaningful and engaging ways.â€ 
+works in meaningful and engaging ways.” 
 
 Artists presented in Out of Sight investigate the ambiguities of 
 perception—the imperfect nature of what we see and experience—by 
@@ -45,7 +45,7 @@ stand still.
 as a thematic starting point, Out of Sight offers stimulating 
 juxtapositions of contemporary and historical artists who collectively 
 encourage us to reconsider what we see in our everyday 
-encounters.â€  said Stephanie Rebick, Assistant Curator at the 
+encounters.”  said Stephanie Rebick, Assistant Curator at the 
 Vancouver Art Gallery. 
 
 The works included in Out of Sight are diverse in media and scale. 

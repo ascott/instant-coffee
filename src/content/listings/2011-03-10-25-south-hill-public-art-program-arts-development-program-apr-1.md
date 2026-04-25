@@ -18,7 +18,7 @@ The artwork commissioned will be part of a growing collection of art in the
 public space as envisioned in and
 guided by the South Hill Public Art Plan.This project will transform
 nondescript streetscape surfaces into
-platforms for creative and distinct artwork reﬂecting the communityâ€™s
+platforms for creative and distinct artwork reﬂecting the community’s
 unique character.
 
 This is a part time position for a 6-8 month contract with approximate

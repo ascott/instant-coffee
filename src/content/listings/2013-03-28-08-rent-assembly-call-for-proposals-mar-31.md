@@ -39,7 +39,7 @@ futures. Cultural producers will find it increasingly impossible to
 exist here, and will contend with their spaces and neighbourhoods
 being exploited by developers. Housing choices will largely be
 determined by the prejudices of property managers and landlords who,
-unlike most, can afford to say â€œno.â€ 
+unlike most, can afford to say “no.” 
 
 Two centuries after Adam Smith denounced land rent as an illegitimate
 form of accumulation, the seemingly passé 19th Century question of
@@ -82,9 +82,9 @@ by Renters
 ● Austerity and Prosperity: Increasing downward pressure and upwards
 redistribution
 ● First galleries, then bulldozers: Rent and cultural production
-● History of renterâ€™s strikes in Vancouver, from planning instigation
+● History of renter’s strikes in Vancouver, from planning instigation
 to outcomes
-● Mobilize your Complex!: A step-by-step guide to organising a renterâ€™s 
+● Mobilize your Complex!: A step-by-step guide to organising a renter’s 
 strike
 ● How to Fight Your Eviction: A workshop on navigating the Residential
 Tenancy Act in B.C.
@@ -97,7 +97,7 @@ companies, politicians and landed elites
 gentrification?
 ● Urban Renewal and Social Mixing: A study of euphemisms around
 gentrification, urban displacement and accumulation by dispossession
-● A Renterâ€™s Life in a Landlordâ€™s World: A critical comparison of
+● A Renter’s Life in a Landlord’s World: A critical comparison of
 rental laws, and tenants’ rights in North America, Europe and Asia
 
 This call for proposals is also a call for spaces. We are looking to

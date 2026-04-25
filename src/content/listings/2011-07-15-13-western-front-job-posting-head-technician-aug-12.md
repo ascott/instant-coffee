@@ -16,7 +16,7 @@ Date of Posting: July 12th, 2011
 Application Deadline: August 12th, 2011
 Salary: $33,500/year
 
-The Western Front seeks a highly skilled technical professional Ã�Â¢for the
+The Western Front seeks a highly skilled technical professional Â¢for the
 position of Head Technician. Reporting to the Media Arts Curator, The Head
 Technician provides technical support to the organization's three
 programmes Exhibitions, Media Arts, New Music and to the administrative
@@ -69,7 +69,7 @@ residencies.
 This position includes a competitive benefits package. As well, the
 position includes hours and resources for training and professional
 development. The Western Front Society is committed to the principles of
-EmploymentÃ�Â¨ Equity.
+EmploymentÂ¨ Equity.
 
 Applications containing a cover letter, CV and two references must be
 received by 4 PM on Friday, August 12, 2011.

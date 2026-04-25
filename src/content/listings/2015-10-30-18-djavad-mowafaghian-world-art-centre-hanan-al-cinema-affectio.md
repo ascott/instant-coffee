@@ -47,5 +47,5 @@ continues Marks's journey through experimental film and video,
 vanguard media studies, and her deep engagement with Arab visual
 culture. Introducing a body of work that will be unfamiliar to many,
 Marks’s searching analyses and insights make an invaluable
-contribution to the field.â€  â€”Akira Mizuta Lippit, Chair, Bryan Singer
+contribution to the field.”  —Akira Mizuta Lippit, Chair, Bryan Singer
 Division of Critical Studies, USC School of Cinematic Arts

@@ -48,7 +48,7 @@ accompaniment to a collection of Bull’s unedited 8mm and 16mm reels.
 
 As an homage to analogue television broadcasting, Signal & Noise presents
 two archives that reflect the social impact of regional production. Serbian
-born Artist Aleksandra Domanovićâ€™s anthology of television news-music from
+born Artist Aleksandra Domanović’s anthology of television news-music from
 the geographic region of ex-Yugoslavia will echo Anu Sahota’s installation
 of CBC program titles and station IDs from the 1950’s-1980’s. Station ID
 music from both archives will be remixed and performed by Basketball, Brady
@@ -58,7 +58,7 @@ The poetic aura of archives are central to Armenian Filmmaker Atavazd
 Pelechian’s oeuvre, which addresses violence of the twentieth century: its
 mass migrations, wars and dictatorships, through a lens on the Armenian
 people. Signal & Noise presents a retrospective of this little-known master
-of â€œdistance montageâ€ .
+of “distance montage” .
 
 Ellie Ga’s five-month residency aboard a research sailboat frozen in the
 ice near the North Pole informs her autobiographical performance featuring

@@ -19,8 +19,8 @@ Nigel-Z-flag
 
 God Save the Queen is inspired by the heavy curtain of colonialism that still 
 hangs over Canada and the spirit of rebellion that was once crystallized by the 
-Sex Pistols anti-Jubilee anthem, â€œGod Save The Queenâ€ . The question â€œHow 
-do you feel about living under the yoke of the British Crown to this day?â€  has 
+Sex Pistols anti-Jubilee anthem, “God Save The Queen” . The question “How 
+do you feel about living under the yoke of the British Crown to this day?”  has 
 been posed to First Nations artists and non-native artists producing a 
 spectrum of responses.
 

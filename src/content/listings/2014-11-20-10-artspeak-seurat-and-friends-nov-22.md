@@ -8,7 +8,7 @@ venue: "Artspeak"
 summary: "Artspeak | Seurat and Friends | NOV 22"
 ---
 
-â€œSEURAT AND FRIENDSâ€ 
+“SEURAT AND FRIENDS” 
 
 MATT BROWNING, JORDY HAMILTON, GYUN HUR
 

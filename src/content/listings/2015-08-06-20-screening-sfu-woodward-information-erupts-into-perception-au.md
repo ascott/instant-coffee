@@ -28,7 +28,7 @@ Mounir Fatmi, Who is Joseph Anton? (Morocco/France, 2013, 11:00)
 Naz Shahrokh, On the Road (be fekret hastam) (United Arab Emirates, 2013 6:40)
 
 Live Cinema Performance (30 minutes)
-VJ Um Amel with Fadi Z. Sakr, â€œFrom Cairo to Gaza: Mobilizing the Body Politicâ€ 
+VJ Um Amel with Fadi Z. Sakr, “From Cairo to Gaza: Mobilizing the Body Politic” 
 
 These works identify patterns of information that lie below visible and
 audible thresholds and bring them into perception. They are alert to

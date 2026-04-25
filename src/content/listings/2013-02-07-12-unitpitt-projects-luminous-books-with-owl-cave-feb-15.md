@@ -22,7 +22,7 @@ intersections between disciplines.
 
 “Intersection: first word of simultaneously magical and scientific consonance. 
 Word which I granted the absolute power to link and bind things, according to 
-fabulous logics.â€ 1
+fabulous logics.” 1
 
 A collaboration with artist-led book project Owl Cave, based in San Francisco, 
 responds to the internal logic of building and navigating a collection, with 

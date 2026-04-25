@@ -279,7 +279,7 @@ appointment.
 May 18th – Closing reception.
 Work remains on display until May 31st.
 
-Oil-on-wood portraits (12"x12â€ ) will be completed in a 1-2 hour sitting in 
+Oil-on-wood portraits (12"x12” ) will be completed in a 1-2 hour sitting in 
 the gallery at the special rate of $250 (single) $350 (couple). Pets and 
 children are welcome; costumes and personality are encouraged. 
 Sarah will maintain full-time hours at the gallery during her residency 
@@ -329,7 +329,7 @@ Blim presents:
 Isolation Day
 by Ashley Andel
 Accurately described by the quote “slipping into madness is good for 
-the sake of comparisonâ€  coined by Ameri- can artist Jenny Holzer, and 
+the sake of comparison”  coined by Ameri- can artist Jenny Holzer, and 
 popularized by the seminal Japanese electropop band Yellow Magic 
 Orchestra, Isola- tion Day is about periodic escape from daily 
 mundanity by way of mendacity; like playing hooky from school for a 
@@ -339,7 +339,7 @@ constructed to the saccharine tunes of K- pop darlings Humming Urban
 Stereo after a day of work in a dusty warehouse.
 Ashley Andel is a Vancouver based artist who amuses himself by 
 making things. Sometimes, he amuses others with his output. This is his 
-second show at Blim; the first one being â€œReticent Workâ€ , mounted in 
+second show at Blim; the first one being “Reticent Work” , mounted in 
 October 2009.
 ashleyandel.tumblr.com
 
@@ -609,7 +609,7 @@ components to young people.
 
 The animals range from the real to the invented, and as "Border 
 Crossings" editor Meeka Walsh wrote, "The Winnipeg Alphabestiary" is 
-about â€œBeauty and the Beastâ€ , as well as â€œBeauty in the Beast.â€ 
+about “Beauty and the Beast” , as well as “Beauty in the Beast.” 
 
 Lunchtime Talks with Bill Jeffries: Tuesday to Friday, May 15 to 18, 
 12:20 and 12:40.
@@ -846,7 +846,7 @@ elegant surface.
 Artist Biographies
 Sin-Ying Ho’s works are part of her series Meeting Places (2007-2009). 
 Her work reflects the impact of globalization on the cultural borrowings 
-and interactions in an accelerated â€œglobal village.â€  She currently 
+and interactions in an accelerated “global village.”  She currently 
 teaches at Queen’s College in New York City. 
 
 Paul Mathieu is interested in the role and function of ceramics within 

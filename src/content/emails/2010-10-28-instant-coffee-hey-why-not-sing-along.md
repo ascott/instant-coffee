@@ -404,14 +404,14 @@ the writer Agatha Christie at an archeological excavation in northeastern
 Syria in the early 1930s, while the others are aerial shots of the same
 area taken by an anonymous photographer 8 to 10 years later. In addition to
 its exhibition in Following A Line, this work has been exhibited in various
-versions at KÃ¼nstlerhaus Stuttgart (2009); KIOSK, Gent (2010); and
+versions at Künstlerhaus Stuttgart (2009); KIOSK, Gent (2010); and
 RaebervonStenglin, Zurich (2010). Selected group exhibitions include
 Triumph of the Will Revisited, International Biennale for Contemporary Art,
 Prague; Cairoscape, Kunstraum Kreuzberg Bethanien, Berlin (2008); On
 Tectonics of History, ISCP, New York (2009); and One Time One Million
 (Migratory Birds/Romantic Capitalism), Uqbar: Society for Representation
 Research, Berlin (2009). Roma Publications have produced several catalogues
-to accompany the artistâ��s recent exhibitions. Kriemann is represented by
+to accompany the artist’s recent exhibitions. Kriemann is represented by
 RaebervonStenglin, Zurich and Galerie Wilfried Lentz, Rotterdam.
 
 Following A Line also includes work by Pablo Bronstein, Peter Gazendam,

@@ -80,7 +80,7 @@ Reoccurring Themes 
 
 Cutty Contemporary Art Gallery;
 
-29 September â€“ 30 October, 2011 
+29 September – 30 October, 2011 
 
 Opening reception 29 September, 7-11 pm
 
@@ -235,7 +235,7 @@ the character of the gallery and plunge the viewer into a vivid postminimalist
 nightmare...
 
 For the record, artists are not the only people who wonder from time to 
-time: â€œwhat the hell am I doing here, now?â€  Critics also have their crises: Dieter 
+time: “what the hell am I doing here, now?”  Critics also have their crises: Dieter 
 Roelstraete observes the qualitative dodginess of the artistic production of his 
 contemporaries.
 
@@ -281,7 +281,7 @@ concepts of hospitality and welcome. A conversation with Kevin McGarry.
 TEN FUNDAMENTAL QUESTIONS OF CURATING, a project by Jens Hoffmann 
 sponsored by Fiorucci Art Trust and Mousse Publishing, explores the 
 multifaceted physiognomy of the curator. The sixth of ten dossiers features 
-Elena Filipovic answering the question â€œWhat is an exhibition?â€ , plus images 
+Elena Filipovic answering the question “What is an exhibition?” , plus images 
 selected by Nairy Baghramian.*
 
 Nick Currie tells us about the unpleasant effects of culinary globalization, through 
@@ -326,7 +326,7 @@ poetry and puzzles… For REPRINT he has selected a short story by Lydia
 David, and other very concrete things.
 
 What are the reasons behind the widespread interest in the question of 
-the â€œthemeâ€  in much of the art of recent years? Chus MartÃ­nez answers, outlining 
+the “theme”  in much of the art of recent years? Chus MartÃ­nez answers, outlining 
 an extraordinary perspective that reconsiders concepts of reality, history and 
 language.
 
@@ -382,7 +382,7 @@ Facilitated by Alex Muir
 1965 Main St. www.vivomediaarts.com
 
 No Reading returns in September with materials on early French avant-garde 
-film. Paul Willemenâ€™s article â€œPhotogÃ©nie and Epstein,â€  surveys the texts of Jean 
+film. Paul Willemen’s article “Photogénie and Epstein,”  surveys the texts of Jean 
 Epstein and his contemporaries (Louis Delluc, Riciotto Canudo). Willemen 
 characterizes their efforts as some of the earliest attempts to theorize film. As a 
 result or in addition, Willemen relates their development of the term, Photogénie, 
@@ -582,7 +582,7 @@ Vancouver is the most culturally diverse city in Canada. Akin to the words of ou
 current Mayor, Gregor Robertson, during his inaugural speech at Vancouver’s 
 city hall in 2008, “we come together to affirm our common purpose… not [by] 
 leading a city of generic uniformity, but a city rich with artistic voices and the 
-cultural wealth that flows from our diversityâ€ . The Western Front couldnâ€™t agree 
+cultural wealth that flows from our diversity” . The Western Front couldn’t agree 
 more, for nearly 40-years we have been developing artistic programmes and 
 projects that explore and support this notion of a shared cultural ecology in our 
 community.
@@ -1037,7 +1037,7 @@ Gallery Hours: Wednesday to Friday 12-5pm
 By Appointment: onmain@gmail.com 604.872.7713
 ______________________________________________________
 
-â€œâ€¦a rare opportunity to view pivotal pieces.â€  Preview Magazine
+“…a rare opportunity to view pivotal pieces.”  Preview Magazine
 “…well worth seeing." Malcolm Parry, Vancouver Sun
 
 This inaugural exhibition is a celebration of Vancouver art and artists featuring 
@@ -1073,7 +1073,7 @@ ambitious art collections often boast a focus, this collection is a reflection o
 four-corner engagement with the city and its histories. In that sense it is as much 
 a personal diary as a wide-ranging collection of objects and gestures. Of interest 
 are artworks both from and of the city -- the local conversation but also those 
-taking place from without, and the (inter)relationship between the twoâ€  (Michael 
+taking place from without, and the (inter)relationship between the two”  (Michael 
 Turner, 2011).
 
 
@@ -1102,9 +1102,9 @@ the Arctic.
 
 “The exposure to Japanese printmaking gave the Inuit a new form of cultural 
 expression, and they soon gave the world an original, distinctive and exciting 
-genre of graphic arts,â€  said Dr. Victor Rabinovitch, President and CEO of the 
+genre of graphic arts,”  said Dr. Victor Rabinovitch, President and CEO of the 
 Canadian Museum of Civilization Corporation. “This is a wonderful example of 
-the outstanding benefits of cultural interaction and adaptation.â€  
+the outstanding benefits of cultural interaction and adaptation.”  
 
 Inuit Prints: Japanese Inspiration explores the Japanese influences on the early 
 years of the Cape Dorset studio. In 1957, James Houston, then a government 
@@ -1115,7 +1115,7 @@ masters of the art, Un’ichi Hiratsuka. The exhibition includes some of the rar
 and earliest Cape Dorset prints and the actual Japanese prints that were brought 
 into Cape Dorset in 1959,inspiringthe Inuit artists. By juxtaposing the works, the 
 exhibition reveals the many ways in which the Cape Dorset artists 
-creatively â€œlocalizedâ€  Japanese influences.
+creatively “localized”  Japanese influences.
 
 Ever since, Inuit printmakers have used the medium to express their creativity 
 and to document their history and culture and modern-day influences on their 
@@ -1161,15 +1161,15 @@ Japanese paintings during the Fifteen-Year War (1931-1945) and the question of
 Japanese fascism.
 
 Speakers Series
-Japanese Inspiration: Hiratsuka Unâ€™ichi and the â€œCreative Printsâ€  Movement
+Japanese Inspiration: Hiratsuka Un’ichi and the “Creative Prints”  Movement
 By Maiko Behr
 Thursday, November 9, 2011, 7pm
 Admission by donation
 Independent scholar Maiko Behr provides an overview of the history of 
 woodblock printing in Japan, with a focus on the themes and techniques of 
-Hiratsuka Unâ€™ichi and other artists of the mid-20th century â€œCreative Printsâ€  
+Hiratsuka Un’ichi and other artists of the mid-20th century “Creative Prints”  
 movement. After the presentation, enjoy a walk-through of the exhibition “Inuit 
-Prints: Japanese Inspiration.â€ 
+Prints: Japanese Inspiration.” 
 
 National Nikkei Museum and Heritage Centre
 6688 Southoaks Crescent, Burnaby, BC V5E 4M7
@@ -1207,7 +1207,7 @@ ogiwara@nikkeiplace.org
 <a href="/instant-coffee/listings/2011-09-29-18-this-great-society-call-for-november-edition-oct-12">18. This Great Society | Call for November edition | OCT 12</a>
 ------------------------------------------------------------------------
 A new issue of This Great Society is up! This month, Society contributors 
-explore the theme of â€œLUCKâ€  through written, visual, time-based, and audio arts 
+explore the theme of “LUCK”  through written, visual, time-based, and audio arts 
 in all mediums. View the issue at www.thisgreatsociety.com.
 This Great Society is an online creative journal that publishes monthly. We are 
 based in Vancouver and focus on emerging artists from the Northwest and more.
@@ -1330,34 +1330,34 @@ site-specific and Internet projects, and commissions.
 RESPONSIBILITIES
 The Exhibitions Curator reports to the Executive Director, and is responsible for:
  
-â€¢ Developing and communicating a dynamic vision for the Exhibitions Program 
+• Developing and communicating a dynamic vision for the Exhibitions Program 
 • Curating exhibitions and all associated programming
  
 • Editing publications
  
-â€¢ Writing grants and seeking opportunities for additional funding or support 
+• Writing grants and seeking opportunities for additional funding or support 
 • Supervising one part-time staff member, contract workers, as well as 
 volunteers
 
 QUALIFICATIONS
 
-â€¢ Exemplary knowledge and understanding of contemporary art practices 
+• Exemplary knowledge and understanding of contemporary art practices 
 
-â€¢ Excellent written and verbal communication skills 
+• Excellent written and verbal communication skills 
 
-â€¢ Proven financial management experience 
+• Proven financial management experience 
 
-â€¢ Strong organizational skills 
+• Strong organizational skills 
 
-â€¢ Ability to provide direction and work with a diverse staff 
+• Ability to provide direction and work with a diverse staff 
 • High capacity to meet deadlines and work under pressure
-â€¢ Knowledge of a broad range of issues related to the arts 
+• Knowledge of a broad range of issues related to the arts 
 • A clear understanding of the philosophy and history of the Canadian artist-run 
 centre
 movement
 • Knowledge of the principle funding agencies and prior grant writing experience
 • Knowledge of managing publications and print projects
-â€¢ Experience installing a variety of art exhibitions 
+• Experience installing a variety of art exhibitions 
 • Mac OS, Microsoft Office and Filemaker Pro, an asset
 
 BENEFITS

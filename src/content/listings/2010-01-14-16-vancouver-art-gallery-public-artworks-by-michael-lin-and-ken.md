@@ -22,7 +22,7 @@ enlivening Vancouver's downtown streets during the 2010 Olympic and
 Paralympic Winter Games with three major public art installations in the
 city's most prominent locations. Using the exuberant floral patterns of
 Taiwanese fabric, Taipei-based artist Michael Lin will cover the Gallery's
-entire northern faÃ�Â§ade with a massive hand-painted mural. The southern side
+entire northern faÂ§ade with a massive hand-painted mural. The southern side
 of the Gallery will be transformed into an outdoor theatre presenting a
 continuous flow of video-based works on a massive LED screen. At Vancouver
 Art Gallery Offsite, the Gallery's recently launched outdoor exhibition
@@ -45,7 +45,7 @@ Michael Lin: A Modest Veil January 23 to May 2, 2010
 The Georgia Street Plaza, the largest public square in downtown Vancouver,
 will be backed by nearly 6,000-square-feet of brilliant colour composing
 Michael Lin's massive mural titled Georgia Street Plaza 23.01 - 02.05.10,
-2010. Covering the Gallery's entire northern faÃ�Â§ade, Lin's enveloping
+2010. Covering the Gallery's entire northern faÂ§ade, Lin's enveloping
 intervention will dramatically transform this high-traffic area. Thousands
 of passersby will be invited to reinterpret the altered architecture of the
 Gallery's neo-classical building and consider the cultural references and
@@ -73,7 +73,7 @@ CUE: Artists' Videos January 23 to March 21, 2010,
 CUE: Artists' Videos will present the most innovative and compelling local,
 national and international artists working in film and video today.
 Presented on a nearly 20-foot, high-resolution LED screen on the Gallery's
-Robson Street faÃ�Â§ade, the series will run daily from 5 am to 2 am. The
+Robson Street faÂ§ade, the series will run daily from 5 am to 2 am. The
 adjacent Robson Street Plaza, one of the city's busiest pedestrian hubs,
 will be particularly lively during the Olympic Winter Games when the area
 becomes an official site for live entertainment and a major centre for
@@ -120,13 +120,13 @@ Lower Mainland.
 Ken Lum is a Vancouver artist whose work questions the relationship between
 modernism, mass culture and everyday experience, often blurring the
 boundaries separating high art and popular culture. Over the past twenty
-years, Lumâ��s work has been presented in solo exhibitions throughout North
+years, Lum’s work has been presented in solo exhibitions throughout North
 America, Europe and Asia. He has also represented Canada at the Istanbul
-Biennial, SÃ�Â£o Paulo Biennial, Shanghai Biennale, Gwangju Biennale and
-Documenta. The Galleryâ��s Offsite exhibition space near the intersection of
-Georgia and Thurlow streets in Vancouverâ��s downtown core offers a rotating
+Biennial, SÂ£o Paulo Biennial, Shanghai Biennale, Gwangju Biennale and
+Documenta. The Gallery’s Offsite exhibition space near the intersection of
+Georgia and Thurlow streets in Vancouver’s downtown core offers a rotating
 program of innovative public art projects by local and international
-artists, which respond to the cityâ��s unique urban environment.
+artists, which respond to the city’s unique urban environment.
 
 Vancouver Art Gallery Offsite: Ken Lum is organized by the Vancouver Art
 Gallery and curated by Audain Curator of British Columbia Art, Grant Arnold
@@ -138,16 +138,16 @@ During the 2010 Olympic and Paralympic Winter Games, the Vancouver Art
 Gallery will present the best of British Columbia to the world and the best
 of the world in British Columbia. From a landmark exhibition of drawings by
 Leonardo da Vinci and an arresting presentation of contemporary art based
-on the human form, to a massive two-floor survey of British Columbiaâ��s
+on the human form, to a massive two-floor survey of British Columbia’s
 visual art, visitors will experience some of the most exciting programming
-in the Galleryâ��s history. Thanks to a partnership that will see the
-Province of British Columbiaâ��s BC Canada Pavilion located on the fourth
+in the Gallery’s history. Thanks to a partnership that will see the
+Province of British Columbia’s BC Canada Pavilion located on the fourth
 floor of the Gallery, all exhibitions will be free to the public during the
 17 days of the Olympic Winter Games.
 
 Leonardo da Vinci: The Mechanics of Man -- February 6 to May 2, 2010
 
-Visceral Bodies â�� February 6 to May 16, 2010
+Visceral Bodies ’ February 6 to May 16, 2010
 
 Visions of British Columbia: A Landscape Manual -- January 23 to April 18, 2010
 

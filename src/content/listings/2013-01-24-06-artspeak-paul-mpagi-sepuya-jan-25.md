@@ -28,7 +28,7 @@ their portraits made, in formal set-ups as well as snapshots. Each portrait is
 constructed amidst the unfinished editing process of those works that 
 preceded it, and in reference to those other images that populate the studio. 
 Sepuya states, “My studio was private, but not a closed environment. Rather, 
-it was a stage that I inhabited and opened to those around me.â€ 
+it was a stage that I inhabited and opened to those around me.” 
 
 Please join us at the opening reception of Studio Work, Friday January 25th. 
 All are invited to a public conversation between artist and curator, to take 

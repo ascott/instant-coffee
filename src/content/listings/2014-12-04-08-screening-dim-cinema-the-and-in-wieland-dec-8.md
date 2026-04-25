@@ -12,7 +12,7 @@ summary: "SCREENING | DIM Cinema | The And in Wieland | DEC 8"
 Would he be a good leader? Or just a politician? Irony came wandering in,
 in the porn of applause for his statement ‘Reason over passion, that is
 the theme of all my writing.’ It should be reason and passion in a
-person.â€  JOYCE WIELAND
+person.”  JOYCE WIELAND
 
 Two Pierres are the keystones in these twin portraits of a nation at a
 historical turning point, playfully interlocking the main themes of Joyce

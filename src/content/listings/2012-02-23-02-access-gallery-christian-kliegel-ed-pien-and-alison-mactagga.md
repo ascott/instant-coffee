@@ -43,22 +43,22 @@ You and I… includes a series of illustrations with text, and two
 prototypes: Prototype A (the outdoor version) and Prototype B (the 
 indoor version). Viewers are welcome to examine Prototype B, which is 
 included in the exhibit but are not allowed to operate it. The artwork 
-does â€œfunctionâ€  but the intent is for this function to operate within its 
+does “function”  but the intent is for this function to operate within its 
 constructed state of potential and promise. With that said, MacTaggart 
 makes such objects to engage viewers in the process of looking and 
-imagining, rather than physical participation, in order to â€œactivateâ€  the 
+imagining, rather than physical participation, in order to “activate”  the 
 artwork.
 
-The illustrations that accompany the prototype â€œinstructâ€  and direct 
+The illustrations that accompany the prototype “instruct”  and direct 
 viewers to imagine a metaphorical purpose for the tuning-fork-like 
 apparatus and its two different embodiments. Complete with a written 
 abstract, diagrammatic drawings, descriptions and naming of the 
-prototypes and their parts, the visuals help â€œexplainâ€  to the viewer how 
-the prototypes â€œworkâ€ .
+prototypes and their parts, the visuals help “explain”  to the viewer how 
+the prototypes “work” .
 
 MacTaggart’s installation incorporates elements of both humour and 
 seriousness in order to simultaneously engage and unsettle the viewer. 
-The resulting works in the exhibit make â€œvibratoryâ€  references to 
+The resulting works in the exhibit make “vibratory”  references to 
 harmony and discordance, pitch, tone, elastic potential energy, and 
 other forces and effects. They promise an encounter between the 
 viewer(s) and the artwork, the viewer and his or herself, and the viewer 

@@ -20,12 +20,12 @@ artistic practice.
 
 Featuring over a dozen works on paper in graphite, mixed media and pencil, the 
 core drawings are complemented by related jewelry works and a large paper 
-cast mask (â€œRavens Tailâ€ , paper, 42 x 25.5 x 8 inches), displayed here for the 
+cast mask (“Ravens Tail” , paper, 42 x 25.5 x 8 inches), displayed here for the 
 first time.
 
 Gwaai is a strong voice in the Haida community. This exhibition explores not 
 only Gwaai’s individual artistic practice, but also addresses the larger issue of 
-historically limiting definitions of â€œFirst Nationsâ€  art.
+historically limiting definitions of “First Nations”  art.
 
 Regards,
 Jeen Yee

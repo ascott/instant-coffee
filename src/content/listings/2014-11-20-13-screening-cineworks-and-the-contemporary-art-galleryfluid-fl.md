@@ -13,14 +13,14 @@ convention and context in moving-image arts.
 
 BEN RUSSELL (USA)
 
-Ben RussellÃ¢€™s films, installations, and performances foster a deep
+Ben Russellâ€™s films, installations, and performances foster a deep
 engagement with the history and semiotics of the moving image. A 2008
 Guggenheim Fellowship and 2010 FIPRESCI award recipient, Russell has had
 solo screenings and exhibitions at the Centre Georges Pompidou, the Museum
 of Contemporary Art Chicago, the Rotterdam Film Festival, the Wexner Center
 for the Arts, the Viennale, and the Museum of Modern Art. He has toured
 worldwide with film/video/performance programs and was named by Cinemascope
-in 2012 as one of the Ã¢€™50 Best Filmmakers Under 50Ã¢€™.
+in 2012 as one of the â€™50 Best Filmmakers Under 50â€™.
 
 THE FILM SOCIAL
 A screening and discussion of Renzo Martens' Episode III: Enjoy Poverty
@@ -31,7 +31,7 @@ FREE; booking advised: http://goo.gl/LW6WZP
 
 Episode III, also known as 'Enjoy Poverty', is the 90 minute film
 registration of Renzo Martens' activities in the Congo. In an epic journey,
-the film establishes that images of poverty are the CongoÃ¢€™s most lucrative
+the film establishes that images of poverty are the Congoâ€™s most lucrative
 export, generating more revenue than traditional exports like gold,
 diamonds, or cocoa. However, just as with these traditional exports, those
 that provide the raw material: the poor being filmed, hardly benefit from
@@ -72,18 +72,18 @@ sees the cinema as a site for transformation.
 YOU THE CITY
 A half-day filmmaking workshop with Ben Russell
 $50 non-members / $40 Cineworks and VIVO members
-Monday 24, November; 1.30pmÃ¢€“5.30pm, (please arrive early)
+Monday 24, November; 1.30pmâ€“5.30pm, (please arrive early)
 Cineworks Studio, 1131 Howe Street, Vancouver (lane entrance)
 Advance booking required: http://goo.gl/3rr3I9
 
-Taking its title from the 1990 play by Fiona Templeton, in which the Ã¢€œyouÃ¢€Â 
+Taking its title from the 1990 play by Fiona Templeton, in which the â€œyouâ€Â 
 slowly shifts from audience member to cityscape, this 4-hour workshop takes
 a decidedly subjective approach towards understanding how filming a place
-turns it into a character, a body, and a speaking subject Ã¢€“ one that is
+turns it into a character, a body, and a speaking subject â€“ one that is
 defined through its formal qualities and mirrored through the eyes and ears
 of cinema itself. Through a selection of screenings (Lertxundi, Nishikawa,
 Rivers, Russell) and portrait exercises, participants will work through a
-character-driven definition of urban space Ã¢€“ one that views perspective,
+character-driven definition of urban space â€“ one that views perspective,
 camera movement, and focal length as character traits; one that finds
 ideology in both architecture and shot duration; and one that ultimately
 confuses author with subject, that calls out to YOU THE CITY.

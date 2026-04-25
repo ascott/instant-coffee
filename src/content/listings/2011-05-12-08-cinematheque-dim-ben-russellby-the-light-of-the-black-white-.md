@@ -32,7 +32,7 @@ Badlands National Park is suspended between the gullies and horizons of the
 desert landscape. “Concerned with notions of the romantic sublime,
 phenomenological experience, and secular spiritualism, the work continues
 Russell’s unique investigation into the possibilities of cinema as a site
-for transcendenceâ€  (Museum of Contemporary Art Chicago). Ben Russell:
+for transcendence”  (Museum of Contemporary Art Chicago). Ben Russell:
 www.dimeshow.com
 
 Black and White Trypps Number One (USA 2005. B&W, 16mm, silent. 6 mins.)

@@ -26,7 +26,7 @@ $50 $40
 ISBN: 978-1-927354-17-9
 
 Seth and Sheila Stayed Behind pairs a short story by writer Sheila Heti with 
-photographs by Seth Fluker. â€œSethâ€  and â€œSheilaâ€  are the main characters of 
+photographs by Seth Fluker. “Seth”  and “Sheila”  are the main characters of 
 Heti’s abstract narrative of longing and transition, one which sets the stage for 
 Fluker’s photographs of a wintry Toronto landscape filled with 
 anthropomorphized automobiles and embankments of dirty snow. 
@@ -40,7 +40,7 @@ David Horvitz across the Internet. The image—a self portrait of the artist wit
 his head in his hands, ocean waves crashing in the background—was initially 
 uploaded to the Wikimedia Commons and placed on various Wikipedia pages. 
 From there, the image began to circulate, appearing on over a hundred 
-websites as a â€œstockâ€  photo to illustrate articles on a wide range of mental 
+websites as a “stock”  photo to illustrate articles on a wide range of mental 
 health and wellness issues. Co-published with Chert and Motto Books.
 
 $15 $12

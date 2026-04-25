@@ -55,7 +55,7 @@ Stylishly idiosyncratic director Toshiki Okada is known for crafting sharp
 and visually vibrant works of theatre out of the most ordinary of 
 interactions. Founded in 1997, his Tokyo-based company is called 
 chelfitsch, a neologism that evokes a childish deformation of the 
-English word â€œselfish.â€  A rising star on the international theatre scene, 
+English word “selfish.”  A rising star on the international theatre scene, 
 chelfitsch has presented shows in the major theatre festivals of Berlin, 
 Vienna, Paris, Singapore and New York, returning to Vancouver after 
 the 2009 PuSh Festival favourite Five Days in March.

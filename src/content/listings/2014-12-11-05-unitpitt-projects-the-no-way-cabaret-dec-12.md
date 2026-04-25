@@ -47,7 +47,7 @@ you are invited!
 
 The evening will feature two sets of performances by local artists, poets,
 musicians and comedians (see below for confirmed participants).
-Additionally there will be a â€œBake Saleâ€  table with limited edition prints,
+Additionally there will be a “Bake Sale”  table with limited edition prints,
 publications, artworks, gifts and other materials donated by local artists
 for purchase. This evening also marks the release of a limited edition
 print of Stephen Collis’ poem 72 Theses Against Tar Sands Pipelines and the
@@ -70,6 +70,6 @@ Luciana D'Anunciacao; The Pom Bombs; Emilio Rojas * #kmfacePhotobooth by:
 Vandocument * DJs: TodayWasTomorrow; furiousgreencloud * plus more TBA!!!
 
 This event will be held on Unceded xʷməθkwəy̓əm (Musqueam),
-Sḵwx̱wÃº7mesh
+Sḵwx̱wú7mesh
 (Squamish), and Səl̓Ã­lwətaʔ/Selilwitulh
 (Tsleil-Waututh) territories.

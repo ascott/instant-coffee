@@ -77,10 +77,10 @@ House, using it as a studio and a place for community engagement,
 coinciding with the launch of As It Comes, two new interrelated public works.
 
 The colloquial use and structure of the written or spoken word figure 
-prominently in BoisjolyÃ¢€™s work. He often transforms the 
+prominently in Boisjolyâ€™s work. He often transforms the 
 meaning and 
 significance of language by rendering phrases indecipherable or by reordering 
-clichÃ©d aphorisms and mixing metaphors.
+clichéd aphorisms and mixing metaphors.
 
 As It Comes re-assembles passages taken from three North American First 
 Nations autobiographies: Black Elk Speaks, Yellow Wolf His Own Story and 

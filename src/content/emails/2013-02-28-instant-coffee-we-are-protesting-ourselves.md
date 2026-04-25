@@ -124,7 +124,7 @@ School of Art and Goldsmiths College, University of London, earning a BFA in
 1990. Her work explores the differences between public and private life, the 
 individual and society, voyeurism and exhibitionism, and fiction and fact. In its 
 candor and psychological intensity, Wearing’s work extends the traditions of 
-photographic portraiture and has described her methodology as â€œediting lifeâ€ , 
+photographic portraiture and has described her methodology as “editing life” , 
 acknowledging influences such as August Sander, Walker Evans, and Diane 
 Arbus.
 
@@ -151,7 +151,7 @@ Whitechapel Gallery, London (2012), which toured to K20, Kunstsammlung
 Nordrhein-Westfalen, Dusseldorf (2012), and the Museum Brandhorst, 
 Munich, (opening March 2013), Galleria Civica de Arte Contemporanea di 
 Trento (2007), the Museum of Contemporary Art in Chicago (2003), Sala de 
-Exposiciones de la FundaciÃ³n â€œla Caixaâ€  in Madrid (2001, MusÃ©e dâ€™Art 
+Exposiciones de la Fundación “la Caixa”  in Madrid (2001, Musée d’Art 
 Moderne de la Ville de Paris (2001), Serpentine Gallery in London (2000) and 
 La Centre d’Art Contemporain in Geneva (1998). A major monograph on 
 Gillian Wearing was published by Ridinghouse to coincide with her 
@@ -429,7 +429,7 @@ UK in 2005 led Corsano to develop an expanded solo music project,
 incorporating sax reeds, violin strings and bows, pot lids, and everyday
 household items into his drum kit. In February 2006 he released his first solo
 album, The Young Cricketer (Hot Cars Warp Records), and toured extensively
-throughout Europe, USA, and Japan. Corsano performed on BjÃ¶rk's Volta
+throughout Europe, USA, and Japan. Corsano performed on Björk's Volta
 world tour in 2007 and 2008. In 2009, he returned focus to his own projects,
 most notably a duo with Michael Flower, Rangda (with Sir Richard Bishop and
 Ben Chasny) and solo work, now revamped to include synthesizers and
@@ -496,7 +496,7 @@ services on a voluntary basis.
 
 March 4th – Dina Al-Kassim
 “Of Elephants and Kings: A Seminar on Jacques Derrida’s The Beast and the 
-Sovereign, Vol. Iâ€ 
+Sovereign, Vol. I” 
 
 With the translation of Michel Foucault’s 1975 seminar Society Must Be 
 Defended in 2003, a new wave of interest in biopolitics, already underway 
@@ -507,7 +507,7 @@ seeming normalization of refugee status, indefinite detention, torture and other
 sovereign exceptions that blur the distinction between rogue state and rule of 
 law. While political philosophy has attended to intensifications and alterations 
 in the contemporary framing and embodiment of state sovereignty, going so 
-far as to suggest that the â€œstate of exceptionâ€  has become the rule, recent 
+far as to suggest that the “state of exception”  has become the rule, recent 
 work in postcolonial studies, critical races studies, feminist philosophy, queer 
 studies, third world cultural studies and literature offers nuanced and complex 
 analyses of life in the margins, analyses that demonstrate the inextricability of 
@@ -528,8 +528,8 @@ the human caught in a vast holding pen or state of exception become global in
 ever more ruthless forms of diminished life. Focusing on the final three 
 sessions of this work (pp. 250-349) we will follow Derrida’s engagement with 
 Agamben’s appropriation of Foucault and augment that discussion through 
-reference to two short texts: Agambenâ€™s â€œWhat is an Apparatus?â€  and 
-Foucaultâ€™s â€œThe Confessions of the Fleshâ€ .
+reference to two short texts: Agamben’s “What is an Apparatus?”  and 
+Foucault’s “The Confessions of the Flesh” .
 
 Dina Al-Kassim is the author of On Pain of Speech: Fantasies of the First 
 Order and the Literary Rant, Al-Kassim is a critical theorist working on 
@@ -592,7 +592,7 @@ RECESS
 1426 SE Salmon St.
 Portland, OR 97214
 
-For digital submissions, weâ€™re asking for a small donation of ﬁfty
+For digital submissions, we’re asking for a small donation of ﬁfty
 cents for printing charges which can be made via our Paypal account.
 Please e-mail PDFs to info@recessart.com. We’ll also be accepting
 video resumés, contact us for further details. For more information,
@@ -782,7 +782,7 @@ the opportunity to show her work widely, on Instagram, which can be seen
 anywhere in the world with the right technology, but this is the first time her 
 work will be presented in a gallery space. 
 
-The Toast Collective is a collection of collectives that operate â€œThe Toastâ€  an 
+The Toast Collective is a collection of collectives that operate “The Toast”  an 
 art, event and food-centric space at 648 Kingsway in East Vancouver. Toast 
 is a D.I.Y., flexible and community-located space for artists, events and 
 workshops.
@@ -794,10 +794,10 @@ http://m.facebook.com/events/268570623275383/?ref=22
 https://www.facebook.com/groups/JUNKTION/
 
 The Toast Collective is a store front with the following measurements:
-Front door: 40â€  across
-Bathroom door: 27.5â€  across (the bathroom is very small)
+Front door: 40”  across
+Bathroom door: 27.5”  across (the bathroom is very small)
 The bathroom door opens in
-Kitchen door: 36â€  across
+Kitchen door: 36”  across
 There is 6.5″ tall step at the front entrance.
 
 

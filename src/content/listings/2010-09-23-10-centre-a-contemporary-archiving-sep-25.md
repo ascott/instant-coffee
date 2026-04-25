@@ -82,14 +82,14 @@ primarily Japan. For three years Bayer was the manager of the Rome studio
 of American artist Joseph Kosuth. In 1997 she guest-curated the exhibition
 The Search for the Spirit: General Idea 1968-1975 for the Art Gallery of
 Ontario, which presented several hundred previously unseen works from the
-"General Idea Archive," mostly early works that had been Ã¢ï¿½ï¿½shelved' or put
+"General Idea Archive," mostly early works that had been âï¿½ï¿½shelved' or put
 aside by the artists as they moved on to project after project during their
 25-year collaboration (active 1969-94). Bayer completed the 632-page
 "Finding Aid" to the vast General Idea fonds [Archive], which is currently
 housed in the National Gallery of Canada's Library and Archive and is one
 of the most actively consulted archival holding at the gallery (see
 http://www.gallery.ca/english/library/biblio/ngc112.html). She researched
-and compiled the complete body of Ã¢ï¿½ï¿½editioned works' that was published in
+and compiled the complete body of âï¿½ï¿½editioned works' that was published in
 Barbara Fischer, ed. General Idea Editions" 1967-1995 (Mississauga:
 Blackwood Gallery, 2003). Bayer was recently a Research Fellow at the
 National Gallery of Canada and is currently completing the catalogue

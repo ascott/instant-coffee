@@ -61,11 +61,11 @@ attention to AIDS. The conversation will focus on creative responses to the
 AIDS epidemic, exploring the potential of affecting change through focused,
 subtle and/or optimistic cultural interventions. Following the discussion,
 audience members are invited to stay for a reception and free screening of
-Annette MangaardÃ&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½s documentary General Idea: Art, AIDS and the fin de
+Annette MangaardÃ&#65533;Â¢ïÂ¿Â½ïÂ¿Â½s documentary General Idea: Art, AIDS and the fin de
 siÃ&#65533;ï¿½Ã&#65533;Â¨cle.
 
 Cineworks and Pacific Cinematheque present
-Annette MangaardÃ&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½s documentary
+Annette MangaardÃ&#65533;Â¢ïÂ¿Â½ïÂ¿Â½s documentary
 General Idea: Art, AIDS and the fin de siÃ&#65533;ï¿½Ã&#65533;Â¨cle (2008, 48 minutes)
 Sunday 30 November 2008, 3pm
 Pacific Cinematheque (1131 Howe Street)
@@ -75,7 +75,7 @@ In 1969, on the heels of the summer of love, three young Canadian artists
 came together to form a collective called General Idea. When the 1980s
 brought the first labeled cases of AIDS, General Idea responded by making
 art that addressed the plague virus. In an unforgettable coup, they
-appropriated the well-known Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½LOVEÃ&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½ painting by Robert Indiana
+appropriated the well-known Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½LOVEÃ&#65533;Â¢ïÂ¿Â½ïÂ¿Â½ painting by Robert Indiana
 and replaced
 those four letters with AIDS, for the now world-famous logo. General Idea
 toured Europe and North America with massive political installation pieces

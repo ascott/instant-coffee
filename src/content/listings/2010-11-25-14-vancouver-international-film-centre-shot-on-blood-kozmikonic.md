@@ -28,7 +28,7 @@ extensively, at underground local sites and at key international
 institutions, from obscure avant garde venues to landmarks such as the
 New York Museum of Modern Art, the National Gallery of Art
 (Washington), the Centre de Cultura Contemparania de Barcelona , the
-Kunsthalle, Basel, the European Media Art Festival(OsnabrÃ�Â¼ck), MIT
+Kunsthalle, Basel, the European Media Art Festival(OsnabrÂ¼ck), MIT
 Boston, the International Documentary Film Festival of Amsterdam
 (finalist for the Joris Ivens Award), the Nouveau Cinema Festival of
 Montreal, the Sao Paulo International Film Festival, the Chicago
@@ -48,7 +48,7 @@ The work is about representation today
 the beginnings of cinema via Eadweard Muybridge & the energy
 certificates of the Technocracy party & the absolute value of noise &
 the year 1957 & regional modernism & the binary communication
-revolution & Vermeer's-Milk Maid- & PoincarÃ�Â© recurrence theorem & the
+revolution & Vermeer's-Milk Maid- & PoincarÂ© recurrence theorem & the
 great Canadian cowboy singer Wilf Carter & Western Culture & the
 concept of Grace in Catholic painting & the Tath-gatas of Buddhism &
 Boris Karloff as Frankenstein reaching for the light.

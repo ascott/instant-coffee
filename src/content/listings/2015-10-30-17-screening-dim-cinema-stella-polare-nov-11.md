@@ -8,7 +8,7 @@ venue: "SCREENING"
 summary: "SCREENING | DIM Cinema | Stella Polare | NOV 11"
 ---
 
-â€œThis port city, itâ€™s much like any port city: itâ€™s everywhere and nowhere.â€ 
+“This port city, it’s much like any port city: it’s everywhere and nowhere.” 
 
 For Remembrance Day, DIM Cinema presents Stella Polare, an immersive essay
 film on the nature of war, terror and resistance; loss, memory and
@@ -18,10 +18,10 @@ casting our stranger’s gaze across an unnamed European city. There we
 encounter some of the town’s inhabitants as they stroll along a jetty in
 the fading evening light, peer into shop windows in half-deserted streets,
 and drift through the interiors of 19th-century apartments and museums,
-following the â€œdusted faded traces of a glorious imperial past.â€  From
+following the “dusted faded traces of a glorious imperial past.”  From
 these images, and from fragments of sounds and voices, develops a forensic
 narrative around “past histories, events and incidents that bleed into the
-presentâ€  (Andy Birtwhistle, Vertigo Magazine).
+present”  (Andy Birtwhistle, Vertigo Magazine).
 
 Stella Polare | Great Britain 2006. Dir: Anthea Kennedy and Ian Wiblin. 76
 min. Beta SP
@@ -40,7 +40,7 @@ memory. These have been shown at international festivals and galleries
 including Rotterdam, EMAF, Thessaloniki, Athens Ohio, Tate Modern,
 Whitechapel Gallery London and Collection Regard Berlin.
 
-â€œA lyrical meditation on memory, history and violent political activismâ€ 
+“A lyrical meditation on memory, history and violent political activism” 
 (Geoff Andrew, Time Out, Rotterdam Film Festival review).
 
 Wednesday, November 11, 2015

@@ -16,7 +16,7 @@ Infor­mal Com­mu­ni­ties:
 Celes­tial, Ter­res­trial and Sub­ter­ranean Movements
 Other Sights for Artists’ Projects is pleased to announce a recent addition to 
 our Commissioned Texts series: “Informal Communities: Celestial, Terrestrial 
-and Subterranean Movementsâ€  by Randy Lee Cutler.
+and Subterranean Movements”  by Randy Lee Cutler.
 
 http://www.othersights.ca/informal-communities-pdf
 

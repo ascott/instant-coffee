@@ -61,7 +61,7 @@ His work has appeared in such anthologies as Write Turns: New Directions in
 Canadian Fiction (Raincoast) and AWOL: Tales for Travel-Inspired Minds 
 (Vintage). Rick is also a songwriter. He has written and performed music with 
 The Beige, an atmospheric roots quintet whose second album, El Ã ngel 
-Exterminador, was released in 2010. His experimental â€œgospel funk operaâ€ , The 
+Exterminador, was released in 2010. His experimental “gospel funk opera” , The 
 Meal, premiered at the PuSh International Performing Arts Festival in 2011 and 
 will be restaged in Spring 2012. Rick was editor of EVENT from 2006-2010.
 

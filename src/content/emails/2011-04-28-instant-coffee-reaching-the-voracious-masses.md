@@ -291,7 +291,7 @@ disclosed.
 
 The research will result in a series of sculptural works most of them 
 contained inside lockets wore by performers throughout the night, 
-with different â€œrules of engagementâ€ . An attempt to be critical of 
+with different “rules of engagement” . An attempt to be critical of 
 interactivity within contemporary art, diplomacy, and military 
 procedures. The locket, refers to dual motifs of love and politics that 
 serve to connect the two vignettes that comprise the structure of the 
@@ -1156,7 +1156,7 @@ communities exploring how language is used in advertising, its
 tactical role in colonization, and as a complex vehicle of 
 communication. Many of the English messages were translated and 
 displayed in Skwxwú7mesh, Kwak’wala, 
-hǝnâ€™qâ€™ǝminâ€™ǝmâ€™/Musqueam, Tahltan and Nlakaâ€™pamuctsin in 
+hǝn’q’ǝmin’ǝm’/Musqueam, Tahltan and Nlaka’pamuctsin in 
 addition to the hybrid forms that are part of twitter usage. Tweets 
 from the public were gathered and broadcast in the later part of the 
 month, making Digital Natives public art that the public not 

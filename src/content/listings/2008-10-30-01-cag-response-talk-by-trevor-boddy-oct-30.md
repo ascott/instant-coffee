@@ -37,7 +37,7 @@ Capital Modern: Edmonton Architecture 1940-1969; his writing also appears
 in The Vancouver Sun, Ottawa Citizen, Seattle Times, Globe and Mail, and
 related design and architecture magazines. Boddy is curator and producer
 of the major exhibition Vancouverism: Westcoast Architecture and
-City-Building (www.vancouverism.ca) which ran last summer in Londonâ��s
+City-Building (www.vancouverism.ca) which ran last summer in London’s
 Trafalgar Square, opens November 20 in Paris, and will return home to
 Vancouver in an enlarged version for the 2010 Winter Olympics.
 
@@ -51,7 +51,7 @@ grateful for the support of Vancouver Foundation and our members, donors
 and volunteers.
 
 Contemporary Art Gallery, 555 Nelson Street, Vancouver, BC, V6B 6R5, Canada
-www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 â�� 6 pm.
+www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 ’ 6 pm.
 Admission is free by donation.
 
 For more information please contact: info@contemporaryartgallery.ca or

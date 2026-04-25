@@ -22,7 +22,7 @@ dog, at best maybe able to bite a cop’s leg, or at least warn you when they
 are at the door. Sometimes it allows us to think differently about the spaces 
 we need to contest. Poet and activist Stephen Collis will explore some of 
 these spaces, inside and outside of poems—from the streets, to urban and 
-suburban â€œcommons,â€  to the conceptual space of the future and the 
+suburban “commons,”  to the conceptual space of the future and the 
 pervasive and interconnected spaces of resource extraction that enclose 
 such futurity in diminishing climate returns. 
 

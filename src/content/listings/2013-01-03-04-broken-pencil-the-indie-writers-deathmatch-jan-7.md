@@ -111,19 +111,19 @@ Here's a sampling of comments from previous battles!
 TOO MUCH INFORMATION:
 “k. i am kinda in this new relationship and it makes doing anything other than 
 copulation almost impossible; i.e., sorry my comments are late–and here’s to 
-hoping my period is notâ€¦â€ 
+hoping my period is not…” 
 ANGRY:
-Back off, or I will beat the slime out of you with my aluminum walker. â€ 
+Back off, or I will beat the slime out of you with my aluminum walker. ” 
 CHEATING:
 “Wow. Does voting even matter any more? For what it’s worth, both stories in 
 this round are very good. I wish you the both of luck, and pray you both don’t 
 resort to cheating to win. Personally, I’d like to see the BP folks address the 
-blatant cheating from last roundâ€¦â€ 
+blatant cheating from last round…” 
 “You must have half of england voting for you…either that or a couple 
-computer geeks, can i be the first one to cry â€œFoul!â€ â€¦â€ 
+computer geeks, can i be the first one to cry “Foul!” …” 
 COME-ONS: 
 “Madeline… first of all, you have a wicked name. I’ve liked Madeline ever 
 since a high-school crush broke my heart because I went outside for a 
 cigarette instead of cuddling with her. Tragedy. And Masters? Sounds 
-powerful, and of course packed with some pun potential.â€ 
+powerful, and of course packed with some pun potential.” 
 more top comments from last year here.

@@ -29,7 +29,7 @@ pleased to present in partnership with VIVO Arts Media Centre the third
 edition of Cute to Kill, an expose of recent video works from local, 
 national, and international animators and video artists. This series of 
 short films explore the artists’ morbid fascination with dark subject 
-matter through the guise of â€œcuteâ€ --a prevalent juxtaposition in 
+matter through the guise of “cute” --a prevalent juxtaposition in 
 contemporary Asian pop culture.
 
 Blim’s Yuriko Iga and Vancouver-based artist Daniel Giantomaso co-

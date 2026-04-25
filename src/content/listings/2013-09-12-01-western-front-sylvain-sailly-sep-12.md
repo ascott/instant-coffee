@@ -27,7 +27,7 @@ modes of production to inform otherwise intangible socio-economic realities.
 This will be Sailly’s first solo exhibition in Canada.
 
 Alongside this exhibition Sylvain Sailly and Sarah Todd have programmed 
-â€œCalculated Movementsâ€  a screening at Pacific Cinematheque as part of DIM 
+“Calculated Movements”  a screening at Pacific Cinematheque as part of DIM 
 Cinema on Monday September 23rd at 7:30pm.
 
 Western Front Swarm programming on September 12th will also include new 

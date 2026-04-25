@@ -35,15 +35,15 @@ Gallery at San Diego, Brauer Museum of Art in Valparaiso Indiana,
 Georgetown University Gallery in Washington D.C. and the University of
 Maine Museum of Art in Orono, Maine.
 
-â��An interest in the use of symbolic personal objects to create visual
+’An interest in the use of symbolic personal objects to create visual
 narratives has been a constant thread throughout the work by Torrie
 Groening. The new digitally collaged works presented in A Maximalist for
 Dinner represent a new focus for the artist that incorporates traditional
 and non-traditional approaches to creating prints. The concepts of identity
-and representation are present in each work signifying Groeningâ��s interest
+and representation are present in each work signifying Groening’s interest
 in exploring her own identity and the multiplicity of meaning that objects
 may symbolize in relation to one another and within the context of each
-digital collage.â�� says the exhibitionâ��s curator Darrin Martens.
+digital collage.’ says the exhibition’s curator Darrin Martens.
 
 An opening reception will be held Saturday, September 13, from 1-3 p.m.
 The artist will be in attendance.
@@ -56,7 +56,7 @@ hour from 1-4 p.m. No pre-registration is required.
 September 19, 12:10-12:50 p.m., $8.50 (advanced registration required).
 * Artist Talk on Sunday, September 21, 5-6:30 p.m. free of charge.
 
-For more information about the Galleryâ��s exhibits, programs, tours or
+For more information about the Gallery’s exhibits, programs, tours or
 registration call 604.297.4422 or visit burnabyartgallery.ca.
 
 The Burnaby Art Gallery located at 6344 Deer Lake Avenue. The galleries are

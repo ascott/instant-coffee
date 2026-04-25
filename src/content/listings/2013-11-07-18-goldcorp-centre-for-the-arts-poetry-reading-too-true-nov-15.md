@@ -55,7 +55,7 @@ Speculative Fiction writing at Douglas College.
 Jennica Harper’s most recent book of poetry is Wood. Her previous books are 
 What It Feels Like for a Girl and The Octopus and Other Poems, and she has 
 a poem forthcoming in the anthology I Found It at the Movies. Her long poem 
-â€œLiner Notesâ€  won a Silver National Magazine Award, and her work has twice 
+“Liner Notes”  won a Silver National Magazine Award, and her work has twice 
 been selected for Vancouver’s Poetry in Transit program. Jennica is also a 
 film and TV writer, and most recently wrote on YTV’s teen comedy Mr. 
 Young.

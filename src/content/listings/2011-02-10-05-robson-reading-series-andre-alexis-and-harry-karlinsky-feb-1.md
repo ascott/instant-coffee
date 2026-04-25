@@ -9,7 +9,7 @@ summary: "Robson Reading Series | Andre Alexis and Harry Karlinsky | FEB 10"
 ---
 
 Please join us this Thursday, February 10 at 7 pm for a creatively
-historical reading and discussion with AndrÃ© Alexis and Harry Karlinsky.
+historical reading and discussion with André Alexis and Harry Karlinsky.
 We're looking forward to an intellectually stimulating evening with these
 two authors.
 

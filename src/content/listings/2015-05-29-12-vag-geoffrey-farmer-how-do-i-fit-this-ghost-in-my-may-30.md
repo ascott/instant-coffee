@@ -31,10 +31,10 @@ his critically acclaimed presentation at dOCUMENTA 13 in 2012. How Do I Fit
 This Ghost in My Mouth? illustrates Farmer’s ability to create
 extraordinary art from simple yet strategic use of found materials, taking
 Gallery visitors on a memorable journey that evokes personal, social and
-art historical narratives,â€  said Kathleen S. Bartels, Director of the
+art historical narratives,”  said Kathleen S. Bartels, Director of the
 Vancouver Art Gallery. “We are especially thrilled to display for the first
 time The Surgeon and the Photographer, a monumental installation that was
-acquired by the Gallery in 2010.â€ 
+acquired by the Gallery in 2010.” 
 
 Geoffrey Farmer is renowned for his sculptural works that unfold as
 theatrical narratives involving mechanical plays, assemblage and tableaux.
@@ -54,7 +54,7 @@ narratives of history. In locating this exhibition at the Vancouver Art
 Gallery, he begins by evolving the dramatic life of Francis Rattenbury, the
 architect of the original courthouse building, one where Farmer’s father
 once served as a prosecutor. Stories that are real and surreal are woven
-into a complex and pulsating experience of discovery for the viewer,â€  said
+into a complex and pulsating experience of discovery for the viewer,”  said
 Daina Augaitis, Chief Curator/Associate Director of the Vancouver Art Gallery.
 
 (...)

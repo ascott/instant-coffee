@@ -17,7 +17,7 @@ The Icarus Project’s 10 year anniversary collection, as well as featured work
 by Jacks McNamara, Faith Rhyne, and Cherise Clarke. The Icarus Project is 
 an international radical mental health support network, alternative media 
 project, and online community by and for people struggling with the 
-experiences commonly labeled as â€œmental illness.â€  By these individuals joining 
+experiences commonly labeled as “mental illness.”  By these individuals joining 
 together as a community, the intertwined threads of madness, creativity, and 
 collaboration can inspire hope and transformation in an oppressive and 
 damaged world. This show boldly navigates the space between brilliance 
@@ -33,20 +33,20 @@ graphics, logos, fliers, book covers, stickers, stencils, and other work from
 The Icarus Project’s many publications and events over the years.
 
 Mad Pride is an international movement created by psychiatric survivors, 
-consumers, folks labeled â€œmentally illâ€  â€” all of us that proudly reclaim the 
+consumers, folks labeled “mentally ill”  — all of us that proudly reclaim the 
 words mad & crazy, and those in solidarity with us. We are mad. We are 
 crazy. And we are damn proud to be. We believe madness is a completely 
 sane and well-adjusted response to living in such a mad world.
 
 In Sept 2013, Vancouver Mayor Gregor Robertson declared a Mental Health 
-Crisis. We know what this means: using the language of â€œcareâ€  and 
-â€œsupportâ€ , civic government will co-ordinate the total control of the lives of the 
+Crisis. We know what this means: using the language of “care”  and 
+“support” , civic government will co-ordinate the total control of the lives of the 
 most marginalized people in society – those of us called mad. Talk back, fight 
 back, make art.
 
 In Gachet’s basis of unity, “We work for the elimination of discrimination 
 against people marginalized by their mental health, trauma and/or abuse 
-experience.â€  And we use art to do just that.
+experience.”  And we use art to do just that.
 
 All of this madness will culminate in a Mad Pride Cabaret of festivities taking 
 place on Saturday, July 12th 2014, 7 – 10.30pm as part of International Mad 

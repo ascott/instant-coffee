@@ -18,7 +18,7 @@ HIGHWAY 61, inspiring a generation to pick up a camera and shoot. In
 a chance to reconsider the genre of road movies through Cineworkâ
 €™s first ever short film contest. The result: four new short films 
 inspired by dialogue from HIGHWAY 61 plus a rare 35mm print 
-screening of MacDonaldâ€™s film. Celebrations continue with an 
+screening of MacDonald’s film. Celebrations continue with an 
 opportunity to meet the contest-winning filmmakers at the after-party.
 
 ADMISSION:

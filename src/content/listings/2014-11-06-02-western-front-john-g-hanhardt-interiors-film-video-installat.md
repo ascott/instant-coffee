@@ -21,7 +21,7 @@ curators of film and video, having worked at MoMA, the Walker Art
 Center, The Whitney Museum of American Art and the Guggenheim 
 Museum throughout the course of his long career. His talk, in part 
 inspired by Roland Barthes’ “How to Live Together. Novelistic Simulations 
-of Some Everyday Spacesâ€ , will look at how interior spaces are imagined 
+of Some Everyday Spaces” , will look at how interior spaces are imagined 
 in work ranging from John Ford to Isaac Julien.
 
 Contact:

@@ -26,7 +26,7 @@ engaged performance, monuments and memorials, community-based
 projects, land art, and street furniture, have all been classified as Public Art. 
 Despite the fact that the history of public art largely coincides with the history 
 of art (here we might think of Paleolithic cave paintings or Medieval frescoes) 
-the designation â€œPublic Artâ€  was coined in the late 1960s. Art historian 
+the designation “Public Art”  was coined in the late 1960s. Art historian 
 Rosalind Krauss recognized the need for a new terminology for sculpture 
 that had moved off the pedestal, into the gallery and out into the environment. 
 This relaxing of art’s limits has generated new categories of art that operate 

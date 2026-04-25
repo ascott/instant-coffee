@@ -14,7 +14,7 @@ Blim presents:
 Isolation Day
 by Ashley Andel
 Accurately described by the quote “slipping into madness is good for 
-the sake of comparisonâ€  coined by Ameri- can artist Jenny Holzer, and 
+the sake of comparison”  coined by Ameri- can artist Jenny Holzer, and 
 popularized by the seminal Japanese electropop band Yellow Magic 
 Orchestra, Isola- tion Day is about periodic escape from daily 
 mundanity by way of mendacity; like playing hooky from school for a 
@@ -24,7 +24,7 @@ constructed to the saccharine tunes of K- pop darlings Humming Urban
 Stereo after a day of work in a dusty warehouse.
 Ashley Andel is a Vancouver based artist who amuses himself by 
 making things. Sometimes, he amuses others with his output. This is his 
-second show at Blim; the first one being â€œReticent Workâ€ , mounted in 
+second show at Blim; the first one being “Reticent Work” , mounted in 
 October 2009.
 ashleyandel.tumblr.com
 

@@ -19,9 +19,9 @@ Exhibitions
 September 13 – October 21, 2011 at Centre A
 September 13 – November 5, 2011 at the Audain Gallery
 
-Artist Talk September 16, 6 â€“ 8 pm at the Audain Gallery 
+Artist Talk September 16, 6 – 8 pm at the Audain Gallery 
 
-Opening Reception Friday, September 16  7 â€“ 9 pm at the Audain Gallery & 8
+Opening Reception Friday, September 16  7 – 9 pm at the Audain Gallery & 8
 – 10 pm at Centre A
 
 Public Salon HI, WE’RE YOUNG-HAE AND MARC, AND WE WERE IN TOWN FOR A FEW

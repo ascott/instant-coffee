@@ -10,7 +10,7 @@ summary: "Wil Aballe Art Projects | Sean Weisgerber: After I Shed My Skin | JAN 
 
 Wil Aballe Art Projects presents
 Sean Weisgerber: After I Shed My Skin
-January 17, 2013 â€“ March 9, 2013
+January 17, 2013 – March 9, 2013
 Opening: Thursday,January 17th, 7-9:30 p.m. The artist will be in attendance.
 
 Wil Aballe Art Projects is proud to present a solo exhibition of current work by
@@ -19,22 +19,22 @@ Carr University of Art + Design in 2009, Weisgerber has produced a body of
 work in which specific modalities of abstract painting have articulated a
 singular fascination with the relationship between colour, form, material and
 perception. Typically, his paintings have been defined by opaque colours
-bounded by hard edges â€“ an uncanny painterly dialect wherein human touch
+bounded by hard edges – an uncanny painterly dialect wherein human touch
 is modulated by a sense of the mechanical.
 
-This exhibition sees Weisgerberâ€™s works move away from precision 
+This exhibition sees Weisgerber’s works move away from precision 
 execution,
 and the subject matter of abstraction and perception, with the mechanical
 appearing less in the character of the objects presented than in the process of
 their making. Here, we see stalactites of latex paint, frozen in mid-drip, and
 suspended from the weave of stretched burlap and wool. Antiseptic chains
-supporting these objects insinuate their origin in a mechanical process â€“ 
+supporting these objects insinuate their origin in a mechanical process – 
 the
 repeated immersion of a surface in paint, leading to the development of
 factures exaggerated, and drawn into grotesque realms.
 
 In other works, the fractalization of colour that once appeared on the surface
-of canvas now appears in a radiating eruption on the galleristâ€™s living room
+of canvas now appears in a radiating eruption on the gallerist’s living room
 wall. And while this storm of pigment does not capitulate to the bounds of
 hard-edged shapes, its chromatic beauty nevertheless does its work within
 geometric architectural boundaries.

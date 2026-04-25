@@ -5,14 +5,14 @@ emailDate: "Thu, 05 Jul 2012 18:40:14 -0700"
 number: 21
 type: ""
 venue: "Incongruous Quarterly"
-summary: "Incongruous Quarterly | call: Companion Animalsâ€  (Dear Creature,) | SEP 17"
+summary: "Incongruous Quarterly | call: Companion Animals”  (Dear Creature,) | SEP 17"
 ---
 
 Dear Friends,
 
 Alex Leslie and I are guest-editing Issue 5 of the boundary-crossing 
 online journal Incongruous Quarterly. The them is “Companion 
-Animalsâ€  (Dear Creature,) and information about the call is below. 
+Animals”  (Dear Creature,) and information about the call is below. 
 
 Please forward widely. We are interested in all iterations of poetry and 
 prose, including cross-genre and graphic work. 
@@ -91,7 +91,7 @@ alexleslie.wordpress.com
 Nikki Reimer is author of the poetry book [sic] (Frontenac House 2010), 
 nominated for the 2011 Gerald Lampert Memorial Award, and several 
 chapbooks, including that stays news (Nomados, 2011). Her “East Van 
-Catsâ€  photographic tryptich appeared at the Just Act Natural Group 
+Cats”  photographic tryptich appeared at the Just Act Natural Group 
 Exhibition in Kingston, ON in June 2010, and she has edited Van City 
 Kitty on VancouverisAwesome.com since November 2010. Nikki has 
 lived with oodles of cats throughout her life, including two that she 

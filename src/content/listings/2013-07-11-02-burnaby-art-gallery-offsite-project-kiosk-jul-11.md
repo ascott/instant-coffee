@@ -31,9 +31,9 @@ Currently at the KIOSK:
 Gaye Chan: SWEAT | July 10-14
 Project Reception: Thursday, July 11, 6-8pm
 
-A five-day long performance thatâ��s part theater and demonstration, SWEAT
+A five-day long performance that’s part theater and demonstration, SWEAT
 features Gaye Chan weaving baskets made from bale straps collected from
-neighbouring shopkeepers. SWEAT is a part of Chanâ��s ongoing work with
+neighbouring shopkeepers. SWEAT is a part of Chan’s ongoing work with
 EATING IN PUBLIC, a collective that she co-founded in 2003.
 
 Chan, born in Hong Kong and immigrated to the United States in 1969,

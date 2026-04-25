@@ -47,7 +47,7 @@ Triennial and Videonale. Kiharas first solo museum exhibition in North
 America, Shigeyuki Kihara: Living Photographs (2008-09), was held at the
 Metropolitan Museum of Art, New York, following the acquisition of her
 works by the museum for their permanent collection. Kihara's work is
-included in the current exhibition SakahÃ�Â n: International Indigenous Art at
+included in the current exhibition SakahÂ n: International Indigenous Art at
 the National Gallery of Canada.
 
 Curated by Dr. Carol Mayer (Curator, Africa/Pacific), and organized to
@@ -71,8 +71,8 @@ info@satellitegallery.ca
 604-681-8425
 
 Satellite Gallery is an experimental exhibition space shared by three arts
-institutionsâ��Presentation House Gallery, Morris and Helen Belkin Art
-Gallery, and the Museum of Anthropologyâ��and is a Michael Oâ��Brian Family
+institutions’Presentation House Gallery, Morris and Helen Belkin Art
+Gallery, and the Museum of Anthropology’and is a Michael O’Brian Family
 Foundation project.
 
 560 Seymour Street, 2nd Floor

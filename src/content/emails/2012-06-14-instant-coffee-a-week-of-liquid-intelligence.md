@@ -208,7 +208,7 @@ Room 106, The Waldorf Hotel
 
 Artist Statement
 
-For Zain Burgess' upcoming solo show â€œDead Calm Centre,â€  Zain 
+For Zain Burgess' upcoming solo show “Dead Calm Centre,”  Zain 
 shows us new painting, sculpture, and video to hypothesize a material 
 and ideological collapse in a vast landscape of meaninglessness and 
 waste. He shows us a video of a decade of action films edited into a 
@@ -368,11 +368,11 @@ Thursday June 14th: "An Evening with Robert Ashley" a talk by Will
 Holder, 8 pm
 
 Friday, June 15th: Performance of Robert Ashley’s “The 
-Entranceâ€ (1966)
+Entrance” (1966)
 by Julia Feyrer & Will Holder 8 pm
 
-Saturday June 16th: Recital of â€œYes, But Is It Edible?â€  (1999) by Will
-Holder & playback of â€œPillarsâ€  (2007) etc. 8 pm
+Saturday June 16th: Recital of “Yes, But Is It Edible?”  (1999) by Will
+Holder & playback of “Pillars”  (2007) etc. 8 pm
 
 All events at: Western Front | 303 East 8th Avenue | contact:
 exhibitions@front.bc.ca
@@ -618,7 +618,7 @@ reality." MALCOLM LA GRICE
 
 Can we define time-structures for cinema and particularly expanded 
 cinema that go beyond narrative? Or if not beyond it: around, 
-underneath, across? The works in â€œMovable Facture: Time Framesâ€  
+underneath, across? The works in “Movable Facture: Time Frames”  
 are drawn from an earlier moment in film’s history, when a 
 preoccupation with structure was attended to through a variety of 
 formal experiments and strategies that skirt or avoid narrative 
@@ -645,10 +645,10 @@ Variations on a Cellophane Wrapper | David Rimmer/Canada 1970.
 .
 T.O.U.C.H.I.N.G. | Paul Sharits/USA 1969. 16mm, 12 mins.
 
-â€œHapax Legomena Iâ€  (nostalgia) | Hollis Frampton USA 1971. 16mm, 
+“Hapax Legomena I”  (nostalgia) | Hollis Frampton USA 1971. 16mm, 
 39 mins.v
 
-â€œTime Framesâ€  accompanies the exhibition â€œMovable Factureâ€ , 
+“Time Frames”  accompanies the exhibition “Movable Facture” , 
 featuring the work of Amy Granat and Drew Heitzler, Isabelle Pauwels, 
 Benjamin Tiven, and Jennifer West, at VIVO Media Arts Centre, June 
 1-23, 2012. vivomediaarts.com
@@ -755,7 +755,7 @@ adequate computer literacy to design machines that are capable of
 making creative decisions.
 
 Stemming from a long tradition of generative and process-based art, 
-â€œWhere do we stop and they begin?â€  presents audio, video, robotics, 
+“Where do we stop and they begin?”  presents audio, video, robotics, 
 interactive installation and print pieces by a selection of Vancouver-
 based artists for which machines were part of the creative process. We 
 invite you to come explore and question the idea of machine creativity.
@@ -810,7 +810,7 @@ aversionofyourself.tumblr.com
 opening: june 22 7PM
 artist run event: july 10 7PM
 
-â€œthe reason iâ€™m painting this way is because i want to be a machine.â€ 
+“the reason i’m painting this way is because i want to be a machine.” 
 because i want to be a factory. an assembly line of readymades:
 appropriated garments and regurgitated texts. words from
 conversations, from jokes, from art, lectures, fiction, facebook,
@@ -1106,7 +1106,7 @@ Get tickets Here
 
 Sure to be the most unique and memorable live event of the year, 
 famed Canadian turntabalist/multi-instrumentalist Kid Koala brings his 
-graphic novel â€œSpace Cadetâ€  to vibrant life using cinematic 
+graphic novel “Space Cadet”  to vibrant life using cinematic 
 soundscapes, mixed-media installations, and headphones for 
 everyone! In this “beautiful mélange of post-pop, contemporary 
 classical and whispered electronics" (Nightlife Magazine), Kid Koala’s 
@@ -1512,7 +1512,7 @@ Email: mrreubenjones@gmail.com
 
 
 instant coffee: "For while it may appear that people of refinement, unlike “man in a
-state of nature,â€  are averse to vivid color, the situation both in
+state of nature,”  are averse to vivid color, the situation both in
 Goethe’s time and in our own seems to me even stranger; that this
 distaste for vivid color is actually an unstable mix of attraction and
 repulsion" Michael Taussig

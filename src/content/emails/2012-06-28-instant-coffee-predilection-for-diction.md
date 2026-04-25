@@ -47,7 +47,7 @@ i’m unpacking my archives, yes i am
 or, in plain English, cleaning out the basement
 it’s a kind of bag lady’s retrospective
 but a better title might be
-â€œnight of the living deadâ€ 
+“night of the living dead” 
 anyway, everything is always changing
 props photos ephemera files and works 
 produced and accumulated over the years 
@@ -901,7 +901,7 @@ event, it will definitely still be considered.
 
 Below (scroll down) we describe the four different types of sessions we 
 are looking for speakers and facilitators for – Skills-based workshops, 
-speakers and panelists (both for â€œfrontlineâ€  and â€œdigging deeperâ€ , 
+speakers and panelists (both for “frontline”  and “digging deeper” , 
 issues-based panels), Issues-based workshops, and Caucuses (for 
 caucuses we encourage suggestions from people who would prefer 
 not to facilitate themselves as well). Each of the four session types has 
@@ -945,20 +945,20 @@ Speakers and Panelists:
 At PowerShift 2012 participants will learn more about issues facing our 
 generation through engaging panels. 
 
-There will be â€œFrontlineâ€  panel discussions about the impacts of climate 
+There will be “Frontline”  panel discussions about the impacts of climate 
 change and toxic development on communities that are directly 
 impacted, as well as on how these communities and their allies are 
 mobilizing in response. The panelists for these will come from 
 communities directly impacted by climate change and/or toxic 
-development. Here is a list of â€œfrontlineâ€  panel topics we are 
+development. Here is a list of “frontline”  panel topics we are 
 particularly looking for speakers for (this list is by no means 
 exhaustive).
 
-There will also be â€œDigging Deeperâ€  panels will look at how different 
+There will also be “Digging Deeper”  panels will look at how different 
 issues link and overlap with climate justice, current science and policy, 
 real solutions to the climate crisis, and/or how we can mobilize 
 internationally, nationally, and in our communities to make these 
-solutions a reality. Here is a list of â€œdigging deeperâ€  panel topics we are 
+solutions a reality. Here is a list of “digging deeper”  panel topics we are 
 particularly looking for speakers for (this list is by no means 
 exhaustive).
 

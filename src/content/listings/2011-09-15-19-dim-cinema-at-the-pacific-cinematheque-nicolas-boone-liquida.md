@@ -20,7 +20,7 @@ Nicolas Boone and Marie-Hélène Tessier in attendance
 Nicolas Boone is (b. 1974) is a visual artist based in Paris. He graduated from 
 École Nationale Supérieure des Beaux-Arts de Paris in 2001. His earlier work 
 used the language of filmmaking to produce ephemeral performances without 
-film stock. Eventually, his meticulously improvised â€œparadesâ€  were recorded and 
+film stock. Eventually, his meticulously improvised “parades”  were recorded and 
 edited into film loops to create a living discourse around the death of cinema. La 
 Transhumance Fantastique (2006) recycles the codes of fantastic and horror 
 cinema while a tracking shot along train rails leads nowhere — or towards a 

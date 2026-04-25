@@ -27,7 +27,7 @@ filled with unforgettable, outstanding and boundary-pushing performances
 with local favourites and international guests, including:
 
 UK-based PuSh visiting artists duo Forest Fringe collaborate with the gallery 
-to create an â€œIncidental Festivalâ€  of works in unexpected places
+to create an “Incidental Festival”  of works in unexpected places
 Vancouver’s favourite Dusty Flowerpot Cabaret hosts a lavish costume-
 themed party in the heritage courtrooms.
 British artist and writer Tim Etchells presents a unique poster project.

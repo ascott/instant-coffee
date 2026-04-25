@@ -192,7 +192,7 @@ stereotype, a sense of bigotry and ignorance that continues to be held against
 the First People in Canada.
 
 This work theorizes how propaganda could have been used as a tool used to 
-influence Canadians on the â€œIndian Problemâ€ .
+influence Canadians on the “Indian Problem” .
 
 The exhibit opens Friday October 5th at 8pm and closes October 27th.
 
@@ -249,7 +249,7 @@ OPENING RECEPTION: Friday October 5, 8 pm
 
 “Existence is not something which lets itself be thought of from a distance: it 
 must invade you suddenly, master you, weigh heavily on your heart like a 
-great motionless beast â€“or else there is nothing more at all.â€ 
+great motionless beast –or else there is nothing more at all.” 
 ― Jean-Paul Sartre, Nausea
 
 Matias Armendaris' series Nausea explores the standpoint of French 
@@ -515,14 +515,14 @@ workers. Empower is also engaged in raising consciousness about the spread
 of AIDS/HIV in Thailand. Empower uses art and cultural performances as 
 expression; inspiring a process of reflection and questioning, where people 
 challenge the traditional beliefs they hold. Noi has received a number of 
-honors in recognition of her work, including the â€œIt Worksâ€  award from the 
+honors in recognition of her work, including the “It Works”  award from the 
 Norwegian government in 1990, a scholarship from Harvard Law School for 
 International Human Rights training in 1997, and the “Outstanding Social 
-Workerâ€  award, in 2000, from the Social Welfare Department of Thailandâ€™s 
+Worker”  award, in 2000, from the Social Welfare Department of Thailand’s 
 Ministry of Social and Labour Affairs. Recently, Empower received the 
-â€œHuman Rights Awardâ€  in 2006 as an outstanding organization committed to 
+“Human Rights Award”  in 2006 as an outstanding organization committed to 
 fighting for sex workers rights, from the commission on Human Rights in 
-Thailand. EMPOWER won a United Nationâ€™s â€œRed Ribbon Award 2008â€ , for 
+Thailand. EMPOWER won a United Nation’s “Red Ribbon Award 2008” , for 
 being an outstanding HIV/AIDS work and community rights organization. 
 www.empowerfoundation.org.
 
@@ -544,7 +544,7 @@ extensively with migrant and refugee women in areas of labour and mobility
 rights, poverty alleviation and legislative reform.
 
 5.30 - 6.30pm – screening of Empower Foundation’s movie, “Last Rescue in 
-Siamâ€ ,
+Siam” ,
 followed by informal reception with turkey fare and drinks!
 
 Special thanks to Institutions by Artists for their generous support:
@@ -660,7 +660,7 @@ gentrified sublime is what protects us from confronting the disaster that is
 nature. Finally, as counter-examples to Burtynsky's reified sublime, I will 
 discuss two photographic practices that engage with the sublime of the 
 industrial archive: Mike Mandel and Larry Sultan's "Evidence" (1977) and 
-Bitter & Weber's â€ Events are Always Originalâ€  (2010).
+Bitter & Weber's ” Events are Always Original”  (2010).
 
 ----------------------------------------------------
 
@@ -721,7 +721,7 @@ Live Sarod/Sitar performance by Jeff Chute
 and guests
 
 WED OCT 17 / 7PM 
- No Reading After the Internet: Peter Weissâ€™ The Aesthetics of Resistance 
+ No Reading After the Internet: Peter Weiss’ The Aesthetics of Resistance 
 (1975)  
 Aesthetics of Resistance is a historical novel that dramatizes anti-fascist 
 resistance and the rise and fall of proletarian political parties in Europe 
@@ -842,10 +842,10 @@ Langara College
 Main Campus, Room A122a
 100 West 49th Ave, Vancouver BC
 Free of charge 
-â€œon gEysErsâ€ 
+“on gEysErs” 
 Artists Erica Stocking and Vanessa Kwan will discuss the ideas 
 and processes behind the production of their recently launched 
-public art project â€œGeyser for Hillcrest Parkâ€ . Located at Hillcrest 
+public art project “Geyser for Hillcrest Park” . Located at Hillcrest 
 Community Centre in Riley Park, a venue with a rich and varied 
 community and civic history, the Geyser was commissioned by 
 the City of Vancouver. The water feature is a reference to both the 
@@ -861,7 +861,7 @@ to produce work that is materially diverse, conceptually oriented,
 and concerned with the communities and histories that inform a 
 site or situation. They both graduated from Emily Carr University 
 of Art and Design in 2004 and they have collaborated on the 
-performance art collective â€œNormaâ€ , which received a Mayorâ€™s Art 
+performance art collective “Norma” , which received a Mayor’s Art 
 Award for Public Art in 2011.
 aBout thE CEntrE
 The Langara College Centre for Art in Public Spaces engages 
@@ -939,16 +939,16 @@ live with one another, more equitably and mindful of one another’s needs as
 well as our own?
 
 Beginning in the spring of 2012 Red76 initiated THIS IS AN (A) FRONT, first 
-with a series of projects feeding into an â€œAmerican-style Pizzeriaâ€  established 
+with a series of projects feeding into an “American-style Pizzeria”  established 
 in Pristina, Kosovo, called Henry. This action, funded by the US State 
 Department, served as a means towards discussing the relative power we 
 hold over one another, as well as more obtusely the power held in relation to 
 the ways and means in which the action itself was initiated to begin with and 
 its associations vis a vis The State. How do we self-regulate when “our very 
-existenceâ€  is determined through the auspices of governmental power?
+existence”  is determined through the auspices of governmental power?
 
 For the second edition of THIS IS AN (A) FRONT the group presents Thumbs 
-Up! a â€œused mp3â€  store located in Vancouver, Canadaâ€™s Chinatown. On this 
+Up! a “used mp3”  store located in Vancouver, Canada’s Chinatown. On this 
 occasion the front reveals itself almost as a series of skins, each with its own 
 considerations and means of interaction: first, the entrance of UNIT/ PITT will 
 be walled off, converted into a makeshift but functional lobby/convenience 
@@ -992,15 +992,15 @@ Exhibition: October 12 – December 22, 2012
 Opening: October 11, 8:00 pm
 Artist’s Talk: October 11, 6:00 pm
 Carelessness Causes Fire is the first solo exhibition in Canada by the Paris-
-based â€œcollective artistâ€  Claire Fontaine, who is the Audain Artist in Residence 
+based “collective artist”  Claire Fontaine, who is the Audain Artist in Residence 
 for the fall of 2012. Taking her name from a common brand of French 
 notebooks and stationary, Claire Fontaine is a self-described “readymade 
-artistâ€ , founded in 2004 and aided by her â€œassistantsâ€  Fulvia Carnevale and 
+artist” , founded in 2004 and aided by her “assistants”  Fulvia Carnevale and 
 James Thornhill.
 Claire Fontaine’s work for Carelessness Causes Fire features sculpture, 
 writing, video, and painting. These different media are used as “vectors of a 
-specific intensityâ€  to critically explore what the artist identifies as the â€œcrisis of 
-singularityâ€  and the political impotency she sees in contemporary society.
+specific intensity”  to critically explore what the artist identifies as the “crisis of 
+singularity”  and the political impotency she sees in contemporary society.
 The exhibition presents old and new works to examine the psychological and 
 political consequences of the Arab Spring on the western perception of reality. 
 The ambiguity of the exhibition’s title, lifted from a security warning found by 
@@ -1014,7 +1014,7 @@ figuration, still have ethical consequences. Here, the artist confronts these
 languages directly with the real world economic and political violence that 
 they do not portray but, nonetheless, still intimately relate to.
 The series of digital paintings entitled Studies for Tactical Entry, for example, 
-faithfully transcribes the representation of the â€œcones of actionâ€  of firearms 
+faithfully transcribes the representation of the “cones of action”  of firearms 
 held by two armed people as they traverse various corridors and stairways. 
 Although the geometrical figures on the canvases appear very similar to the 
 visual language of Suprematist painting, in reality, however, they are 
@@ -1024,7 +1024,7 @@ As part of her residency, Claire Fontaine will work with students from both the
 MFA Program at the School for the Contemporary Arts at Simon Fraser 
 University and the MFA in Visual Art Program at the University of British 
 Columbia, screening a selection of films and leading a series of seminars 
-exploring the artistâ€™s notion of the â€œhuman strike.â€  This work with students will 
+exploring the artist’s notion of the “human strike.”  This work with students will 
 culminate in a final public presentation by Claire Fontaine, featuring a talk and 
 a screening of excerpts from the selected films, on November 24 at 7:00 pm 
 at the Djavad Mowafaghian Cinema in the Goldcorp Centre for the Arts.

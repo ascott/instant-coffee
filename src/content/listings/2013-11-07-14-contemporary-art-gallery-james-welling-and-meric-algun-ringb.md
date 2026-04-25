@@ -48,7 +48,7 @@ statements which surround the mechanical and philosophical parameters of
 photography, being tested through a variety of photographic paper, film,
 cameras; materials in flux and subject to a myriad of simultaneous meanings.
 This exhibition has been developed in partnership between MK Gallery, Milton
-Keynes, UK and Centro Galego de Arte ContemporÃƒÂ¡nea Ã¢â‚¬â€  CGAC, Santiago
+Keynes, UK and Centro Galego de Arte ContemporÃƒÂ¡nea ââ‚¬”  CGAC, Santiago
 de Compostela, Spain. Special thanks also to David Zwirner, New York;
 Maureen Paley, London; Galeria Marta Cervera, Madrid; Regen Projects, Los
 Angeles and Galerie Nelson-Freeman, Paris.
@@ -59,7 +59,7 @@ fire/
 NOTES TO EDITORS:
 Public Events: Exhibition Opening & Public Programmes
 
-1) Exhibition Opening and Closing Party for Capture Photography Festival â€“
+1) Exhibition Opening and Closing Party for Capture Photography Festival –
 Thursday, November 14, 7-10pm at the CAG
 Public opening and celebration of the exhibition and closing party for Capture
 Photography Festival. www.capturephotofest.com. Artist present. Opening
@@ -112,7 +112,7 @@ http://www.contemporaryartgallery.ca/exhibitions/meric-algun-ringborg/
 NOTES TO EDITORS:
 Public Events: Exhibition Opening & Public Programmes
 
-1) Exhibition Opening and Closing Party for Capture Photography Festival â€“
+1) Exhibition Opening and Closing Party for Capture Photography Festival –
 Thursday, November 14, 7-10pm at the CAG
 Public opening and celebration of the exhibition and closing party for Capture
 Photography Festival, www.capturephotofest.com. Opening reception
@@ -136,7 +136,7 @@ Tuesday, December 3, 7pm
 Erdem Taşdelen is a multidisciplinary artist who lives and works in Vancouver
 and currently teaches in the Critical and Cultural Studies Department at Emily
 Carr University of Art + Design.
-4) Free Guided Visits â€“ Saturdays & Sundays: Nov 16, Dec 1, Dec 7, Dec
+4) Free Guided Visits – Saturdays & Sundays: Nov 16, Dec 1, Dec 7, Dec
 14, Dec 15, Jan 5 and Jan 11. All tours start at 3pm. Contemporary Art
 Gallery
 Join Nigel Prince, Executive Director, Jill Henderson, Communications
@@ -163,7 +163,7 @@ T: 604.681.2700
 E: j.henderson@contemporaryartgallery.ca W:
 www.contemporaryartgallery.ca
 Contemporary Art Gallery - 555 Nelson Street, Vancouver, BC V6B 6R5
-Hours: Tues â€“ Sun: 12- 6 pm. FREE ADMISSION
+Hours: Tues – Sun: 12- 6 pm. FREE ADMISSION
 IMAGE: James Welling, Gelatin Photograph 51 (1984), inkjet print mounted to
 metal, 20 Ã— 16 inches. Courtesy the artist and David Zwirner Gallery, New
 York / London.

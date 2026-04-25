@@ -72,7 +72,7 @@ Brady Cranfield | Gallery Assistant
 Audain Gallery
 Simon Fraser University
 Goldcorp Centre for the Arts
-#3275 â�� 149 West Hastings
+#3275 ’ 149 West Hastings
 Vancouver BC V6B 1H4
 P: (778) 782-9102
 E: info@audaingallery.ca

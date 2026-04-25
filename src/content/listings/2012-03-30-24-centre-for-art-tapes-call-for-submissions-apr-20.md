@@ -20,8 +20,8 @@ Victorian Neo-Gothic Khyber building. Selected videos will be shown as
 a looped projection. In conjunction, animated installations by local 
 artists will occupy the halls and stairwell of this inviting architecture.
 
-EXPLORATION: To â€œanimateâ€  is to breathe life and soul into the 
-inanimate. In near contradiction, to â€œautomateâ€  is to reduce the need for 
+EXPLORATION: To “animate”  is to breathe life and soul into the 
+inanimate. In near contradiction, to “automate”  is to reduce the need for 
 human work in the production process. This exhibition will invite the 
 viewer to ponder this digital problematic and consider the contribution 
 of the animator’s silent partner - automation. Subject matter is open. 

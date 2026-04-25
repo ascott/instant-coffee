@@ -19,7 +19,7 @@ Opening Reception: Thursday June 2nd, 7 – 11 p.m. (performance at 9 p.m.)
 June 3 – 25, 2011
 
 Shudder Gallery is pleased to present Erik Jerezano’s latest exhibition of
-drawings, titled â€œEloquent Monologues of the Intact Ciclesâ€ , presents a
+drawings, titled “Eloquent Monologues of the Intact Cicles” , presents a
 world inhabited by bizarre composite creatures and circumstances. The
 exhibition runs in conjunction with Music Waste Vancouver’s premier
 independent music festival highlighting the region’s most exciting and
@@ -35,7 +35,7 @@ seem to have their own evolutionary mechanism of change affected by chance,
 influences and circumstances.
 
 Jerezano remembers stories told to him by different family members in
-Mexico about â€œnahualesâ€ , who are people that can change form to become
+Mexico about “nahuales” , who are people that can change form to become
 animals. He uses this poetic possibility to explore transmutation. Images
 move fluidly from skeletons to comically naïve mounds with teeth. The works
 are always questioning reality and posing eccentric reinterpretations.

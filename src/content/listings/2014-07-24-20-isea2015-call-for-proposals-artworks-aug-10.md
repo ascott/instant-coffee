@@ -82,7 +82,7 @@ themes:
 RESIDUE 
 Increasingly, culture operates based on a sophisticated, invisible layer of 
 data that may or may not relate to the physical world, and which leaves a 
-â€œworldly residueâ€  behind as machines alter our lived experience. These 
+“worldly residue”  behind as machines alter our lived experience. These 
 effects go to a wide variety of real world impacts. In addition there is a 
 growing appreciation in the mainstream for the partial, procedural 
 aesthetics produced by internet culture, from animated .gifs, RGB palettes, 

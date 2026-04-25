@@ -44,7 +44,7 @@ Cultural producers will find it increasingly impossible to exist here, and
 will contend with the reality of spaces and neighbourhoods flipped by 
 developers. Housing choices will largely be determined by the 
 prejudices of property managers and landlords who, unlike most, can 
-afford to say â€œno.â€ 
+afford to say “no.” 
 
 Poetry, critical discussion, artworks, performances, workshops and 
 music contributions by:
@@ -90,7 +90,7 @@ Facilitator: Elvin Wyly
 
 Curator: Alex Muir
 
-â€œThe Art of Rentâ€  by David Harvey from Rebel Cities
+“The Art of Rent”  by David Harvey from Rebel Cities
 
 6 pm – 7:30 pm – conference opening
 
@@ -112,7 +112,7 @@ Moderator: Donato Mancini
 
 Musical performances starting at 10:00
 
-Humanities 101 board game â€œWhere Thereâ€™s Walls, Thereâ€™s Holesâ€ 
+Humanities 101 board game “Where There’s Walls, There’s Holes” 
 
 @ Viewed through a closed gate at 1407 E. Georgia Street (Cool Air 
 Rentals)
@@ -120,7 +120,7 @@ Rentals)
 9:30 – 10:00 pm – performance
 
 Psychotic Butler (featuring Penelope Hetherington) performs 
-â€œDISLODGEâ€  part 1
+“DISLODGE”  part 1
 
 SATURDAY May 25
 
@@ -257,31 +257,31 @@ with Carly Ramsey supplying pamphlets on squatting
 
 Open poetry reading (various authors)
 
-Julian Hou â€œFresh Paintâ€  (video screening)
+Julian Hou “Fresh Paint”  (video screening)
 
-mynameisscot â€œSelf Guided Walking Tourâ€  (visual slide show)
+mynameisscot “Self Guided Walking Tour”  (visual slide show)
 
 @ the corridor road behind 381 Railway Street (at Dunlevy Avenue)
 
 9:30 – 10:00 pm – performance
 
 Psychotic Butler (featuring Penelope Hetherington) performs 
-â€œDISLODGEâ€  part 2
+“DISLODGE”  part 2
 
 Artworks and Activities Ongoing Throughout the Assembly:
 
-Sarah Moore â€œMapping Rent Cityâ€  @DOGWOOD (mapping project)
+Sarah Moore “Mapping Rent City”  @DOGWOOD (mapping project)
 
 Carly Ramsey and Beshéle Caron “We live under patriarchy’s roof: rent 
-and housing zine compilationâ€  (zine compilation)
+and housing zine compilation”  (zine compilation)
 
 Menses/Loose Tights: THE RENT TAPE: Vancouver gentrification/ 
 displacement mix (music compilation)
 
-mynameisscot â€œRental Agreementâ€  (poster project)
+mynameisscot “Rental Agreement”  (poster project)
 
-Psychotic Butler performs â€œDISLODGEâ€  featuring Penelope 
+Psychotic Butler performs “DISLODGE”  featuring Penelope 
 Hetherington (2 performances)
 
-Alta Ego featuring Ray Hsu and Anahita Jamali Rad â€œCheckâ€  (poetry 
+Alta Ego featuring Ray Hsu and Anahita Jamali Rad “Check”  (poetry 
 project)

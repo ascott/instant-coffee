@@ -55,7 +55,7 @@ everywhere he goes. With these photos he makes collages and drawings
 which finally get resolved as silkscreen prints. Though clearly 
 photographic in nature, Matthew’s prints take on an added layer of 
 obscurity through this translation by hand, depicting worlds that reference 
-â€œthe realâ€  but are a little too good (or bad) to be true.
+“the real”  but are a little too good (or bad) to be true.
 
 Malaspina Printmakers
 1555 Duranleau Street

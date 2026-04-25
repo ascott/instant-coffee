@@ -38,7 +38,7 @@ of sound lies. It is another dimension of assemblage, driven by desire.
 The use of sound in space exonerates the use of linear thinking and
 inherently links itself to a rhizomatic and affectual space.
 
-The rhizome is inherently connected to an artistâ€™s practice, as each 
+The rhizome is inherently connected to an artist’s practice, as each 
 series,each study, is connected through a thought process that seeks to 
 grasp onto a certain interconnectivity of existence.
 

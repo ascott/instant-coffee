@@ -39,7 +39,7 @@ zones and animated by atmospheric effects and happenstance events. Some
 scenes are so quiet and motionless that the moving images could be mistaken
 for still photos. Once we’re drawn into the slow tempo of these works
 however, we begin to pay careful attention to their subjects and subtle
-â€œhappenings.â€  Interested in cycles of making and unmaking, Nabataâ€™s wood
+“happenings.”  Interested in cycles of making and unmaking, Nabata’s wood
 sculptures are lightly managed, anticipatory objects. The subtle forms
 resonate as exposed and open armatures that hold together perceptually,
 gathering in their minimal parts some projection of a cohesive whole.

@@ -24,7 +24,7 @@ October 29, 2011 to January 14, 2012
 
 Satellite Gallery presents Nature, Knowledge and the Knower, an exhibition that
 features digital enlargements of panoramic photographs as well as an online
-display of a selection of artist and explorer James L. (Lippit) Clarkâ€™s archives
+display of a selection of artist and explorer James L. (Lippit) Clark’s archives
 from the American Museum of Natural History in New York.
 
 This exhibition presents three dramatic panoramas taken with Kodak Cirkut
@@ -36,7 +36,7 @@ representation at the Museum.
 An online archive is the second element of the exhibition, providing
 unprecedented access to a selection of visual materials originally collected and
 organized by Clark. These resources were gathered to facilitate the making of
-the habitat dioramas and to provide the museumâ€™s exhibition department 
+the habitat dioramas and to provide the museum’s exhibition department 
 with an
 in-house picture collection. The website launches on October 28, 2011 at
 <www.natureknowledgeknower.com>. The photographs and the visual material

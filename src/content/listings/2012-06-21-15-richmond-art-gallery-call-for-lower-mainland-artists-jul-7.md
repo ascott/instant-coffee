@@ -18,13 +18,13 @@ The Richmond Art Gallery is calling for proposals from artists
 (individuals, artist
 collectives, performance artists, musicians etc.) whose practice 
 includes some aspect of
-â€œdrawingâ€ , to work directly on/with/against gallery walls for the end of 
+“drawing” , to work directly on/with/against gallery walls for the end of 
 year exhibition,
 Temporary Assignment. All media will be considered.
 
 Following this exhibition the Gallery is replacing its walls after 20 years 
 of re‐painting
-for each exhibition. â€œArtworks are temporaryâ€  â€“ they go out with the 
+for each exhibition. “Artworks are temporary”  – they go out with the 
 drywall.
 From November 15 to 18, 2012 artists may work in the gallery space.
 

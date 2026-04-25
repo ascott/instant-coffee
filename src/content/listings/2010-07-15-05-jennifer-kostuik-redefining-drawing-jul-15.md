@@ -49,7 +49,7 @@ realistic but also mysteriously suggestive. As we peer through the glass to
 see the image, it takes shape at the edges of our memory.
 
 Just as Dingilian creates his own worlds inside glass bottles, Carol Prusa
-(Florida) envisions cosmologies of the universe, creating â€œdomes of heavenâ€ 
+(Florida) envisions cosmologies of the universe, creating “domes of heaven” 
 that are a visual embodiment of her scientific interests. She describes the
 process of her delicate, three dimensional drawings: “Using fabricated
 acrylic hemispheres that I sandblast and gesso to prepare a curved,
@@ -59,7 +59,7 @@ The underlying forms are heightened with titanium white pigment bound in
 acrylic polymer to create forms that visually coalesce and simultaneously
 dissolve in a washed matrix of ground graphite. Fiber optics is added to
 create a pattern of as many as seven hundred lights programmed to flicker
-on the surface.â€ 
+on the surface.” 
 
 Two of the artists, Kako Ueda (New York) and Jane Masters (Rhode Island),
 use traditional craft techniques to redefine drawing. Ueda updates the
@@ -73,7 +73,7 @@ natural world.
 Jane Masters utilizes a variety of techniques to achieve detailed,
 patterned compositions. Working with a crafters’ wood-burning tool, she
 burns holes into paper forming decorative patterns and humorous words and
-phrases like â€œPlace Ad Hereâ€  that wryly comment on the tradition of folk
+phrases like “Place Ad Here”  that wryly comment on the tradition of folk
 art needlework samplers and advertising signs. She also creates etched
 metal panels and scratchboard drawings that exhibit the same meticulous,
 intricate patterning and attention to detail.

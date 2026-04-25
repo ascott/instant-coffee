@@ -42,9 +42,9 @@ The aesthetics, poetics and history of electromagnetic sound will be
 examined, as well as how electromagnetic technologies are reshaping human
 subjectivity and the social world.
 
-Sound Thinking is part of the Galleryâ€™s Open Sound program, and takes place
-at the Surrey Art Gallery on Sunday, October 21, 12â€“5pm. Admission is free
-â€“ donations are gratefully received. Seating is limited.
+Sound Thinking is part of the Gallery’s Open Sound program, and takes place
+at the Surrey Art Gallery on Sunday, October 21, 12–5pm. Admission is free
+– donations are gratefully received. Seating is limited.
 
 Keynote speaker: Douglas Kahn, author of the forthcoming book Arts of the
 Spectrum: In the Nature of Electromagnetism, and Professor of Media and
@@ -61,12 +61,12 @@ Conveners: Ross Birdwise and Jordan Strom
 
 Sound Thinking 2012 is presented in conjunction with Open Sound 2012: On
 Air, Underground: Making the Inaudible Audible, a series of sound art
-installations situated in the Surrey Art Centreâ€™s public spaces give
+installations situated in the Surrey Art Centre’s public spaces give
 expression to voiceless and sometimes intangible things. The artists in
-this yearâ€™s Open Sound exhibition are Kristen Roos, Alex GrÃ¼nenfelder, and
+this year’s Open Sound exhibition are Kristen Roos, Alex Grünenfelder, and
 Debashis Sinha.
 
-Founded in 2008, the Surrey Art Galleryâ€™s Sound Thinking symposium is an
+Founded in 2008, the Surrey Art Gallery’s Sound Thinking symposium is an
 annual one day event which brings together practitioners and professionals
 in the field of sound art. The symposium features leading sound artists,
 scholars and researchers in the field sound studies, along with visual

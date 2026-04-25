@@ -5,11 +5,11 @@ emailDate: "Thu, 13 Aug 2015 09:50:28 -0700"
 number: 9
 type: "CALL"
 venue: "UC Berkeley Department of Art Practice"
-summary: "UC Berkeley Department of Art Practice | First Annual â€œSPECULATIVE LECTUREâ€ | AUG 14"
+summary: "UC Berkeley Department of Art Practice | First Annual “SPECULATIVE LECTURE” | AUG 14"
 ---
 
 OPEN CALL FOR PROPOSALS:
-The First Annual â€œSPECULATIVE LECTUREâ€ 
+The First Annual “SPECULATIVE LECTURE” 
 A UC Berkeley Department of Art Practice Wiesenfeld Visiting Artist Lecture
 
 Proposal Deadline: 11:59 PM, August 14th, 2015
@@ -25,8 +25,8 @@ Current UC Berkeley Students, Faculty, and Staff CANNOT apply
 Send submission materials to: Farley Gwazda: gwazda@berkeley.edu
 
 The UC Berkeley Department of Art Practice challenges artists to answer the
-questions â€œWhat can an artist lecture BE?â€  and â€œWhat can an artist lecture
-DO?â€  with a presentation that rethinks the lecture form, creating a
+questions “What can an artist lecture BE?”  and “What can an artist lecture
+DO?”  with a presentation that rethinks the lecture form, creating a
 speculative, experimental presentation that embraces complexity and
 criticality while breaking down calcified understandings. One innovative
 and practical proposal will be selected for presentation in the spring of

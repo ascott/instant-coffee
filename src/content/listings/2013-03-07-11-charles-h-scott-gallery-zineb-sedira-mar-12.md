@@ -24,7 +24,7 @@ in the multi-part series The Voyage, or Three Years at Sea. Born in France to
 Algerian parents, Sedira explores Algeria’s colonial past and the themes of 
 migration and displacement through sea-related narratives. The 
 Mediterranean Sea plays a significant role in the artist’s work as the site of 
-historical, cultural and contemporary â€œmovementâ€  between North Africa and 
+historical, cultural and contemporary “movement”  between North Africa and 
 Europe.
 
 The exhibition at the Charles H. Scott Gallery will consist of two recent multi-

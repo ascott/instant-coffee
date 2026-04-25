@@ -120,7 +120,7 @@ vox, knobs and tubes, buttons, various utensils and sliders), 10pm
 
 Thursday, March 18: Danish Artist Ditte Lyngkar Pedersen will host a
 screening event based on her video works and give a short presentation on
-the artists-run exhibition space rum46 in Ã�ï¿½rhus, Denmark, 8pm
+the artists-run exhibition space rum46 in ï¿½rhus, Denmark, 8pm
 
 Friday, March 19: CAM DALES of the ice cream social playing 50's and 60's hits.
 
@@ -196,7 +196,7 @@ Part 1*
 Stan Douglas
 Kevin Romaniuk
 Jamie Hilder
-HÃ�Â¥vard Pedersen
+HÂ¥vard Pedersen
 Shannon Oksanen
 Jeremy Shaw
 Laura Piasta and David Catherall
@@ -410,7 +410,7 @@ March 21, 2010
 Most installations are free and open to the public
 
 Bright Light brings together the creative energy of fourteen arts
-organizations active in Vancouverâ��s Downtown Eastside. Outdoor
+organizations active in Vancouver’s Downtown Eastside. Outdoor
 performances, video projections, urban planning demonstrations, social
 events and a parade are just some of the manifestations that animate the
 historical heart of the city. The group includes artist-run centres, a
@@ -421,7 +421,7 @@ Bright Light is one of a wide variety of public art projects that have been
 commissioned to mark the occasion of the Vancouver 2010 Olympics and
 Paralympic Games. In the case of Bright Light, the intention is to animate
 the newly completed Carrall Street Greenway with projects that explore new
-understandings of public art. In todayâ��s mobile, digital era, public art
+understandings of public art. In today’s mobile, digital era, public art
 has moved beyond sculpture. Time-based multi-media, internet social spaces
 and even books can be understood as situations for public art.
 
@@ -446,7 +446,7 @@ and Paralympic Public Art Program.
 Contact: info@bright-light.ca
 Media Contact: Gwen Kallio
 Opening Receptions Friday, February 12, 7 to 10pm
-Copyright Ã�Â© 2010 the artists and writers. Site by The Future.
+Copyright Â© 2010 the artists and writers. Site by The Future.
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2010-02-11-08-centre-a-world-tea-party-feb-12">08. Centre A | WORLD TEA PARTY | FEB 12</a>
@@ -714,7 +714,7 @@ and has exhibited her work internationally. Her video, Hero of Our Time, is
 currently on tour through Canada in a group exhibition titled Diabolique
 that explores various responses to, and representations of, war and
 violence. For her contribution to Not Sent Letters & Guests, Matilda will
-try to extract nuance and novelty from that most clichÃ�Â©d and ubiquitous
+try to extract nuance and novelty from that most clichÂ©d and ubiquitous
 image: the Hollywood celebrity promo shot.
 
 MARGARET DRAGU is an interdisciplinary artist with a multi-personae disorder.

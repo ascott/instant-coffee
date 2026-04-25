@@ -35,12 +35,12 @@ Collaborator Joey (Shithead) Keithley will rock the living and the dead in
 an homage to Les Paul (1915-2009), inventor of the Gibson electric guitar.
 Additional works include Spring, Easter Parade, History of VHS: Death of
 Violence, Ross, Elsie and Kay, Burka, Hungry Ghosts, Floral Alphabet,
-Little Big Horn, Luminous Pollution: the Team â��5â�� Collection, Luminous
+Little Big Horn, Luminous Pollution: the Team ’5’ Collection, Luminous
 Pollution: A Happy Planet, in ten sity, Hell Money, Exit Upon Arrival by
 Paul Wong, Vigil 5.4 by Rebecca Belmore and Paul Wong, and 60 Unit; Bruise
 by Paul Wong and Kenneth Fletcher.
 
-â��5â�� is commissioned by The City of Vancouver through its Olympic and
+’5’ is commissioned by The City of Vancouver through its Olympic and
 Paralympic Public Art Program, as part of Mapping and Marking
 Artist-Initiated Projects for Vancouver 2010.
 

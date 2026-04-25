@@ -97,7 +97,7 @@ peoples whose unceded ancestral territories we are on.
 <a href="/instant-coffee/listings/2015-11-12-02-macaulay-co-fine-art-tyler-bright-hilton-i-dont-want-anybody">02. OPENING | Macaulay & Co. Fine Art | Tyler Bright Hilton: I Don't Want Anybody Else | NOV 12</a>
 ------------------------------------------------------------------------
 Macaulay & Co Fine Art is thrilled to present a solo show by Tyler
-Bright Hilton "I Don't Want Anybody Elseâ€ , curated by W. Bruce C.
+Bright Hilton "I Don't Want Anybody Else” , curated by W. Bruce C.
 Bailey. Please join us on Thursday, November 12th for the opening
 reception.
 
@@ -283,10 +283,10 @@ arts, and lifetime achievement.
 “Vancouver City Council supports a diverse and thriving cultural
 community that is vital to a vibrant, healthy city. The 2015 Mayor’s Arts
 Awards honourees and emerging artists represent the depth and
-diversity of talent that we have in this city,â€  said Mayor Gregor
+diversity of talent that we have in this city,”  said Mayor Gregor
 Robertson. “On behalf of my colleagues on Vancouver City Council, I
 extend my congratulations to these extraordinary artists, who make
-Vancouver such an inspiring and creative city.â€ 
+Vancouver such an inspiring and creative city.” 
 
 Award recipients are selected for their significant contributions to their
 respective disciplines, as well as for leadership, innovation, and
@@ -635,7 +635,7 @@ I’m interested in experiencing something, and the act of taking a
 picture is a way for me to process that experience into an image…For
 me, so much of that comes from the details, the ability of the print
 to describe the space between things.
-â€” An-My LÃª, â€œAn-My LÃªâ€™s Events Ashore,â€  The New Yorker
+— An-My LÃª, “An-My LÃª’s Events Ashore,”  The New Yorker
 
 In her first exhibition in Canada, An-My Lê presents a selection of
 photographic works that depict landscapes transformed by military
@@ -656,7 +656,7 @@ military exercises on land and humanitarian efforts in countries such
 as Haiti. Lê’s relationship with her subject matter speaks of her own
 complex experiences. As she says: “My life has been completely
 affected by American foreign policy…They were the perpetrators, but
-they were also the saviours.â€ 
+they were also the saviours.” 
 
 An-My Lê was the Audain Distinguished Artist-in-Residence at Emily
 Carr University in spring 2015. Her work has been widely exhibited,
@@ -1075,7 +1075,7 @@ Room 102 - Lasserre Building, 6333 Memorial Road, UBC
 
 The Belkin Art Gallery is pleased to present a talk by Carolyn Christov-
 Bakargiev, “The 14th Istanbul Biennial: On Annie Besant, thought
-forms, mad science, love and politics,â€  as part of the Curatorial Lecture
+forms, mad science, love and politics,”  as part of the Curatorial Lecture
 Series. This lecture will explore the relationship between the 14th
 Istanbul Biennial titled Saltwater. A Theory of Thought Forms and 19th
 and early 20th century theosophist Annie Besant’s notion of thought
@@ -1291,7 +1291,7 @@ Four local artists have come together to explore the game as an artistic
 medium. We invite you to play these art games, discuss and reflect on
 this emerging medium.
 
-â€œI know of no other way of coping with great tasks, than play.â€ 
+“I know of no other way of coping with great tasks, than play.” 
 — Friedrich Nietzsche
 
 What is an art game?
@@ -1351,7 +1351,7 @@ Opening reception: Friday, November 20 7:00 PM - 10:00 PM
 Gallery Hours Saturday and Sunday 11AM - 6PM
 
 Please join us on Friday Nov. 20 for the opening reception of “Fresh
-Bakedâ€ , a weekend only group exhibition of resident artists from the Bakery
+Baked” , a weekend only group exhibition of resident artists from the Bakery
 Studios. The title of the show is an apt response relating the name of the
 gallery space to the output of recent work by eight professionals working
 in multiple disciplines from drawing, jewellery, painting, and textile.
@@ -1460,7 +1460,7 @@ history as cultural innovators, activists and archivists – their work,
 preserved in the distinct collections of the three participating centres,
 has captured moments in Vancouver’s cultural evolution, documenting
 important moments and alternative opportunities for social change. Archival
-collections at ARCs provide a unique â€œgrassrootsâ€  window into the
+collections at ARCs provide a unique “grassroots”  window into the
 alternative histories that have shaped our city. Urban Aboriginal, visible
 minority, LGBTQ, feminist, social justice, environmental, and
 countercultural communities figure prominently in our records. This series
@@ -1732,7 +1732,7 @@ world. Katz founded the Harvey Milk Institute, the world’s largest queer
 studies institute, and serves as president and chief curator of New York
 City's Leslie Lohman Museum of Gay and Lesbian Art. His recent work
 includes co-curating “Hide/Seek: Difference and Desire in American
-Art,â€  an exhibition at the Smithsonian National Portrait Gallery that
+Art,”  an exhibition at the Smithsonian National Portrait Gallery that
 broke ground by focusing on LGBTQ (lesbian, gay, bisexual,
 transgender and queer) issues. Katz directs SUNY Buffalo’s PhD
 program in visual studies. Katz is currently co-curating
@@ -1770,7 +1770,7 @@ out on the surface of the filmstrip.
 
 More than ever before, film is used as an artistic medium to remind us of
 its unique physicality, giving a new sense to Andrei Tarkovsky’s idea of
-â€œsculpting in time.â€  For this yearâ€™s edition of Frenkel Defects at
+“sculpting in time.”  For this year’s edition of Frenkel Defects at
 Cineworks, one of two 70-minute programs of rare and diverse works will be
 screened, nearly all of which originate outside North America, presented in
 their intended 16mm format, including:
@@ -1785,7 +1785,7 @@ Andrés Denegri - Aula Magna (10 mins)
 Dražen Zanchi - Split Film 100110 (30 mins)
 
 Almost all films in the Frenkel Defects series have been produced with the
-help of â€œartist-run film labsâ€  - collectively-run organizations dedicated
+help of “artist-run film labs”  - collectively-run organizations dedicated
 to facilitating artists’ working in photochemical film -- including
 LaborBerlin (Berlin), L’Abominable (Paris) and Filmwerkplaats (Rotterdam).
 
@@ -1837,7 +1837,7 @@ $60 + taxes: General Admission
 REGISTRATION: http://bit.ly/1NzK6WY
 
 For the uninitiated, a contact printer is a device for the controlled
-exposure of a negative (typically) onto an unexposed â€œprint stockâ€  while
+exposure of a negative (typically) onto an unexposed “print stock”  while
 pressed in contact with one another. Once exposed, the print stock is
 developed as a positive of the original negative, producing an image of
 unparalleled quality and sharpness compared to all other methods of
@@ -1947,7 +1947,7 @@ Echoing the idea of Chantal Joffe, we cannot speak of the original
 intentions of the Tex Mex paintings. The series began as a reaction to
 fascinations; it is a series that evolved from the obsessive tendency of
 a painter. The viewer is presented with a loose narrative based on â
-€˜TexMexâ€™ food trends and a playful palette.
+€˜TexMex’ food trends and a playful palette.
 
 Corie Waugh is a visual artist who works with oil paint andphotography.
 Her focus is on process-based work, paying close attention to the

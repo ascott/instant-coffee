@@ -14,7 +14,7 @@ Date: February 5, 2013
 Time: 7:00 pm
 Location: Vancouver Art Gallery
 Created in conjunction with the landmark exhibition “Ian Wallace: At the 
-Intersection of Painting and Photography,â€  the talks series Reading Ian 
+Intersection of Painting and Photography,”  the talks series Reading Ian 
 Wallace: An International Perspective consists of conversations that provide a 
 rare opportunity for first-hand insight into Wallace’s expansive career.
 
@@ -25,7 +25,7 @@ Gallery, 750 Hornby Street, Vancouver.
 
 The third talk in this series features artist Stan Douglas in conversation with 
 Ian Wallace on February 5 at 7 p.m. Sharing a long history in Vancouver, 
-Douglas and Wallace have employed a cinematic â€œeyeâ€  in creating their 
+Douglas and Wallace have employed a cinematic “eye”  in creating their 
 photographic works. Douglas and Wallace, who have both helped define 
 Vancouver’s art scene internationally, will discuss the broader implications of 
 such cinematic references during this event.
@@ -40,6 +40,6 @@ information on other talks in this series featuring Christine Poggi and Victor
 Burgin, please visit 
 vanartgallery.bc.ca/events_and_programs/lectures_talks.html.
 
-The exhibition â€œIan Wallace: At the Intersection of Painting and Photographyâ€  
+The exhibition “Ian Wallace: At the Intersection of Painting and Photography”  
 continues at the Vancouver Art Gallery until February 24. Presenting 
 sponsors of the exhibition are Rogers and BMO Financial Group.

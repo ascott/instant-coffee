@@ -20,7 +20,7 @@ East Hastings Street. The commission is for new work. Eligible artists are
 invited to submit credentials and a letter of interest for consideration.
 
 The néc'a?mat ct Strathcona library is the first public facility in
-Vancouver with a Coast Salish name. nÃ©c'a?mat ct means â€œWe are oneâ€  in the
+Vancouver with a Coast Salish name. néc'a?mat ct means “We are one”  in the
 hen'q'emin'em (Musqueam) language. Public art at the site should reflect the
 character of this neighbourhood which is rich in cultural histories and
 diverse populations, including Indigenous peoples and early Japanese,

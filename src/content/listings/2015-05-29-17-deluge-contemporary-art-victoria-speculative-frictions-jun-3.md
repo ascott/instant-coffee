@@ -42,7 +42,7 @@ power of mirage and what exactly constitutes an oasis (and for whom) in a
 trenchant critique of the dividends of colonialism and cultural capital.
 During shooting of The Conquerer in Utah, horses hooves churned up lethal
 sand storms—a befouled legacy of more than 119 above-ground nuclear
-testsâ€”resulting in the slow but inexorable poisoning of â€œdownwinders,â€ 
+tests—resulting in the slow but inexorable poisoning of “downwinders,” 
 largely Shivwits extras from the Paiute nation. The Prussian blue produced
 in cyanotypes printed from frames of the 1954 film is also used to treat
 radiation sickness; a literal and symbolic recuperation of the image
@@ -52,11 +52,11 @@ aesthetics of destruction to the construction of aesthetics with the
 velocity and intensity of a shooting star. In some surreal present or
 future on some simulacrum of a soundstage The Nurse exhorts us to take a
 yes or no quiz while we are fleetingly exposed to alarming and disjointed
-images. â€œDid the man harm them,â€  (s)he enquires? â€œDo you feel comfortable
-in a disciplined environment?â€  In the spaces between the interrogatories
-and the daft fleetness of photographic â€œevidenceâ€  we internalize the nature
+images. “Did the man harm them,”  (s)he enquires? “Do you feel comfortable
+in a disciplined environment?”  In the spaces between the interrogatories
+and the daft fleetness of photographic “evidence”  we internalize the nature
 of artifice and adapt it to our experience as voyeurs. Congratulations are
-in order. â€œYou have a split emotional register. Would you like to reseal it?â€ 
+in order. “You have a split emotional register. Would you like to reseal it?” 
 
 Rä di Martino is a graduate of Chelsea College of Art and of the Slade
 School of Art. Born in Rome, she moved to London in 1997 and to New York in
@@ -74,7 +74,7 @@ Mardin, Turkey (2013);Mission Afterviews, Victoria Theatre, San Francisco
 (2012).
 
 Shambhavi Kaul's cinematic constructions conjure uncanny, science-fictive
-non-places. Described as creating â€œzones of compression and dispersion,â€ 
+non-places. Described as creating “zones of compression and dispersion,” 
 her work utilizes strategies of montage and recirculation, inviting an
 affective response while simultaneously measuring our capacity to know what
 we encounter. She has exhibited her work worldwide at venues such as

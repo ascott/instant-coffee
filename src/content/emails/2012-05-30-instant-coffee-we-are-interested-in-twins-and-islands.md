@@ -65,7 +65,7 @@ HIGHWAY 61, inspiring a generation to pick up a camera and shoot. In
 a chance to reconsider the genre of road movies through Cineworkâ
 €™s first ever short film contest. The result: four new short films 
 inspired by dialogue from HIGHWAY 61 plus a rare 35mm print 
-screening of MacDonaldâ€™s film. Celebrations continue with an 
+screening of MacDonald’s film. Celebrations continue with an 
 opportunity to meet the contest-winning filmmakers at the after-party.
 
 ADMISSION:
@@ -235,7 +235,7 @@ Founded in 1992, Raqs Media Collective is a prolific collaborative
 project by Jeebesh Bagchi, Monica Narula, and Shuddhabrata 
 Sengupta. Crossing and combing different media, they work as artists, 
 filmmakers, writers, curators, editors, event organizers, and more. 
-Inspired by a self-defined notion of â€œkinetic contemplationâ€ , their 
+Inspired by a self-defined notion of “kinetic contemplation” , their 
 practice restlessly explores new forms and methods of production while 
 preserving a consistent rigor. Their work as artists and as curators has 
 been presented at major institutions internationally.
@@ -272,9 +272,9 @@ Vancouver BC V6B 3J5
 phone 1.604.709.6100
 http://www.blanketgallery.com
 
-Monique Mouton, Shades, oil on panel, 2012, 40â€  x 39â€ 
+Monique Mouton, Shades, oil on panel, 2012, 40”  x 39” 
 
-Blanket Contemporary Art is pleased to present â€œSidesâ€ , an exhibition 
+Blanket Contemporary Art is pleased to present “Sides” , an exhibition 
 of new 
 paintings by LA based artist Monique Mouton. This is her second solo 
 show 
@@ -506,7 +506,7 @@ closure of accessible public education, KSW presents an evening of
 poetry and music hosted by Rhizome Café, responding to the request 
 for solidarity and support for the Legal Committee of the CLASSE, 
 whom the Montreal Gazette have dubbed “Quebec’s most militant 
-student groupâ€ .
+student group” .
 
 Featuring: The Vancouver Complaints Choir, Wayde Compton, Kim 
 Minkus, Jamie Reid, Daphne Marlatt,, William Owen, Donato Mancini, 
@@ -528,7 +528,7 @@ fight, on principle, against this judicialization of a political conflict, we
 have no choice but to acknowledge that the struggle on the streets has 
 been, for many, transferred to the courtroom and we must act to 
 defend our classmates, our friends and our family. This defense needs 
-your help.â€  (full text below)
+your help.”  (full text below)
 
 All proceeds from the fundraiser will go to the Legal Defense 
 Committee of La Classe. See the full text of the call for support, below, 
@@ -804,23 +804,23 @@ exhibit-photos/
 
 The new project is the third installment of the mahal exhibit. It explores 
 the packing and unpacking of the balikbayan box, the oversized 
-cardboard box â€œfilledâ€  with gifts by Filipino im/migrants living and 
+cardboard box “filled”  with gifts by Filipino im/migrants living and 
 working abroad, and sent to family and friends in the Philippines. This 
 collaborative project builds upon narratives depicted in the short film, 
 produced by the UBC Ethnographic Film Unit and directed by Dada 
 Docot, Almira Walde-Renaud and Daniel Smartt, “Balikabayan: Return 
-to the Nationâ€  (http://vimeo.com/24159140). 
+to the Nation”  (http://vimeo.com/24159140). 
 
 The project, as part of the IVEFS coursework, endeavors to add to the 
 discourse involving cultural global flows associated with (im)migrant 
 communities, specifically the Philippine community in Vancouver. With 
 academic, artistic, and community-based exploration of the balikbayan 
-box phenomena, the project aims to â€œunpackâ€  personal and community 
+box phenomena, the project aims to “unpack”  personal and community 
 narratives of the Filipina/o in Vancouver. 
 
-Instead of releasing the typical â€œcall for artworksâ€ , the project 
+Instead of releasing the typical “call for artworks” , the project 
 introduces the project to the Filipino (im)migrant community in 
-Vancouver with a â€œcall for padala (gifts)â€ . These collected gifts will then 
+Vancouver with a “call for padala (gifts)” . These collected gifts will then 
 be contained in two ordinary balikbayan boxes, for shipping to the 
 Philippines. Essential to this project is the recording of the narratives 
 behind the gifts. Who are the gifts' senders, and who are its recipients? 
@@ -832,9 +832,9 @@ ignored, when migrants are reduced to mere numbers and statistics.
 The Vancouver component of the project collaborates with academic 
 institutions and art spaces both in Vancouver and Manila. The UBC Liu 
 Institute for Global Issues and the YACTAC Gallery are points of 
-â€œdepartureâ€  for the packing, and display, of the balikbayan boxes as 
+“departure”  for the packing, and display, of the balikbayan boxes as 
 they fill up with padala. When the boxes arrive in Manila, the Kanto The 
-Collective Artists-run Space, will then serve as a point of â€œarrival.â€  It is 
+Collective Artists-run Space, will then serve as a point of “arrival.”  It is 
 in this space where the balikbayan boxes will be unpacked by the 
 recipients of the gifts who would have then been notified of the boxes' 
 opening night. It is within these spaces and among the communities 
@@ -996,7 +996,7 @@ try them out. FREE with gallery admission ($7-$22.40)
 
 Drawing Your Dreams Workshop at Thunderbird - 1pm - 3:30pm
 Thunderbird Community Centre, 2311 Cassiar Street, Vancouver
-This event for â€œnon-drawersâ€  of all ages with artist Yoko Tomita invites 
+This event for “non-drawers”  of all ages with artist Yoko Tomita invites 
 you to drop in and draw at a fun, easy and inspiring workshop on the 
 theme of dreams! FREE
 
@@ -1105,7 +1105,7 @@ between artist/audience, voyeur/exhibitionist, spectator/spectacle, and
 consumer/consumed.
 
 Camera/whore’s name is appropriated from net culture. Popularized by 
-the home webcam, â€œCamera whoreâ€  or â€œcam whoreâ€ , is an internet 
+the home webcam, “Camera whore”  or “cam whore” , is an internet 
 slang developed by the rapid trend of digital representations. The slash 
 (/) is inserted to draw attention to the separation of both the camera 
 and the participant while simultaneously causing internet search 

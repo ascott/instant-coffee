@@ -51,7 +51,7 @@ Elizabeth McIntosh is widely regarded as one the most important abstract
 painters practicing in Canada today. While her paintings are located in the
 realm of abstraction, the careful organization of forms sometimes alludes
 to elements of the real world. Despite the apparent simplicity of
-McIntoshâ��s formal language, there is often a textural richness arising from
+McIntosh’s formal language, there is often a textural richness arising from
 her artistic process, which involves the application of multiple layers of
 paint, allowing for trial and error and leaving a visible reworking.
 
@@ -69,7 +69,7 @@ Recent solo exhibitions include A Good Play, Diaz Contemporary, Toronto
 She has participated in group exhibitions at the Vancouver Art Gallery
 (2006), Santa Monica Museum of Art (2006), and Hallwalls, Buffalo, (2003).
 In 2010, Emily Carr University Press in collaboration with Diaz
-Contemporary published a monograph of McIntoshâ��s work entitled A Good Play,
+Contemporary published a monograph of McIntosh’s work entitled A Good Play,
 which includes essays by Jan Verwoert and Monika Szewczyk, and she was
 featured in Canadian Art Magazine. McIntosh lives and works in Vancouver,
 where she is a respected educator at the Emily Carr University of Art +
@@ -79,7 +79,7 @@ Public Conversation with Jan Verwoert and Elizabeth McIntosh
 
 Friday, December 10, 7pm
 
-Available at the CAG is A Good Play, an artist monograph on McIntoshâ��s
+Available at the CAG is A Good Play, an artist monograph on McIntosh’s
 recent work with essays by Jan Verwoert and Monika Szewczyk, ECI Press, 2010
 
 Public Guided Visits on Saturday, November 20, 3pm and Sunday, January 9,
@@ -513,7 +513,7 @@ quotidian life become a common subject in art.
 
 The works in the exhibition are in a diverse range of media and are drawn
 primarily from the Gallerys collection and augmented with loans from
-artistsâ�� and private collections. The exhibition is organized around three
+artists’ and private collections. The exhibition is organized around three
 themes: Everyday Actions, Everyday Objects and Everyday Encounters.
 Everyday Actions includes works that consider those simple, sometimes
 mindless tasks we perform regularly; works in Everyday Objects take
@@ -581,11 +581,11 @@ encouraged.
 
 Based out of Portland, Oregon, Hisham Mayet is co-founder and co-operator,
 with Alan Bishop, of the Seattle based CD and DVD label Sublime
-Frequencies, which is dedicated to â��acquiring and exposing obscure sights
-and sounds from modern and traditional urban and rural frontiersâ��. An avid
+Frequencies, which is dedicated to ’acquiring and exposing obscure sights
+and sounds from modern and traditional urban and rural frontiers’. An avid
 traveler and archivist, Mayet is also a documentary filmmaker working with
-digital video to produce a kind of â��folk cinemaâ�� which seeks to â��manifest
-into the realm of poetic and ecstatic truthâ��. His films include Jemaa El
+digital video to produce a kind of ’folk cinema’ which seeks to ’manifest
+into the realm of poetic and ecstatic truth’. His films include Jemaa El
 Fna: Morocco's Rendezvous of the Dead, Folk Music of the Sahara: Among the
 Tuareg of Libya, ISAN: Folk and Pop Music of Northeast Thailand, NIGER:
 Magic and Ecstasy in the Sahel, and Morocco: Musical Brotherhoods from the
@@ -611,18 +611,18 @@ From 2000 to 2006 Ken Lum was head of the graduate program in studio
 art at the University of British Columbia, Vancouver, where he taught
 from 1990 until 2006. Lum joined the faculty of Bard College,
 Annandale-on-Hudson, in 2005 and worked there until 2007. He has been
-an invited professor at the Ã�cole Nationale SupÃ©rieure des Beaux-Arts,
+an invited professor at the cole Nationale Supérieure des Beaux-Arts,
 Paris, the Akademie der Bildenden Kunst, Munich, California College of
 the Arts, San Francisco, and the China Art Academy, Hangzhou. Lum is
 co-founder and founding editor of Yishu Journal of Contemporary
-Chinese Art. He has published extensively, and a book of Lumâ��s
+Chinese Art. He has published extensively, and a book of Lum’s
 writings, edited by Hans Ulrich Obrist, is forthcoming from Walter
-Koenig Books. In addition he recently completed an artistsâ�� book
+Koenig Books. In addition he recently completed an artists’ book
 project with philosopher Hubert Damisch that was launched with Three
-Star Press, Paris. Lum was Project Manager for Okwui Enwezorâ��s The
-Short Century: Independence and Liberation Movements in Africa 1945 â��
+Star Press, Paris. Lum was Project Manager for Okwui Enwezor’s The
+Short Century: Independence and Liberation Movements in Africa 1945 ’
 1994 (2001). He was also co-curator of the 7th Sharjah Biennial
-(2005), and Shanghai Modern: 1919 â�� 1945 (2005). Lum has exhibited
+(2005), and Shanghai Modern: 1919 ’ 1945 (2005). Lum has exhibited
 widely, including São Paulo Biennial (1998), Shanghai Biennale (2000),
 Documenta 11 (2002), the Istanbul Biennial (2007), and the Gwangju
 Biennale (2008). He is currently working on two public art
@@ -633,8 +633,8 @@ Ghost Walk in Chinatown is a pilot program for Artists Walking Home, a
 yearlong series of 32 walks guided by artists, designers, and
 architects presented by Walking Home Projects in conjunction with 221A
 Artist Run Centre. The program invites participants to experience a
-direct connection to the cityâ��s immediate environment â�� both natural
-and constructed â�� and to gain an understanding of how ideas and
+direct connection to the city’s immediate environment ’ both natural
+and constructed ’ and to gain an understanding of how ideas and
 intention become policy, resulting in action and infrastructure which
 shape our social and lived experiences in public spaces. Participants
 will explore sudden change of ambiance in a street within the space of
@@ -772,7 +772,7 @@ of each work resembles that of Byzantine iconography but they are presented
 and framed in a modern folk fashion. The juxtaposition of images, styles
 and symbols from various genres and periods creates an unsettling and
 provocative narrative that is anachronistic with its references, yet
-somehow relates to the future. The exhibitionâ��s title piece depicts an
+somehow relates to the future. The exhibition’s title piece depicts an
 Eve-like 1960s era woman with voluminous mascara eating an apple while
 surrounded by exotic snakes from around the world. This body of work
 moralizes contemporary global issues against those of the past.
@@ -1001,7 +1001,7 @@ MORE OFTEN THAN ALWAYS/
 
 LESS OFTEN THAN NEVER
 
-November 26, 2010 â�� January 23, 2011
+November 26, 2010 ’ January 23, 2011
 
 Opening Reception: Thursday, November 25, at 7pm
 Panel Discussion: Saturday, January 22 at 1pm
@@ -1010,7 +1010,7 @@ A Noxious Sector Project
 Curators: Ted Hiebert and Doug Jarvis
 
 "More Often than Always/Less Often than Never", starting from Alfred
-Jarryâ��s invention of 'pataphysics' (the science of imaginary solutions),
+Jarry’s invention of 'pataphysics' (the science of imaginary solutions),
 artists from around the world are invited to engage with notions of
 impossibility, uncertainty and the imaginary which challenge standardized
 formulations of the allowable, acceptable, logical or feasible, a call for
@@ -1021,7 +1021,7 @@ Artists: hannah_g, Julie Gendron & Emma Hendrix, Tetsushi Higashino, Gordon
 Lebredt, Chikako Maria Mori & Boris Nieslony, François Mathieu, Arjuna
 Neuman, and Anne-Marie Proulx.
 
-5th Annual Trading Cards Exhibition November 26, 2010 â�� January 23, 2011
+5th Annual Trading Cards Exhibition November 26, 2010 ’ January 23, 2011
 
 Opening Reception: Thursday, November 25, at 7pm
 ATC Closing & Trading Session: Saturday, January 22 at 2pm
@@ -1061,8 +1061,8 @@ solo exhibition Walking, Square, Cylinder, Plane on November 25 at 6pm.
 
 The exhibition will feature a new body of paintings that have come out of
 Eli Bornowsky's dedicated studio practice in the past six months. Compared
-to his previous works, a turn can be seen in the artistâ��s output. The newer
-works have expanded in size and visual vocabulary. Previously, Bornowskyâ��s
+to his previous works, a turn can be seen in the artist’s output. The newer
+works have expanded in size and visual vocabulary. Previously, Bornowsky’s
 canvases assumed a relatively polite size and played on the repetition of
 similar geometric motifs, most notably the circle, with slight and
 energetic variations in size, texture and colouring. What connects his
@@ -1084,7 +1084,7 @@ or a small box containing its own miniature landscape, are just some of the
 figures that seem to offer concrete positioning for the eye. Each large
 canvas is crowned with an accompanying smaller canvas, which is positioned
 in no repeatable method, except to say that they rest above. These smaller
-canvases recall Bornowskyâ��s older works, both in size and content, but they
+canvases recall Bornowsky’s older works, both in size and content, but they
 further obfuscate the visual conversation that happens throughout each
 painting. The companion canvases introduce a sensation of both belonging
 and foreignness. They are a curious and constant reminder for you to go
@@ -1149,7 +1149,7 @@ and thinking about art in Vancouver and beyond.
 No Windows presents artworks by local and national artists Rhonda Weppler +
 Trevor Mahovsky, Adad Hannah, Jamie Drouin, and Zoe Tissandier. Each artist
 considers the structures that underlie gallery and museum
-practicesâ��principles and assumptions that may seem invisible or
+practices’principles and assumptions that may seem invisible or
 commonsense, yet shape the creation, mediation, and reception of art.
 
 Each work seeks to transform our perception of gallery practices. Rhonda
@@ -1231,8 +1231,8 @@ researcher/curator, NL), and Jan Verwoert (art critic, DE).
 artists, curators, critics and other international professionals through
 thematic seminars and informal encounters. Guest teachers over the past
 years have been e.g. Hans Ulrich Obrist, Gerardo Mosquera, Ann Goldstein,
-Paul O'Neill, Paulo Herkenhoff, Jacques RanciÃ�Â¨re, Simon Sheikh, Pier Luigi
-Tazzi, Jan Hoet, Teresa Gleadowe, Tirdad Zolghadr, Ulay and Nina MÃ�Â¶ntmann.
+Paul O'Neill, Paulo Herkenhoff, Jacques RanciÂ¨re, Simon Sheikh, Pier Luigi
+Tazzi, Jan Hoet, Teresa Gleadowe, Tirdad Zolghadr, Ulay and Nina MÂ¶ntmann.
 
 - The opportunity to get acquainted with de Appel arts centre from 'the
 inside', and get a better insight into the mechanisms and governing

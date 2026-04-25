@@ -15,7 +15,7 @@ prison for taking to the streets in protest of a system we all know to be
 rigged, tyrannical, and murderous, we sit out here, not apart, but in 
 solidarity. 
 
-Charged with â€œhooliganismâ€  after a â€œpunk prayerâ€  performance, Maria 
+Charged with “hooliganism”  after a “punk prayer”  performance, Maria 
 Alyokhina, Nadezhda Tolokonnikova, and Ekaterina Samoutsevitch, 
 alleged members of the feminist punk collective Pussy Riot are on trial, 
 facing a seven-year sentence following their arrest in the Spring of 
@@ -41,7 +41,7 @@ so will we.
 
 As Dr. Martin Luther King Jr once famously wrote: “Injustice anywhere is 
 a threat to justice everywhere… Whatever affects one directly, affects 
-all indirectly.â€ 
+all indirectly.” 
 
 And so, the actions of Pussy Riot are our actions.
 As culture workers we fight for generative chaos. 

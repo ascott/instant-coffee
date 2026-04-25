@@ -127,9 +127,9 @@ of origami designs, each made from pages of a Playboy magazine in
 which Vancouver-born playmate, Dorothy Stratten, appears as a 
 centerfold. Through a process of folding and unfolding, the works fulfill 
 Hugh Hefner’s criteria for the ideal centerfold—namely, that “a situation 
-is suggested: the presence of someone not in the picture.â€ 
+is suggested: the presence of someone not in the picture.” 
 
-Dorothy Stratten (1960â€“1980) was â€œdiscoveredâ€  by her future husband 
+Dorothy Stratten (1960–1980) was “discovered”  by her future husband 
 and manager Paul Snider while working at a Dairy Queen on East 
 Hastings Street. After Snider sent photos of her to Playboy, Stratten 
 was invited to Los Angeles, where she became Playmate of the Month 
@@ -302,7 +302,7 @@ Transformational Politic
 1-3 pm Sunday September 30
 
 Coming to Feminism: A Performative Reading
-Shared reading of bell hooksâ€™ â€œFeminism as a Transformational Politicâ€ 
+Shared reading of bell hooks’ “Feminism as a Transformational Politic” 
 
 Other Upcoming events/installations for FAG @ Access include;
 
@@ -611,8 +611,8 @@ Time. Open from Wed-Sat, 12-6, opportunities to sit with the works are
 quickly passing. The final week is packed full of public events.   
 Wednesday at 7pm is an interactive community based event with 
 Michael Turner, one of the contributing writings for the Long Time 
-publication. The event, â€œOn Becomingâ€ , part of VIVO Media Artsâ€™ 
-monthly series â€œNo Reading After the Internetâ€ , is an in-depth 
+publication. The event, “On Becoming” , part of VIVO Media Arts’ 
+monthly series “No Reading After the Internet” , is an in-depth 
 audience-led discussion and reading with the author. Attendees will be 
 led through the reading from within the work it comments upon. This 
 event promises to be thought-provoking, cerebral and a very good 
@@ -632,7 +632,7 @@ to context the many layers of qualities and circumstance that
 interconnect in such inert ways to form a concerted thesis, a creative 
 partnership, an exhibition and publication.
 
-   Originally, the exhibitionâ€™s working title was Hypnotic. Not only a 
+   Originally, the exhibition’s working title was Hypnotic. Not only a 
 reference to the work which would complete a decade long trilogy of 
 collaboration commissioned by On Main, but also, a reminder of the 
 intense phycological journey undertaken by the artists to complete this 
@@ -670,9 +670,9 @@ representations are death. In Roland Barthes’ Camera Lucida, Barthes
 considers a picture of his mother: “the photograph tells me death in the 
 future. What pricks me is the discovery of this equivalence. In front of 
 the photograph of my mother as a child, I tell myself: she is going to 
-die: I shudder ... over a catastrophe which has already occurredâ€ . Like 
+die: I shudder ... over a catastrophe which has already occurred” . Like 
 this picture of Barthes mother in the garden, the video works of 
-â€œ...before I wakeâ€  portray the future death of their subjects. It is a 
+“...before I wake”  portray the future death of their subjects. It is a 
 haunting work, marking a milestone yet to be fully understood.
 
   Secondly, this exhibition marks an important milestone in the artist 
@@ -790,11 +790,11 @@ sweeping survey of this important art movement
 Five years in the making, this exhibition is the result of an 
 unprecedented collaboration between curators from institutions across 
 the country. “We are very proud to be part of this important 
-collaborative exhibition,â€  said Gallery director Kathleen Bartels. â€œTraffic 
+collaborative exhibition,”  said Gallery director Kathleen Bartels. “Traffic 
 represents a significant contribution to the historical record of 
 contemporary art in Canada and we are pleased to partner with other 
 Canadian art institutions and galleries in organizing this landmark 
-exhibition.â€ 
+exhibition.” 
 
 Conceptual art emerged in the context of the social and political turmoil 
 of the 1960s and 1970s – from feminism and gay liberation to anti-
@@ -810,11 +810,11 @@ traditional views of art.
 Mapping the diverse forms of conceptualism, the exhibition includes 
 examples of performance art, film and video art, and many other art 
 practices which broke new ground during the era. “This was a period of 
-amazing experimentation in artâ€  said Grant Arnold, Audain Curator of 
+amazing experimentation in art”  said Grant Arnold, Audain Curator of 
 British Columbia Art at the Vancouver Art Gallery. “Conceptualism is 
 one of the most wide-reaching and long-lasting artistic movements in 
 the history of contemporary art and the movement’s influence in this 
-country has long deserved this major recognition and attention.â€ 
+country has long deserved this major recognition and attention.” 
 
 Traffic also presents notable early works by Christos Dikeakos, Rodney 
 Graham, Jeff Wall and other now internationally renowned Vancouver-

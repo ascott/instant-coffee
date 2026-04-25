@@ -40,13 +40,13 @@ inquiry, as in the case of the conceptual art journal Art and Language
 (1969), and the discursive periodical October (1974). Others, such as
 Canadian Art (1943) demonstrate a shift of focus or an expansion of an
 existing publication. We have included several local examples in an
-attempt to show how Vancouverâ��s own publishing practices exist in
-connection with outside developments; Ian Wallace and Jeff Wallâ��s New Media
+attempt to show how Vancouver’s own publishing practices exist in
+connection with outside developments; Ian Wallace and Jeff Wall’s New Media
 Bulletin (1969) may be considered in this light, despite its limited
 distribution and the existence of only one issue. Fillip (2004) has been
 included as a contemporary example of a lasting Vancouver perspective. By
 presenting these magazines in their original form we hope to provide a
-useful cross section of significant developments in artistâ��s publishing
+useful cross section of significant developments in artist’s publishing
 practices and the surrounding discursive milestones.
 
 Index
@@ -60,35 +60,35 @@ Emily Carr Library
 The exhibition Index will focus on the work of artists who have developed
 practises, or produced individual works, based the activity of indexing.
 The highly individual impetus to index and various methods of cataloguing
-can be identified within works such as Michael Landyâ��s Breakdown, an
-inventory of all 7,227 of the artistâ��s possessions (each item subsequently
-destroyed in an assembly line style performance) or Daniel Spoerriâ��s An
+can be identified within works such as Michael Landy’s Breakdown, an
+inventory of all 7,227 of the artist’s possessions (each item subsequently
+destroyed in an assembly line style performance) or Daniel Spoerri’s An
 Anecdoted Topography of Chance, a numbered, annotated account of each item
-on the artistâ��s dinner table at 3:47pm On October 17, 1981. It is also
-evident in works such as Jeremy Hofâ��s index of iconic music albums whose
-titles include the names of colours and Luis Jacobâ��s Image Bank, an image
+on the artist’s dinner table at 3:47pm On October 17, 1981. It is also
+evident in works such as Jeremy Hof’s index of iconic music albums whose
+titles include the names of colours and Luis Jacob’s Image Bank, an image
 database built on principles of visual analogy, and free association.
 
 Index focuses on works that represent this impulse catalogue elements of
 life which, although bearing resemblance to one another in some fashion, do
-not easily fit into accepted methods of categorization â�� numeric or
+not easily fit into accepted methods of categorization ’ numeric or
 alphabetic systems, for example. Daily life is comprised of processes of
 indexing that range from the highly precise to the un-recognizably chaotic.
-Through processes of indexing based on innumerable criteria â�� urgency,
-rhythm, logical sequences of information â�� we learn to organize the tasks
+Through processes of indexing based on innumerable criteria ’ urgency,
+rhythm, logical sequences of information ’ we learn to organize the tasks
 and materials that occupy our lives. Processes of indexing do not
 exclusively concern themselves with objects, but also activities,
 processes, and feelings.
 
-Michael Landy and Daniel Spoerriâ��s works in the exhibition embody a style
-of â��freeze-frameâ�� indexing, wherein accumulations of objects from the
-artistâ��s life are identified with neurotic precision and subsequently
-re-contextualized into artworkâ��s, exhibitions, and book works. On the other
-hand, Jeremy Hof and Luis Jacobâ��s processes of indexing take aesthetic
-criteria as their driving principle â�� linguistic references to colour, and
+Michael Landy and Daniel Spoerri’s works in the exhibition embody a style
+of ’freeze-frame’ indexing, wherein accumulations of objects from the
+artist’s life are identified with neurotic precision and subsequently
+re-contextualized into artwork’s, exhibitions, and book works. On the other
+hand, Jeremy Hof and Luis Jacob’s processes of indexing take aesthetic
+criteria as their driving principle ’ linguistic references to colour, and
 analogous visual forms, respectively.
 
-Index is the result of a careful combing of the libraryâ��s own index, in
+Index is the result of a careful combing of the library’s own index, in
 search of artists who preoccupy themselves with exploring new and
 idiosyncratic forms of organization.
 

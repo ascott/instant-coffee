@@ -10,7 +10,7 @@ summary: "VIVO | No Reading After the Internet | Radicals and Radicant | MAR 17"
 
 VIVO Media Arts Centre
 No Reading After the Internet
-Marchâ€™s Reading: â€œRadicals and Radicantsâ€  from The Radicant by Nicholas
+March’s Reading: “Radicals and Radicants”  from The Radicant by Nicholas
 Bourriaud
 Thursday March 17 7PM Salon Free
 1965 Main St. Vancouver www.vivomediaarts.com

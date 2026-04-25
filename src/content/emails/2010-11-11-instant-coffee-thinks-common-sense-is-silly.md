@@ -309,7 +309,7 @@ the Canadian Forces and produced a wide range of art, documenting an even
 wider range of settings where Canadian soldiers are at work.
 
 The panel brings together three cultural practitioners who explore the role
-art plays in recording and bearing witness to Canadaâ��s military endeavours.
+art plays in recording and bearing witness to Canada’s military endeavours.
 
 Jim Burant is an archivist with Library and Archives Canada and is a member
 of the advisory committee of the Canadian Forces Artists Program. He will

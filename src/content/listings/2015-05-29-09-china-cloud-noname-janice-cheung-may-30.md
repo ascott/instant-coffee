@@ -13,7 +13,7 @@ NONAME
 New works by Janice Cheung
 
 Janice Cheung is a Vancouver based installation artist with a background in
-photography and extended media through the University of Guelph. Cheungâ€™s
+photography and extended media through the University of Guelph. Cheung’s
 work consists of interactive multimedia installations, often incorporating
 a multiple of some kind. She is also the Creative Director of the Young
 Asian Canadian Twin Artist Collective a.k.a >> Yactac

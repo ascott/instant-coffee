@@ -26,7 +26,7 @@ Following launch events and lectures in Berlin, Rotterdam, and Vancouver, Fillip
 
 Orders & Subscriptions
 The issue is available for purchase for $15 postage paid and can be ordered through Motto Distribution (Europe), Textfield Distribution (US), Disticor (Canada/US), and The Book Society (Asia). Subscriptions are available for
-$25 / â�¬25 for one year (three issues) via the Fillip Web site.
+$25 / ’¬25 for one year (three issues) via the Fillip Web site.
 
 Advertising information can be found at http://fillip.ca/advertising.
 

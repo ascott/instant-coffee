@@ -46,7 +46,7 @@ Oana Clitan, Rotterdam
 Sylvana d'Angelo, Vancouver
 Alexander Gusstafson, Zurich
 Alexandra Lucerna, Moscow
-AneÅ¾ka MinařÃ­kovÃ¡, Prague
+AneÅ¾ka MinařÃ­ková, Prague
 Larissa Monteiro, Brazil
 Ana Radovanović, Belgrade
 Daniel Rincon, Vancouver

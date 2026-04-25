@@ -88,9 +88,9 @@ No Looking After the Internet: Helen Reed, Body Techniques
 Wednesday, February 5, 6pm
 Audain Gallery
 
-Sociologist Marcel Mauss used the term â€œtechniques of the bodyâ€  to 
+Sociologist Marcel Mauss used the term “techniques of the body”  to 
 describe a background level of learned social behaviour about the 
-â€œproperâ€  use of the body. By slipping between time periods, institutional 
+“proper”  use of the body. By slipping between time periods, institutional 
 frameworks and social contexts, Marat Sade Bohnice excavates the 
 accumulation of these implicit techniques. Addressing those themes, 
 Helen Reed will discuss multiplicity and mimesis in Thauberger’s work. 

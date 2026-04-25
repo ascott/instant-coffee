@@ -81,7 +81,7 @@ complaint letters that were written in the late sixties and now sit in a
 folder within the Vancouver Archives. This folder was created by the
 Kitsilano Ratepayer's Association (KRA), a group of property owners in
 Vancouver's west side neighbourhood, and is an artifact of its coordinated
-efforts. As historian Daniel Ross has shown, defining the â€œhippy problemâ€ 
+efforts. As historian Daniel Ross has shown, defining the “hippy problem” 
 was a way for neighbourhood elites to make sense of, and control, the new
 identities converging in Kitsilano, “based on a youthful and sometimes
 hedonistic exploration of alternatives to middle-class values and consumer

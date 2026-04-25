@@ -113,7 +113,7 @@ by motion-study laboratories through the incorporation of black and white
 raster backgrounds. Taking ordinary objects as subject-matter, Bunte 
 confounds such labs’ aims of achieving scientific abstraction, instead 
 capturing the contingency of the filmic image through his inclusion of 
-â€œaccidentalâ€  footage as well. In this way, the film extends both literal and 
+“accidental”  footage as well. In this way, the film extends both literal and 
 metaphorical frames by repositioning the fringes to the centre in spatial 
 and temporal ways, drawing attention to processes that do not produce 
 anything significant, do not demand optimization, and that are not usually 
@@ -123,7 +123,7 @@ The exhibition’s title is taken from the book Attempt at exhausting a place
 in Paris by French writer Georges Perec, in which he explored “the 
 infraordinary: the markings and manifestations of the everyday that 
 consistently escape our attention as they compose the essence of our 
-lives.â€ *
+lives.” *
 
 Andreas Bunte is an internationally-exhibited artist based in Berlin. His 
 16mm film and installation‐based practice explores the intersection 
@@ -258,9 +258,9 @@ Above and Below
 Opening reception: Saturday October 18, 2pm to 4pm
 
 Monte Clark Gallery is pleased to present a new body of work by Derek
-Root entitled â€œAbove and Below.â€ 
+Root entitled “Above and Below.” 
 
-In the exhibition â€œAbove and Below,â€  Derek Root continues to expand
+In the exhibition “Above and Below,”  Derek Root continues to expand
 his language of abstraction, presenting a series of acrylic-on-canvas
 works. The paintings depict seemingly random forms that sit
 harmoniously together, tethered by their subtle texture and colour.
@@ -322,11 +322,11 @@ in North America and is one of the most important gateways to the Asia
 Pacific. For the past 25 years, the Gallery has been at the forefront of the 
 incredible exchange of art and ideas between these two regions, and we 
 are thrilled to continue building upon this commitment with the launch of 
-the Institute of Asian Art,â€  said Kathleen Bartels, Director of Vancouver Art 
+the Institute of Asian Art,”  said Kathleen Bartels, Director of Vancouver Art 
 Gallery. “With dedicated curatorial leadership and the support of an 
 international network of advisors, the Institute of Asian Art will be an 
 important resource for our community, stimulating new dialogue and further 
-strengthening the ties between Vancouver and the Asian Pacific region.â€  
+strengthening the ties between Vancouver and the Asian Pacific region.”  
 
 The Institute of Asian Art’s inaugural programs focus on historical and 
 contemporary Chinese art and include: 
@@ -349,11 +349,11 @@ collection of contemporary Asian Art.
 
 “I am absolutely delighted to see the realization of the Institute of Asian Art. 
 The timing is perfect as we celebrate two significant Chinese exhibitions at 
-the Gallery in the coming weeks,â€  said Zheng Shengtian, Trustee of the 
+the Gallery in the coming weeks,”  said Zheng Shengtian, Trustee of the 
 Vancouver Art Gallery. “The Institute is a logical result of years of the 
 Gallery’s efforts to exhibit and promote Asian art for the community, and it 
 will no doubt open a new and exciting chapter for the Vancouver Art 
-Gallery through expanded programs and outreach.â€ 
+Gallery through expanded programs and outreach.” 
 
 Located in one of North America’s largest cities on the Pacific Rim, the 
 Vancouver Art Gallery has spearheaded major Asian art projects and 
@@ -449,7 +449,7 @@ jsorce/eviemeister@resnicowschroeder.com
 <a href="/instant-coffee/listings/2014-10-16-08-dim-cinema-at-the-cinematheque-pierre-huyghe-the-host-and-th">08. DIM Cinema at The Cinematheque | Pierre Huyghe: The Host and the Cloud | OCT 20</a>
 ------------------------------------------------------------------------
 “Huyghe’s strength lies in his understanding . . . [that] images have
-become masks for universal media ventriloquism.â€  (Jean Baudrillard)
+become masks for universal media ventriloquism.”  (Jean Baudrillard)
 
 VANCOUVER PREMIERE! DIM Cinema is delighted to present the
 Vancouver premiere of Pierre Huyghe’s The Host and the Cloud, a
@@ -463,7 +463,7 @@ actors through a series of fragmented narratives, fantastical visions, and
 dreamlike rituals as they freely interpret three public holidays —
 Halloween, Valentine’s Day, and May Day. “The film might be Huyghe’s 
 most
-elaborate, intriguing and, quite possibly, weirdest offering to dateâ€ 
+elaborate, intriguing and, quite possibly, weirdest offering to date” 
 (Naomi Fry, Frieze).
 
 The Host and the Cloud. France, 2009. Dir: Pierre Huyghe. 121 min. DCP
@@ -498,12 +498,12 @@ Indigenous artists and classical music ensembles, the political exigencies
 of First Nations communities across Canada are scarcely referenced in 
 such work. As Cherokee scholar Craig Womack has noted, while “America 
 loves Native American Culture[,] America is much less enthusiastic about 
-Native American land claimsâ€ . This talk examines the space between 
+Native American land claims” . This talk examines the space between 
 classical and Indigenous musical forms, and the attendant politics of 
 recognition in such collaborative processes that often celebrates 
 Indigenous inclusion at the cost of political engagement.
 
-Bio: Dylan Robinson is a StÃ³:lō scholar and Banting postdoctoral fellow in 
+Bio: Dylan Robinson is a Stó:lō scholar and Banting postdoctoral fellow in 
 the First Nations Studies Program at UBC. His research focuses upon the 
 sensory politics of Indigenous activism and the arts, and questions how 
 Indigenous rights and Settler colonialism are embodied and spatialized in 
@@ -528,12 +528,12 @@ launch of the publication Far Away So Close: Part I , which features written
 contributions by Vancouver-based artists Raymond Boisjoly and Vanessa 
 Kwan. We will mark this occasion with an informal conversation between 
 Kwan and Access Gallery Director/Curator Kimberly Phillips, and to speak 
-around ideas of distance, â€œdark magicâ€  and the works in the exhibition. 
+around ideas of distance, “dark magic”  and the works in the exhibition. 
 
 Raymond Boisjoly is an Indigenous artist of Haida and Québécois descent 
 from Chilliwack, BC, currently based in Vancouver. He is represented by 
 Catriona Jeffries Gallery. This fall, Boisjoly will serve as Lead Faculty for “In 
-Kindâ€  Negotiations, a thematic residency at the Banff Centre. 
+Kind”  Negotiations, a thematic residency at the Banff Centre. 
 Vanessa Kwan is a Vancouver-based artist and curator. Her work has been 
 exhibited at a number of galleries and artist-run centres. Recent projects 
 include Sad Sack, a series of collaborations on the subject of melancholy, 
@@ -603,7 +603,7 @@ Surrey, and its larger vicinity south of the Fraser River, works of visual art
 have illuminated these categories against a backdrop of the contemporary 
 city as refuge. It is here that the parameters of the ‘arrival city’s’ creative 
 force is determined as much by internal migration under duress (such as 
-the new waves of â€œflightâ€  from the cityâ€™s historical centres) as by 
+the new waves of “flight”  from the city’s historical centres) as by 
 transnational exile.
 
 Drawing from several recent Surrey Art Gallery exhibitions including 
@@ -951,7 +951,7 @@ Tuesday, October 28
 
 The unusual landscapes painted in Rebecca Chaperon’s Eccentric 
 Gardens are imagined physical spaces brimming with creative energy. 
-They represent the inner â€œplacesâ€  we access for creativity and imagination, 
+They represent the inner “places”  we access for creativity and imagination, 
 places that exist within our larger internal/personal landscape.
 In the Eccentric Gardens exhibition at Initial Gallery we see new sculptures 
 and paintings from Chaperon that reveal the artist’s nostalgia for place 
@@ -1039,7 +1039,7 @@ left the oven on. A sensation I feel some duty to report as I am referring to
 the fact that Avenue was once a pizza parlour. I rushed into the larger room 
 to find a studio mate sitting beneath his light, listening in full blast to an 
 album called New History Warfare by Colin Stetson. “This, is mixing with 
-that?â€  Against the sound coming from the boom box my friend could of only 
+that?”  Against the sound coming from the boom box my friend could of only 
 seen a mouthed statement along with a few giggly arm gestures directed at 
 the Balmoral, it probably looked as though I was dancing, raving towards 
 the wall, and at that moment, with my headphones off these moves were 
@@ -1067,7 +1067,7 @@ Dynamo Arts Association
 Reception: Saturday October 25, 8pm 
 *** with performance at 9pm
 
-The word â€œvesselsâ€  offers an array of different meanings and connotations. 
+The word “vessels”  offers an array of different meanings and connotations. 
 Some of the most common refer to an object used as a container, a craft 
 designed for water transportation, or the more literary translation which 
 describes a person who embodies a particular quality or use for a 

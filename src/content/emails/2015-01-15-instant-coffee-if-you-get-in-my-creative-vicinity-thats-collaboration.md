@@ -125,17 +125,17 @@ flight from Iran after which he eventually found refuge in Vancouver.
 “This installation [addresses] intellectual claustrophobia through language
 as a weapon of attack and defense; what is lost in the communication
 becomes loud sounds, weaponized sounds, sounds through the presence of
-pins. Pins are a universal symbol of pain, like a loud â€œouch,â€  but silent
+pins. Pins are a universal symbol of pain, like a loud “ouch,”  but silent
 at the same time.
 
 It is also a portrait, but reduced to just eyes and language. The
 self-portrait of pinheads, though there is no specific self, is perhaps a
 very oddball portrait – oddballs of displacement and misplacement and the
-â€œdoorâ€  separating Us and Them. The Persian language written on the â€œdoorâ€ 
+“door”  separating Us and Them. The Persian language written on the “door” 
 is used as decoration or beauty (surface). The English is used as tag or
-brandification â€“ one as â€œunknown,â€  one as insult/poetry or slogan of the
+brandification – one as “unknown,”  one as insult/poetry or slogan of the
 collective experiences of refugees, the exiled, marginalized or what is
-â€œnormallyâ€  perceived as â€œthe Others.â€ 
+“normally”  perceived as “the Others.” 
 
 – Ahmad Tabrizi, artist statement.
 
@@ -169,7 +169,7 @@ discover what it was that was urging him to again make art. The resultant
 sculptures, constructed from canvas stretching frames, are a startling
 encapsulation of aesthetic and philosophical artistic values.
 
-Conspicuously named â€œimpossible paintingsâ€ , the constructions have a formal
+Conspicuously named “impossible paintings” , the constructions have a formal
 code describing the impossible-ness of an improbability that keeps the
 artist in practice. A geometry that requires a measure of precision, these
 constructions of rough pieces of studio scrap are reassembled into clean,
@@ -253,7 +253,7 @@ bigger, has become exponentially more complex in the last few decades. The
 implicated range of minute or distant structures and detailed architectures
 to the awareness of the individual is now immense and grows proportionately
 to the availability of information and experience. The networks we
-familiarly navigate have created a Zeno's Paradox â€“ the vertigo of never
+familiarly navigate have created a Zeno's Paradox – the vertigo of never
 being able to reach the other side of a road which we have always already
 been crossing; the array of measurable points between points multiplies as
 we regard more closely. These include our personal use of the digital, the
@@ -332,12 +332,12 @@ the Vancouver Art Gallery. Gradin was formerly the music editor for the
 print magazine Color, which featured art, music and skateboarding. He has
 published seven art books, and has self-published dozens of zines. Gradin
 has also been active in the community, running several artist and
-performance spaces, from L.A.â€™s Mime School to Vancouverâ€™s Emergency Room.
+performance spaces, from L.A.’s Mime School to Vancouver’s Emergency Room.
 
 Nathan Jones is an artist, curator and one of the founding members of Print
 Ready, an ongoing Vancouver-based zine and art book exhibition series. He
 has a B.A. from Emily Carr University of Art + Design and a B.Ed. from
-Simon Fraser University. Jonesâ€™ art practice has its foundation in drawing
+Simon Fraser University. Jones’ art practice has its foundation in drawing
 and painting. He has worked in a wide breadth of media, including
 independent and commercial film, musical performance, illustration and
 design for print. His work has been exhibited in Vancouver, Montreal and
@@ -534,7 +534,7 @@ VancouverMaritimeMuseum.com
 VANCOUVER, B.C. (January 12, 2015) – For the first time, SpongeBob
 SquarePants, the world’s favorite sea dwelling invertebrate, comes ashore
 to our world for his most super-heroic adventure yet, in his new 3D movie,
-â€œTHE SPONGEBOB MOVIE: SPONGE OUT OF WATERâ€ , which hits theatre screens on
+“THE SPONGEBOB MOVIE: SPONGE OUT OF WATER” , which hits theatre screens on
 February 6.
 As part of his campaign to promote the highly anticipated new 3D movie,
 SpongeBob SquarePants himself will be live at the Vancouver Maritime Museum
@@ -545,13 +545,13 @@ to meet the new Superhero SpongeBob and take photos with the famous
 character. Mini movie posters will also be available, while quantities last.
 
 From Paramount Animation and Nickelodeon Movies comes “THE SPONGEBOB MOVIE:
-SPONGE OUT OF WATER,â€  an all-new 3D adventure thatâ€™s as wild and funny as
+SPONGE OUT OF WATER,”  an all-new 3D adventure that’s as wild and funny as
 its name. For the first time, SpongeBob SquarePants, the world’s favourite
 sea dwelling invertebrate, comes ashore to our world for his most
 super-heroic adventure yet.
 
 Produced by Paul Tibbitt and Mary Parent. Based on the series “SpongeBob
-SquarePantsâ€  created by Stephen Hillenburg. Story by Stephen Hillenburg &
+SquarePants”  created by Stephen Hillenburg. Story by Stephen Hillenburg &
 Paul Tibbitt, screenplay by Glenn Berger & Jonathan Aibel and Paul Tibbitt
 and directed by Paul Tibbitt.
 SpongeBobMovie.com
@@ -719,7 +719,7 @@ Lanigan-Schmidt, and Maria Lassnig. He also curated September 11, a group
 exhibition organized on the occasion of the tenth anniversary of the
 terrorist attacks in 2011, and oversaw MoMA PS1's expanded presentation of
 the Mike Kelley retrospective in 2013, which was the largest solo
-exhibition in the institutionâ€™s history. From 2007 through 2010, Eleey was
+exhibition in the institution’s history. From 2007 through 2010, Eleey was
 a curator at the Walker Art Center in Minneapolis, where he organized
 exhibitions with Trisha Brown and Goshka Macuga, along with the group shows
 The Quick and the Dead and The Talent Show. Before joining the Walker, he
@@ -765,9 +765,9 @@ Kathleen Ritter, Guillermo Trejo
 24 January – 7 March, 2015
 
 “Everything that needs to be said has already been said. But since no one
-was listening, everything must be said again.â€ 
+was listening, everything must be said again.” 
 
-― AndrÃ© Gide
+― André Gide
 
 Far Away So Close is a series of exhibitions, publications, and events that
 explores the idea of distance, considers the bridging of distance as an
@@ -781,7 +781,7 @@ Part II is focused on the political utterance or gesture. Here, in a nod to
 the long history of this consideration by the avant-garde, Paris-based
 Kathleen Ritter and Ottawa-based Guillermo Trejo explore moments of
 revolutionary utterance and action: the call to arms and the “day after
-tomorrow.â€  They consider the roles of opacity, subterfuge and repetition,
+tomorrow.”  They consider the roles of opacity, subterfuge and repetition,
 and ways in which the creative act itself may above all be akin to the
 desire for political upheaval and change: foolishly impractical, resigned
 to the probability of failure and yet driven by an insuppressible hope
@@ -910,11 +910,11 @@ Audain Art Centre
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-01-15-21-dynamo-arts-association-in-an-unusual-place-jan-24">21. OPENING | Dynamo Arts Association | In an unusual place | JAN 24</a>
 ------------------------------------------------------------------------
-DAA presents â€œIn an unusual placeâ€ 
+DAA presents “In an unusual place” 
 Opening Reception on January 24th, 2015 at 7:00 - 10:00 pm
 ALINA SENCHENKO, HEI LAM NG, RAY CHEN, LUKE MADDAFORD
 
-â€œIn an unusual placeâ€  is a gathering of works of photography, print,
+“In an unusual place”  is a gathering of works of photography, print,
 installation, and collage by artists whose pieces engage with the
 relationship between identity, physical space, and the social tensions
 unleashed by the intersection of these two forces.

@@ -8,7 +8,7 @@ venue: "Artspeak"
 summary: "Artspeak | AJAY KURIAN | APR 11"
 ---
 
-â€œTapetum Lucidumâ€ 
+“Tapetum Lucidum” 
 
 AJAY KURIAN
 
@@ -67,7 +67,7 @@ different paths. It helps to hear your exposition. I also believe that these
 definitions are shifting, contingent on time, circumstance and context, and that 
 this fluidity of time, memory, and perception is a bit of a trained exercise. I do 
 not consider art to be eternal and actually have grown so incredibly weary of 
-â€œlegacyâ€  in the past few years for similar reasons. Your perspective is 
+“legacy”  in the past few years for similar reasons. Your perspective is 
 perhaps less cynical than mine. To clarify my initial reaction: let’s say I see a 
 billowing curtain in a window. At some point in my life maybe I think it’s 
 beautiful and poetic in that American Beauty bag in the wind sort of way. And 
@@ -86,7 +86,7 @@ would crust over and I’d have to bust its surface to get more out. So you can
 see all that history in this bottle. It’s a beautiful object, but I never want it to be 
 art…
 
-I named the title of this show â€œTapetum Lucidum.â€  Why do you think that is?
+I named the title of this show “Tapetum Lucidum.”  Why do you think that is?
 
 KN:
 

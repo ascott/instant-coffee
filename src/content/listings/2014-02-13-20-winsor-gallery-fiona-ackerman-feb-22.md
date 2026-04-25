@@ -37,8 +37,8 @@ University of Art + Design, Ackerman has exhibited across Canada and in
 Europe. She received an honorable mention for the Kingston Prize for 
 Canadian Portraiture in 2009, and was included in Carte Blanche 2: Painting, a 
 survey and showcase painting in Canada (published by The Magenta 
-Foundation, fall 2008). In 2012, she exhibited â€œHeterotopiaâ€  at Winsor Gallery, 
+Foundation, fall 2008). In 2012, she exhibited “Heterotopia”  at Winsor Gallery, 
 a study into the inner workings of the artist’s studio. She continues to explore 
 this theme in the work for her 2014 exhibition at Winsor Gallery, entitled “It’s 
-Not You, Itâ€™s Meâ€ . Another viewing of more new works will take place in the 
+Not You, It’s Me” . Another viewing of more new works will take place in the 
 fall of 2014 in Germany.

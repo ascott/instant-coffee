@@ -34,7 +34,7 @@ Visual AIDS, MIX NYC, Le Petit Versailles, Queerocracy, Queering OWS
 and other groups who converged for a daylong siege in Lower 
 Manhattan.
 
-We will be focusing on Chapter 2 â€œThe Gentrification of AIDSâ€  as a 
+We will be focusing on Chapter 2 “The Gentrification of AIDS”  as a 
 launching point to the evening's discussions. A parallel interest in the 
 discussion of gentrification is the role of documentation.
 

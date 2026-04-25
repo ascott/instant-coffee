@@ -12,7 +12,7 @@ Vancouver, Crawling, Weeping, Betting
 
 continuing until March 1, 2014
 Battery Opera PerformanceWalking Projects : “Vancouver, crawling, 
-weeping, bettingâ€  is a co-presentation by UNIT/PITT and battery opera 
+weeping, betting”  is a co-presentation by UNIT/PITT and battery opera 
 performance, comprising six weeks of public actions, clandestine 
 screenings, chance meetings, and intoxicated psychogeographies.
 

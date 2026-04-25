@@ -18,7 +18,7 @@ visual and media art practices.
 We produce 5 to 6 exhibitions annually. These exhibitions are determined by
 a curatorial committee made up of approximately 9 people, consisting of
 curators, programming staff, board members and artists. They meet for 5
-days in August to review and select exhibitions for the 2016 â€“ 2017
+days in August to review and select exhibitions for the 2016 – 2017
 programming cycle.
 
 We invite you to submit your exhibition proposal to grunt gallery. If you

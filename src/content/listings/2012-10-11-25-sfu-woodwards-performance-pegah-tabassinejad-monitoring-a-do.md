@@ -38,7 +38,7 @@ such as the internet [like Skype, various social networks, etc.] and
 television). What we see is mediated through these ʻwindowsʼ. What do 
 we make then of a personʼs identity? Are we all just interchangeable in 
 this society, ubiquitously observed and controlled from a distance, 
-merely a small part in a homogeneous mass? Is anyone unique?â€ 
+merely a small part in a homogeneous mass? Is anyone unique?” 
 How a person constructs their identity is explored in this work, via 
 another question, which is how does an actor create their character. 
 Do ʻactorsʼ choices belong to them, or do they belong to something 

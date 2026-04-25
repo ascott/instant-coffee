@@ -151,10 +151,10 @@ Canada from 1986 to the present, including the 2007 Garden Shed Galactica,
 Outdoor installation, London Museum, Ontario and 2008 Through the Looking
 Glass, Glenbow Museum, Calgary, Alberta.
 
-Gallery hours: Tuesday to Wednesday 10am â�� 6pm
-Thursday to Friday 10am â�� 8pm
-Saturday 10am â�� 6pm
-Sunday 1pm â�� 5pm
+Gallery hours: Tuesday to Wednesday 10am ’ 6pm
+Thursday to Friday 10am ’ 8pm
+Saturday 10am ’ 6pm
+Sunday 1pm ’ 5pm
 
 All images for the exhibition are listed on our web site under Dianne Bos:
 www.kostuikgallery
@@ -317,11 +317,11 @@ supernatural landscape. These spirits, whose intense colourings glow with
 extraterrestrial luminescence and whose ovoid forms bear resemblances to
 mechanical or android-like parts, are portrayed as caught in a state of
 ambiguous reverie.The exhibition is held in conjunction with a series of
-talks by writers that explore Yuxweluptunâ��s work in relation to the genre
+talks by writers that explore Yuxweluptun’s work in relation to the genre
 of science fiction. The talk, by Jef Clarke, will be the final one of the
 series.
 
-Jef Clarke is a PhD student in Simon Fraser Universityâ��s English Literature
+Jef Clarke is a PhD student in Simon Fraser University’s English Literature
 department. His research interests are rather too varied, rabid and
 unfocused, but are officially sited at the intersections of race, the body,
 utopian/dystopian tensions and representations of technology.
@@ -905,8 +905,8 @@ of their live performance work. By the late 1990s, performance became a
 more clearly defined practice, and for many artists the photograph
 functioned not only as a document, but also as a work of art in itself. As
 a further development, many performances were specifically created for the
-camera rather than a live audienceâ��the viewerâ��s access to the
-â��performanceâ��
+camera rather than a live audience’the viewer’s access to the
+’performance’
 was exclusively through the photograph. The shift from live performance to
 staged photograph and the reasons behind it are a central anchor to this
 exhibition.
@@ -938,8 +938,8 @@ weariness or lack of interest that can result from information overload.
 Lorna Brown is a Vancouver-based artist, writer, and curator. She has
 exhibited her work internationally since 1984 and has taught at Emily Carr
 University of Art and Design and at Simon Fraser University. Brown was the
-curator for "Group Search: art in the library," a series of artistsâ��
-projects at the Vancouver Public Library (2006â��08) and is currently
+curator for "Group Search: art in the library," a series of artists’
+projects at the Vancouver Public Library (2006’08) and is currently
 developing the Centre for Art in Public Spaces at Langara College. She
 received the Vancouver Institute for the Visual Arts Award (1996) and the
 Canada Council Paris Studio Award (2000).
@@ -1199,7 +1199,7 @@ dates and deadlines:
 
 Submission of Parcels:
 May 4th, 2009
-KunstBÃ&#65533;Â¼roBerlin, UhlandstraÃ&#65533;ï¿½e 162, D Ã¢ï¿½ï¿½ 10719 Berlin
+KunstBÃ&#65533;Â¼roBerlin, UhlandstraÃ&#65533;ï¿½e 162, D âï¿½ï¿½ 10719 Berlin
 please fill out and sign the form and send it with your parcel
 (download on: www.kunstbueroberlin.de)
 

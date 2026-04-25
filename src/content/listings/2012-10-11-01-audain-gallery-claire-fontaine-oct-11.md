@@ -57,7 +57,7 @@ both the MFA Program at the School for the Contemporary Arts at
 Simon Fraser University and the MFA in Visual Art Program at the 
 University of British Columbia, screening a selection of films and 
 leading a series of seminars exploring the artist’s notion of the “human 
-strike.â€  This work with students will culminate in a final public 
+strike.”  This work with students will culminate in a final public 
 presentation by Claire Fontaine, featuring a talk and a screening of 
 excerpts from the selected films, on November 24 at 7:00 pm at the 
 Djavad Mowafaghian Cinema in the Goldcorp Centre for the Arts.

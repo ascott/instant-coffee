@@ -37,7 +37,7 @@ she bribes the karaoke guy with flowers for two songs instead of one.
 
 Steffanie Ling is a writer, curator and editor. She will have red wine and
 turtlenecks all year long. For LIT LIT LIT LIT she will be reading from
-work in process, tentatively titled â€œYouâ€™re a liar and a smokerâ€  a book of
+work in process, tentatively titled “You’re a liar and a smoker”  a book of
 twenty chapters for twenty cigarettes.
 
 Zebulon Zang is a filmmaker and writer from Maillardville, British

@@ -33,13 +33,13 @@ and processing of cultural nutrition… It is through the use of image, colour,
 and technique that I express my sadness, frustration and hope in respect to 
 the threat to our health. The content of the jars symbolize the entrapment and 
 dependence that the corporations and government are trying to enforce on the 
-people, by making deals where the land is poisoned.â€ 
+people, by making deals where the land is poisoned.” 
 
 Bracken Hanuse Corlett further relates his definition of hunger; “I have been 
 hungry to learn the old ways in a new day. I am hungry for many things that 
 used to be our birth rite: language, songs, forms, ceremony, hunting, fishing, 
 gathering… Through use of new media and old my work is an attempt to calm 
-the hunger pains and bring attention to our story.â€ 
+the hunger pains and bring attention to our story.” 
 
 The artists acknowledge an active and ongoing mentorship with artist, 
 Lawrence Paul Yuxweluptun, throughout the creation of this exhibition. 
@@ -49,7 +49,7 @@ and we have had good talks about concept, form, Indian politics and life, art
 world dealings, and the history of Indigenous art on the coast and in the 
 Interior [of British Columbia]. Yuxweluptun is in many ways a trickster, 
 comedian, historian and just a fun dude to sit and talk with. He has a very big 
-presence and yet is still a very humble man.â€  Yuxweluptun is curating the 
+presence and yet is still a very humble man.”  Yuxweluptun is curating the 
 work featured in the exhibition.
 
 Join grunt gallery for the opening reception on Thursday September 5th from 

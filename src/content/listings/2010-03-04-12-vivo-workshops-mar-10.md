@@ -51,13 +51,13 @@ KINETIC MEDIA & ELECTRONICS
 2 sessions x 3.5 hours: $160 or $130 with VIVO Producer Membership
 Mon March 22 & 29, 6-9:30 PM
 
-A course to â��make your art moveâ��, intended for those interested in kinetic
+A course to ’make your art move’, intended for those interested in kinetic
 sculpture, robotics and sensor technology. You will learn how to use
 electric motors with microcontrollers and how to build your own creative
 circuitry with components such as switches, resistors, LEDs, photo
 transistors, relays, hall effect sensors, timing circuits, transistors, and
-their types. This is a hands-on workshop, focused on participantsâ��
-individual projects but you donâ��t have to have a project to attend it.
+their types. This is a hands-on workshop, focused on participants’
+individual projects but you don’t have to have a project to attend it.
 ________________________
 
 VIDEO WORKSHOPS

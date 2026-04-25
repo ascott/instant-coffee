@@ -36,7 +36,7 @@ theory. She is a member of the Kootenay School of Writing, and
 recently edited 
 a special issue of the journal Open Letter, entitled “Negotiating the 
 Social Bond 
-of Poetics,â€  forthcoming in 2012. She completed her Doctorate on The 
+of Poetics,”  forthcoming in 2012. She completed her Doctorate on The 
 Ecstatic 
 Woman and the Grotesque: A New Lacanian Subject in the work of 
 Djuna 

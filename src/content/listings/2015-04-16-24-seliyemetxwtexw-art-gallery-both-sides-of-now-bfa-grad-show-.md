@@ -4,11 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: applause"
 emailDate: "Thu, 16 Apr 2015 16:15:08 -0700"
 number: 24
 type: "OPENING"
-venue: "Sâ€™eliyemetxwtexw Art Gallery"
-summary: "Sâ€™eliyemetxwtexw Art Gallery | â€œBoth Sides of Nowâ€  BFA GRAD SHOW | APR 24"
+venue: "S’eliyemetxwtexw Art Gallery"
+summary: "S’eliyemetxwtexw Art Gallery | “Both Sides of Now”  BFA GRAD SHOW | APR 24"
 ---
 
-â€œBoth Sides of Nowâ€  BFA GRAD SHOW
+“Both Sides of Now”  BFA GRAD SHOW
 
 April 24-May 15, 2015
 

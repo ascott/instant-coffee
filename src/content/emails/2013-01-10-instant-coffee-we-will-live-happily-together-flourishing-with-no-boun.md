@@ -135,7 +135,7 @@ the early 1970s. A launch will be held at the Vancouver Art Gallery on January
 
 Drawn from material originally published between 1969 and 1974, 4,492,040 
 includes reprints of all four of the hugely important catalogs from the “numbers 
-showsâ€  produced for a series of exhibitions named for the populations of the 
+shows”  produced for a series of exhibitions named for the populations of the 
 cities in which they were held: 557,087 (Seattle), 955,000 (Vancouver), 
 c.7,500 (Valencia, California), and 2,972,453 (Buenos Aires). As with the 
 originals, 4,492,040 is made up of a collection of loose notecards containing 
@@ -172,7 +172,7 @@ Tuesday, January 8 at 7 pm in the Heritage Courtroom at the Vancouver Art
 Gallery.
 
 Join Cornelia Butler, Chief Curator of Drawings at the Museum of Modern Art 
-New York and author of â€œWomen Â­â€“ Concept â€“ Artâ€  in From Conceptualism to 
+New York and author of “Women Â­– Concept – Art”  in From Conceptualism to 
 Feminism, and Grant Arnold, Audain Curator of British Columbia Art at the 
 Vancouver Art Gallery, for an informal discussion of Lippard’s catalogs within 
 the context of the exhibitions they accompanied.
@@ -505,7 +505,7 @@ interconnectedness between cultural and natural ecologies. The gallery works
 and outdoor site-specific installations consider the human impact on a 
 cultivated landscape through an engagement with gardens, agriculture, built 
 homes for animals, disposal and desecration. The project questions 
-distinctions between the â€œnaturalâ€  and the â€œunnatural,â€  and the cultural and the 
+distinctions between the “natural”  and the “unnatural,”  and the cultural and the 
 environmental realms.
 
 The project opened in London in September 2012 where it was presented at 
@@ -587,12 +587,12 @@ obfuscating the image and emptying them of colour.
 For Wedman, rendering the work in grey tones “draws your attention away 
 from subject matter and turns it to a consideration of a flat picture plane, and 
 the consideration of subjecthood and why the subject is interesting. It 
-transforms the subject, sometimes in ways that are unexpectedâ€ . An 
+transforms the subject, sometimes in ways that are unexpected” . An 
 example of this is a series of twelve watercolours of newspaper pages where 
 the content is made indistinguishable with only the familiar structural form 
 remaining recognizable. They play with notions of the familiar, and he as he 
 puts it, “you take something from one place and open up its potential 
-meaning. Itâ€™s not really anything remarkableâ€ .
+meaning. It’s not really anything remarkable” .
 
 Neil Wedman has exhibited extensively and is represented by the Equinox 
 Gallery. He teaches at both Emily Carr University and Simon Fraser 
@@ -692,7 +692,7 @@ WITH IAN WALLACE
 
 In conjunction with the landmark exhibition Ian Wallace: At the Intersection of
 Painting and Photography, this series of talks and conversations provides a
-rare opportunity for ﬁrst-hand insight into WallaceÃ¢â‚¬â„¢s expansive career.
+rare opportunity for ﬁrst-hand insight into Wallaceââ‚¬â„¢s expansive career.
 Renowned artists and critics, in conversation with Wallace himself, will
 contextualize the evolution of his artistic practice as it relates to the larger
 arena of contemporary art.
@@ -783,9 +783,9 @@ The work of Richard Venlet inhabits the interconnecting spaces and adjoing
 realms of sculpture, art-historical research, exhibition design and architecture; 
 based not so much on collaboration or collaborative practice as such, his 
 installations often incorporate the work of other artists, thus connecting his 
-work with a definite â€œcuratorial turnâ€  in recent art, as well as with an older, 
+work with a definite “curatorial turn”  in recent art, as well as with an older, 
 more established tradition of interest in strategies of ‘framing’ and display and 
-â€œinstitutional critiqueâ€ . His work has been shown at the Centre for Fine Art in 
+“institutional critique” . His work has been shown at the Centre for Fine Art in 
 Brussels, the Museo Español de Arte Contemporaneo in Madrid, Galerie 
 Bruges La Morte in Bruges, the Musée des Beaux-Arts in Dunkerque, the 
 SMAK in Ghent and the FRAC in Paris. 
@@ -1014,7 +1014,7 @@ Show, and The Lab Media Group.
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2013-01-10-14-ubc-ahva-library-gallery-the-idiot-of-nature-jan-16">14. UBC | AHVA Library Gallery | The Idiot of Nature | JAN 16</a>
 ------------------------------------------------------------------------
-â€œThe Idiot of Natureâ€ 
+“The Idiot of Nature” 
 January 16 – February 2, 2013
 Opening Reception: January 16, 5-7 pm
 
@@ -1058,7 +1058,7 @@ Department of Art History, Visual Art & Theory
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2013-01-10-15-ubc-arms-are-overratedartist-talk-by-stanya-kahn-jan-17">15. UBC | “Arms Are Overrated:Artist Talk by Stanya Kahn | JAN 17</a>
 ------------------------------------------------------------------------
-â€œArms Are Overrated: An Artist's Talk by Stanya Kahnâ€ 
+“Arms Are Overrated: An Artist's Talk by Stanya Kahn” 
 Distinguishing Visiting Artist Program
 Department of Art History, Visual Art & Theory, University of British Columbia
 
@@ -1292,7 +1292,7 @@ project “seek(s) to express emotional experiences in their most raw form,
 without a literal or narrative setting. Like a collage of different perceptions that 
 eventually forms a whole picture, I attempt to create a world from "real time" 
 experience: reconstructing an imagined emotional event that unfolds in a 
-compressed time frame.â€  This is the second in series of solo performances 
+compressed time frame.”  This is the second in series of solo performances 
 organized by François Houle. 
 
 Linda Bouchard will present four recent works, all Canadian Premiers. In 
@@ -1317,7 +1317,7 @@ the Princeton Composition Contest, the Indiana State Competition, the
 National Association of Composers USA Contest and a Fromm Foundation 
 Award from Harvard University. Linda was a Fellow at the Rockefeller 
 Foundation in Bellagio and at the Civitella Ranieri in Italy. In June 2001, she 
-was invited to participate at IRCAMâ€™s â€œStage dâ€™Informatique Musicaleâ€  in Paris 
+was invited to participate at IRCAM’s “Stage d’Informatique Musicale”  in Paris 
 and became very interested in pursuing exploration with new technologies. In 
 the fall 2005, she founded NEXMAP: New Experimental Music and 
 Performance, a non-profit arts organization of which she is Artistic Director.
@@ -1429,7 +1429,7 @@ dedicated to the expression of West Coast melancholy.
 
 Curated by artist Vanessa Kwan, the evening features words and slide
 shows by former host of CBC radio’s Nightlines, David Wisdom; a
-discussion of â€œMy Melancholy Babyâ€  with radical psychoanalyst Andrew
+discussion of “My Melancholy Baby”  with radical psychoanalyst Andrew
 Feldmar, a hearbreaker of a set by Hello, Blue Roses (Destroyer’s Dan
 Bejar with Sydney Vermont); and other surprises.
 A night to remember, mistily.
@@ -1443,7 +1443,7 @@ Thanks!
 ------------------------------------------------------------------------
 
 
-Cineworks launching exciting new short film initiative â€œPlay it Forwardâ€ 
+Cineworks launching exciting new short film initiative “Play it Forward” 
 
 Cineworks Independent Filmmakers Society, a hub of independent filmmaking 
 in Vancouver for more than 30 years, announces a new program to bring 
@@ -1454,12 +1454,12 @@ prizes for the top three videos produced.
 
 “With so many communication avenues now available and so much 
 competition for people’s attention, a well-executed campaign video can mean 
-the difference between success and failure for many programs,â€  says 
+the difference between success and failure for many programs,”  says 
 Cineworks Facilities and Equipment Manager Jon Ornoy. “Many groups lack 
 the resources or networks to produce this kind of work, so we’re excited 
 about this opportunity to help bridge the gap between BC’s filmmakers and 
 the hardworking non-profit community trying to make life better for all of us in 
-this provinceâ€ .
+this province” .
 
 Filmmakers will have between January 7th and February 28th to find a group 
 to partner with, produce a 1-3 minute campaign video and upload it the 
@@ -1472,8 +1472,8 @@ screening of all entries will also follow in the summer of 2013.
 
 “This is a unique opportunity for filmmakers because it’s the only short film 
 contest out there where the content of the winning film isn’t dictated and 
-youâ€™re able to make whatever you wantâ€  says Ornoy. â€œThatâ€™s the idea behind 
-the contest, to give a little, and then pay it forward.â€ 
+you’re able to make whatever you want”  says Ornoy. “That’s the idea behind 
+the contest, to give a little, and then pay it forward.” 
 
 For more information on Play it Forward please contact:
 Jon Ornoy Amy Fung

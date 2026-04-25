@@ -13,7 +13,7 @@ FIT - freie internationale tankstelle
 Waldorf Hotel
 June 2 – September 15, 2011
 
-FIT is a â€œfueling station for the creative spiritâ€  by Berlin artist Dida
+FIT is a “fueling station for the creative spirit”  by Berlin artist Dida
 Zende, the first project presented in connection with the Goethe Satellite
 Vancouver, a two-year initiative of the Goethe-Institut with partner
 Revised Projects <http://www.revisedprojects.com/> .

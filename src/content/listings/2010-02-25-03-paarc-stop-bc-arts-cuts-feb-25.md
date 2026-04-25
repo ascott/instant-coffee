@@ -44,9 +44,9 @@ the Tate Modern and many other key museums worldwide.
 YouTube video and full transcript of his remarks are here:
 http://stopbcartscuts.wordpress.com/2010/02/18/artist-rafael-lozano-hemmer-creator-of-the-vectorial-elevations-searchlight-piece-criticizes-bcs-arts-cuts/
 
-Explanation of the â��9-11â�³ remark in the video clip: Before Vectorial
-Elevations was launched, its energy use wasnâ��t fully understood and the
-piece was accused of being â��an environmental 9-11.â�� In fact, for its entire
+Explanation of the ’9-11’³ remark in the video clip: Before Vectorial
+Elevations was launched, its energy use wasn’t fully understood and the
+piece was accused of being ’an environmental 9-11.’ In fact, for its entire
 month-long run, the artwork uses the same amount of power as only 10 hockey
 games.
 

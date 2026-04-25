@@ -133,17 +133,17 @@ abundant references to a pop-cultural scene that Mader then seemed
 irreconcilable with. Thrift Stories (2007) saw the addition of banjos, 
 guitars, and jug, with guests like Mader’s performing cohort Petunia 
 and former Red Herring guitarist Steve Nikleva. It was a strangely 
-exuberant affair, including Maderâ€™s â€œDead Manâ€™s Pantsâ€  (given added 
+exuberant affair, including Mader’s “Dead Man’s Pants”  (given added 
 local fame by a novelty-tune rearrangement by the Creaking Planks) 
-and â€œRaven or Crowâ€ , which suggests Nick Cave gone rockabilly.
+and “Raven or Crow” , which suggests Nick Cave gone rockabilly.
 Mader’s most recent disc, Naive Ville, amps it up even further—it’s his 
 most confident and most musical offering to date, evoking at times the 
 hobo-jungle equivalent of Black Rider–era Tom Waits, with Mader’s 
 obsessive plunkings enriched by trumpets, accordion, keyboards, 
 violin, saw, whistling, and guitar, and songs spanning his trip to Iceland 
-(â€œReykjavikâ€ ), his disenfranchisement from the holiday season (â€œLetâ€™s 
-Not Bother With Christmasâ€ ), and statements of faith in human 
-mendacity (â€œNobodyâ€™s Telling Itâ€  and â€œNever Believeâ€ ). Cemeteries are 
+(“Reykjavik” ), his disenfranchisement from the holiday season (“Let’s 
+Not Bother With Christmas” ), and statements of faith in human 
+mendacity (“Nobody’s Telling It”  and “Never Believe” ). Cemeteries are 
 mentioned repeatedly.
 He's not an easy artist to assimilate or describe, but a certain stripe of 
 weirdo will love him!

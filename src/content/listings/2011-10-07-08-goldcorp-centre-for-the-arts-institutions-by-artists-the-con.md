@@ -42,9 +42,9 @@ communiques.
 
 For the publication, Institutions by Artists: Volume 1, newly commissioned 
 essays are in the works including Vincent Bonin’s “Malaise dans le réseau: sur 
-lâ€™absence de la critique institutionnelle au Canadaâ€ ; AA 
-Bronsonâ€™s â€œTransfiguration of the Bureaucrat,â€  Peta Rakeâ€™s â€œInclusivity, 
-Difference, and Isolation: Artist Run Spaces in Brisbane,â€  as well as Ola Khalidi 
+l’absence de la critique institutionnelle au Canada” ; AA 
+Bronson’s “Transfiguration of the Bureaucrat,”  Peta Rake’s “Inclusivity, 
+Difference, and Isolation: Artist Run Spaces in Brisbane,”  as well as Ola Khalidi 
 and Diala Khasawnih in conversation.
 
 For the Institutions by Artists Festival, 17 participating ARCs have curated 
@@ -67,11 +67,11 @@ Columbia and highlights significant archival information related to the inceptio
 artist-run activity in the region including images, original mandates, founding 
 artists, and other materials.
 
-Recently added texts to ArcPostâ€™s â€œConsidering Artist-run Centres,â€  an ongoing 
+Recently added texts to ArcPost’s “Considering Artist-run Centres,”  an ongoing 
 series examining emergent and promising models, orientations, and dispositions 
 in artist-driven organizations include “Space-Run Artists: Art Activism and Urban 
-Conflict in Contemporary Barcelona,â€  by Jeffrey Swartz, â€œArt of the State,â€  by 
-Luis Camnitzer, and â€œSocial Fabric,â€  by Pan Wendt.
+Conflict in Contemporary Barcelona,”  by Jeffrey Swartz, “Art of the State,”  by 
+Luis Camnitzer, and “Social Fabric,”  by Pan Wendt.
 
 Over the summer, Mariane Bourcheix-Laporte, Research and Communications 
 Assistant, undertook a remarkable expansion to the ArcPost Resources 
@@ -206,7 +206,7 @@ Anton Vidokle and Pelin Tan.
 
 Contributrices à l’édition de ArcPost : Kristina Lee Podesva, Allison Collins
 
-Assistante Ã  la recherche et aux communications: Mariane Bourcheix-Laporte
+Assistante à la recherche et aux communications: Mariane Bourcheix-Laporte
 
 Contact
 Lorna Brown

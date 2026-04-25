@@ -20,7 +20,7 @@ Talon Books.
 
 Carl Peters will read from textual vishyuns, which attests that bill 
 bissett’s entire body of work consists of an integrated aesthetic praxis 
-of â€œthe whole artâ€ ; that his drawings, paintings, collages and 
+of “the whole art” ; that his drawings, paintings, collages and 
 assemblages challenge artistic conventions of visual language in the 
 same way that his poetry challenges linguistic conventions of syntax 
 and grammar to escape the strictures of Western modes of binary and 

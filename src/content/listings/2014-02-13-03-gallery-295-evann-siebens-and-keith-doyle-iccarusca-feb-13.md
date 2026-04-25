@@ -15,7 +15,7 @@ IccarusCar
 February 13 - March 23, 2014
 
 “Mark my words: a combination airplane and motorcar is coming. You may 
-smile, but it will come.â€  â€“ Henry Ford 1940
+smile, but it will come.”  – Henry Ford 1940
 
 Having survived the horrors of the Second World War, the western world 
 imagined a planet without conflict, where technology would allow us endless 

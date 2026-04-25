@@ -21,7 +21,7 @@ a contradictory turn of phrase. What does it mean to gain and lose
 simultaneously? The scope of the word expands when considering
 “longing” as an abstract, often unseeable, exchange. Much more
 than a desire to find whatever is missing, longing functions as a state of
-being, a phenomenology that canâ€™t always be remedied… The corporeality
+being, a phenomenology that can’t always be remedied… The corporeality
 of longing is matched then by a psychological conditioning that is
 sometimes, if not consistently, out of one’s control.
 
@@ -31,7 +31,7 @@ their own gains and losses is largely pre–appointed by laws and social
 convention. This means that a state of longing, much like a state of
 belonging, is political. It turns out you can lose something you never
 had… And, this is the most potent, and perhaps difficult, mode of
-longing˜for when you canâ€™t figure out what you lost, thereâ€™s a chance
+longing˜for when you can’t figure out what you lost, there’s a chance
 it might never be found.
 
 How then is longing, in its myriad forms, represented as a quality

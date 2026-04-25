@@ -25,7 +25,7 @@ to question the categories we use to shape our sense of the world in
 works that are both irreverent and intimate.
 
 Vancouver-based artist Julie Andreyev’s Animal Lover series is an 
-â€œinterspecies collaborationâ€  with her two dogs, Tom and Sugi, that 
+“interspecies collaboration”  with her two dogs, Tom and Sugi, that 
 includes video works and an online blog). A newly compiled video 
 collection from the blog follows the daily lives of Tom and Sugi, a 
 portrait of the dogs’ unique behaviours and social lives. In the 2009 
@@ -33,7 +33,7 @@ video installation, Aria, Tom and Sugi are pictured as the central
 subjects within the iconic Canadian landscape of Banff, Alberta. 
 Recordings taken from the dogs’ vocalizations and their surrounding 
 environment are composed into a musical soundtrack culminating in an 
-â€œoperatic soloâ€  by Tom.
+“operatic solo”  by Tom.
 
 Mary Anne Barkhouse was born in Vancouver, BC, and belongs to the 
 Nimpkish band, Kwakiutl First Nation. Currently based in Ontario, 

@@ -64,7 +64,7 @@ utilities. please contact suzan at smarczak75@hotmail.com to view the space.
 
 2.
 The Gam | looking to share studio space
-Our artist collective â€œThe Gam,â€  has just acquired an amazing new space.
+Our artist collective “The Gam,”  has just acquired an amazing new space.
 It is a 2000 sq. ft. gallery/studio within an artists’ only building.
 Aroused? We are looking to share our space with a dynamic, easy-going
 individual that is willing to work in an open, collective environment. This

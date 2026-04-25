@@ -23,16 +23,16 @@ shape the presentation.
 Grand Hotel so that visitors can see behind-the-scenes as we develop this 
 exhibition,“ says Bruce Grenville, senior curator of the Vancouver Art 
 Gallery, “Writing publicly about the unfolding of an exhibition in advance of the 
-opening is a first-time experiment for usâ€ .
+opening is a first-time experiment for us” .
 
 Grand Hotel aims to chart the evolution of the hotel from its humble origins as an 
 isolate and utilitarian structure to a cultural phenomenon on the contemporary 
 global landscape. The exhibition will offer an extensive survey of historical and 
 contemporary hotel design from around the world. “At the beginning of our work 
-on this project,â€  says guest curator Jennifer M. Volland, â€œwe came to see the 
+on this project,”  says guest curator Jennifer M. Volland, “we came to see the 
 hotel as an early example of a network. We wanted to trace the proliferation of 
 the hotel across time and space – both as a formal object and as a conceptual 
-idea â€“ from the outset. â€ 
+idea – from the outset. ” 
 
 The blog component of the Grand Hotel website will function as a research tool 
 for the curators, a platform for diverse invited contributors, a source of content 

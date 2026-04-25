@@ -95,7 +95,7 @@ Glass, Eliza Houg, Devon Lindsay and Bo Yeung.
 SCHEDULE
 
 Wednesday, June 17
-â€œâ€¦strange things doneâ€¦â€  opening: 6-7pm @ SOVA
+“…strange things done…”  opening: 6-7pm @ SOVA
 Festival Opening Remarks: 7:30pm @ KIAC Ballroom
 Keynote Speaker: Sven Dupré: 7:45pm @ KIAC Ballroom
 
@@ -160,7 +160,7 @@ c̓əsnaʔəm, looks out over
 English Bay, Howe Sound and the Georgia Straight, all bodies of water
 renamed by George Vancouver in the 1790s. The title Melancholy Bay is a
 reference to Vancouver’s dispirited response to what he saw as “a sublime,
-though gloomy spectacle.â€  The settler culture that followed Vancouver to
+though gloomy spectacle.”  The settler culture that followed Vancouver to
 establish jurisdiction and displace the indigenous villages and place names
 has been consistent in admixing descriptions of majestic landscape with
 ideas of frontier and resource extraction. As a result we tend to
@@ -423,7 +423,7 @@ in Photography). In the fall of 2015, he will begin his MFA at ICP-Bard,
 New York.
 
 SPECIAL EDITION PRINTS
-Two 8 x 10â€  silver gelatin prints, which can be bought together or separately.
+Two 8 x 10”  silver gelatin prints, which can be bought together or separately.
 Each one is an edition of 9+1AP
 
 $15 for one
@@ -451,7 +451,7 @@ Vancouver Especially (A Vancouver Special scaled to its property value in
 commissioned work presented at 221A’s outdoor site as part of the
 Semi-Public program at 271 Union Street. The installation is a 1:3 scale
 replica of a mass-produced, Vancouver architectural style of homes known as
-the â€œVancouver Specialâ€ , popularized from 1965 to 1985 with an estimated
+the “Vancouver Special” , popularized from 1965 to 1985 with an estimated
 10,000 homes built. In a city that is consistently listed as one of the
 most livable places and one of the most unaffordable places in the world—a
 perverse marker of success for investors who make money from the struggles
@@ -607,7 +607,7 @@ Mongrel Vegetables: As a follow-up to the Hua Foundation's Choi Project,
 which enhanced our familiarity to Chinese produce, artist Howie Tsui will
 lead a workshop that asks participants to hybridize elements of these
 vegetables into a portrait. This workshop will put a more Sino-centric spin
-on Giuseppe Arcimboldoâ€™s portraits of heads comprised of vegetables and
+on Giuseppe Arcimboldo’s portraits of heads comprised of vegetables and
 fruits. Perhaps in our current context, these portraits will reflect how
 our bodies are sustained through a melange of crossbred and modified
 ingredients; or in a more benign way, these constructions just illustrate a
@@ -618,7 +618,7 @@ that strengthen our connections with culture, heritage and environmental
 sustainability. http://www.huafoundation.org/
 
 The Chamber, Ian Johnston
-4:00 pm â€“ 5:30 pm
+4:00 pm – 5:30 pm
 Access Gallery
 222 East Georgia Street, Vancouver
 Instructor: Alex M.F. Quicho
@@ -871,7 +871,7 @@ at Kitsilano Beach, 2:00 PM, 20 June, 2015
 
 Please join us at Kitsilano Beach on Saturday, June 20th for the launch of
 a new artists’ book by Steven Brekelmans and Fiona Curtis. “If I wanted to
-sit on the sand I wouldnâ€™t have brought this logâ€  is a book of drawings of
+sit on the sand I wouldn’t have brought this log”  is a book of drawings of
 logs.
 
 *Note: In the event of rain, the launch will be held at 2PM at the Or
@@ -1011,7 +1011,7 @@ The Documentary Organization of Canada (DOC) is the largest professional
 non-profit association of independent filmmakers in Canada, with more than
 850 members across the country and over 200 members in the BC Chapter.
 Since 1983, DOC (formerly called the CIFC/Canadian Independent Film Caucus)
-â€“ has been the champion of independent documentary film and television in
+– has been the champion of independent documentary film and television in
 Canada.
 
 http://docbc.org
@@ -1136,7 +1136,7 @@ We accept submissions of cover art for each issue according to the same
 deadlines as poetry submissions. The only constraint/requirement is that
 the art involves an orange or oranges in some way. Send a high quality
 image in the format of your choice, along with your bio, to:
-submission@themaynard.org with the subject heading â€œCover Art.â€ 
+submission@themaynard.org with the subject heading “Cover Art.” 
 
 For more info, vist: www.themaynard.org.
 
@@ -1161,9 +1161,9 @@ Burrard Arts Foundation is pleased to present a group show of work by six
 Vancouver-based artists that address or innovate with colour by pouring,
 soaking, covering, washing, staining, inflating and negating. Recent works
 by Jeff Hallbauer, Eddy Hofbauer, Zoe Hodgson, Simone Jarvis, Ben Marvin
-and Jacobo Zambrano are paired with a semi-fictional rewriting of colourâ€™s
+and Jacobo Zambrano are paired with a semi-fictional rewriting of colour’s
 history as a way to reimagine it as a cultural symbol of economy, power,
-pleasure, memory and science. Using fictionâ€™s idiosyncratic ability to
+pleasure, memory and science. Using fiction’s idiosyncratic ability to
 offer alternative possibilities, the exhibition treats revisionist history
 as a rinse and colour as a flag with all the sanctioned trappings.
 
@@ -1332,7 +1332,7 @@ where he leads the School of Walls and Space.
 Scrivener’s Monthly is a series of public presentations that explore the
 space between material practices and spoken words: a periodical that talks.
 Set alongside the exhibitions program at Western Front, this experiment in
-â€œnot publishingâ€  involves readings, performances, and other articulations.
+“not publishing”  involves readings, performances, and other articulations.
 For more information about the series and other Western Front programs,
 please visit www.front.bc.ca
 
@@ -1559,11 +1559,11 @@ With pride in this announcement, Centre A's Executive Director/Curator
 Tyler Russell says: “We are delighted to establish this exchange with RAT.
 As an institution committed to fostering intercultural, and transpacific
 artistic dialogue, this is exactly what we should be doing, and I am proud
-that Centre A is able to be a part of facilitating these opportunities.â€ 
+that Centre A is able to be a part of facilitating these opportunities.” 
 Accordingly, Dirk Fleischmann, RAT school of ART says: “Our partnership
 with Centre A will contribute in a substantial way to our aim to bring
 people from various backgrounds together and form an active environment for
-artistic development and intercultural communication.â€ 
+artistic development and intercultural communication.” 
 
 The application deadline is September 11th, 2015 with the successful
 candidate announced no later than September 30th. The person selected for

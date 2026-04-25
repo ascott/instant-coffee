@@ -18,9 +18,9 @@ Vancouver BC V6B 3J5
 phone 1.604.709.6100
 http://www.blanketgallery.com
 
-Monique Mouton, Shades, oil on panel, 2012, 40â€  x 39â€ 
+Monique Mouton, Shades, oil on panel, 2012, 40”  x 39” 
 
-Blanket Contemporary Art is pleased to present â€œSidesâ€ , an exhibition 
+Blanket Contemporary Art is pleased to present “Sides” , an exhibition 
 of new 
 paintings by LA based artist Monique Mouton. This is her second solo 
 show 

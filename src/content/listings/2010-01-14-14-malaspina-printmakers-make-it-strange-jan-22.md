@@ -35,7 +35,7 @@ Victoria. His work has been included in exhibitions at Artspeak,
 Contemporary Art Gallery, Ministry of Casual Living, Helen Pitt
 Gallery, the Western Front, Lobby Gallery and Blanket Gallery among
 others.
-Edgar Heap of Birdsâ�� exhibition record includes The Museum of Modern
+Edgar Heap of Birds’ exhibition record includes The Museum of Modern
 Art, Whitney Museum of American Art, The National Museum of the
 American Indian, Smithsonian Institute, The National Gallery of
 Canada, Documenta 8, and the Venice Biennale. He was awarded an
@@ -59,7 +59,7 @@ Design. Trasov was selected by the Vancouver Sun as one of the top one
 hundred British Columbians who shaped the province over the past
 century.
 
-Lawrence Paul Yuxweluptunâ��s work has been included in numerous
+Lawrence Paul Yuxweluptun’s work has been included in numerous
 international exhibitions, such as INDIGENA: Contemporary Native
 Perspectives, and at the National Gallery of Canada, the Smithsonian
 Institute, grunt gallery, the Western Front and the Vancouver Art
@@ -70,4 +70,4 @@ For more information please contact Andrea Pinheiro at:
 1555 Duranleau Street, Granville Island, Vancouver, BC V6H 3S3
 604-688-1724 malaspinagallery@telus.net www.malaspinaprintmakers.com
 
-Gallery Hours: Tuesday â�� Friday 10-5 pm Saturday and Sunday 11-5pm
+Gallery Hours: Tuesday ’ Friday 10-5 pm Saturday and Sunday 11-5pm

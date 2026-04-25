@@ -19,7 +19,7 @@ Vancouver Especially (A Vancouver Special scaled to its property value in
 commissioned work presented at 221A’s outdoor site as part of the
 Semi-Public program at 271 Union Street. The installation is a 1:3 scale
 replica of a mass-produced, Vancouver architectural style of homes known as
-the â€œVancouver Specialâ€ , popularized from 1965 to 1985 with an estimated
+the “Vancouver Special” , popularized from 1965 to 1985 with an estimated
 10,000 homes built. In a city that is consistently listed as one of the
 most livable places and one of the most unaffordable places in the world—a
 perverse marker of success for investors who make money from the struggles

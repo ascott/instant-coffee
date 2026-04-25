@@ -32,7 +32,7 @@ Skylar Stock is an artist and local business owner who has been friends with
 John for several years. His friendship with John began through dialogues in his
 store in the DTES. They have a unique friendship, and one that has grown into
 a great trust and mutual respect for one another. Skylar will be documenting
-Johnâ€™s work, through photography.
+John’s work, through photography.
 
 Paul Lang is a local artist who has been working in and with artists groups for
 25 years. He has been the silent observer of this unique friendship for many

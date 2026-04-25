@@ -40,12 +40,12 @@ useless and excessive forms of artistic labour might offer a position of
 political resistance to these trends. Whether using laborious methods in 
 the production of their works, or assuming the role of the worker in their 
 performances, videos and installations, the artists in Always Working 
-prioritize useless labour: work that cannot be â€œput to workâ€  in order to 
+prioritize useless labour: work that cannot be “put to work”  in order to 
 participate in the global economy.
 
 For several artists in the exhibition, work involves assuming and 
 exceeding the role of the everyday labourer, such as Carey Young’s 
-video documenting her presentation of free, â€œhow toâ€  advice on public 
+video documenting her presentation of free, “how to”  advice on public 
 speaking in London’s Speakers’ Corner, or David Horvitz’s offer to stop 
 what he’s doing and devote one minute to thinking about you in 
 exchange for one dollar. For others, making artistic labour visible, both 
@@ -54,19 +54,19 @@ contracts with Canadian galleries which have been renegotiated so that
 her work is renumerated according to the hourly minimum wage (an 
 amount that is always higher than the CARFAC-suggested artist fee). 
 Similarly, Didier Courbot’s photographic series captures his ongoing 
-interventions meant to fulfil practical urban â€œneeds,â€  such as painting in 
+interventions meant to fulfil practical urban “needs,”  such as painting in 
 a crosswalk on a busy street, or installing a birdhouse on a streetlamp: 
 a project he will expand on through performance and photographic 
 works made during an artist residency in Vancouver. Finally, Jamie 
-Hilderâ€™s impersonation of a â€œdowntown ambassador,â€  who provides 
+Hilder’s impersonation of a “downtown ambassador,”  who provides 
 tourists with an alternative history of the city focused on its 
 management of the appearance of poverty, and his subsequent arrest 
 by Vancouver police, suggest that there is something radical and even 
-dangerous about the kind of â€œworkâ€  that art can do.
+dangerous about the kind of “work”  that art can do.
 
 In tandem with the exhibition, Didier Courbot will conduct a one-month 
 residency in Vancouver where he will create new performance-based 
-works as part of his ongoing â€œneedsâ€  series. Courbotâ€™s residency is part 
+works as part of his ongoing “needs”  series. Courbot’s residency is part 
 of an ongoing residency program for French visual artists initiated by 
 the Consulate General of France in Vancouver.
 
@@ -136,7 +136,7 @@ happens when artists refuse or exceed these expectations? And, how
 can artistic labour be activated as a space for social critique and 
 political action?
 
-No Reading After the Internet: Hito Steyerlâ€™s â€œPolitics of Artâ€ 
+No Reading After the Internet: Hito Steyerl’s “Politics of Art” 
 
 Wednesday, June 27, 7 pm, Access Gallery
 
@@ -144,7 +144,7 @@ In tandem with Always Working, curator Gabrielle Moser co-facilitates a
 meeting of No Reading After the Internet, an out-loud reading group 
 organized by Alex Muir and VIVO. Focusing on artist Hito Steyerl’s 2010 
 e-flux essay, “Politics of Art: Contemporary Art and the Transition to 
-Post-Democracy,â€  the group will discuss the textâ€™s call for an art that 
+Post-Democracy,”  the group will discuss the text’s call for an art that 
 examines the politics of its own production and its relation to the works 
 in the exhibition. No Reading After the Internet is a monthly opportunity 
 to gather and read a text aloud in hopes that it might provoke 

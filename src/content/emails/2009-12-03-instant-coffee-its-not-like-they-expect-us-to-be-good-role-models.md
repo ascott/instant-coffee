@@ -76,7 +76,7 @@ Edition of 25
 $50.00 CAD
 
 Snukal responds to a postcard edition originally created by Yoko Ono and
-altered by Diter Rot. Making literal a quote from a Julio CortÃ�Â¡zar novel
+altered by Diter Rot. Making literal a quote from a Julio CortÂ¡zar novel
 that invokes a euphoric epiphany as equivocal to pushing a pebble through
 one's asshole, Snukal one-up's Diter with a third iteration.
 
@@ -104,11 +104,11 @@ Dave and Roula at nothingelsepress@rogers.com
 Atom Egoyan speaks out against the BC Liberal government's cuts to arts funding
 
 Victoria-raised filmmaker Atom Egoyan issued a statement today condemning
-the BC Liberalsâ�� cuts to arts funding. Egoyan joins a list of prominent
+the BC Liberals’ cuts to arts funding. Egoyan joins a list of prominent
 British Columbians and Canadians that includes William Gibson, Douglas
 Coupland and Margaret Atwood. In his statement he said
 
-â��I owe so much to the development of my early career to support I received
+’I owe so much to the development of my early career to support I received
 from the BC Cultural Fund, which provided me with a much needed
 scholarship. It is truly devastating to think that a new generation of BC
 artists can't rely on their provincial government for this crucial
@@ -1047,7 +1047,7 @@ Monday, December 14, 2009. For more information, please see
 http://vancouver.ca/commsvcs/oca/publicart/artistopp.htm under Hillcrest
 Public Art.
 
-This call is part of the City of Vancouverâ��s Olympic and Paralympic Public
+This call is part of the City of Vancouver’s Olympic and Paralympic Public
 Art Program that provides an opportunity for the City to commission new
 artworks that reveal, surprise, challenge and celebrate Vancouver.
 Questions regarding project or submissions: Karen Henry, Project Manager,
@@ -1510,7 +1510,7 @@ www.vantageartprojects.com
 ------------------------------------------------------------------------
 13th Annual Subtle Technologies Festival
 The Place Where Art and Science Meet
-Toronto June 3 - 6Ã�Â  2010
+Toronto June 3 - 6Â  2010
 
 Call for Submissions - Investigating Sustainability
 Deadline for Submissions : January 9 2010
@@ -1519,13 +1519,13 @@ It will be nearly half a century since Rachel Carson's book Silent
 Spring, just over five since Al Gore's Inconvenient Truth, and less than
 three years since Anya Hindmarch's m not a plastic bag eco-bag hit the
 shelves.Â  The grassroots sustainability movement has taken hold fostering a
-green life style.Ã�Â  This may be a victory of ideology, yet at the same time,
+green life style.Â  This may be a victory of ideology, yet at the same time,
 it has matured into a new social norm that suspiciously smells of
-capitalism.Ã�Â  The replacements are still a chain in consumption.Ã�Â  Ecological
+capitalism.Â  The replacements are still a chain in consumption.Â  Ecological
 compact fluorescent light bulbs contain mercury, and biofuels have an
-impact beyond ethanol production.Ã�Â  If sustainability is narrowly defined as
+impact beyond ethanol production.Â  If sustainability is narrowly defined as
 a closed system that produces what it consumes, by all means, the boundary
-conditions leave us hanging, looking for more.Ã�Â  What can this more, be?
+conditions leave us hanging, looking for more.Â  What can this more, be?
 
 For this year's Subtle Technologies Festival, we wish to explore
 sustainability through a critical multidisciplinary lens. We invite
@@ -1539,9 +1539,9 @@ sustainable practices and design as well as the science behind some of the
 events and circumstances that have driven us to seek sustainable solutions.
 What role does the artist play in bringing forth new layers of
 understandings in this discussion?
-As in previous years, we invite submissions from various practices.Ã�Â  For 12
+As in previous years, we invite submissions from various practices.Â  For 12
 years, Subtle Technologies has provided a forum where participants share
-their projects, theories and technologies around an annual theme.Ã�Â  Subtle
+their projects, theories and technologies around an annual theme.Â  Subtle
 Technologies is also a place where artists, scientists, and other
 innovators inspire, inform and generate new concepts and tools.
 
@@ -1556,7 +1556,7 @@ material science, alternative energy systems, corporate responsibility,
 co-operatives and microfinance, biodiversity conservation, preservation of
 indigenous knowledge, and the culture of consumption.
 
-Please make a submission on our website http://www.subtletechnologies.comÃ�Â 
+Please make a submission on our website http://www.subtletechnologies.comÂ 
 by January 9 2010.
 Subtle Technologies is grateful for the support of Canada Council for the
 Arts, Toronto Arts Council, Ontario Arts Council and the Ontario Trillium

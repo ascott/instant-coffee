@@ -14,7 +14,7 @@ Programmed by Michèle Smith
 
 Using abstraction, animation, and re-enactments, Toronto-based artist
 Jean-Paul Kelly — the 2014 recipient of the Kazuko Trust Award for
-â€œartistic excellence in the moving imageâ€  at the New York Film Festival â€”
+“artistic excellence in the moving image”  at the New York Film Festival —
 has created a powerful series of short videos that examine the attractors
 and repulsors of various forms of media representation. Details from
 documentaries, press cuttings, publications, and online media streams are
@@ -26,7 +26,7 @@ documentaries, which have been stripped of their naturalistic signifiers
 to bring underlying ideologies into sharper focus. “This film is not only
 a bang-on piece of filmic analysis; it also poses fundamental questions
 about the representation of social institutions, and those stuck inside of
-themâ€  (Michael Sicinski, Keyframe Magazine).
+them”  (Michael Sicinski, Keyframe Magazine).
 
 PROGRAM
 

@@ -19,7 +19,7 @@ boundaries between mediums. Activated by formal abstraction and
 experimental printing methods, I construct paintings using staining,
 dying and sewing techniques. Employing deskilled labour through
 hands-on production, I seek to explore metaphysical concerns relating
-to material and causality.â€ 
+to material and causality.” 
 — Colleen Heslin
 
 Treading Buoylines is an exhibition of new work by Colleen Heslin. The
@@ -38,7 +38,7 @@ making that appears on the fabric in my work consists of traces of
 pigment from the process of water drying. The lines from this process
 influence my formal decisions and potentials, and that is the space
 where the experimental process and formal abstraction engage and
-produce outcomes.â€ 
+produce outcomes.” 
 
 Colleen Heslin completed her BFA at Emily Carr University in 2003 and
 her MFA at Concordia University in 2014. She won the RBC Painting

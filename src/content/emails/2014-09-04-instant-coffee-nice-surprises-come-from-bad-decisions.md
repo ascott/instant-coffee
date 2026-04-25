@@ -81,7 +81,7 @@ zones and animated by atmospheric effects and happenstance events. Some
 scenes are so quiet and motionless that the moving images could be mistaken
 for still photos. Once we’re drawn into the slow tempo of these works
 however, we begin to pay careful attention to their subjects and subtle
-â€œhappenings.â€  Interested in cycles of making and unmaking, Nabataâ€™s wood
+“happenings.”  Interested in cycles of making and unmaking, Nabata’s wood
 sculptures are lightly managed, anticipatory objects. The subtle forms
 resonate as exposed and open armatures that hold together perceptually,
 gathering in their minimal parts some projection of a cohesive whole.
@@ -165,7 +165,7 @@ Mike Bourscheid lives and works in Luxemburg and in Vancouver. He received
 MFA at the University of arts Berlin (UdK) under the guidance of Michaela
 Meise and Lothar Baumgarten.
 
-Growing up in Luxembourg, Mike Bourscheidâ€™s youth was immersed in
+Growing up in Luxembourg, Mike Bourscheid’s youth was immersed in
 storytelling, fairy tales and the personal heroics of daily pub culture.
 His hometown was small and conservative. Like most small towns, the pubs
 were the epicenter of drama, where suppressed social and political tensions
@@ -300,13 +300,13 @@ This previous series of monochromatic grey dipped works were installed in
 tense relation to the architecture while considering the domestic aspect of
 the gallery as apartment.
 
-In Electric Mud, six new works showcase Weisgerberâ€™s continued engagement
+In Electric Mud, six new works showcase Weisgerber’s continued engagement
 in this process-driven direction while introducing new elements, such as
 colour, that bring the paintings to the realm of a broader discussion of
 contemporary abstract painting. His work still explores materiality as
 subject, driven from an interest in dissecting things to explore their
 structure and skin, and how they intersect. Situated at the axis of
-painting, sculpture, and installation, Weisgerberâ€™s work seamlessly
+painting, sculpture, and installation, Weisgerber’s work seamlessly
 crosses disciplines. It culls through histories and collects fragments
 along the way. These specters flutter in and out, and collide to create
 works that are imprinted with the past and the personal.
@@ -382,7 +382,7 @@ Opening: Friday September 5th, 7-9pm
 This exhibition folds the practices of Kelly Lycan and Celia Perrin
 Sidarous together as they investigate the value of objects through
 photographic installation. Working collaboratively Lycan and Sidarous
-highlight a phrase from Gertrude Steinâ€™s Tender Buttons as an imagined arc
+highlight a phrase from Gertrude Stein’s Tender Buttons as an imagined arc
 for their mutual fascination with the latent presence of objects.
 
 Gallery 295
@@ -422,7 +422,7 @@ forthcoming in the journal Scorched Earth.
 
 Antonia Hirsch: Negative Space
 
-September 6 â€“ December 13, 2014
+September 6 – December 13, 2014
 
 SFU Gallery, AQ3004, Simon Fraser University, Burnaby BC
 
@@ -444,11 +444,11 @@ installation includes images and objects that span from astronomy to
 contemporary mobile devices as points of departure to address a complex
 network of speculative ideas. The exhibition's exploration of seeing and
 believing manifests in evocations of outer space and devices such as the
-Claude glass (or black mirror)â€“used by 18th and 19th century landscape
+Claude glass (or black mirror)–used by 18th and 19th century landscape
 painters “that simultaneously pull the user into an interior world while
 projecting worlds away. Taking up a history of reflection, Negative Space
 sets forth inquiries into the contexts of technology, philosophy and
-creative practice, questioning how we and our devicesâ€“both historical and
+creative practice, questioning how we and our devices–both historical and
 present day “favor the image over the real
 
 Hirsch is a Berlin based artist, writer and editor. Her work has been
@@ -789,8 +789,8 @@ is used as a means to suggest new pictorial space, linking our experience
 of place through mapping and gesture, through mark-making, asserting
 continuity between these forms and an experience of daily life.
 
-The conceptual framework for the exhibition is â€œThe archiveâ€  as the
-artistâ€™s physical and mental â€œstorageâ€ , uniting the remembered and the
+The conceptual framework for the exhibition is “The archive”  as the
+artist’s physical and mental “storage” , uniting the remembered and the
 present, as well as individual and cultural memory. In Vancouver, the
 exhibition has a subtitle, The Raven Diaries, referencing the symbol and
 characteristics of the Raven to west coast First Nations culture, while
@@ -918,7 +918,7 @@ quixotic gesture, and investigates the particular relationship of this
 gesture to art making. Presented over the course of 2014-15, each
 installment showcases emergent artists working in a variety of different
 modes and media, with practices scattered across the globe. Part I of Far
-Away So Close focuses on language and the â€œdark magicâ€  of communication.
+Away So Close focuses on language and the “dark magic”  of communication.
 Each of the six artists presented is concerned with describing the gulf
 that exists between utterance and comprehension, and the always-inadequate
 means we employ in our perpetual drive to define ourselves and to connect
@@ -955,9 +955,9 @@ k.phillips@accessgallery.ca
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2014-09-04-19-artspeak-yuji-agematsu-sep-12">19. Artspeak, | YUJI AGEMATSU | SEP 12</a>
 ------------------------------------------------------------------------
-â€œThey are looking at me always,â€  he says. â€œI am just a slave to the duty,
+“They are looking at me always,”  he says. “I am just a slave to the duty,
 passion, and convention of them. I will have to take care of them. If I do
-well it guarantees my slaveâ€™s freedom.â€ 
+well it guarantees my slave’s freedom.” 
 Inbox
 
 YUJI AGEMATSU
@@ -1055,7 +1055,7 @@ invented time-lapse geologic history; planetary habitation by
 four-dimensional beings (either of alien origin or manifestations of spirit
 sent from human shamanic wanderings); and the laboratory creation of plant
 and microscopic life. Mars Pamphleteer is a functional storyboard, a new
-form of diagrammatic imagery that â€œacts outâ€  its own representation. The
+form of diagrammatic imagery that “acts out”  its own representation. The
 work attempts to find a boundary where a diagrammatic image can create an
 affective experience of the space or narrative that it is representing. 
 
@@ -1263,7 +1263,7 @@ Great Britain , 2013. Dir: Joanna Hogg. 104 min.
 
 The third feature from writer-director Joanna Hogg
 (Unrelated, Archipelago) “reaffirms Hogg's status as a distinctive,
-singular, and challenging voice of British cinemaâ€  (Mark Kermode, The
+singular, and challenging voice of British cinema”  (Mark Kermode, The
 Guardian). Doyenne of punk Viv Albertine and Turner-nominated artist Liam
 Gillick play a married couple who decide to move house, a midlife upheaval
 that awakens dreams, memories, and fears that have imprinted themselves on

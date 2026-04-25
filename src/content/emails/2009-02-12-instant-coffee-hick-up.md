@@ -1165,7 +1165,7 @@ ultimately deal with that Thing which defies signification.
 Laura Mulvey came to prominence in the 1970s as a filmmaker and theorist.
 She wrote essays for such periodicals/journals as Screen, Spare Rib, and
 Seven Days. Much of her early work investigated questions of spectatorial
-identification and itâ��s relationship to the male gaze, and her writings,
+identification and it’s relationship to the male gaze, and her writings,
 particularly the 1975 essay Visual Pleasure and Narrative Cinema, helped
 establish feminist film theory as a bourgeoning legitimate field of study.
 Between 1794 and 1982, Mulvey co-wrote and co-directed six theoretical
@@ -1178,10 +1178,10 @@ examining the fate of revolutionary monuments in the Soviet Union after the
 fall of communism. In 1996, she published Fetishism and Curiosity and in
 2006, Death 24x a Second: Stillness and the Moving Image.
 
-Laura Mulveyâ��s lecture was made possible by the Joan Carlisle Irving
+Laura Mulvey’s lecture was made possible by the Joan Carlisle Irving
 Lecture Series and thanks to generous contributions provided by the
-Presidentâ��s Advisory Committee on Lectures, UBC and from The Center for
-Womenâ��s and Gender Studies, UBC
+President’s Advisory Committee on Lectures, UBC and from The Center for
+Women’s and Gender Studies, UBC
 
 More information: http//www.ahva.ubc.ca/eventsCurrentJCI.cfm
 UBC Department of Art History, Visual Art and Theory
@@ -1360,7 +1360,7 @@ and social network sites.
 We are looking for an individual with good people skills, able to negotiate
 delicate and competing interests, has experience working within a budget
 and can offer creative and innovative solutions to challenges. This
-individual should work well in an artistâ��s environment and be able to
+individual should work well in an artist’s environment and be able to
 coordinating a dynamic group of contractors to deliver and promote our
 programming. Ideally the candidate should enjoy working as part of a team,
 but be able to initiate and complete projects independently as required.
@@ -1379,7 +1379,7 @@ Qualified applicants please apply by March 1st 2009 with
 Resume and Cover Letter in confidence to:
 gruntHR@yahoo.com
 
-Please label: Search Committee â�� Programming and Communications
+Please label: Search Committee ’ Programming and Communications
 Coordinator, grunt gallery
 
 
@@ -1670,7 +1670,7 @@ the artists and works from those submitting proposals for exhibition.
 Center of the Inter-American Development Bank, in Washington, DC, 1300 New
 York Avenue, NW, Washington, DC, 20577 USA for approximately six weeks.
 
-11. A catalogue reproducing all the selected works and the artistsâ��
+11. A catalogue reproducing all the selected works and the artists’
 biographies will be published for the exhibition.
 
 12. The IDB Cultural Center will promote the exhibit in Washington, DC, and

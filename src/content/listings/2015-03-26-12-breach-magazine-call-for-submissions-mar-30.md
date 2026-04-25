@@ -16,7 +16,7 @@ words of Olu Oguibe, the expectation that "the ‘ethnics,’ ‘postcolonials,�
 particular flavor, deal with a certain set of themes, exhibit in particular
 avenues in particular locations outside the mainstream, or be prepared to
 offer work of a particular nature to earn momentary mainstream
-acknowledgement, after which they are quietly returned to obscurityâ€ .
+acknowledgement, after which they are quietly returned to obscurity” .
 
 Taking a cue from the Transnational Decolonial Institute in recognizing the
 “confinement that Euro-centered concepts of arts and aesthetics have
@@ -46,16 +46,16 @@ and whether First Nations artists in particular are weighted down by
 expectations that these issues be central themes of their work.
 
 -If “traditionally, the significance of museums was based on their role to
-relate a master narrative that was shared by their audienceâ€ , and there
+relate a master narrative that was shared by their audience” , and there
 “exist today competing histories (religious, ethnic, or postcolonial) that
-deconstruct an exclusive significance of â€˜artâ€™â€ , then what is the role of
+deconstruct an exclusive significance of ‘art’” , then what is the role of
 the museum of today? Is the museum obsolete?
 
 -Recognizing that art history is a western construct, how can art criticism
 be applied to art and artists from non-western societies without being
-â€œcomplicit with globalizationâ€ , transcribing â€œthe â€˜localâ€™ into a
-â€˜universalâ€™â€ , and â€œreducing difference to a series of essentialising and
-exoticising posesâ€ ?
+“complicit with globalization” , transcribing “the ‘local’ into a
+‘universal’” , and “reducing difference to a series of essentialising and
+exoticising poses” ?
 
 Based in Canada, Breach prioritizes content pertaining to current social
 issues and political debates within the Canadian context. However, we do

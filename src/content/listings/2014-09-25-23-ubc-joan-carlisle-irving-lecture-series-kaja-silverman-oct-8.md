@@ -12,7 +12,7 @@ Joan Carlisle Irving Lecture Series
 Department of Art History, Visual Art & Theory, University of British Columbia
 
 Kaja Silverman
-â€œUnstoppable Developmentâ€ 
+“Unstoppable Development” 
 
 Wednesday, October 8, 2014
 5:30 pm Room 102 Frederic Lasserre Building

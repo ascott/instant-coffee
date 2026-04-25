@@ -263,7 +263,7 @@ that you forgot to close and now you have to deal with the mess." O.H.
 Based in Frankfurt and Toronto, artist/filmmaker Oliver Husain binds 
 fractured narrative with theatrical materiality in his playful investigation 
 of identity politics. His body of work combines film, sculpture, and 
-installation, tending to construct what he calls â€œattractive trapsâ€  for his 
+installation, tending to construct what he calls “attractive traps”  for his 
 audience, in which perception and assumption threaten a fragile sense 
 of wholeness. His work was recently shown at MOCA Cleaveland and 
 Nuit Blanche, Toronto. In 2011, a retrospective of his films and videos 
@@ -320,7 +320,7 @@ times.
 Kevin Murphy is a Vancouver artist who works primarily in 3 
 dimensions, using a variety of materials in combination with systems, 
 cycles, and organisms. He most often investigates human relationships 
-to ideas of â€œNatureâ€  and the natural or nonhuman world, and how 
+to ideas of “Nature”  and the natural or nonhuman world, and how 
 these manifest in material, economic, and imaginative terms. Kevin 
 received a BFA from the University of British Columbia in 2009, and 
 currently works there as the Drawing, Painting & Sculpture Technician.
@@ -460,7 +460,7 @@ orbit of the galaxy. The image of the sun floating quietly in space with
 the planets moving around it in circles was true for a time, but is now a 
 fiction of convenience. Likely topics include- the Copernican revolution, 
 the ego, the site of art, Agniezka Kurant, maybe Stephen Kaltenbach, 
-the infinite, probably Borges on Xeno, and hopefully dancing.â€ 
+the infinite, probably Borges on Xeno, and hopefully dancing.” 
 
 Jen Weih is a Vancouver-based artist whose practice includes video, 
 print, sculpture, installation, and sound performance. Her work has 
@@ -944,7 +944,7 @@ is required to make living an end in itself and not a means in which
 each of us is our own little political economy?
 
 Mick Taussig is the author of several books on mimesis, agriculture, 
-shamanism, and color. He was once a shipâ€™s doctor and now teaches 
+shamanism, and color. He was once a ship’s doctor and now teaches 
 anthropology at Columbia University in New York.
 
 Please come early, attendance is limited.
@@ -952,7 +952,7 @@ Please come early, attendance is limited.
 Scrivener’s Monthly is a series of public presentations that explore the 
 space between material practices and spoken words: a periodical that 
 talks. Set alongside the exhibitions program at Western Front, this 
-experiment in â€œnot publishingâ€  involves readings, performances, and 
+experiment in “not publishing”  involves readings, performances, and 
 other articulations.
 
 Western Front

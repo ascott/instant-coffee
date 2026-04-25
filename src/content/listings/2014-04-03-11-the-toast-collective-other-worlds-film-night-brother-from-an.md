@@ -95,7 +95,7 @@ See a map of the main space here: http://thetoast.org/about/
 
 About the Toast Collective:
 
-The Toast Collective is a collection of collectives that operate â€œThe Toastâ€  an 
+The Toast Collective is a collection of collectives that operate “The Toast”  an 
 art, event and food-centric space @ 648 Kingsway in East Vancouver (Riley 
 Park/Little Mountain). Toast is a D.I.Y., flexible and community-located space 
 for artists, events and workshops.
@@ -103,7 +103,7 @@ for artists, events and workshops.
 Currently, we are the following collectives/projects:
 Beer Cat Brewing Collective: brew, drink, share, dance; Junktion Kickball: 
 Drop-in Kickball (May-September) & Monday Events in EastVan; General 
-Assembly and Side Project: â€ make it niceâ€  community | arts | events | 
+Assembly and Side Project: ” make it nice”  community | arts | events | 
 workshops.
 
 Some things we value are: inclusivity, community, shared/pooled resources, 

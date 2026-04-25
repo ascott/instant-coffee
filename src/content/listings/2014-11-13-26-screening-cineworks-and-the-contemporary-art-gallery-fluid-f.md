@@ -78,7 +78,7 @@ Monday 24, November; 1.30pm–5.30pm, (please arrive early)
 Cineworks Studio, 1131 Howe Street, Vancouver (lane entrance)
 Advance booking required: http://goo.gl/3rr3I9
 
-Taking its title from the 1990 play by Fiona Templeton, in which the â€œyouâ€ 
+Taking its title from the 1990 play by Fiona Templeton, in which the “you” 
 slowly shifts from audience member to cityscape, this 4-hour workshop takes
 a decidedly subjective approach towards understanding how filming a place
 turns it into a character, a body, and a speaking subject – one that is

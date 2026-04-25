@@ -19,7 +19,7 @@ Janice Cheung, Mike Gagne, and Mike Ness.
 PLEXI, PLASTIC, WOOD & ASS examines the foundations of material
 processing and the subversive nature of humour. The impetus of 
 this exhibition aims to examine the relationships that form between 
-co- existing â€œobjects of artâ€  within the framed space and the 
+co- existing “objects of art”  within the framed space and the 
 narratives that often assimilate.
 
 Born and raised in Manila Philippines, Vancouver based artist 

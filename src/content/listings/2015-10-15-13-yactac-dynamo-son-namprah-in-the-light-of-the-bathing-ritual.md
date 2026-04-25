@@ -34,7 +34,7 @@ Sanskrit language which means the passing or movement of the Sun into its
 new astrological cycle. On Songkran day, the Thai will make merits by
 giving arms to Buddhist monk in the early morning, bathing of Buddha
 images, pouring water into the hands of the elderly or those who we have
-much respect for, and to receive their blessing of prosperity.â€  - The
+much respect for, and to receive their blessing of prosperity.”  - The
 Tourism Authority of Thailand-
 
 --Special thanks to Dynamo Arts Association for hosting.

@@ -65,7 +65,7 @@ Shipping fees will be
 paid by the artist. Submission materials will not be returned. Please send 
 required materials to
 unstablenatures@gmail.com with the subject heading “Unstable Natures 
-Submissionâ€  by December 19,
+Submission”  by December 19,
 2011. You may also mail a CD submission to:
 
 Unstable Natures Submission

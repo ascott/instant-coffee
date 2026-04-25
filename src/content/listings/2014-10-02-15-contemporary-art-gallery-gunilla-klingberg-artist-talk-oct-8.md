@@ -82,7 +82,7 @@ seductiveness or power of rhetorical persuasion. Thus Klingberg’s work
 moves further than a mere critique of brand fetishism, the lure of
 contemporary global labels, beyond just pointing things out and rejecting
 them. It poses the awkward question of whether being alternative to a
-mainstream or on the â€œoutsideâ€  is any longer possible. Might a more
+mainstream or on the “outside”  is any longer possible. Might a more
 critical and appropriate assessment lie in revealing and acknowledging the
 subtle and insidious way in which we are all drawn into a sense of
 fascination with the things that surround us. Through her work we find

@@ -74,8 +74,8 @@ Photographer"
 
 Sarah Kowalski, MA Candidate, University of Alberta
 
-Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½Materia medica: (re)fabricating the body in Deborah Hall's Medical
-Histories and Pam Hall's New Readings in Female AnatomyÃ&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½
+Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½Materia medica: (re)fabricating the body in Deborah Hall's Medical
+Histories and Pam Hall's New Readings in Female AnatomyÃ&#65533;Â¢ïÂ¿Â½ïÂ¿Â½
 
 Eric Hoff, PhD Candidate, UBC (Interdisciplinary Studies: Philosophy and
 Bioscience)
@@ -118,8 +118,8 @@ Vancouver Art Gallery"
 
 Christina Smylitopolous, PhD Candidate, McGill University
 
-"Im-Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½materialÃ&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½ or Material: Replacing the Queen? Pierre Henri
-RÃ&#65533;ï¿½Ã&#65533;Â©voilÃ&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½s Mary
+"Im-Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½materialÃ&#65533;Â¢ïÂ¿Â½ïÂ¿Â½ or Material: Replacing the Queen? Pierre Henri
+RÃ&#65533;ï¿½Ã&#65533;Â©voilÃ&#65533;Â¢ïÂ¿Â½ïÂ¿Â½s Mary
 Queen of Scots Separated from her Faithful Servants, 1822"
 
 Heather Muckart, MA 2008, UBC
@@ -129,12 +129,12 @@ Symbolic Violence"
 
 Birga U. Meyer, PhD Candidate UBC (History)
 
-Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½Message bearing entities Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½ historic objects on displayÃ&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½
+Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½Message bearing entities Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½ historic objects on displayÃ&#65533;Â¢ïÂ¿Â½ïÂ¿Â½
 
 Joshua Hite, MFA 2008;
 
-Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½In RowsÃ&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½
+Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½In RowsÃ&#65533;Â¢ïÂ¿Â½ïÂ¿Â½
 
 Manjinder Kaur Sidhu, MA Candidate, Asian Studies
 
-Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½Sundari: The book as object/tool of empowerment.Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½
+Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½Sundari: The book as object/tool of empowerment.Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½

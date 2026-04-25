@@ -28,7 +28,7 @@ underneath a video camera lens and projects the images onto a screen –
 recounting the stories of those who let themselves be photographed. These
 magical studies inspire gentle but profound reflection upon the transitory
 nature of the moment and the significance of interpersonal encounters. The
-piece, â€œImages move, when carried around/ Portraits in Motionâ€ , has
+piece, “Images move, when carried around/ Portraits in Motion” , has
 attracted a cult-following in Berlin and has been invited to participate at
 numerous international theatre festivals throughout Europe.
 

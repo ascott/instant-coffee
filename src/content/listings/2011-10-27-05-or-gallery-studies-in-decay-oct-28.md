@@ -30,7 +30,7 @@ Vancouver-based artist Raymond Boisjoly’s recent series of images, collectivel
 titled The Writing Lesson, uses visual conventions associated with black metal 
 music to create logos for indigenous place names such as Chilliwack, Massett 
 and Nanaimo. Boisjoly lays out these Anglicized words with dripping, thorny 
-embellishments and what he calls a â€œforced symmetry.â€  Like the band 
+embellishments and what he calls a “forced symmetry.”  Like the band 
 wordmarks to which they refer, Boisjoly’s decrepit tangles of letters often verge 
 on illegibility. This iteration of Boisjoly’s ongoing project will be the largest yet, 
 printed on a tarp, and taking its shape from the name Spuzzum, an 

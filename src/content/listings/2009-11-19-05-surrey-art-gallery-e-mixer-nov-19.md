@@ -58,4 +58,4 @@ By SkyTrain – take the Expo Line, get off at Surrey Central Station, and
 catch the 321 bus to 88 Avenue.
 
 By Car - Directions are available at www.arts.surrey.ca – click “Surrey Art
-Galleryâ€ , â€œAbout the Galleryâ€ , and â€œVisitor Infoâ€ .
+Gallery” , “About the Gallery” , and “Visitor Info” .

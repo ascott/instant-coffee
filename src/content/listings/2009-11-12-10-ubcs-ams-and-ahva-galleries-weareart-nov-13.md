@@ -8,7 +8,7 @@ venue: "UBC's AMS and AHVA Galleries"
 summary: "UBC's AMS and AHVA Galleries | WEAREART | NOV 13"
 ---
 
-UBCâ��s AMS and AHVA Galleries present WEAREART, a collaborative show and
+UBC’s AMS and AHVA Galleries present WEAREART, a collaborative show and
 fundraiser featuring works from Faculty, Staff, and Students from the
 Department of Art History, Visual Art, and Theory at UBC. WEAREART is a
 mixed media event centered on each artist's interpretation of the grey

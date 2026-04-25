@@ -10,7 +10,7 @@ summary: "2 of 2 Gallery | SHAHEER ZAZAI | APR 5"
 
 2 of 2 Gallery
 
-What he becomes (detail), 2012, oil on canvas, 60â€  x 48â€ 
+What he becomes (detail), 2012, oil on canvas, 60”  x 48” 
 
 SHAHEER ZAZAI
 A Failed Revolution
@@ -44,7 +44,7 @@ presence of human error.
 
 “A principle is the expression of perfection, and as imperfect beings 
 like us cannot practice perfection, we devise every moment limits of 
-its compromise in practice.â€  
+its compromise in practice.”  
 
 Mohandas Karamchand Gandhi
 

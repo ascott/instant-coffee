@@ -63,7 +63,7 @@ No spill pools, no American swimwear
 Dispersants, no controlled burns, no email 
 Can clear us, can delete you free of your mire of oil.
 
-- Philip Metres, from â€œOde to Oilâ€ 
+- Philip Metres, from “Ode to Oil” 
 
 Gauley Bridge
 

@@ -486,7 +486,7 @@ video work from the 2009 Hive Festival. Houle’s contribution includes a
 recent series of pin-hole photographs documenting and questioning
 aboriginal stereotypes within the context of First Nations dioramas at the
 Calgary Stampede alongside a new video projection, which examines the myths
-and proliferations of â€œIndian Sign Languageâ€  and the question of identity
+and proliferations of “Indian Sign Language”  and the question of identity
 within this context.
 
 Friend or Foe boldly questions how the Aboriginal body may be utilized to
@@ -694,9 +694,9 @@ promotional material, critical discourse, calendar of events, and press
 releases, in collaboration with other VIVO departments, about VIVO's media
 arts programming.
 - Appropriate record keeping and reporting of resources, events,
-exhibitions and other projects, particularly as it pertains to VIVOÃ¢ï¿½ï¿½s
+exhibitions and other projects, particularly as it pertains to VIVOâï¿½ï¿½s
 archive.
-- Coordinating the human resources and budget for VIVOÃ¢ï¿½ï¿½s annual Signal +
+- Coordinating the human resources and budget for VIVOâï¿½ï¿½s annual Signal +
 Noise Festival. This may include assisting in grant writing and research.
 - Coordinating and working with the Programming Advisory Committee and
 department staff to establish, implement, assess and maintain appropriate

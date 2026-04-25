@@ -20,7 +20,7 @@ Koerner Library
 The gallery located in room 112, Koerner Library presents the work of
 students from VISA 480 in a two-part exhibition. The class, split in two,
 proposes thematics to each other and formulates two group exhibitions.
-Doublethink is the second exhibition running from Wednesday December 2 â��
+Doublethink is the second exhibition running from Wednesday December 2 ’
 Saturday December 5.
 
 The power of holding two contradictory beliefs in one's mind
@@ -29,12 +29,12 @@ genuinely believing in them, to forget any fact that has become
 inconvenient, and then, when it becomes necessary again, to draw it back
 from oblivion for just so long as it is needed, to deny the existence of
 objective reality and all the while to take account of the reality which
-one denies â�� all this is indispensably necessary. Even in using the word
+one denies ’ all this is indispensably necessary. Even in using the word
 doublethink it is necessary to exercise doublethink. For by using the word
 one admits that one is tampering with reality; by a fresh act of
 doublethink one erases this knowledge; and so on indefinitely, with the lie
 always one leap ahead of the truth.
-â��George Orwell. Nineteen Eighty-Four. (Martin Secker & Warburg Ltd, London)
+’George Orwell. Nineteen Eighty-Four. (Martin Secker & Warburg Ltd, London)
 1949. 220.
 
 As the globe undergoes a continuous transformation, where space and time
@@ -44,15 +44,15 @@ delivered rapid-fire news, images, and stories that must first pass through
 our own sensory sieve. This has sparked our interest in the orchestrated
 reality that is composed and performed for us and by us on a daily basis.
 
-While Orwellâ��s seminal novel may offer a vision of the future that seems at
+While Orwell’s seminal novel may offer a vision of the future that seems at
 the very least hyperbolic, it also offers some startling insights into the
 nature of the forces that construct our own reality. With this in mind,
-Doublethink brings together the work of twelve artists whose thatâ�� range
+Doublethink brings together the work of twelve artists whose that’ range
 from childhood experience to time travel to choreography to the occult.
 
 As reference to the ways in which Orwellian language leads to a concomitant
 sanitization of thought, Doublethink proposes to explore the processes by
-which our thinking â�� as a society as well as individuals â�� only seems
+which our thinking ’ as a society as well as individuals ’ only seems
 natural, when in fact it is profoundly not our own. At what point do our
 mind and our body cease to communicate with one another? How does this
 affect our ability to perceive the world around us? To what extent are our

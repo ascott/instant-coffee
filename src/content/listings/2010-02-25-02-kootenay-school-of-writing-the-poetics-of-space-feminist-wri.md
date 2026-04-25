@@ -32,7 +32,7 @@ in Vancouver, Toronto, Montreal, New York, Philadelphia and Calgary where
 she was Markin Flanagan Writer in Residence. She is the author most
 recently of Unleashed (BookThug), a selection of posts from the first four
 years of her blog. Her previous collection of poetry, Expressway (Coach
-House 2009) was nominated for a Governor Generalâ��s Award and a selection
+House 2009) was nominated for a Governor General’s Award and a selection
 from that book won Gold in the National Magazine Awards. Lemon Hound (Coach
 House 2006) won a Lambda Award and the Pat Lowther Award. In 2005 she
 edited Open Field: 30 Contemporary Canadian Poets, for Persea Books. She is

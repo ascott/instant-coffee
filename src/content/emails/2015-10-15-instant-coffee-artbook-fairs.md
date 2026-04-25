@@ -64,7 +64,7 @@ even as any discernible features are obfuscated amid interrupted movements.
 These bold, black lines of cut wool manifest the ink lines of a drawing;
 here, the gesture is re-articulated through the felt fabric. The
 trajectories of these lines — and their collisions among assemblages of
-papers, prints, and textiles â€” might also be â€œfeltâ€  through a haptic
+papers, prints, and textiles — might also be “felt”  through a haptic
 visuality, one which Lemieux alludes to in the show's synaesthetic title.
 
 -
@@ -177,7 +177,7 @@ Spanish with English subtitles
 Set in Huamanga, the film explores the effects of collective paranoia and
 hysteria through a community terrorized by the presence of Pishtaco, a
 mythical assassin who kills Andean villagers to extract their body fat and
-sell it to industrialized countries. Martínez Gamboaâ€™s film reflects on the
+sell it to industrialized countries. Martínez Gamboa’s film reflects on the
 climate of mistrust experienced by many communities during the years of
 terrorism, and presents a critical view of extraction economy as a means
 for economic development.
@@ -266,7 +266,7 @@ Wise, many of which are too large or too delicate to show in the library.
 “The legacy of Jack Wise is a stunning array of artistic output, produced
 over a lifetime of dedicated, educated, and intelligent hard work. Looking
 closely at his artwork will take you on a personal visit to some of his
-many worlds...,â€  says local artist and art historian Gary Sim.
+many worlds...,”  says local artist and art historian Gary Sim.
 
 An appreciation of Jack Wise by Sim can be found on the Burnaby Art Gallery
 website: http://bit.ly/1GwnWhm.
@@ -300,7 +300,7 @@ selection of new works including photographic murals and videos on
 digital screens.
 
 Writer Aaron Peck first described Kydd’s early video works on monitors
-as â€œdurational photographs,â€  pieces that challenged the boundaries
+as “durational photographs,”  pieces that challenged the boundaries
 between photography and video while at the same time resisting aspects
 of cinema inherent to moving images. Kydd has since continued to
 create video works that tend to avoid or cancel narrative in favour of
@@ -343,7 +343,7 @@ Seth Fluker and Sheila Heti
 New Documents is pleased to announce the availability of Seth and Sheila
 Stayed Behind, a new collaboration between Seth Fluker and Sheila Heti.
 Seth and Sheila Stayed Behind pairs a short story by Sheila Heti with
-photographs by Seth Fluker. â€œSethâ€  and â€œSheilaâ€  are the main characters of
+photographs by Seth Fluker. “Seth”  and “Sheila”  are the main characters of
 Heti’s abstract narrative of longing and transition, one which sets the
 stage for Fluker’s photographs of a wintry Toronto landscape, filled with
 anthropomorphized automobiles and embankments of dirty snow.
@@ -416,7 +416,7 @@ Gazendam and a new design by Jaz Halloran. Please join us at the launch for
 readings by past contributors, Kara Hansen and Ingrid Olauson.
 
 In Vancouver, we have many of what art historian William Wood described as
-â€œoccasional criticsâ€ â€”the off-duty journalist or curator, the intrigued
+“occasional critics” —the off-duty journalist or curator, the intrigued
 artist, writers and poets. He wrote this about Vancouver in 1990, and for
 the most part, it’s still the case. BARTLEBY publishes writing that might
 otherwise be lost to the pruned paradigm. Melville's scrivener usually
@@ -450,7 +450,7 @@ East Hastings Street. The commission is for new work. Eligible artists are
 invited to submit credentials and a letter of interest for consideration.
 
 The néc'a?mat ct Strathcona library is the first public facility in
-Vancouver with a Coast Salish name. nÃ©c'a?mat ct means â€œWe are oneâ€  in the
+Vancouver with a Coast Salish name. néc'a?mat ct means “We are one”  in the
 hen'q'emin'em (Musqueam) language. Public art at the site should reflect the
 character of this neighbourhood which is rich in cultural histories and
 diverse populations, including Indigenous peoples and early Japanese,
@@ -535,7 +535,7 @@ Sanskrit language which means the passing or movement of the Sun into its
 new astrological cycle. On Songkran day, the Thai will make merits by
 giving arms to Buddhist monk in the early morning, bathing of Buddha
 images, pouring water into the hands of the elderly or those who we have
-much respect for, and to receive their blessing of prosperity.â€  - The
+much respect for, and to receive their blessing of prosperity.”  - The
 Tourism Authority of Thailand-
 
 --Special thanks to Dynamo Arts Association for hosting.
@@ -645,7 +645,7 @@ As the artist has described, “the mark-making that appears on the fabric in
 my work consists of traces of pigment from the process of water drying. The
 lines from this process influence my formal decisions and potentials, and
 that is the space where the experimental process and formal abstraction
-engage and produce outcomes.â€ 
+engage and produce outcomes.” 
 
 Colleen Heslin completed her BFA at Emily Carr University in 2003 and her
 MFA at Concordia University in 2014. She won the RBC Painting Competition

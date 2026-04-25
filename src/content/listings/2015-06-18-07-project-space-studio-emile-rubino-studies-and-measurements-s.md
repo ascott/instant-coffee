@@ -58,7 +58,7 @@ in Photography). In the fall of 2015, he will begin his MFA at ICP-Bard,
 New York.
 
 SPECIAL EDITION PRINTS
-Two 8 x 10â€  silver gelatin prints, which can be bought together or separately.
+Two 8 x 10”  silver gelatin prints, which can be bought together or separately.
 Each one is an edition of 9+1AP
 
 $15 for one

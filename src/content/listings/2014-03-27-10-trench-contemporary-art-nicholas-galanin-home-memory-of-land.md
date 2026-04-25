@@ -26,7 +26,7 @@ Galanin writes of this process, “The motions of creating these images
 explore, reference and mimic a customary (traditional) aesthetic that 
 has been ongoing for generations. An aesthetic that is put into motion 
 through our existence on this land. The Stellar remnant is what’s left, 
-the print, in motion like the birth of a star.â€ 
+the print, in motion like the birth of a star.” 
 
 Nicholas Galanin is a Tlingit/Aleut multi-disciplinary artist. Galanin 
 holds a BFA from London Guildhall with honours in Jewellery Design 

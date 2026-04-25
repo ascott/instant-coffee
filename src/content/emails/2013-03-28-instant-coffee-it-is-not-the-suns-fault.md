@@ -50,7 +50,7 @@ Please come early, attendance is limited.
 Scrivener’s Monthly is a series of public presentations that explore
 the space between material practices and spoken words: a periodical
 that talks. Set alongside the exhibitions program at Western Front,
-this experiment in â€œnot publishingâ€  involves readings, performances,
+this experiment in “not publishing”  involves readings, performances,
 and other articulations.
 
 --
@@ -102,7 +102,7 @@ http://221a.ca/stratiform
 
 Upcoming SAD talks:
 - Thursday, March 28th, 8pm: On Objects and Melancholy: Drew
-Shaffer (from Bakerâ€™s Dozen Antiques)
+Shaffer (from Baker’s Dozen Antiques)
 - Friday, April 5th, 8pm: On Spirits and Sadness: David McIntosh
 (Battery Opera), with Jason Gowans and Mike Love; spirits tasting to
 follow
@@ -353,7 +353,7 @@ Kerrisdale.
 This gathering will turn around hiding and finding, one of the most basic game 
 mechanisms. As League regular and electronic game designer Ian Verchere 
 says, “The #1 rule of games is this: good things are always found inside other 
-things.â€ 
+things.” 
 
 Possibilities
 
@@ -412,7 +412,7 @@ futures. Cultural producers will find it increasingly impossible to
 exist here, and will contend with their spaces and neighbourhoods
 being exploited by developers. Housing choices will largely be
 determined by the prejudices of property managers and landlords who,
-unlike most, can afford to say â€œno.â€ 
+unlike most, can afford to say “no.” 
 
 Two centuries after Adam Smith denounced land rent as an illegitimate
 form of accumulation, the seemingly passé 19th Century question of
@@ -455,9 +455,9 @@ by Renters
 ● Austerity and Prosperity: Increasing downward pressure and upwards
 redistribution
 ● First galleries, then bulldozers: Rent and cultural production
-● History of renterâ€™s strikes in Vancouver, from planning instigation
+● History of renter’s strikes in Vancouver, from planning instigation
 to outcomes
-● Mobilize your Complex!: A step-by-step guide to organising a renterâ€™s 
+● Mobilize your Complex!: A step-by-step guide to organising a renter’s 
 strike
 ● How to Fight Your Eviction: A workshop on navigating the Residential
 Tenancy Act in B.C.
@@ -470,7 +470,7 @@ companies, politicians and landed elites
 gentrification?
 ● Urban Renewal and Social Mixing: A study of euphemisms around
 gentrification, urban displacement and accumulation by dispossession
-● A Renterâ€™s Life in a Landlordâ€™s World: A critical comparison of
+● A Renter’s Life in a Landlord’s World: A critical comparison of
 rental laws, and tenants’ rights in North America, Europe and Asia
 
 This call for proposals is also a call for spaces. We are looking to
@@ -1070,7 +1070,7 @@ media arts.
 
 Neighbourhood Spaces will embed artists in community sites such as parks, 
 nature reserves, libraries, health or community centres. These sites will 
-provide a â€œhome baseâ€  for each artist to work during their residency, while also 
+provide a “home base”  for each artist to work during their residency, while also 
 allowing the artist to take on diverse roles, engaging with community 
 members in various ways to animate, explore and inspire the specific stories, 
 curiosities, challenges and triumphs of the local community. 

@@ -29,7 +29,7 @@ mediated image; and a direct experience that manifests in us as an
 immediate encounter with the art object. For Dan Siney, the photographs that 
 resonate are those in which he feels the presence of qualities, powers or 
 intensities that change his relationship to both these experiences. These 
-might be grouped together under the label â€œthe affective dimension of imagesâ€ .
+might be grouped together under the label “the affective dimension of images” .
 
 Affects– qualities, powers, intensities– are not generally found in any single 
 part of an image, in the frame, composition, subject, form, thematic, or colour, 
@@ -43,10 +43,10 @@ express, differently every time, affective experiences in the social world.
 Dan Siney is an ECUAD undergraduate (2003), who was recently selected for 
 the AIMA AGO Photography Prize long list. His photographs were also 
 recently published by Inventory Magazine, in a group artist book entitled 
-â€œQueen of Tsawwassenâ€ , with photographers Ali Bosworth, Seth Fluker, 
+“Queen of Tsawwassen” , with photographers Ali Bosworth, Seth Fluker, 
 Jennilee Marigomen and Chris Taylor. Siney’s work has been exhibited in 
 group shows throughout North America, Europe and Japan, with solo and two-
 person exhibitions in Canada. Most recently his work was exhibited in 
-â€œPhantasmagoriaâ€  at the Presentation House Gallery, and in a collaborative 
-exhibition with Andrea Pinheiro, â€œStrange Weather,â€  at The University of 
+“Phantasmagoria”  at the Presentation House Gallery, and in a collaborative 
+exhibition with Andrea Pinheiro, “Strange Weather,”  at The University of 
 Algoma.

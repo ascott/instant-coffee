@@ -85,7 +85,7 @@ also named One to Watch 2013 (The Vancouver Sun).
 <a href="/instant-coffee/listings/2013-01-17-03-ubc-arms-are-overratedartist-talk-by-stanya-kahn-jan-17">03. UBC | Arms Are Overrated:Artist Talk by Stanya Kahn | JAN 17</a>
 ------------------------------------------------------------------------
 
-Arms Are Overrated: An Artist's Talk by Stanya Kahnâ€
+Arms Are Overrated: An Artist's Talk by Stanya Kahn”
 Distinguishing Visiting Artist Program
 Department of Art History, Visual Art & Theory, University of British Columbia
 
@@ -95,7 +95,7 @@ Thursday, January 17th, 2013
 
 Stanya Kahn is an interdisciplinary artist working primarily in video, with a
 practice that includes performance, writing, sound design, drawing, animation
-and digital media. Kahnâ€™s hybrid media practice borrows from pop 
+and digital media. Kahn’s hybrid media practice borrows from pop 
 vernacular,
 documentary tropes, improvisation, comedy and experimental film/video
 praxis in its re-working of signs, function and meanings in narrativity. The work
@@ -104,22 +104,22 @@ extensive background in live performance. Integrating the scripted with the
 candid, Kahn addresses issues like agency, power, trauma and the uses and
 failings of language.
 
-"Stanya Kahnâ€™s first solo exhibition at this gallery features three thirty- to
+"Stanya Kahn’s first solo exhibition at this gallery features three thirty- to
 forty-minute videos that smack of YouTube vernacular: handheld camera; on-
 camera mic; footage of friends, family, and little kids playing piano. Closer
 observation reveals masterful application of Eisensteinian editing, with
 meticulously choreographed sound tracks and threads of epistemological
-ruminations that indicate a philosophical conscientiousness thatâ€™s often
-overlooked in conversations about Kahnâ€™s work. Each video canvasses 
+ruminations that indicate a philosophical conscientiousness that’s often
+overlooked in conversations about Kahn’s work. Each video canvasses 
 the
 concerns and coping mechanisms of a contemporary subject who is forging
 her way through a world in crisis. Before you roll your eyes at the apparent
 pedantry of it all, consider that each work is peppered with slyly subversive
-jokesâ€“â€“about butts, blondes, and sexâ€“â€“as well as remarkable 
+jokes––about butts, blondes, and sex––as well as remarkable 
 personal
 stories and an impressive stream of eclectic facts about animals, ecology,
-and health. Kahnâ€™s characters are contemporary flaneurs, and each is
-steadfast on a physical or linguistic dÃ©rive that takes the viewer through
+and health. Kahn’s characters are contemporary flaneurs, and each is
+steadfast on a physical or linguistic dérive that takes the viewer through
 narratives of mortality, trauma, family, and the ethics of civic and ecological
 responsibility."
 Micol Hebron, Stanya Kahn, Critics Pick, Artforum, 2010
@@ -130,7 +130,7 @@ collaborative works have shown in numerous venues nationally and
 internationally including The Whitney Biennial (2008); The California Biennial
 (2010); MoMA/NY; MOCA/LA; The Getty Center/LA, the Hammer
 Museum/LA; the Sundance Film Festival; Migrating Forms Film Festival; the
-Center for Art and Media/KarlsrÃ¼he; PS1 Museum of Contemporary Art/NY;
+Center for Art and Media/Karlsrühe; PS1 Museum of Contemporary Art/NY;
 Contemporary Center for Art/Vilnius, Lithuania; MIT, Cambridge; ICA,
 Philadelphia; Kunstalle, Bonn, GDR; The Brooklyn Museum, NY; The
 Hayward Gallery, London; Susanne Vielmetter Los Angeles and Elizabeth
@@ -145,7 +145,7 @@ http://www.ahva.ubc.ca
 
 Art History, Visual Art & Theory Dept.
 University of British Columbia
-400 â€“ 6333 Memorial Road
+400 – 6333 Memorial Road
 Vancouver, BC V6T 1Z2
 Tel: 604 822 2757 Fax: 604 822 9003
 
@@ -171,7 +171,7 @@ showing love for another threatened cultural venue, the Waldorf Hotel.
 
 The W2 community was locked out by the City in December. Brenda 
 Prosken, Director of Community Services, and other City staff, supported a 3-
-month â€œdarkâ€  period for the W2 Media Cafe, jeopardizing events and 
+month “dark”  period for the W2 Media Cafe, jeopardizing events and 
 threatening artists contracts and livelihoods. W2 staff were laid off in 
 December. 
 
@@ -182,7 +182,7 @@ artist, cites: “The news this week that the City of Vancouver and Woodward’s
 developer Westbank are bailing out the new CBC studio theatre with $1 
 million, shows that developers can build beautiful cultural spaces but 
 Vancouver arts groups can not afford to operate them with this developer-
-friendly model.â€  
+friendly model.”  
 
 W2 invested $400,000 and earned revenues of $1.25 Million (2010-2012) in its 
 operations of the 10,000 sf site, and is largely supported by self-generated 
@@ -206,7 +206,7 @@ start-up year.
 "We need to be building up Vancouver's arts and culture," stated Gregor 
 Robertson when speaking about the sale of the Waldorf Hotel. He also stated 
 recently, “W2 is an important hub for arts and media groups and community 
-members in the Downtown Eastside.â€  There are many similarities between the 
+members in the Downtown Eastside.”  There are many similarities between the 
 two popular arts hubs, given they are both negatively impacted by developer 
 deals which used the creative sector to get deals done, but then ignored the 
 creative community’s needs during their start-up phase. While the Waldorf is 
@@ -270,7 +270,7 @@ For more information please visit our website www.front.bc.ca
 ------------------------------------------------------------------------
 Wil Aballe Art Projects presents
 Sean Weisgerber: After I Shed My Skin
-January 17, 2013 â€“ March 9, 2013
+January 17, 2013 – March 9, 2013
 Opening: Thursday,January 17th, 7-9:30 p.m. The artist will be in attendance.
 
 Wil Aballe Art Projects is proud to present a solo exhibition of current work by
@@ -279,22 +279,22 @@ Carr University of Art + Design in 2009, Weisgerber has produced a body of
 work in which specific modalities of abstract painting have articulated a
 singular fascination with the relationship between colour, form, material and
 perception. Typically, his paintings have been defined by opaque colours
-bounded by hard edges â€“ an uncanny painterly dialect wherein human touch
+bounded by hard edges – an uncanny painterly dialect wherein human touch
 is modulated by a sense of the mechanical.
 
-This exhibition sees Weisgerberâ€™s works move away from precision 
+This exhibition sees Weisgerber’s works move away from precision 
 execution,
 and the subject matter of abstraction and perception, with the mechanical
 appearing less in the character of the objects presented than in the process of
 their making. Here, we see stalactites of latex paint, frozen in mid-drip, and
 suspended from the weave of stretched burlap and wool. Antiseptic chains
-supporting these objects insinuate their origin in a mechanical process â€“ 
+supporting these objects insinuate their origin in a mechanical process – 
 the
 repeated immersion of a surface in paint, leading to the development of
 factures exaggerated, and drawn into grotesque realms.
 
 In other works, the fractalization of colour that once appeared on the surface
-of canvas now appears in a radiating eruption on the galleristâ€™s living room
+of canvas now appears in a radiating eruption on the gallerist’s living room
 wall. And while this storm of pigment does not capitulate to the bounds of
 hard-edged shapes, its chromatic beauty nevertheless does its work within
 geometric architectural boundaries.
@@ -431,7 +431,7 @@ first exhibitions in Canada of German artists Anna Oppermann and Marianne
 Wex, respectively.
 
 Anna Oppermann (1940-1993) was active during the 1970s and ‘80s. She is 
-best known for her â€œensemblesâ€ , fragmented assemblages of photographs, 
+best known for her “ensembles” , fragmented assemblages of photographs, 
 paper scraps, notes, drawings, photographic canvases and objects, often 
 displayed on and around low, altar-like podiums.
 
@@ -564,27 +564,27 @@ $20 at the door
 
 The Commons is thrilled to present an intimate evening with French Canadian
 composer Linda Bouchard. Immersed in collaboration with visual artists,
-Bouchardâ€™s recent work utilizes digital samples, extended and 
+Bouchard’s recent work utilizes digital samples, extended and 
 manipulated,
 which are drawn from and respond to projected images. Her atmospheric
-project â€œseek(s) to express emotional experiences in their most raw form,
+project “seek(s) to express emotional experiences in their most raw form,
 without a literal or narrative setting. Like a collage of different perceptions that
 eventually forms a whole picture, I attempt to create a world from "real time"
 experience: reconstructing an imagined emotional event that unfolds in a
-compressed time frame.â€ This is the second in series of solo performances
-organized by FranÃ§ois Houle.
+compressed time frame.” This is the second in series of solo performances
+organized by François Houle.
 
 Linda Bouchard will present four recent works, all Canadian Premiers. In
 Unspoken, 2013, a collaboration with video artists David and Hi-Jin Hodge,
 Bouchard used manipulated samples of a previous composition called
-"L'Ã©chapppÃ©e d'ailes" (a flock of wings escaping) for gamelan orchestra to
+"L'échapppée d'ailes" (a flock of wings escaping) for gamelan orchestra to
 create a meditative, ever changing sonic environment that is shaped around
 the breathing of Hodge's diverse subjects pictured in 15 second video
 portraits. Sonic Forecast, 2009, is a Film by Luis Maurette (Buenos Aires)
 with live score inspired by the Myanmar (Burmese) anti-government protests
 led by students and Buddhist Monks in September 2007. Also present will be
 a World Premiere of Black Ice with projected image by Eliane Duval and Low
-Wind, an improvisation with FranÃ§ois Houle joining Bouchardâ€™s live 
+Wind, an improvisation with François Houle joining Bouchard’s live 
 electronics
 on clarinet.
 
@@ -597,15 +597,15 @@ the Princeton Composition Contest, the Indiana State Competition, the
 National Association of Composers USA Contest and a Fromm Foundation
 Award from Harvard University. Linda was a Fellow at the Rockefeller
 Foundation in Bellagio and at the Civitella Ranieri in Italy. In June 2001, she
-was invited to participate at IRCAMâ€™s â€œStage dâ€™Informatique 
-Musicaleâ€ in Paris
+was invited to participate at IRCAM’s “Stage d’Informatique 
+Musicale” in Paris
 and became very interested in pursuing exploration with new technologies. In
 the fall 2005, she founded NEXMAP: New Experimental Music and
 Performance, a non-profit arts organization of which she is Artistic Director.
 
 Linda Bouchard
 Sat Jan 19, 8pm
-organized by FranÃ§ois Houle
+organized by François Houle
 119B E Pender St
 $20 at the door, seating is very limited for this intimate, one night only event
 
@@ -622,7 +622,7 @@ January 19, 2013, 7pm, Unit/Pitt, 15 E Pender St, Vancouver
 Join UNIT/PITT Projects Saturday, January 19 (2013) for GRAY Publication’s 
 first issue launch party and fundraiser.
 
-Issue one focuses on â€œemergenceâ€ : presenting visual and text-based works 
+Issue one focuses on “emergence” : presenting visual and text-based works 
 from Soledad Muñoz, Jules Francisco, professor Caroline Bellios of the 
 School of the Art Institute of Chicago, and Alexander McQueen Savile Row.
 
@@ -670,11 +670,11 @@ The Paintings of Ruth Killam Massey
 January 16 – February 23, 2013
 
 Like the edge of a shadow, which Ruth Massey referred to as being “so 
-eloquent,â€  Masseyâ€™s paintings express the ever-changing mood of the coastal 
+eloquent,”  Massey’s paintings express the ever-changing mood of the coastal 
 landscape, using a distinct colour pallet and soft-edged brushwork. Hernando 
 Island, where she had a summer home, was a favourite muse of Massey’s 
 and this is one place where her view that “the expression of mood in nature 
-through its slate of vibrant inter-relationshipsâ€  could be explored on the 
+through its slate of vibrant inter-relationships”  could be explored on the 
 boundary between the sea and shore and the hillside and forest. Massey 
 framed views of the ocean through piles of driftwood and windswept grasses 
 and at times, turned her perspective inland to capture the interplay of light and 
@@ -800,7 +800,7 @@ Total running time: approx. 83 mins.
 This program was curated by graduate students at the University of British 
 Columbia in a seminar, led by John O’Brian of the Department of Art History, 
 Visual Art, and Theory, titled “Surveillance, Voyeurism, Criminality, and 
-Photography.â€  Participants included Vikki Addona, Kate Henderson, Jeremy 
+Photography.”  Participants included Vikki Addona, Kate Henderson, Jeremy 
 Jaud, Kyoung Yong Lee, Dana Loughlin, Vanessa Parent, Robin Simpson, 
 Sofia Stalner, Shalini Vanan, Stephen Wichuk, and Jayne Wilkinson.
 
@@ -972,7 +972,7 @@ CRYPTIC KNOWLEDGE PRINTED, SIGNED, EDITIONED AND SOLD.
 SATELLITES CHANGE REPTILIAN PATTERNS
 
 LUMINOUS STORMS NAVIGATE BY PASSIVE STEALTH SINCE THE 
-BIRTH OF EDENâ€ 
+BIRTH OF EDEN” 
 
 Featuring performances by Luciana D'Anunciação, Lauren Marsden and Liz 
 Knox
@@ -1019,7 +1019,7 @@ John’s work, through photography.
 Paul Lang is a local artist who has been working in and with artists groups for 
 25 years. He has been the silent observer of this unique friendship for many 
 years. Paul will be compiling a series of video clips that documents John’s 
-process and will be contributing to this collaboration through as a â€œwitnessâ€  to 
+process and will be contributing to this collaboration through as a “witness”  to 
 John and Skylar’s photo conversation.
 
 Before I'm Done is the first in a series of new works commissioned by 

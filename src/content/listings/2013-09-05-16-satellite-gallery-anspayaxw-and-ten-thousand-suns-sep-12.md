@@ -36,7 +36,7 @@ document, preserve, and revitalize endangered languages.
 
 John Wynne's practice includes large-scale sound installations in galleries 
 and public spaces, photographs that produce sound, and “composed 
-documentariesâ€  that explore the boundaries between documentation and 
+documentaries”  that explore the boundaries between documentation and 
 abstraction. 
 
 Curated by Karen Duffek, Curator of Contemporary Visual Arts & Pacific 

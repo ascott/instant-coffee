@@ -47,8 +47,8 @@ the region to respond to the exhibition.
 
 Renowned architectural historian Beatriz Colomina is the Professor of
 Architecture and founding Director of the Media in Modernity program at
-Princeton UniversityÃ&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½s School of Architecture. From
-ColominaÃ&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½s numerous
+Princeton UniversityÃ&#65533;Â¢ïÂ¿Â½ïÂ¿Â½s School of Architecture. From
+ColominaÃ&#65533;Â¢ïÂ¿Â½ïÂ¿Â½s numerous
 publications, her most recent, Domesticity at War, was published by ACTAR:
 Barcelona and MIT Press (2007).
 
@@ -84,7 +84,7 @@ grateful for the support of The Andy Warhol Foundation for the Visual Arts,
 Vancouver Foundation and our members, donors and volunteers.
 
 Contemporary Art Gallery, 555 Nelson Street, Vancouver, BC, V6B 6R5, Canada
-www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½ 6 pm.
+www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½ 6 pm.
 Admission is free by donation.
 
 For more information please contact: info@contemporaryartgallery.ca or

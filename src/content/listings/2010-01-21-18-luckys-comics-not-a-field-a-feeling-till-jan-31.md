@@ -44,8 +44,8 @@ makes these objects what they are, within a mapping strategy that could be
 best described as obscure.
 
 Further reading
-George Baker. â€œPhotographyâ€™s Expanded Field,â€  October 114, (Fall 2005): 120-140
-Rosalind Krauss. â€œSculpture in the Expanded Field.â€  In The Anti-Aesthetic:
+George Baker. “Photography’s Expanded Field,”  October 114, (Fall 2005): 120-140
+Rosalind Krauss. “Sculpture in the Expanded Field.”  In The Anti-Aesthetic:
 Essays on Post-Modern Culture. Ed. Hal Foster. New York: The New Press, 1998.
 
 Curated by Francesca Bennett.

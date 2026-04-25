@@ -23,12 +23,12 @@ Join us at Black & Yellow Gallery for the exhibition and book launch for
 Switcheroo, a photography project by Hana Pesut aka Sincerely Hana.
 
 Switcheroo is a dual portrait series where accomplices are photographed
-twice, once in their own outfits and again wearing each othersâ�� outfits
+twice, once in their own outfits and again wearing each others’ outfits
 against the same background.
 
 Hana Pesut (aka Sincerely Hana) is a self-taught photographer raised in a
 small town in the mountains and currently living in Vancouver, Canada. Her
-main focus in photography is the â��little momentsâ�� that people sometimes
+main focus in photography is the ’little moments’ that people sometimes
 miss and later wish they had captured. She hopes to inspire others to take
 more photos in their daily lives.
 

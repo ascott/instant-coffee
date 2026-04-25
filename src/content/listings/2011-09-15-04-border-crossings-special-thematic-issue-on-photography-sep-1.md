@@ -27,7 +27,7 @@ Wearing discusses masking the exterior to uncover internal truths,
 identifying the universal among the anonymous, and finding her own voice in
 the stories of strangers.
 
-â€œI say those moments fit like the fist fits the eye,â€  remarks the acclaimed
+“I say those moments fit like the fist fits the eye,”  remarks the acclaimed
 Vancouver-based photographer Fred Herzog, speaking to Border Crossings
 about sixty years of capturing serendipity through the vibrant realism of
 colour photography.
@@ -44,31 +44,31 @@ taking a captured past into a technological future.
 
 ARTICLES
 Stephen Horne explores Lynne Cohen’s photographed interiors, discovering in
-them the intriguing tension of â€œstage sets waiting for an action to begin.â€ 
+them the intriguing tension of “stage sets waiting for an action to begin.” 
 
 Daniel Baird assays the continuum of self, as embodied, and expanded, by
 Suzy Lake in her experiments in self-portraiture.
 
 And Lee Henderson follows the flux in Evan Lee’s photoconceptual work and
 in his approach to new technologies: “Seen through his artwork, the changes
-to photography are all liberations.â€ 
+to photography are all liberations.” 
 
 ALSO IN THIS ISSUE:
-PHOTO PORTFOLIO by Jessica Eaton in her â€œCubes for Albers and Lewittâ€  series.
+PHOTO PORTFOLIO by Jessica Eaton in her “Cubes for Albers and Lewitt”  series.
 
 BORDERVIEWS on the mysteriously prolific and previously unseen work of
 Vivian Maier; Sarah Anne Johnson’s playful, timely and provocative “Arctic
-Wonderlandâ€ ; the â€œedgy brightnessâ€  of Steve Ackermanâ€™s black-and-white
+Wonderland” ; the “edgy brightness”  of Steve Ackerman’s black-and-white
 photography; and the merging of stellar and cellular in Andrew Wright’s
-â€œCoronaeâ€  series.
+“Coronae”  series.
 
 And our extensive CROSSOVERS section, with reviews of recent exhibitions of
 Stan Douglas, Rodney Graham and Tacita Dean, Anna von Gwinner and Markus
 Schädel, Kent Monkman, Davida Nemeroff, Guillermo Trejo, Elspeth Pratt,
 Susan Feindel, The Otolith Group, Thomas Hirschhorn and Iñigo
-Manglano-Ovalle, the Venice Biennale, Donigan Cumming, â€œThe Durable Idiomâ€ ,
+Manglano-Ovalle, the Venice Biennale, Donigan Cumming, “The Durable Idiom” ,
 Allison Schulnik, Jessica Groome, Anri Sala, “Voices of Fire: toward a post
-Postmodern theory of Abstractionâ€ , and Gordon Lebredt: Nonworks.
+Postmodern theory of Abstraction” , and Gordon Lebredt: Nonworks.
 
 Border Crossings is a quarterly cultural magazine published in Winnipeg.
 Its subject is contemporary Canadian and international art and culture,

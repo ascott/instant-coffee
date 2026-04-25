@@ -30,7 +30,7 @@ exhibition: a pioneer of experimentation with photography, the artist forms
 a central argument and invites contemporary counterparts to re-interpret and
 further his project, questioning the meaning of making abstract images and
 the possibilities of the medium. Markus Amm, Walead Beshty, Liz Deschenes
-and James Welling present a selection of photograms â�� images that
+and James Welling present a selection of photograms ’ images that
 incorporate the camera-less, negative-less photographic process, while Lorna
 Macintyre and Mark Soo invite us to look at their photographic practice as
 simultaneously abstract and representational constructions that have
@@ -49,7 +49,7 @@ included in the Triumph of Painting 4: Germania opening in 2007 at the
 Saatchi Gallery, London, England. Amm lives and works in London, UK.
 
 Walead Beshty (b. 1976, London, UK) is an Associate Professor
-in the Graduate Art Department of Art Center College of Design. Beshtyâ��s
+in the Graduate Art Department of Art Center College of Design. Beshty’s
 work has exhibited internationally with solo exhibitions at Thomas Dane
 Gallery, London; The Hirshhorn Museum and Sculpture Garden, Washington; The
 University of Michigan Museum of Art, Ann Arbor; LAXART, Los Angeles;
@@ -69,16 +69,16 @@ the Fall of 2010 monographs of his work are due out on JRP/Ringier and
 Damiani. He lives and works in Los Angeles, CA.
 
 Liz Deschenes (born 1966, Boston, MA) has recently had an exhibition at the
-â��Modern Wing Inaugural Installation of Contemporary Photograph,â�� curated by
+’Modern Wing Inaugural Installation of Contemporary Photograph,’ curated by
 Matthew Witkovski, at The Art Institute of Chicago. Deschenes was also
-included in â��Color Chartâ�� at the Museum of Modern Art, New York and was
-featured in the exhibition â��Photography on Photography: Reflections on the
-Medium since 1960â�� at the Metropolitan Museum of Art. She has had solo
+included in ’Color Chart’ at the Museum of Modern Art, New York and was
+featured in the exhibition ’Photography on Photography: Reflections on the
+Medium since 1960’ at the Metropolitan Museum of Art. She has had solo
 exhibitions at Miguel Abreu Gallery, New York, Sutton Lane, London, and
 participated in group shows at Luhring Augustine Gallery, New York and
 Sutton Lane, Paris. Deschenes teaches at Bennington College, and is a
 visiting artist at Columbia University, School of Visual Arts. Her work was
-recently featured in â��Blind Spotâ��#36 and is in the permanent collections of
+recently featured in ’Blind Spot’#36 and is in the permanent collections of
 the Whitney Museum of American Art, The Metropolitan Museum of Art, The Art
 Institute of Chicago, the Hirshhorn Museum and Sculpture Garden, and the CCS
 Bard Hessel Museum in Annandale-on-Hudson, New York. Deschenes lives and

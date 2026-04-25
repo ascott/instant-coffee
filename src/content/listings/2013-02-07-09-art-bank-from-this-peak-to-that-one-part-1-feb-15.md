@@ -78,7 +78,7 @@ she has completed an artist residency at Gamlí Skolí in Hrísey, Iceland, and
 been a part of group and solo shows around Vancouver, B.C. Her work 
 explores relationships between identity and place. Born and raised in the 
 suburbs of Vancouver, her work seeks to intervene in the broader notion of 
-â€œlandscapeâ€  in the cities and the surrounding natural areas she finds herself 
+“landscape”  in the cities and the surrounding natural areas she finds herself 
 in.
 
 www.liztoohey-wiese.com

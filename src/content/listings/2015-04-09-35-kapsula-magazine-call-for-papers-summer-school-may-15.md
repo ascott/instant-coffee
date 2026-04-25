@@ -20,7 +20,7 @@ should we make any?
 
 To begin our third volume, KAPSULA wipes the chalkboard clean. We don’t
 have a lesson plan for you, so think of this call as “self-directed
-learning.â€  There are no suggested subject matters or formats. We're handing
+learning.”  There are no suggested subject matters or formats. We're handing
 over carte blanche, though we’re not retiring our red pen completely. The
 only stipulation is that we ask all submissions to somehow reflect on our
 publishing history and call upon themes explored in the early days of the

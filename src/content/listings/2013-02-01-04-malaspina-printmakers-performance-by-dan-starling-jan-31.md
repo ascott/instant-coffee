@@ -20,12 +20,12 @@ Rhyme.
 Dan Starling's solo exhibition takes Charlie and the Chocolate Factory, the 
 popular children’s book written by Roald Dahl in 1964 as it's starting point. 
 Dahl was criticized for his racist characterization of the workers in the 
-chocolate factory of the book as â€œpygmies from Africa.â€  In the subsequent 
+chocolate factory of the book as “pygmies from Africa.”  In the subsequent 
 edition, he chose to refer to them instead as the “Oompa-loompas from 
-Oompaloompaland.â€  Starling chose to redraw all the original illustrations from 
+Oompaloompaland.”  Starling chose to redraw all the original illustrations from 
 the second edition using drypoint and then produce a series of subsequent 
 alterations to the images that call attention to this history as a kind of “return 
-of the repressed.â€  Working in drypoint and etching, a new medium for Starling, 
+of the repressed.”  Working in drypoint and etching, a new medium for Starling, 
 the final project will encompass four new books showing this evolution as it 
 progresses.
 

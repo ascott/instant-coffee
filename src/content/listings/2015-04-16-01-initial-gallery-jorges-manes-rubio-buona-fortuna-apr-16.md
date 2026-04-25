@@ -16,7 +16,7 @@ Opening reception:
 Thursday April 16, 6-9 pm
 
 In his new work Buona Fortuna, Rubio transports us to the mountains of the
-â€œParco Nazionale del Cilentoâ€  in the south of Italy, where several isolated
+“Parco Nazionale del Cilento”  in the south of Italy, where several isolated
 villages were abandoned after a series of devastating earthquakes and
 landslides. Hidden among these ruins, and despite all the decay and
 destruction, several churches and chapels reveal themselves in all their

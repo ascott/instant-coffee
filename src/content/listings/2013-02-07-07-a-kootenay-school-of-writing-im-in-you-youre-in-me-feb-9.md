@@ -31,7 +31,7 @@ Kootenay School of Writing
 *
 
 bill bissett. “we suspekt each othr uv knowing how to spell th word 
-informashun.â€  Sailor. (Talon Books, 1978).
+informashun.”  Sailor. (Talon Books, 1978).
 
 aftr i didnt want to see th
 moovee on tv abt fall out sheltrs nd th 11
@@ -112,7 +112,7 @@ But nothing to put in
 The man and the woman said to the clevver looking bloak, ‘Do you know 
 how to make fire?’
 The clevver looking bloak said, ‘O yes if I know any thing I know that right a 
-nuff. Fires my middl name you myt say.â€ 
+nuff. Fires my middl name you myt say.” 
 The man and the woman said, ‘Wud you make a littl fire then weare 
 freazing of the col.’
 The clevver looking bloak said, ‘That for you and what for me?’
@@ -134,7 +134,7 @@ itwl come back [...]
 
 *
 
-Dorothy Lusk. â€œOral Tragedy.â€  Oral Tragedy. (Tsunami Editions, 1988).
+Dorothy Lusk. “Oral Tragedy.”  Oral Tragedy. (Tsunami Editions, 1988).
 
 Ordinance ‘distanced’ thus, called ‘desire’ – ‘I’ pass out eventually. Often
 this caught too once smothered discord.

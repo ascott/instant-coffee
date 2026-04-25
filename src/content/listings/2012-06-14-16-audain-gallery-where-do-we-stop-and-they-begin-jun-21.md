@@ -41,7 +41,7 @@ adequate computer literacy to design machines that are capable of
 making creative decisions.
 
 Stemming from a long tradition of generative and process-based art, 
-â€œWhere do we stop and they begin?â€  presents audio, video, robotics, 
+“Where do we stop and they begin?”  presents audio, video, robotics, 
 interactive installation and print pieces by a selection of Vancouver-
 based artists for which machines were part of the creative process. We 
 invite you to come explore and question the idea of machine creativity.

@@ -88,13 +88,13 @@ states of human affect as tradable commodities, "investing" in emotions
 such as anger, joy, disgust and amazement. It then links these emotions
 with actual stocks to make investments using a simulated brokerage account.
 
-Andres Wannerâ€™s Signature Strokes is a series of performative interventions
+Andres Wanner’s Signature Strokes is a series of performative interventions
 in which a remotely controlled drone paints ephemeral graffiti in public
-space. The title is a play on signature strikesÃ¢â‚¬â€ drone killings based on
+space. The title is a play on signature strikesââ‚¬” drone killings based on
 suspicious behavioural patterns thought to be signatures of terrorists.
 
 Taking up notions of fragments and nostalgia, By the Road is a sound
-sculpture created by BjÃ¸rn Erik Haugen. The soundtracks consist of the
+sculpture created by Bjørn Erik Haugen. The soundtracks consist of the
 sound from car chases in famous movies translated into death metal music.
 
 During the evening, FUSE-goers can also see the following exhibitions:

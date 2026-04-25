@@ -32,11 +32,11 @@ Thursday June 14th: "An Evening with Robert Ashley" a talk by Will
 Holder, 8 pm
 
 Friday, June 15th: Performance of Robert Ashley’s “The 
-Entranceâ€ (1966)
+Entrance” (1966)
 by Julia Feyrer & Will Holder 8 pm
 
-Saturday June 16th: Recital of â€œYes, But Is It Edible?â€  (1999) by Will
-Holder & playback of â€œPillarsâ€  (2007) etc. 8 pm
+Saturday June 16th: Recital of “Yes, But Is It Edible?”  (1999) by Will
+Holder & playback of “Pillars”  (2007) etc. 8 pm
 
 All events at: Western Front | 303 East 8th Avenue | contact:
 exhibitions@front.bc.ca

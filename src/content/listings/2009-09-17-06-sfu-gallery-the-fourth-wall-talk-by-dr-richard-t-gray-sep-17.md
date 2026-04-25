@@ -16,7 +16,7 @@ Thursday September 17, SFU Vancouver campus (515 W. Hastings), 7PM in Room 7000.
 event is free and open to the public.
 
 This is the final event associated with the SFU Gallery’s recent exhibition “The Insurance Man: Kafka 
-in the Penal Colonyâ€ .
+in the Penal Colony” .
 The talk is co-sponsored by the SFU Gallery and the SFU Institute of the Humanities.
 
 Richard T. Gray is the Byron W. and Alice L. Lockwood Professor in the Humanities at the University 

@@ -64,7 +64,7 @@ Reading the Kootenay School of Writing, which looks at contemporary
 poetics via Lacanian psychoanalysis. He often writes about visual art, 
 and with Lorna Brown was co-curator of the Digital Natives project 
 (2011), a public art installation on the electronic billboard on 
-Sḵwx̱wÃº7mesh territory next to the Burrard Street bridge in Vancouver. 
+Sḵwx̱wú7mesh territory next to the Burrard Street bridge in Vancouver. 
 He can be followed on twitter @Prof_Clinty.
 
 Stephen Collis is the author of four books of poetry, the most recent of 

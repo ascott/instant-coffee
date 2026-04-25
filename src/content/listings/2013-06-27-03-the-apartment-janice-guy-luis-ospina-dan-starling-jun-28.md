@@ -40,7 +40,7 @@ overwhelmed with feeling she likewise reveals the camera’s inability to
 articulate any subjective narrative of her dark something.
 
 Janice Guy’s rare vintage prints first resurfaced in 2007 in the exhibition “Early 
-Workâ€  organized by White Columns, the artist Marilyn Minter, and curator 
+Work”  organized by White Columns, the artist Marilyn Minter, and curator 
 Fabienne Stephan. Guy has received critical acclaim for these photo works, 
 presenting a solo exhibition at White Columns and included in group shows at 
 the Metropolitan Museum, New York, Galerie Mezzanin Vienna, and 
@@ -64,12 +64,12 @@ place during the 1970s by European filmmakers who made films in Latin
 American countries that in effect propagated a problematic stereotype of third 
 world deprivation abroad. In the film a team of parasitic filmmakers (one of 
 whom is played by Mayolo) descend upon the city of Cali hunting for 
-quintessential images of abject poverty. For their â€œdocumentaryâ€  
+quintessential images of abject poverty. For their “documentary”  
 commissioned by German TV they have a laundry list of beggars, prostitutes, 
 homeless children, and various marginalized urban stereotypes that they seek 
 out in the city streets, and even in certain instances invent. With a brilliant 
 use of sardonic humor, their colonizing gaze is formally realized in a film 
-within the film; black-and-white footage documents the â€œvampiricâ€  filmmakers 
+within the film; black-and-white footage documents the “vampiric”  filmmakers 
 as they capture full color images of their objectified subjects.
 
 Luis Ospina studied at the School of Cinematic Arts of the University of 

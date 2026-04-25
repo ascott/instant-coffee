@@ -50,5 +50,5 @@ Blaine Campbell
 
 * Tel. 604.688.0051
 * Fax 604.685.1912
-* Tuesday â�� Saturday, 12-5pm
+* Tuesday ’ Saturday, 12-5pm
 * Admission is free

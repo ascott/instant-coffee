@@ -8,7 +8,7 @@ venue: "The Blank Tank Gallery"
 summary: "The Blank Tank Gallery | BECAUSE WE ARE HUMAN - Majid Sheikhakbari | JUN 26"
 ---
 
-"Let the beauty of what you love be what you do.â€  (Rumi)
+"Let the beauty of what you love be what you do.”  (Rumi)
 
 BECAUSE WE ARE HUMAN
 Majid Sheikhakbari

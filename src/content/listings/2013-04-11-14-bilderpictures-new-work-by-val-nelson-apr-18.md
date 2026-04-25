@@ -39,7 +39,7 @@ move away from what she thought it was about (the subject), to
 something that only paint can say. “I’m interested in painting something 
 you can recognize, but I need to allow for the flaws and sometimes 
 awkward passages; that opens up the possibility for more interesting 
-things to happen. â€ 
+things to happen. ” 
 
 An honors graduate of Media Arts at Emily Carr College of Art + 
 Design, at the age of twenty-eight Nelson received the Helen Pitt 

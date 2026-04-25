@@ -10,7 +10,7 @@ summary: "SFU Gallery | Antonia Hirsch: Negative Space | SEP 6"
 
 Antonia Hirsch: Negative Space
 
-September 6 â€“ December 13, 2014
+September 6 – December 13, 2014
 
 SFU Gallery, AQ3004, Simon Fraser University, Burnaby BC
 
@@ -32,11 +32,11 @@ installation includes images and objects that span from astronomy to
 contemporary mobile devices as points of departure to address a complex
 network of speculative ideas. The exhibition's exploration of seeing and
 believing manifests in evocations of outer space and devices such as the
-Claude glass (or black mirror)â€“used by 18th and 19th century landscape
+Claude glass (or black mirror)–used by 18th and 19th century landscape
 painters “that simultaneously pull the user into an interior world while
 projecting worlds away. Taking up a history of reflection, Negative Space
 sets forth inquiries into the contexts of technology, philosophy and
-creative practice, questioning how we and our devicesâ€“both historical and
+creative practice, questioning how we and our devices–both historical and
 present day “favor the image over the real
 
 Hirsch is a Berlin based artist, writer and editor. Her work has been

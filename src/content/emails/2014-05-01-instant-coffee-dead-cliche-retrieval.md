@@ -213,7 +213,7 @@ UBCs Museum of Anthropology - 6393 NW Marine Drive
 Presented by UBC's Museum of Anthropology, Without Masks:
 Contemporary Afro-Cuban Art features over 80 Afro-Cuban artworks
 collected by Chris and Marina von Christierson. Curated by Cuban poet,
-art critic and curator Orlando HernÃ¡ndez, the exhibition was first shown at
+art critic and curator Orlando Hernández, the exhibition was first shown at
 the Johannesberg Art Gallery. It explores the ties that link the histories
 and cultures of Cuba and Africa, and includes works that reflect
 controversial and conflicting aspects of the Cuban national reality that
@@ -607,7 +607,7 @@ W: www.sfugalleries.ca
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2014-05-01-10-back-gallery-project-noah-becker-may-8">10. Back Gallery Project | Noah Becker | MAY 8</a>
 ------------------------------------------------------------------------
-â€œFor Men Who Appreciate Historyâ€  New Exhibition at the Back Gallery Project
+“For Men Who Appreciate History”  New Exhibition at the Back Gallery Project
 Vancouver, BC - - Back Gallery Project is pleased to announce an exhibition 
 of oil paintings by Victoria-born, New York-based artist Noah Becker. This 
 exhibition, entitled For Men Who Appreciate History, opens May 8 with a 
@@ -617,7 +617,7 @@ Gallery Project.
 Noah Becker’s interest in masterworks from different art historical periods is 
 the foundation upon which he has built bold and ordered compositions. His 
 work questions the contemporary relevance of portraiture in the age of digital 
-photography and the ubiquitous â€œselfieâ€  picture that we have come to 
+photography and the ubiquitous “selfie”  picture that we have come to 
 embrace as an inherent visual component of life in the twenty-first century by 
 remixing figures from Renaissance and 19th century canonical works as well 
 as advertisements from the 1960s and 70s with contemporary celebrity and 
@@ -630,7 +630,7 @@ is Now, curated by Kathleen Ritter at the Vancouver Art Gallery in 2009. He
 has three upcoming museum exhibitions in 2014, including the Art Gallery of 
 Greater Victoria, the Domus Artium Museum in Salamanca, Spain and the 
 Rochester New Hampshire Museum of Fine Arts. Becker was was included 
-in NY Arts Magazine's â€œ30 Artists to Watch in 2012â€  list and was a semi-
+in NY Arts Magazine's “30 Artists to Watch in 2012”  list and was a semi-
 finalist in the RBC Canadian Painting Competition in 2009. A jazz saxophonist 
 and the founding editor of Whitehot Magazine, Becker produced a 
 documentary on contemporary art and artists in New York in 2011 called 
@@ -753,7 +753,7 @@ occult. Please join us for the opening reception Friday, May 9, 2014 8pm -
 11pm. The artist will also be present during the event. 
 
 “Unsubstantiated claims of bizarre behavior that are difficult to prove or 
-disproveâ€ 
+disprove” 
 - Kenneth V Lanning, Special Agent for the FBI Behavioral Science Unit 
 (1992)
 Intense feelings erupted all over North America in the early 1980s that 
@@ -765,7 +765,7 @@ The initial investigations into SRA were conducted by anthropologists and
 sociologists, who failed to find evidence of SRA actually occurring; instead 
 they concluded that SRA was a result of rumors and folk legends that were 
 spread by “media hype, Christian fundamentalism, mental health and law 
-enforcement professionals and child abuse advocatesâ€  (The Dilemma of 
+enforcement professionals and child abuse advocates”  (The Dilemma of 
 Ritual Abuse: Cautions and Guides for Therapists. Fraser, GA - 1997). 
 Nonetheless Satanic Ritual Abuse became a moral panic that seemed to 
 distort normal childhood fears and fantasies into a so-called crime epidemic 
@@ -804,7 +804,7 @@ info@dynamoarts.org
 ------------------------------------------------------------------------
 The Plaskett Award Ten Years, Announcement, Exhibition and Symposium
 
-The exhibition â€œPlaskett Award Ten Yearsâ€  will open Friday May 9. The 
+The exhibition “Plaskett Award Ten Years”  will open Friday May 9. The 
 Joseph Plaskett Award for 2014 will be presented to Collin Johanson during 
 the exhibition opening, which will be held from 6:30-9:00pm at EQUINOX 
 Gallery, 525 Great Northern Way.
@@ -817,7 +817,7 @@ and Mark Neufeld (2004). Johanson graduated from Emily Carr University in
 $25,000 Joseph Plaskett Award holder. The Joseph Plaskett Foundation is 
 grateful to the Equinox Gallery. The exhibition runs to May 17.
 
-The Symposium â€œPainting/Position/Placeâ€  will be held the next day, on 
+The Symposium “Painting/Position/Place”  will be held the next day, on 
 Saturday, May 10 from 1:00 to 4:00 pm at Emily Carr University of Art + 
 Design on Granville Island (Room NB 245). Concurrent with the Grad Show, 
 the symposium brings together eight artists and two writer-curators to 

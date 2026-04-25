@@ -67,7 +67,7 @@ left the oven on. A sensation I feel some duty to report as I am referring to
 the fact that Avenue was once a pizza parlour. I rushed into the larger room 
 to find a studio mate sitting beneath his light, listening in full blast to an 
 album called New History Warfare by Colin Stetson. “This, is mixing with 
-that?â€  Against the sound coming from the boom box my friend could of only 
+that?”  Against the sound coming from the boom box my friend could of only 
 seen a mouthed statement along with a few giggly arm gestures directed at 
 the Balmoral, it probably looked as though I was dancing, raving towards 
 the wall, and at that moment, with my headphones off these moves were 

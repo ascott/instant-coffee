@@ -34,7 +34,7 @@ Andy Yan is a Vancouver-raised, UCLA-trained urban planner who works
 as a researcher for Bing Thom Architects and teaches at UBC. He will talk 
 about his research in real estate speculation and non-resident real estate 
 ownership and its effect on community, contributing to what he terms an 
-â€œinsecurity of belongingâ€ .
+“insecurity of belonging” .
 
 The evening’s program will also include a talk on taste and cultural space by 
 Gerry Shikatani, whose poetry, fiction, text-sound performance, and 

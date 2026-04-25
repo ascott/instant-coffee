@@ -84,7 +84,7 @@ sequences, the artwork questions how the digital format might reconfigure
 the experience of a public space and the public figure of Mao Zedong.
 
 Scott Kildall’s internet art and sculpture EquityBot treats twenty-four
-states of human affect as tradable commodities, â€œinvestingâ€  in emotions
+states of human affect as tradable commodities, “investing”  in emotions
 such as anger, joy, disgust and amazement. It then links these emotions
 with actual stocks to make investments using a simulated brokerage account.
 

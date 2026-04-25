@@ -89,7 +89,7 @@ Keren Cytter, Four Seasons, 2009, DVD, duration 12:00
 Tarje Eikanger Gullaksen, Unfinished Symphony, 2009, DVD, duration 19:00
 Eliza Newman-Saul, Nothing Will Come of Nothing, 2009, DVD, duration 9:24
 Chto Delat/What is to be done?, Partisan Songspiel, 2009, DVD, duration 29:00
-Isabelle Cornaro, Premier rÃ©ve d'Oskar Fischinger, 2008, DVD, duration 1:41
+Isabelle Cornaro, Premier réve d'Oskar Fischinger, 2008, DVD, duration 1:41
 and 1:33
 Susan Hiller, The Last Silent Movie, 2007, DVD, duration 20:00
 
@@ -118,7 +118,7 @@ City of Vancouver, and donors.
 
 * Tel. 604.688.0051
 * Fax 604.685.1912
-* Tuesday â€“ Saturday, 12-5pm
+* Tuesday – Saturday, 12-5pm
 * Admission is free
 
 If you no longer wish to receive these emails click HERE to uns
@@ -425,7 +425,7 @@ By SkyTrain – take the Expo Line, get off at Surrey Central Station, and
 catch the 321 bus to 88 Avenue.
 
 By Car - Directions are available at www.arts.surrey.ca – click “Surrey Art
-Galleryâ€ , â€œAbout the Galleryâ€ , and â€œVisitor Infoâ€ .
+Gallery” , “About the Gallery” , and “Visitor Info” .
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2009-11-19-06-w2-perel-gallery-respondencywest-a-literary-salon-nov-19">06. W2 Perel Gallery | RespondencyWest* – A Literary Salon | NOV 19</a>
@@ -513,13 +513,13 @@ currently the writer-in-residence at Green College, UBC.
 Stephen Collis is the author of four books of poetry, Mine (New Star 2001),
 Anarchive (New Star 2005), which was nominated for the Dorothy Livesay
 Poetry Prize, The Commons (Talonbooks 2008)—the latter two form parts of
-the on-going â€œBarricades Projectâ€ â€”and On the Material (Talonbooks 2010). He
+the on-going “Barricades Project” —and On the Material (Talonbooks 2010). He
 is also the author of two book-length studies, Phyllis Webb and the Common
 Good (Talonbooks 2007) and Through Words of Others: Susan Howe and
 Anarcho-Scholasticism (ELS Editions 2006). He is currently editing a
 collection of essays, Reading Duncan Reading, organizing the Charles Olson
 Centenary Conference (June 4-6 2010), and continuing to work on “The
-Barricades Project.â€  A member of the Kootenay School of Writing, he teaches
+Barricades Project.”  A member of the Kootenay School of Writing, he teaches
 American literature, poetry, and poetics at Simon Fraser University.
 
 >>> send your poetry, poetics and contemporary arts listings to
@@ -622,14 +622,14 @@ amalgamations of inter subjective perspective visualize reality as an
 artifact of communication.
 
 "In Edia, entities make and break connections apparently at will,
-paralleling and modeling packet communication - and in Edia â€“ this
+paralleling and modeling packet communication - and in Edia – this
 system is raised to the level of sentience, for Edia is organic, an
 organism or swarm-organism itself. Part of the brilliance of the work
 is its 'unclarity' - in the same way that Marcel Duchamp's or David
 Askevold's texts are 'unclear' - for what text could possibly express
 intensification, chaotic zones, and strange attractors, combined with
 Alfred Schutz's relevance theory, or Peter Berger's packets of
-modernization..." Ã¢â‚¬â€  Alan Sondheim, Vortext
+modernization..." ââ‚¬”  Alan Sondheim, Vortext
 
 Willy Le Maitre has created media art works since 1988. He has been
 oriented to video as a live form that has served as a pivot point in
@@ -705,7 +705,7 @@ University (2004) and was a researcher in visual art at the Jan Van Eyck
 Academie in Maastricht, The Netherlands (2005-2007). He has shown
 extensively both nationally and internationally, including exhibitions at
 the Doulun Museum of Modern Art, Shanghai; The Power Plant, Toronto; PS1
-Contemporary Art Centre, New York; and the 5th Biennale de MontrÃ©al.
+Contemporary Art Centre, New York; and the 5th Biennale de Montréal.
 Upcoming projects include a solo presentation at the Justina M. Barnicke
 Gallery, Toronto and a residency at the Irish Museum of Modern Art, Dublin.
 
@@ -734,26 +734,26 @@ Monday 23 November 2009, 7:30pm
 Pacific Cinematheque [1131 Howe]
 Tickets $9.50/$8 students + $3 membership
 
-UK artists Karen Mirza and Brad Butlerâ€™s artistic practice challenges and
+UK artists Karen Mirza and Brad Butler’s artistic practice challenges and
 interrogates participation, collaboration, the social turn, and the
 traditional roles of the artist as producer and the audience as recipient.
 This investigation currently manifests in The Museum of Non Participation,
 a cross-cultural artistic intervention and appraisal of standard forms of
 representing and experiencing the everyday in Karachi and London. The
-Exception and the Rule is Mirza and Butlerâ€™s most recent film from this
+Exception and the Rule is Mirza and Butler’s most recent film from this
 ongoing series. Conscious of their outside perceptions of the city and its
-geo-political weight, they investigate the everyday patterns of Karachiâ€™s
+geo-political weight, they investigate the everyday patterns of Karachi’s
 inhabitants and social architecture.
 
 Their earlier work, Non Places, The Space Between, and The Autonomous
-Object? provide history and context to Mirza and Butlerâ€™s commitment to
+Object? provide history and context to Mirza and Butler’s commitment to
 questioning the objectivity of the cinematic frame and its implications in
 anthropology, ethnography, and architecture.
 
 Brad Butler is a UK filmmaker and co-founder of the no.w.here media arts
 centre in London. Brads most recent work is a return to issues raised in
 his anthropological studies spending 10 years as an active participant in
-experimental film. Bradâ€™s new solo work In Search of Structure is the first
+experimental film. Brad’s new solo work In Search of Structure is the first
 of a new body of work that brings together his experience in both fields.
 
 co-presented by www.dimcinema.ca | www.cineworks.ca |
@@ -940,10 +940,10 @@ technology. This exhibition hopes to draw connections between those facets.
 Below are a few statements by the artists in their attempts to circumscribe
 the topic in question:
 
-â€œIn the digital world there exists data that is real yet intangible,
+“In the digital world there exists data that is real yet intangible,
 hovering over these boundaries the information itself is ephemeral and
 should not truly exist in material form. However, even if deleted, this
-information will have left inerasable traces of its existence in our world. â€œ
+information will have left inerasable traces of its existence in our world. “
 
 The modification of physical interaction has changed through the variable
 existence and experience of materials within a growing objectless,
@@ -1398,7 +1398,7 @@ utilities. please contact suzan at smarczak75@hotmail.com to view the space.
 
 <a href="/instant-coffee/listings/2009-11-19-02-centre-a-helen-belkin-art-gallery-michael-ames-theatre-nov-1">2.
 The Gam | looking to share studio space</a>
-Our artist collective â€œThe Gam,â€  has just acquired an amazing new space.
+Our artist collective “The Gam,”  has just acquired an amazing new space.
 It is a 2000 sq. ft. gallery/studio within an artists’ only building.
 Aroused? We are looking to share our space with a dynamic, easy-going
 individual that is willing to work in an open, collective environment. This

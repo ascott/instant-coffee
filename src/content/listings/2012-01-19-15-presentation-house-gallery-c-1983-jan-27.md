@@ -5,10 +5,10 @@ emailDate: "Thu, 19 Jan 2012 11:15:13 -0800"
 number: 15
 type: ""
 venue: "Presentation House Gallery"
-summary: "Presentation House Gallery | â€œC. 1983â€  | JAN 27"
+summary: "Presentation House Gallery | “C. 1983”  | JAN 27"
 ---
 
-â€œC. 1983â€ 
+“C. 1983” 
 
 Marian Penner Bancroft, Kati Campbell, Stan Douglas, Ellie Epp, Arni Runar 
 Haraldsson, Laiwan, Ken Lum, Michelle Normoyle, Elizabeth Vander Zaag, Ian 

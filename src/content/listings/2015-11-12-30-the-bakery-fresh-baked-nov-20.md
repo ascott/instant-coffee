@@ -18,7 +18,7 @@ Opening reception: Friday, November 20 7:00 PM - 10:00 PM
 Gallery Hours Saturday and Sunday 11AM - 6PM
 
 Please join us on Friday Nov. 20 for the opening reception of “Fresh
-Bakedâ€ , a weekend only group exhibition of resident artists from the Bakery
+Baked” , a weekend only group exhibition of resident artists from the Bakery
 Studios. The title of the show is an apt response relating the name of the
 gallery space to the output of recent work by eight professionals working
 in multiple disciplines from drawing, jewellery, painting, and textile.

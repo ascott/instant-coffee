@@ -25,10 +25,10 @@ this period.
 
 November 10
 Jerry Zaslove
-â€œBenjaminâ€™s â€œLitmus Testâ€ : The Aesthetics of Violence and Culture as an 
-â€œEnigmatic Signifierâ€ 
+“Benjamin’s “Litmus Test” : The Aesthetics of Violence and Culture as an 
+“Enigmatic Signifier” 
 I will try to conceptualize Benjamin¹s use of violence as the State driven 
-â€œenigmatic signifierâ€  of culture that creates complicity that masks the 
+“enigmatic signifier”  of culture that creates complicity that masks the 
 negative of repression of violence within the rights based powerlessness 
 of culture to arrest structural violence. The enigma of the negative of 
 violence in modernity lies in the fear and reality of complicity with 
@@ -38,7 +38,7 @@ Bio:
 Jerry Zaslove is a teacher and writer in the fields of Comparative 
 Literature and Social History of Art influenced but not limited by the 
 traditions of critical theory for the arts, aesthetics, psychoanalysis, and 
-social thought. Most recent writing: â€œKafka in theâ€™ Penal Colonyâ€ , essays 
+social thought. Most recent writing: “Kafka in the’ Penal Colony” , essays 
 on the place of the University in society, Exile and memory, the City in 
 History – Elsewhere and Otherwise, forms and social realities of thinking 
 about community. Dr. Zaslove has taught at SFU since its opening year – 
@@ -55,7 +55,7 @@ value necessary to the expansion of capital is extracted through labor
 and compensated in a self reproducing matrix of remuneration
 reticulated to time in which the worker works against her own
 interest. A 2004 piece entitled 584 Horas de Trabajo (584 Hours of
-Work) sets the problem of labor against the art â€œworkâ€  in a retort to
+Work) sets the problem of labor against the art “work”  in a retort to
 the legacy of minimalist sculpture, one of the last traditional
 artistic idioms of the 20th Century. By documenting the man-hours
 spent constructing a massive cubic monument mimicking those of Tony
@@ -129,12 +129,12 @@ aesthetic politics of equality?
 
 Readings:
 
-Jonathan Beller, Chapter Two (â€œThe Spectatorship of the Proletariatâ€ ) in 
+Jonathan Beller, Chapter Two (“The Spectatorship of the Proletariat” ) in 
 The Cinematic Mode of Production: Attention Economy and the Society 
 of the Spectacle (Dartmouth College/University Press of New England, 
 2006).
 
-Jacques RanciÃ¨re, â€œEisensteinâ€™s Madness,â€  in Film Fables (Bloomsbury 
+Jacques Rancière, “Eisenstein’s Madness,”  in Film Fables (Bloomsbury 
 Academic, 2006).
 
 Bio:

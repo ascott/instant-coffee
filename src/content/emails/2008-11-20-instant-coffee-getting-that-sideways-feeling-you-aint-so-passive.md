@@ -130,7 +130,7 @@ members, donors and volunteers.
 
 Contemporary Art Gallery, 555 Nelson Street, Vancouver, BC,
 V6B 6R5, Canada www.contemporaryartgallery.ca. Gallery
-Hours: Wed. - Sun. 12 â�� 6 pm.
+Hours: Wed. - Sun. 12 ’ 6 pm.
 Admission is free by donation.
 
 For more information please contact:
@@ -959,7 +959,7 @@ Deadline: December 17th, 2008.
 The Eyelevel Gallery is seeking artists interested in fulfilling a 3-week
 residency in Halifax , NS at the Eyelevel Gallery in conjunction
 with the Dawson Printshop. The artist in residence will develop work based
-in printed matter (books, posters, multiples, prints, postcards, zinesâ�¦)
+in printed matter (books, posters, multiples, prints, postcards, zines’¦)
 with letterpress printing and bookbinding resources provided by the Dawson
 Printshop while occupying the Eyelevel Gallery as an open studio. The
 residency will take place between the 8th and 28th of February, 2009, and
@@ -970,7 +970,7 @@ With over 1200 cases of moveable type (both metal and wood) a typographic
 history spanning over 500 years, the Dawson Printshop represents one of
 Canada's most extensive collections of letterpress printing technology, and
 has generously loaned the use of its resources printing , bookbinding,
-foil stamping and platemaking equipment, as well as type to Eyelevelâ��s open
+foil stamping and platemaking equipment, as well as type to Eyelevel’s open
 studio for the duration of the residency. The Artist in residence will be
 expected to be present at the Open Studio for a minimum of 25 hours per
 week and should be willing to work in an environment where the public and
@@ -1002,7 +1002,7 @@ anything else that is relevant. No originals please!
 -Production itinerary of what you will be
 working on during the residency.
 
-Briefly explain why you are interested in using the printshopâ��s resources
+Briefly explain why you are interested in using the printshop’s resources
 as part of this project What interest do you have in letterpress printing
 and how will these resources enhance your project? Any experience in
 letterpress printing and bookbinding technologies is an asset. New ideas,
@@ -1025,7 +1025,7 @@ special projects, and workshops, Eyelevel Gallery has provided a forum for
 the discussion and education of contemporary visual art for over 30 years.
 
 The Dawson Printshop is a historic collection of letterpress printing
-technology that forms the heart of NSCAD University â��s academic and
+technology that forms the heart of NSCAD University ’s academic and
 commercial letterpress activities. As a teaching printshop, it hosts a
 variety of popular book arts courses from bookbinding to printing with
 antique metal and wood type. It also serves as a student and alumni led

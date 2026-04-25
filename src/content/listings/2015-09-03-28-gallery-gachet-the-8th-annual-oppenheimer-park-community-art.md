@@ -20,9 +20,9 @@ Oppenheimer Park and Gallery Gachet are pleased to present In
 Between! this year’s annual exhibition showcasing artworks from the
 Oppenheimer Park community. Included are painting, drawing, print,
 sculpture, carving, textile, mixed media and video works. This year, the
-exhibition takes on â€œin betweenâ€  as its focus. In Between! represents a
+exhibition takes on “in between”  as its focus. In Between! represents a
 variety of perspectives (between languages, places, nations, cultures,
-life etc.). 35 artistsâ€™ diverse interpretations of inâ€“betweenness will be
+life etc.). 35 artists’ diverse interpretations of in–betweenness will be
 featured in the show.
 
 Salon Shop I Featuring artwork created during OPPEN–Arts Studio
@@ -46,13 +46,13 @@ has taken this opportunity to restore a remarkable work of public art, by
 artist Thunder Larry Parenteau.
 
 ADDITIONAL PROGRAMMING:
-Friday, September 11th, 5pmâ€”Opening Day Procession  Join the
+Friday, September 11th, 5pm—Opening Day Procession  Join the
 opening day procession from Oppenheimer Park to Gallery Gachet led
 by the Vancouver  Fire & Rescue Services Band.
-Saturday, October 10thâ€”ScavARTger Huntâ€“Art in the City III 
+Saturday, October 10th—ScavARTger Hunt–Art in the City III 
 ScavARTger Hunt is back! Scour the city of Vancouver to complete
 questions about artworks.  Win prizes for right answers!
-Thursday, October 15thâ€”Joy to the Park!  After the unveiling of
+Thursday, October 15th—Joy to the Park!  After the unveiling of
 Paintings to Adorn join us for an afternoon of music, food and art
 making.  This celebration will also include music and an art making
 workshop.

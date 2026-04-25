@@ -25,7 +25,7 @@ revels in the illusionistic and material potential of paint. Kubis promotes
 the sheer pleasure of creating idiosyncratic pictures that arouse the 
 eye – in an age of anxiety she encourages engaged looking. For Kubis, 
 aesthetic engagement has the potential to change how we perceive the 
-world; in â€œFull Spectrumâ€  Kubis pursues well-being in painted form.
+world; in “Full Spectrum”  Kubis pursues well-being in painted form.
 Anda Kubis studied at Ontario College of Art and Design University 
 before moving on to complete a BFA at Nova Scotia College of Art and 
 Design and an MFA at York University in 1992. Currently Anda is Chair 

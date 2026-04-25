@@ -25,9 +25,9 @@ slick, and visually delicious, Indian Candy speaks volumes on how
 Indigenous iconography has been consumed by popular culture.
 
 “Dana Claxton’s newest body of work has been long-awaited and does not 
-disappoint,â€  says gallery owner Jennifer Winsor. â€œWith such bright and 
+disappoint,”  says gallery owner Jennifer Winsor. “With such bright and 
 seductive surfaces, these works become both a literal reversal of the white-
-washing of history and a brilliant tribute to pop art and culture.â€ 
+washing of history and a brilliant tribute to pop art and culture.” 
 
 About Dana Claxton
 Claxton is part of a generation of First Nations artists who employ strategies 

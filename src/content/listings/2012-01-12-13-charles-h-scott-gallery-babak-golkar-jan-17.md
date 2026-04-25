@@ -22,7 +22,7 @@ site-specific installation is made up of two major components that work together
 to investigate complex relationships between perception, space, architecture 
 and culture.
 
-Using Persian carpets as a foundation, Golkar literally â€œdraws upâ€  design 
+Using Persian carpets as a foundation, Golkar literally “draws up”  design 
 elements from the intricate patterns and transforms them into three-dimensional 
 scale models that resemble architectural mega-towers. Buildings recently 
 constructed in the Middle East, and elsewhere, such as the Burj Khalifa in Dubai 

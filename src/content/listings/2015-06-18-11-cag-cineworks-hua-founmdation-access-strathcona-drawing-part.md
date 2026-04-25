@@ -60,7 +60,7 @@ Mongrel Vegetables: As a follow-up to the Hua Foundation's Choi Project,
 which enhanced our familiarity to Chinese produce, artist Howie Tsui will
 lead a workshop that asks participants to hybridize elements of these
 vegetables into a portrait. This workshop will put a more Sino-centric spin
-on Giuseppe Arcimboldoâ€™s portraits of heads comprised of vegetables and
+on Giuseppe Arcimboldo’s portraits of heads comprised of vegetables and
 fruits. Perhaps in our current context, these portraits will reflect how
 our bodies are sustained through a melange of crossbred and modified
 ingredients; or in a more benign way, these constructions just illustrate a
@@ -71,7 +71,7 @@ that strengthen our connections with culture, heritage and environmental
 sustainability. http://www.huafoundation.org/
 
 The Chamber, Ian Johnston
-4:00 pm â€“ 5:30 pm
+4:00 pm – 5:30 pm
 Access Gallery
 222 East Georgia Street, Vancouver
 Instructor: Alex M.F. Quicho

@@ -103,7 +103,7 @@ both the MFA Program at the School for the Contemporary Arts at
 Simon Fraser University and the MFA in Visual Art Program at the 
 University of British Columbia, screening a selection of films and 
 leading a series of seminars exploring the artist’s notion of the “human 
-strike.â€  This work with students will culminate in a final public 
+strike.”  This work with students will culminate in a final public 
 presentation by Claire Fontaine, featuring a talk and a screening of 
 excerpts from the selected films, on November 24 at 7:00 pm at the 
 Djavad Mowafaghian Cinema in the Goldcorp Centre for the Arts.
@@ -340,7 +340,7 @@ community and civic history, the Geyser was commissioned by
 the City of Vancouver. The water feature is a reference to both the
 natural and man-made elements of the centre: it is thematically
 tied to the history of underground streams in the area, and is also
-mechanically tied to the LEED-certified buildingâ€™s grey water
+mechanically tied to the LEED-certified building’s grey water
 collection cistern.
 speaker bios
 Vanessa Kwan and Erica Stocking are Vancouver-based artists
@@ -350,7 +350,7 @@ to produce work that is materially diverse, conceptually oriented,
 and concerned with the communities and histories that inform a
 site or situation. They both graduated from Emily Carr University
 of Art and Design in 2004 and they have collaborated on the
-performance art collective â€œNormaâ€ , which received a Mayorâ
+performance art collective “Norma” , which received a Mayorâ
 €™s Art
 Award for Public Art in 2011.
 about the Centre
@@ -413,7 +413,7 @@ GoodLuckGallery@gmail.com
 
 Strata by Sarah Gee
 
-This is an exhibition of works called â€œstrataâ€ , totemic shapes made from 
+This is an exhibition of works called “strata” , totemic shapes made from 
 collaged paper and acrylic on matte board. The superimposition of 
 vibrant colour and mathematically-derived forms creates abstract 
 works I call heretical geometry.
@@ -426,7 +426,7 @@ Using a private language of symbols such as The Oar, Star and
 Halfstar, and Unblinking Eye, these strata are concerned both with the 
 formalities of hard edged abstraction and the implications of signage.
 
-The exhibition title is lifted from â€œThe Yellow Submarineâ€ , and Johnâ€™s 
+The exhibition title is lifted from “The Yellow Submarine” , and John’s 
 sensible approach to solving the problems of being trapped in the past.
 
 -
@@ -474,15 +474,15 @@ conjunction with the Institutions by Artists conference
 
 Oct. 12, 5 pm
 Talk: Sean Dockray
-â€œAAAAARG! Five Failuresâ€ 
+“AAAAARG! Five Failures” 
 
 Oct. 12, 6 pm
 Talk: Charlotte Cheetham
-â€œCurating Graphic Designâ€ 
+“Curating Graphic Design” 
 
 Oct. 13, 1 pm
 Launch: Yishu magazine
-Special issue on â€œInstitution for the Futureâ€  with guest-editor Biljana 
+Special issue on “Institution for the Future”  with guest-editor Biljana 
 Ciric and editors Keith Wallace and Kate Steinmann
 
 Oct. 13, 5 pm
@@ -492,7 +492,7 @@ Crass and the pacifist commune Dial House, founded by its members
 in 1967 (In the Cinema, 2nd floor)
 
 Oct. 13, 6 pm
-Talk: â€œA Story of the Museum of American Artâ€  (Berlin)
+Talk: “A Story of the Museum of American Art”  (Berlin)
 A Museum technician outlines the trajectory of an educational 
 institution dedicated to assembling, preserving, and exhibiting 
 memories—primarily those of the prewar MoMA.
@@ -802,7 +802,7 @@ as in the Art Bulletin, Artforum, Bookforum, Camera Austria, Camera
 Obscura, October, Journal of Modern Craft and Oxford Art Journal. 
 She is the author of Art Workers: Radical Practice in the Vietnam War 
 Era (University of California, 2009), which was named an “outstanding 
-academic titleâ€  by Choice magazine, and the editor of Robert Morris, 
+academic title”  by Choice magazine, and the editor of Robert Morris, 
 forthcoming from MIT Press/October Files series. Bryan-Wilson was an 
 essayist for the State of Mind catalogue, as well as the project art 
 historian for the Pacific Standard Time exhibition Collaboration Labs.
@@ -827,7 +827,7 @@ works in the exhibition are comprised of collages, books, prints and
 other found objects and ephemera from the Permanent Collection, the 
 Archives and the Morris/Trasov Archive at the Belkin Art Gallery. 
 
-Fluxus â€“ which comes from the Latin word â€œto flowâ€  - was born from the 
+Fluxus – which comes from the Latin word “to flow”  - was born from the 
 experimental composition classes taught by avant-garde musician 
 John Cage from 1956 to 1961 at the New York School for Social 
 Research. Interested in Cage’s ideas about merging art and daily life, 
@@ -1191,7 +1191,7 @@ explorations of the everyday heighten an awareness of cultural
 constructs, while reimagining their significance in our present cultural 
 climate. Recent exhibitions include Drifter's Clip at Open Space in 
 Victoria, BC (2011) and City Hall, a site-specific performative 
-drawing installation for Vancouverâ€™s city-wide Drawn Festival 
+drawing installation for Vancouver’s city-wide Drawn Festival 
 (2009). In 2013, DRIL will participate in a group exhibition at Kamloops 
 Art Gallery. 
 
@@ -1232,7 +1232,7 @@ such as the internet [like Skype, various social networks, etc.] and
 television). What we see is mediated through these ʻwindowsʼ. What do 
 we make then of a personʼs identity? Are we all just interchangeable in 
 this society, ubiquitously observed and controlled from a distance, 
-merely a small part in a homogeneous mass? Is anyone unique?â€ 
+merely a small part in a homogeneous mass? Is anyone unique?” 
 How a person constructs their identity is explored in this work, via 
 another question, which is how does an actor create their character. 
 Do ʻactorsʼ choices belong to them, or do they belong to something 
@@ -1362,9 +1362,9 @@ The aesthetics, poetics and history of electromagnetic sound will be
 examined, as well as how electromagnetic technologies are reshaping human
 subjectivity and the social world.
 
-Sound Thinking is part of the Galleryâ€™s Open Sound program, and takes place
-at the Surrey Art Gallery on Sunday, October 21, 12â€“5pm. Admission is free
-â€“ donations are gratefully received. Seating is limited.
+Sound Thinking is part of the Gallery’s Open Sound program, and takes place
+at the Surrey Art Gallery on Sunday, October 21, 12–5pm. Admission is free
+– donations are gratefully received. Seating is limited.
 
 Keynote speaker: Douglas Kahn, author of the forthcoming book Arts of the
 Spectrum: In the Nature of Electromagnetism, and Professor of Media and
@@ -1381,12 +1381,12 @@ Conveners: Ross Birdwise and Jordan Strom
 
 Sound Thinking 2012 is presented in conjunction with Open Sound 2012: On
 Air, Underground: Making the Inaudible Audible, a series of sound art
-installations situated in the Surrey Art Centreâ€™s public spaces give
+installations situated in the Surrey Art Centre’s public spaces give
 expression to voiceless and sometimes intangible things. The artists in
-this yearâ€™s Open Sound exhibition are Kristen Roos, Alex GrÃ¼nenfelder, and
+this year’s Open Sound exhibition are Kristen Roos, Alex Grünenfelder, and
 Debashis Sinha.
 
-Founded in 2008, the Surrey Art Galleryâ€™s Sound Thinking symposium is an
+Founded in 2008, the Surrey Art Gallery’s Sound Thinking symposium is an
 annual one day event which brings together practitioners and professionals
 in the field of sound art. The symposium features leading sound artists,
 scholars and researchers in the field sound studies, along with visual
@@ -1488,7 +1488,7 @@ pleased to present in partnership with VIVO Arts Media Centre the third
 edition of Cute to Kill, an expose of recent video works from local, 
 national, and international animators and video artists. This series of 
 short films explore the artists’ morbid fascination with dark subject 
-matter through the guise of â€œcuteâ€ --a prevalent juxtaposition in 
+matter through the guise of “cute” --a prevalent juxtaposition in 
 contemporary Asian pop culture.
 
 Blim’s Yuriko Iga and Vancouver-based artist Daniel Giantomaso co-
@@ -1820,18 +1820,18 @@ stored in Vancouver.
 
 Background
 In 1972, the artist group General Idea launched FILE Megazine, a 
-â€œcross-Canada art organ, by artists, for artists.â€  Published from 1972 
+“cross-Canada art organ, by artists, for artists.”  Published from 1972 
 until1986, FILE approached art publishing with a fun, inclusive, camp 
 sensibility. Unlike the more established art magazines published at the 
 time, FILE did not critique art; instead, the editors approached its 
 content much like a mobile gallery.FILE took its name from the iconic 
 Life Magazine. This approach—reusing popular and mass cultural 
 themes—was typical of the editors and contributors of FILE. Later 
-calling itself â€œthe alternative to the alternative,â€  FILE used images and 
+calling itself “the alternative to the alternative,”  FILE used images and 
 texts from popular and mass culture to make new art. It is in this same 
 spirit that artists are asked to participate in this project. Artists are 
 encouraged to use the FILE archive materials as their source 
-documents to create a new â€œalternative to the alternative.â€  This new 
+documents to create a new “alternative to the alternative.”  This new 
 alternative archive will add yet another layer to the already rich history 
 and legacy of FILE Megazine.
 

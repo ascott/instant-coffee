@@ -91,13 +91,13 @@ currently the writer-in-residence at Green College, UBC.
 Stephen Collis is the author of four books of poetry, Mine (New Star 2001),
 Anarchive (New Star 2005), which was nominated for the Dorothy Livesay
 Poetry Prize, The Commons (Talonbooks 2008)—the latter two form parts of
-the on-going â€œBarricades Projectâ€ â€”and On the Material (Talonbooks 2010). He
+the on-going “Barricades Project” —and On the Material (Talonbooks 2010). He
 is also the author of two book-length studies, Phyllis Webb and the Common
 Good (Talonbooks 2007) and Through Words of Others: Susan Howe and
 Anarcho-Scholasticism (ELS Editions 2006). He is currently editing a
 collection of essays, Reading Duncan Reading, organizing the Charles Olson
 Centenary Conference (June 4-6 2010), and continuing to work on “The
-Barricades Project.â€  A member of the Kootenay School of Writing, he teaches
+Barricades Project.”  A member of the Kootenay School of Writing, he teaches
 American literature, poetry, and poetics at Simon Fraser University.
 
 >>> send your poetry, poetics and contemporary arts listings to

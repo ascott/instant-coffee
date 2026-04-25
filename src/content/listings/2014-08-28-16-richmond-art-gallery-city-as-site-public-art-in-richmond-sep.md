@@ -23,7 +23,7 @@ City as Site: Public Art in Richmond is the first exhibition to highlight
 the City of Richmond’s Public Art Program, initiated in 1997 “to create a
 public art collection of the highest quality through a fair and open
 selection process advised by independent arms-length panels of art and
-design professionals and community inputâ€ . Curated by Richmond Art Gallery
+design professionals and community input” . Curated by Richmond Art Gallery
 Director Rachel Rosenfield Lafo, the exhibition will feature several
 diverse public art projects representing the different ways public art is
 funded in Richmond – through civic funding, private development, community
@@ -36,7 +36,7 @@ value to the community.
 The exhibition includes elements from Glen Anderson’s , Child of the Fraser
 (2012), aluminum sculptures and a ceramic mosaic at the City’s Community
 Safety Building; Nicole Dextras’s StoreFront: objects of desire (2013), a
-temporary project for the â€œArt in Unexpected Placesâ€  program, in which
+temporary project for the “Art in Unexpected Places”  program, in which
 artists were invited to select an unusual or unconventional location for
 their project; Janet Echelman’s Water Sky Garden (2009), a major work
 commissioned at the time of the 2010 Winter Olympic Games; two projects by

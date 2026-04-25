@@ -20,7 +20,7 @@ Echoing the idea of Chantal Joffe, we cannot speak of the original
 intentions of the Tex Mex paintings. The series began as a reaction to
 fascinations; it is a series that evolved from the obsessive tendency of
 a painter. The viewer is presented with a loose narrative based on â
-€˜TexMexâ€™ food trends and a playful palette.
+€˜TexMex’ food trends and a playful palette.
 
 Corie Waugh is a visual artist who works with oil paint andphotography.
 Her focus is on process-based work, paying close attention to the

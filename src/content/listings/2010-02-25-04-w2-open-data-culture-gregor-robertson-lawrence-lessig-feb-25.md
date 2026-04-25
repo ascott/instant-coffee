@@ -16,7 +16,7 @@ West Hastings, Vancouver | hosts Open Data + Culture Day. A day long series
 on the impact of digital media, citizen engagement, copyright laws and the
 Olympics with guests Mayor Gregor Robertson, Vancouver City Councillor
 Andrea Reimer, Harvard University Professor Lawrence Lessig, Martha Rans of
-Creative Commons Canada and Jean HÃ�Â©bert,a PhD Candidate and Sessional
+Creative Commons Canada and Jean HÂ©bert,a PhD Candidate and Sessional
 Instructor in the School of Communication at Simon Fraser University.
 
 10:00am - W2 welcomes Mayor Gregor Robertson and Vancouver City Councillor
@@ -40,7 +40,7 @@ Martha Rans | Creative Commons Canada | will introduce the lecture and
 share takes on participatory media culture and the changing nature of
 content ownership and usage in the Digital Age.
 
-Jean HÃ�Â©bert | PhD Candidate, School of Communication, Simon Fraser
+Jean HÂ©bert | PhD Candidate, School of Communication, Simon Fraser
 Univerity | will moderate an in-house discussion from 4:30-5pm.
 
 5pm-7pm - Public Cinq a Sept reception courtesy of Bell Canada.
@@ -67,7 +67,7 @@ Center and a former board member of the Electronic Frontier Foundation.
 Wireside Chat w/ Lawrence Lessig:
 http://openvideoalliance.org/event/lessig/?l=en
 
-Jean HÃ�Â©bert (@jeanh)| PhD Candidate and Sessional Instructor in the School
+Jean HÂ©bert (@jeanh)| PhD Candidate and Sessional Instructor in the School
 of Communication at Simon Fraser University. He is also the Program Manager
 of the Mobile Muse Network (mobilemuse.ca). His research interests include
 mass participatory media, mobile culture, popular music, political economy

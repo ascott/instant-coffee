@@ -38,7 +38,7 @@ traditional and functional artifacts: nineteenth and twentieth century wool
 and cedar weavings produced within a network of inter-related and
 over-lapping oral traditions. This legacy is expanded in the exhibition and
 brought into the present with the work of contemporary practitioners Keith
-Nahanee (Squamish Nation), and Melvin Williams (LilÃ�Â¹wat Nation).
+Nahanee (Squamish Nation), and Melvin Williams (LilÂ¹wat Nation).
 
 The exhibition is organized by Presentation House Gallery and generously
 supported by The Audain Foundation and by the North Vancouver Office of

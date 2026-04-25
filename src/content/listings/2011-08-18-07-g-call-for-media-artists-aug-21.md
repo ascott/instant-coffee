@@ -46,7 +46,7 @@ interactive-film-video-series/>
 .
 
 This Interactive Film and Video Series at G++ was made possible
-through the joint BC Film/BC Arts Council â€œInteractive Fundâ€ .
+through the joint BC Film/BC Arts Council “Interactive Fund” .
 
 Link to PDF: Call for Media Artists: Interactive Film & Video Series
 at G++ 

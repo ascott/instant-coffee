@@ -16,8 +16,8 @@ Opening reception: Thursday May 13th, 6 to 8pm
 www.equinoxgallery.com
 
 Equinox Gallery is pleased to present an exhibition of new works by
-Vancouver artist Sonny Assu. Sonny Assu is Laich-kwil-tach (Kwakwakaâ��wakw)
-of the Wekaâ��yi First Nation (Cape Mudge) and looks to his heritage to
+Vancouver artist Sonny Assu. Sonny Assu is Laich-kwil-tach (Kwakwaka’wakw)
+of the Weka’yi First Nation (Cape Mudge) and looks to his heritage to
 address, unravel, and in some instances, complicate, the issues of personal
 lineage within the realm of contemporary culture.
 

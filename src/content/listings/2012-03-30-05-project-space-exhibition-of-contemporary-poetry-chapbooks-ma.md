@@ -32,7 +32,7 @@ curator Daniel Zomparelli's personal chapbook collection along with
 additional 
 donated chapbooks from derek bealieau and Warren Dean Fulton.
 
-Arte Factum, the Latin phrase â€œto make,â€  acknowledges the chapbook 
+Arte Factum, the Latin phrase “to make,”  acknowledges the chapbook 
 as an
 object of literary and publishing craft that originated in the nineteenth 
 century as 

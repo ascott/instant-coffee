@@ -19,7 +19,7 @@ universal great law of justice, whether the experience be good or
 bad, painful or sorrowful, pleasing or otherwise, and that these 
 experiences are but the wrap and woof of the pattern of our lives, we 
 will weave with more skillful fingers the design upon which we wish 
-to build.â€ 
+to build.” 
 -Lawren Harris
 
 Theosophy played a central role in Lawren Harris’ late abstract 

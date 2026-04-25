@@ -20,7 +20,7 @@ an info-kiosk of her synesthesia dvd publication.
 <http://www.kunstdk.dk/kunstner/ditte_lyngkaer_pedersen>
 <http://www.kunstdk.dk/kunstner/ditte_lyngkaer_pedersen>, 8pm. House djs:
 PETER GAZENDAM and LEE HENDERSON
-Ã�Â 
+Â 
 Friday, March 19: CAM DALES of the ice cream social playing 50's and 60's
 hits, www.myspace.com/camdales <http://www.myspace.com/camdales>
 

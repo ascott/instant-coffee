@@ -16,12 +16,12 @@ Date: February 26, 2014
 Time: 5:30 PM
 Location: Lasserre Building, Room 104, 6333 Memorial Road, Vancouver
 
-â€œI seek to maintain and simultaneously disrupt paintingâ€™s absolute presence.â€ 
+“I seek to maintain and simultaneously disrupt painting’s absolute presence.” 
 
 R.H. Quaytman is an internationally exhibited artist based in New York. 
 Recent exhibitions of her work include; Passing Through the Opposite of 
 What It Approaches, Chapter 25, at The Renaissance Society in Chicago; 
-â€œDalet, Chapter 24,â€  Museum Abteiberg, MÃ¶nchengladbach, Germany; Spine, 
+“Dalet, Chapter 24,”  Museum Abteiberg, Mönchengladbach, Germany; Spine, 
 Chapter 20, at the Kunsthalle Basel, Switzerland; and participation in the 
 Venice Bienniale in 2011 and the Whitney Biennial in 2010. Quaytman is a 
 member of the painting faculty at the Milton Avery Graduate School of the 
@@ -47,7 +47,7 @@ point of projection for painting, so much as the structures of the book serve
 to bring painting into a formal rather than a signifying relationship to language, 
 to works of history and poetry. According to David Joselit, Quaytman, along 
 with a number of other contemporary artists, is engaged in what he has 
-named â€œtransitive paintingâ€  - a practice in which qualities and attributes pass 
+named “transitive painting”  - a practice in which qualities and attributes pass 
 from one activity or object into another. Thus the effort in Quaytman's work, 
 is oriented to a reconsideration of the nature of relation itself (not just that 
 which is related) between artistic mediums, histories and milieus. 

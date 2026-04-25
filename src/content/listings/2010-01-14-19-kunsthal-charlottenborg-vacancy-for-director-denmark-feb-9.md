@@ -40,7 +40,7 @@ The Director is appointed by Kunsthal Charlottenborg's Governing Board, to
 which he or she will report directly. This appointment is fixed term.
 
 Any queries with respect to the position should be directed to Mr Michael
-BjÃ�Â¸rn Nellemann, Governing Board Chair, Kunsthal Charlottenborg, at + 33 6
+BjÂ¸rn Nellemann, Governing Board Chair, Kunsthal Charlottenborg, at + 33 6
 78 79 06 38; or by email to micnel@um.dk
 
 Written applications attaching a CV and a brief outline of how you
@@ -51,7 +51,7 @@ micnel@kunsthalcharlottenborg.dk
 All correspondence in relation to the position of Kunsthal Charlottenborg
 director should be forwarded to:
 
-Mr Michael BjÃ�Â¸rn Nellemann
+Mr Michael BjÂ¸rn Nellemann
 Governing Board Chair
 Kunsthal Charlottenborg
 Nyhavn 2

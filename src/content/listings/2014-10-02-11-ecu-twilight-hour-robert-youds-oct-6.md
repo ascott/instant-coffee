@@ -21,7 +21,7 @@ Victoria.
 the material conditions of the pictorial--a path that has led him from
 paintings with cut-out apertures through stretched lines of colour made of
 strands of latex and velvet cushions bound with ropes through to his recent
-constructions incorporating fluorescent, neon and LED lightsâ€  - Barry Schwabsky
+constructions incorporating fluorescent, neon and LED lights”  - Barry Schwabsky
 
 He is in Vancouver to install For Everyone A Sunset, at the Vancouver Art
 Gallery's Offsite, which opens Monday, October 20th at 6pm and will be up

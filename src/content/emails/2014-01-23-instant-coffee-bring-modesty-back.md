@@ -94,7 +94,7 @@ of images that unfold as another gift in themselves, prompting
 questions of how we perceive, structure and understand the world.
 
 The exhibition is made in collaboration with Villa Arson, Nice, France; 
-Spike Island, Bristol, UK; Frac e de France â€  Le Plateau, Paris, France 
+Spike Island, Bristol, UK; Frac e de France ”  Le Plateau, Paris, France 
 and Heidelberger Kunstverein, Germany. Research toward the 
 production of this work is funded by a grant from programme Hors les 
 murs 2011 of the Institut Francais. The exhibition is supported by the 
@@ -120,7 +120,7 @@ information leaked by former intelligence contractor Edward
 Snowden in May of last year. In all aspects of his practice Etchells 
 often concerned with presence, with the unfolding of events in time 
 and place. Who Knows is typical of the artists approach in that 
-something happens Ã¢â‚¬â€  there is an encounter, a process, the
+something happens ââ‚¬”  there is an encounter, a process, the
 describing of an event and its implications, and an exploration of the 
 dynamic relationship between the work and the viewer. Through the 
 repetition of phrases, the text implies an experience that is at once 
@@ -128,7 +128,7 @@ unraveled and assembled. The mechanisms of exposure and
 concealment, construction and deconstruction, appearance and 
 disappearance all lie at the heart of what Etchells does.
 In addition to this installation the CAG is co-presenting a series of
-performances with PuSh International Performing Arts Festival Ã¢â‚¬â€  
+performances with PuSh International Performing Arts Festival ââ‚¬”  
 The Quiet Volume with Ant Hampton and Sight Is The Sense That 
 Dying People Tend To Lose First with Jim Fletcher. This collaborative 
 partnership allows the CAG and PuSh to reach broader audiences, 
@@ -295,7 +295,7 @@ sounds of the six- string lyre, or krar. Guaranteed to get you up out of
 your seat. Presented with Capilano University.
 
 RYEBERG LIVE
-January 26, 7pm, $25. The return of the online magazineâ€™s live 
+January 26, 7pm, $25. The return of the online magazine’s live 
 presentation, where guests presents essays inspired by YouTube 
 videos. Speakers this year include authors Lee Henderson and 
 Zsuzsi Gartner, artist Vjeko Sager, and interdisciplinary media artist 
@@ -371,8 +371,8 @@ now, but we are unwavering forever. Neapolitan, aside from being a
 person of Naples, is an absolute.
 
 Chocolate, vanilla and strawberry. Understand that to avoid a triangle 
-is to have more than three members of the absolute Ã¢â‚¬â€  so make a 
-square, another square, another square Ã¢â‚¬â€  vanilla, chocolate, 
+is to have more than three members of the absolute ââ‚¬”  so make a 
+square, another square, another square ââ‚¬”  vanilla, chocolate, 
 strawberry and Dijon. That one is yours.
 
 Aaron Carter is an Australian artist based in Vancouver.
@@ -456,7 +456,7 @@ outstanding and boundary-pushing performances with local
 favourites and international guests, including:
 
 UK-based PuSh visiting artists duo Forest Fringe collaborate with the 
-gallery to create an â€œIncidental Festivalâ€  of works in unexpected 
+gallery to create an “Incidental Festival”  of works in unexpected 
 places Vancouver’s favourite Dusty Flowerpot Cabaret hosts a lavish 
 costume-themed party in the heritage courtrooms.
 British artist and writer Tim Etchells presents a unique poster project.
@@ -580,7 +580,7 @@ Harper’s Bazaar magazine in 1962. This series signaled his forward-
 looking idea about the future of photography as an art form. The title, 
 Dream Location, refers to his description of the subway as a “dream 
 ‘location’ for any portrait photographer weary of the studio and the 
-horrors of vanity.â€ 
+horrors of vanity.” 
 
 Filmmaker Runa Islam also reflects on how the conditions of image 
 production determines their meaning. Over the duration of her film 

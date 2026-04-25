@@ -44,7 +44,7 @@ the larger series 'Other-Frames' which looks to activate the questions
 of what the chip of the camera can reveal in a greater context. The 
 work itself is an activity of searching for unexploited qualities inherent 
 in exploitation; not a defiant negation as with the alternative media 
-originated in the â€™60s, but a manipulation of manipulation.
+originated in the ’60s, but a manipulation of manipulation.
 
 For more information visit www.gallery295.com
 

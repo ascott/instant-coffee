@@ -14,7 +14,7 @@ Friday October 28 | 8 – 11 PM | $12/10 | @ VIVO (Main St. × 4th Ave.)
 
 Cute to Kill 2 is an expose of recent video works from local, national, and 
 international animators and video artists. Each short film explores the artists’ 
-morbid fascination with dark subject matter through the guise of â€œcuteâ€  (a 
+morbid fascination with dark subject matter through the guise of “cute”  (a 
 prevalent juxtaposition in contemporary Asian pop culture). In their first co-
 production, Yuriko Iga (of Blim) and Asa Mori bring together a wide range of 
 adorably despondent short films to be viewed as a collection for this one night 

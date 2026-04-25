@@ -24,7 +24,7 @@ the character of the gallery and plunge the viewer into a vivid postminimalist
 nightmare...
 
 For the record, artists are not the only people who wonder from time to 
-time: â€œwhat the hell am I doing here, now?â€  Critics also have their crises: Dieter 
+time: “what the hell am I doing here, now?”  Critics also have their crises: Dieter 
 Roelstraete observes the qualitative dodginess of the artistic production of his 
 contemporaries.
 
@@ -70,7 +70,7 @@ concepts of hospitality and welcome. A conversation with Kevin McGarry.
 TEN FUNDAMENTAL QUESTIONS OF CURATING, a project by Jens Hoffmann 
 sponsored by Fiorucci Art Trust and Mousse Publishing, explores the 
 multifaceted physiognomy of the curator. The sixth of ten dossiers features 
-Elena Filipovic answering the question â€œWhat is an exhibition?â€ , plus images 
+Elena Filipovic answering the question “What is an exhibition?” , plus images 
 selected by Nairy Baghramian.*
 
 Nick Currie tells us about the unpleasant effects of culinary globalization, through 
@@ -115,7 +115,7 @@ poetry and puzzles… For REPRINT he has selected a short story by Lydia
 David, and other very concrete things.
 
 What are the reasons behind the widespread interest in the question of 
-the â€œthemeâ€  in much of the art of recent years? Chus MartÃ­nez answers, outlining 
+the “theme”  in much of the art of recent years? Chus MartÃ­nez answers, outlining 
 an extraordinary perspective that reconsiders concepts of reality, history and 
 language.
 

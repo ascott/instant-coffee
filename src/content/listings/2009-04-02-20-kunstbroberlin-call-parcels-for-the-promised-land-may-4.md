@@ -22,7 +22,7 @@ dates and deadlines:
 
 Submission of Parcels:
 May 4th, 2009
-KunstBÃ&#65533;Â¼roBerlin, UhlandstraÃ&#65533;ï¿½e 162, D Ã¢ï¿½ï¿½ 10719 Berlin
+KunstBÃ&#65533;Â¼roBerlin, UhlandstraÃ&#65533;ï¿½e 162, D âï¿½ï¿½ 10719 Berlin
 please fill out and sign the form and send it with your parcel
 (download on: www.kunstbueroberlin.de)
 

@@ -29,7 +29,7 @@ will showcase over 160 cutting-edge digital artworks, each one carefully
 selected by a team of curators.
 Simon Fraser University is hosting the symposium, which will be focused at
 SFU Woodwards. One of the top universities in the world under 50 (and no. 2
-in Canada); SFU is taking its motto, â€œEngaging the Worldâ€ ,very seriously.
+in Canada); SFU is taking its motto, “Engaging the World” ,very seriously.
 The action will spread beyond Gastown.
 
 ISEA2015 will partner with Vancouver Art Gallery, taking over the

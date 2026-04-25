@@ -43,7 +43,7 @@ Patricia Huijnen/Andres Wanner
 Kitchen Science
 April 12, 2012 - April 22, 2012
 
-In â€œKitchen Scienceâ€ , sculptor Patricia Huijnen and machine artist Andres 
+In “Kitchen Science” , sculptor Patricia Huijnen and machine artist Andres 
 Wanner examine moments of instability in relation to the body and technology.
 
 Patricia Huijnen explores the bite and the mouthful as measuring units, relating 
@@ -381,7 +381,7 @@ and an unseen observer; the handheld camera that is rarely at rest, but instead
 feels its way across the landscape, meandering and contemplating. Whatever 
 tension exists in Gabriel comes from transition, variation, and difference: 
 between shore and land, snow and desert, silence and Bach, solidity and 
-movement, abstraction and natureâ€  (MOMA). 78 mins, 1976, Colour, 16mm 
+movement, abstraction and nature”  (MOMA). 78 mins, 1976, Colour, 16mm 
 transferred to DVD, USA. Courtesy of The Pace Gallery.
 “Agnes Martin was born in Macklin, Saskatchewan in 1912 and grew up in 
 Vancouver. She moved to the USA in 1932, taking American citizenship in 1940. 
@@ -393,7 +393,7 @@ on the development of Minimalism in the USA, although Martin regarded her use
 of grids as a development from the ‘all-over’ compositional methods of Abstract 
 Expressionism. She persistently rejected the suggestion that her paintings were 
 conceived in response to the landscape of New Mexico, where she settled again 
-in 1967 and where she chose to work most of her lifeâ€  (Oxford University 
+in 1967 and where she chose to work most of her life”  (Oxford University 
 Press).
 
 
@@ -435,11 +435,11 @@ link below. No pre-reading or research is required.
 
 The Marxist revolutionary penned 'Why I am an Atheist', a profound indictment 
 of religion as he languished in an Indian prison awaiting execution. Accused of 
-â€œarrogant pride and vanityâ€  by critics who decried his sustained repudiation of 
+“arrogant pride and vanity”  by critics who decried his sustained repudiation of 
 theism, Singh authored this compelling manifesto in an effort to articulate and 
 expound upon his opinions on life and struggle. Laden with polemics which lend 
 new perspectives on fundamental philosophical questions of revolutionary 
-theory, â€œWhy I Am An Atheistâ€  is a stirring argument against religious mysticism 
+theory, “Why I Am An Atheist”  is a stirring argument against religious mysticism 
 and dogma of every sort.
 
 ---
@@ -655,10 +655,10 @@ Vietnam, Vancouver-based artist Ron Tran’s work explores the ways that
 chance and coincidence influence daily life. Tran has exhibited in both group 
 and solo exhibitions in Canada, Europe and Asia. He was selected for the 2007 
 East International Biennial in Norwich, England and the Berlin Biennale 6.
-â€œWe are honoured to celebrate these important artists,â€  said Gallery director 
+“We are honoured to celebrate these important artists,”  said Gallery director 
 Kathleen Bartels, “These annual awards are a highlight of Canada’s visual arts 
 calendar. We congratulate Marian Penner Bancroft, Beau Dick and Ron Tran on 
-these prestigious awards.â€ 
+these prestigious awards.” 
 The Audain Prize for Lifetime Achievement in the Visual Arts and the VIVA 
 Awards will be presented at the Great Hall of the B.C. Law Courts at 800 Hornby 
 Street on May 9 at 7pm, with a reception following. For event information and 

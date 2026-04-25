@@ -15,7 +15,7 @@ Gallery will be open by appointment after the opening until Nov 4.
 Please contact the gallery for private view schedule.
 
 In his book White Love, vicente l. rafael considers the tagalog
-word â€œmahalâ€  as a translation for the word â€œloveâ€ . It refers to
+word “mahal”  as a translation for the word “love” . It refers to
 that which is dear, but also means valuable and expensive.
 Rafael writes that such ambiguities express love as a promise
 of fulfilment -- and a costly one.

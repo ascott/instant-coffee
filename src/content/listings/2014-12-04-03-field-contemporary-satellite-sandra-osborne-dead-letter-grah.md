@@ -22,7 +22,7 @@ media sculpture by California artist Sandra Osborne.
 
 Dead Letter is a reference to both the idea of the lost and undeliverable –
 the oblivion of the Dead Letter Office – as well as the more obscure “dead
-letter boxâ€  of the spy world â€“ a secret place through which messages are
+letter box”  of the spy world – a secret place through which messages are
 transmitted. The work in this exhibition is addressed to the frailty and
 imperfection of modes of transmission, including the slipperiness of the
 art object itself. How do we negotiate the gap between what is transmitted
@@ -37,7 +37,7 @@ letters are bundled and tied for keeping; notes are quickly folded and
 stuffed into niches. In other instances they are carefully arranged or set
 among other elements—presented for consideration as formal objects. There
 is an urge to touch, to open the envelopes and remove the letters, yet the
-â€œpaperâ€  is unyielding. In another series, vents and other incidental
+“paper”  is unyielding. In another series, vents and other incidental
 architectural elements subtly pierce the gallery space, suggesting an
 invisible exchange or respiration. And in a hybrid installation of video
 and sculpture, an anonymous found image hovers between significance and

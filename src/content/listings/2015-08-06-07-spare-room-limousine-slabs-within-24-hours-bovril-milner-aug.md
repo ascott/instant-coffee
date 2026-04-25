@@ -32,7 +32,7 @@ supported by golden arches. We continued, right and slightly up, until the
 sidewalk ended and the sun fell. We looked out out out, and then headed in
 in in, to where it read on the map, 'Limousine Slabs Within 24 Hours.'"
 
-spare room presents "Limousine Slabs Within 24 Hoursâ€ , a body of work by
+spare room presents "Limousine Slabs Within 24 Hours” , a body of work by
 writer and visual artist, Alex Bovril. Bovril received a BA from Newcastle
 University, and is currently an MFA candidate in Creative Writing at New
 York University. The work will be accompanied by a parallel text by visual

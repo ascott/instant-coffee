@@ -5,7 +5,7 @@ emailDate: "Thu, 23 Feb 2012 10:45:11 -0800"
 number: 19
 type: ""
 venue: "TRENCH"
-summary: "TRENCH | Ron Stonier: â€œ1964â€  | MAR 8"
+summary: "TRENCH | Ron Stonier: “1964”  | MAR 8"
 ---
 
 TRENCH
@@ -16,7 +16,7 @@ Is pleased to present:
 
 Ron Stonier
 
-â€œ1964â€ 
+“1964” 
 
 March 8th through to April 7th 2012.
 

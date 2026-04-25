@@ -15,10 +15,10 @@ Free admission.
 Info 604.606.6400 www.thedancecentre.ca
 
 Migrant Bodies is a two-year research project created through a partnership
-between The Dance Centre (Vancouver), Circuit-Est centre chorÃ©graphique
+between The Dance Centre (Vancouver), Circuit-Est centre chorégraphique
 (Montreal), Comune di Bassano del Grappa (Italy), The Croatian Institute
 for Movement and Dance (Croatia), and La Briqueterie - Centre de
-dÃ©veloppement chorÃ©graphique du Val-de-Marne (France). Migrant Bodies aims
+développement chorégraphique du Val-de-Marne (France). Migrant Bodies aims
 to use artistic and cultural tools to open up a civil reflection on
 migration in European and Canadian societies.
 
@@ -32,6 +32,6 @@ Opera Estate Festival Veneto.
 
 The Vancouver creative team includes Su-Feh Lee, Co-Artistic Director of
 battery opera performance; interdisciplinary artist Sammy Chien; and
-writers Alexa Mardon and Andreas Kahre. The other choreographers are CÃ©cile
-Proust (France), Manuel Roque (QuÃ©bec), Alessandro Sciarroni (Italy) and
+writers Alexa Mardon and Andreas Kahre. The other choreographers are Cécile
+Proust (France), Manuel Roque (Québec), Alessandro Sciarroni (Italy) and
 Jasna VinovrÅ¡ki (Croatia).

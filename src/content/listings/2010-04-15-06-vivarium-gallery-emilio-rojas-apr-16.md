@@ -17,7 +17,7 @@ In collaboration with Patrick Blaeser.
 What builds nationalism in sports? Why did thousands of people wear flags and paint their faces 
 with Canadian maple leafs? Why does nationalism constructed through an identity of competitive 
 sports excludes diversity? Is there any legacy left behind after these moments of vibrant 
-Canadian â€œidentityâ€  fueled by a hockey game, and gold medals? 
+Canadian “identity”  fueled by a hockey game, and gold medals? 
 
 Nationalism and sport are repeatedly entangled, as sports provide a framework for symbolic 
 competition between nations; one of the primary forms of banal nationalism.

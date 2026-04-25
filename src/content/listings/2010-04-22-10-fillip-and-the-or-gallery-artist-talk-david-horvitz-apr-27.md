@@ -13,13 +13,13 @@ Artist Talk, Tuesday, April 27th
 
 Fillip and the Or Gallery are pleased to co-present a talk with
 Brooklyn-based artist
-David Horvitz this Tuesday at 7pm at Fillipâ��s Vancouver office.
+David Horvitz this Tuesday at 7pm at Fillip’s Vancouver office.
 
-A prolific, and incredibly diverse artist, Horvitzâ��s practice incorporates
+A prolific, and incredibly diverse artist, Horvitz’s practice incorporates
 photography, publishing, performance, and mail art, often through
 collaboration with friends and strangers. Many of his projects are
 completed through ASDF, a collaborative entity formed Mylinh Trieu Nguyen
-in 2007. Recent projects have included The Wikipedia Reader (2008â��09), One
+in 2007. Recent projects have included The Wikipedia Reader (2008’09), One
 Hundred $1 Grants (2009), and Songs for the Arctic Ocean (2009).
 
 Following up on his visit to Vancouver last spring, Horvitz will present

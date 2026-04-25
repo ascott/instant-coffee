@@ -32,7 +32,7 @@ jewellery studio in West Vancouver.
 
 Balkind, somewhat disparagingly, later wrote: “Vancouver in 1955 was 
 a sleepy provincial, rather stuffy city, sitting tight on the only distinction 
-it had: its natural beauty.â€  The North Shore however, with its inspiring 
+it had: its natural beauty.”  The North Shore however, with its inspiring 
 natural setting (and then relatively affordable property) was also a 
 creative incubator, attracting both established and pioneering artists, 
 architects and other creative intellectuals.
@@ -41,10 +41,10 @@ The NDG profiled contemporary art during a time of public
 apprehension and distrust towards modernism. The original press 
 release announced that “the New Design Gallery, [will] show the public 
 fine art and good design that can be used in daily life [and serve] as a 
-centre for artists who are in harmony with the modern spirit.â€  While the 
+centre for artists who are in harmony with the modern spirit.”  While the 
 NDG’s successful openings drew crowds of people seeking, as 
-Rogatnick suggestsâ€œa sophisticated art milieu,â€  he points out â€œâ€¦ they 
-didnâ€™t buy very much.â€  The gallery subsequently moved to Vancouver 
+Rogatnick suggests“a sophisticated art milieu,”  he points out “… they 
+didn’t buy very much.”  The gallery subsequently moved to Vancouver 
 in 1958 where it shared space with the newly formed Arts Club and 
 continued until 1966.
 

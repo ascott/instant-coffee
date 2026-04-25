@@ -43,13 +43,13 @@ housed 1.5 million pieces of wood type, handcrafted relics of a
 bygone era. The result? A 60-minute movie, that tells the story of
 how the art of typography struggles to find its place in the digital age.
 It also chronicles the Hamilton Family’s own fight for survival.
-â€œI stumbled upon Hamilton by chance,â€  said Nagan. â€œThe age old
+“I stumbled upon Hamilton by chance,”  said Nagan. “The age old
 artisan handwork and craftsmanship is inspiring and the place is
 both a national and historical treasure. The story of a diminishing
 craft- and culture- lives in this rural time capsule is very significant. I
 had to pay attention. As we see a return to appreciation for attention
 to detail vs. speed, quality over quantity and the rewards of slow I
-think we will see the tide shift in what work we value.â€ 
+think we will see the tide shift in what work we value.” 
 typeface.kartemquin.com/about
 www.kartemquin.com/films/typeface
 www.facebook.com/typefacefilm

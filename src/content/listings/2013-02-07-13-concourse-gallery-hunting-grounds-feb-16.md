@@ -15,7 +15,7 @@ Licensed event: $2 beer & wine!
 Hunting Grounds marks a place of isolation, revelation, and psychic 
 connection. Incorporating drawing, sculpture, ceramics, installation and stop-
 motion video, it is a decidedly old-school endeavour. It is unabashedly 
-sentimental, exploratory, and curious -- itÃ¢€™s an acid trip in the woods, a post-
+sentimental, exploratory, and curious -- itâ€™s an acid trip in the woods, a post-
 apocalyptic hike to higher ground, the discovery of a new species in your 
 backyard. 
 
@@ -23,7 +23,7 @@ Artists
 
 Natasha Broad, alias Maus Hunt, makes work that highlights relationships in 
 the natural world. She is best known for her whooping cranes, drawn large-
-scale and conceived to raise awareness about the cranesÃ¢€™ endangerment by 
+scale and conceived to raise awareness about the cranesâ€™ endangerment by 
 the Alberta tar sands. 
 
 Vanessa Brown is an interdisciplinary artist whose practice spans painting, 

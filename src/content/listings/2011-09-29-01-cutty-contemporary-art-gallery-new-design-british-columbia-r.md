@@ -49,7 +49,7 @@ Reoccurring Themes 
 
 Cutty Contemporary Art Gallery;
 
-29 September â€“ 30 October, 2011 
+29 September – 30 October, 2011 
 
 Opening reception 29 September, 7-11 pm
 

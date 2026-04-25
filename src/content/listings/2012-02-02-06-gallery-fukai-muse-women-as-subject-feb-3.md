@@ -31,12 +31,12 @@ consider his position of power behind the canvas.
 
 Whilst Jay Senetchko and Jeremiah Birnbaum have approached the topic from 
 an intimate and personal perspective, Michael Abraham comments on the camp 
-and satirical nature of past â€œmasterpiecesâ€ . Keeping with his characteristic 
+and satirical nature of past “masterpieces” . Keeping with his characteristic 
 cubist technique, Marcus Macleod depicts modern variations of infamous 
 muses within his genre. Chad Krowchuk holds little back as he confronts the 
 taboo topics behind female sex and gender constructions. Finally, guest 
 Phantom, Jonathan Sutton, portrays the ghostly female inspirations behind the 
-historical â€œgreat menâ€  of art and literature. 
+historical “great men”  of art and literature. 
 
 Pennylane Shen is currently the associate curator of Elliott Louis Gallery and 
 has been the curator of Jacana Contemporary Art Gallery in Vancouver. She 

@@ -26,9 +26,9 @@ As an immigrant, James had observed that Canada is technically behind in
 comparison to China. One Percent acknowledges this perspective by
 referencing the look and feel of Windows 95, the pervasive Microsoft
 operating system in use at the end of the 20th century. One Percent’s
-â€œLoading Vancouverâ€  graphic parodies the font used in Windows 95. Its
+“Loading Vancouver”  graphic parodies the font used in Windows 95. Its
 background blue field mimics the official blue used in the City of
-Vancouver emblem: â€œfor the sea and sky that surround our city.â€  Viewers
+Vancouver emblem: “for the sea and sky that surround our city.”  Viewers
 will see One Percent buffer from 0 to 86% waiting to see what is never
 revealed; lost histories, unrecorded moments, or things yet to come. This
 is a media artwork that toys with viewer anticipation and expectation. Yan

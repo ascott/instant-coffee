@@ -21,7 +21,7 @@ Please join us at the Surrey Art Gallery for the combined opening
 reception
 on Saturday January 22nd, 7:30 to 9:30pm
 
-TV Santhosh (2009) fiberglass, metal, LED panels 60â€ x84â€ x30â€ .
+TV Santhosh (2009) fiberglass, metal, LED panels 60” x84” x30” .
 Photo courtesy of Richmond Art Gallery
 
 In Transition: New Art from India

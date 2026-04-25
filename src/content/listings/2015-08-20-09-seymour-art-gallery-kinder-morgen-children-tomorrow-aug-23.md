@@ -18,9 +18,9 @@ in conversation: SUNDAY AUGUST 23, 2PM
 Reception: SUNDAY AUGUST 23, 3PM
 
 Kinder Morgen in the German language directly translates as
-Ã¢€˜Children TomorrowÃ¢€™, and artist Nancy
-Bleck calls up this meaning alongside the name Ã¢€˜Kinder
-MorganÃ¢€™ as an energy corporation, as a way to align
+â€˜Children Tomorrowâ€™, and artist Nancy
+Bleck calls up this meaning alongside the name â€˜Kinder
+Morganâ€™ as an energy corporation, as a way to align
 with the Tsleil Waututh cultural world-view of how things get done,
 always with an eye toward the seven generations yet unborn, or
 tomorrow's children.
@@ -44,7 +44,7 @@ Admission is free of charge.
 
 4360 Gallant Ave, North Vancouver BC (in the heart of Deep Cove)
 
-Open 7 days a week, 10 a.m. Ã¢€“ 5 p.m. except stat
+Open 7 days a week, 10 a.m. â€“ 5 p.m. except stat
 holidays
 www.seymourartgallery.com
 

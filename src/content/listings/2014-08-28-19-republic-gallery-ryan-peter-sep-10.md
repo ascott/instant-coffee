@@ -31,7 +31,7 @@ fractal forms evoking everything from galaxies to rock formations. The
 photograms are created by placing objects directly on the photo paper.
 Viewed together, the finished works capture the transition of these
 materials from their use-value as products, to their obsolescence and
-eventual â€œdeathâ€ .
+eventual “death” .
 
 Based in Vancouver, Ryan Peter holds a BFA (2004) and an MFA (2008) from
 The University of British Columbia. He was a finalist for the 11th Annual

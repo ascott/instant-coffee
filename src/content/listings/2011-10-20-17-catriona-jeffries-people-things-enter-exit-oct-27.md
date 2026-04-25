@@ -23,18 +23,18 @@ Enter (Ntr)
 Kneel (Kn)
 
 A matter of respect to collaborators or eliminate them at your peril. During these 
-moments nothing is said. Mark out here, â€œpauseâ€  and then there â€œsilenceâ€ . Enter 
+moments nothing is said. Mark out here, “pause”  and then there “silence” . Enter 
 like a stiff feather. Throw the book. THUMP. Violet turns to blue. One character to 
-the other may say, â€œShall we go?â€  The other replies, â€œYesâ€ . The stage direction 
-says: â€œThey do not move.â€ 
+the other may say, “Shall we go?”  The other replies, “Yes” . The stage direction 
+says: “They do not move.” 
 
 Is someone going to argue that stage direction is immaterial? I hope not. 
 (Kissing the bookcase) We move into the gallery 
 space, "Flatly." "Happily." "Holding back tears." and “Large over-stuffed chairs 
-that seem to swallow the characters.â€  We blink. The camera pans left and 
-captures â€œAâ€  walking with a red page then at the next moment â€œAâ€  disappear. 
+that seem to swallow the characters.”  We blink. The camera pans left and 
+captures “A”  walking with a red page then at the next moment “A”  disappear. 
 
-More importantly, â€œtwo hundred women of the townâ€  enter the room. The ﬁnal 
+More importantly, “two hundred women of the town”  enter the room. The ﬁnal 
 scene of the play opens with two girls winding a skein of red wool. Confusion 
 reigns with various characters appearing and asking for deﬁnitive news. A 
 yellow diffused floods the room. Yellow is the colour of his lips when he is dead. 

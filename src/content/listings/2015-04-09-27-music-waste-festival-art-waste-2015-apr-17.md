@@ -15,7 +15,7 @@ June 4-7, 2015. We are currently accepting submissions from artists for the
 Group Show to take place at Astro Turf Gallery on June 4th. Submissions
 close April 17, 2015.
 
-This yearâ€™s Group Show theme is â€œIN DREAMSâ€ : explore your own alternate
+This year’s Group Show theme is “IN DREAMS” : explore your own alternate
 reality, reinterpret a subconscious landscape or recreate a nightmare. We
 are looking for submissions that are drawn from your other waking life –
 the impossible or the mundane, the hoped or the feared, the meaningful or

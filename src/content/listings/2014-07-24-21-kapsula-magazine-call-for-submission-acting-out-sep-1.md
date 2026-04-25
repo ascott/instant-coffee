@@ -10,7 +10,7 @@ summary: "KAPSULA Magazine | call for submission: ACTING OUT | SEP 1"
 
 KAPSULA Magazine CFP: ACTING OUT
 
-In clinical psychology, â€œacting outâ€  is considered a defence mechanismâ€”a 
+In clinical psychology, “acting out”  is considered a defence mechanism—a 
 means of regaining control through a loss of control. Those who act out 
 disrupt the social order through their immanent reshaping of its boundaries. 
 Many contemporary artists working in performance and participatory art 

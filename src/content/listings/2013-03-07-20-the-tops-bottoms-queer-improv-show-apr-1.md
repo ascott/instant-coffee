@@ -22,16 +22,16 @@ Improv Centre.
 “This is a great step forward for these hilarious artists, and so we have called 
 this season ‘Steppin’ Out.’ We have loved performing in the bars in the Davie 
 St. area but now our performers are ready to step up and take the stage in a 
-real comedy theatre,â€  said Jones.
+real comedy theatre,”  said Jones.
 “The show has been free with pass-the-hat donation in recent years, but now 
 we must charge admission—a modest nine dollars—to pay the rent. 
 Audience members will more than get their money’s worth—The Improv 
 Centre is luxurious, with theatre seating and professional lighting, and there 
 isn’t a bad seat in the house. They can still have a drink, and there won’t be 
-waiters walking in front of them. The show is on historic Granville Island,â€  adds 
+waiters walking in front of them. The show is on historic Granville Island,”  adds 
 Jones, “so come down after work and get something to eat at the Public 
 Market or at any of the dozens of restaurants. Then start your week off with 
-some laughter at this wickedly funny comedy competition.â€ 
+some laughter at this wickedly funny comedy competition.” 
 Tops & Bottoms – Queer Improv Show – Monday nights at 7 pm at The Improv 
 Centre, 1502 Duranleau St., at the entrance to Granville Island, opposite the 
 Kids’ Only Market. Tickets, $9, can be picked up at the door or reserved on-

@@ -37,7 +37,7 @@ concerns along with notions of identity politics, labor, and different ways
 of seeing come together in a manner that tackles questions of ambiguity,
 identity, community, and the body. Among these works a space is created
 where we may explore the ways in which our lives are, as Nancy puts it,
-â€œwoven through with strangers and strangeness.â€  The strangeness of
+“woven through with strangers and strangeness.”  The strangeness of
 inhabiting a body; of the simultaneous necessity and impossibility of
 communicating the experience of that body; of the process of coming to know
 one’s self and one’s relation to others; and the strangeness of certain

@@ -27,13 +27,13 @@ Naz Shahrokh, On the Road (be fekret hastam) (United Arab Emirates,
 2013 6:40)
 
 Live Cinema Performance (30 minutes)
-VJ Um Amel with Fadi Z. Sakr, â€œFrom Cairo to Gaza: Mobilizing the 
-Body Politicâ€
+VJ Um Amel with Fadi Z. Sakr, “From Cairo to Gaza: Mobilizing the 
+Body Politic”
 
 These works identify patterns of information that lie below visible and
 audible thresholds and bring them into perception. They are alert to
 seemingly random patterns that, when organized into information, can 
-be rendered audiovisually. MoirÃ© patterns, shadow puppets, analog 
+be rendered audiovisually. Moiré patterns, shadow puppets, analog 
 video decay, surveillance technology, and other media collect and give 
 shape to disavowed histories and the voices of the earth. In some 
 cases these acts of translation permit a heightened political analysis. In 

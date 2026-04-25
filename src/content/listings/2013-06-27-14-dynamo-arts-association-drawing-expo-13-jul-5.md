@@ -26,7 +26,7 @@ Anastasia Ugorskaya
 Drawing Expo started as an annual group exhibition curated by Gabriel 
 Deerman in 2007. Its mandate is to present a diverse spectrum of artists from 
 Canada and abroad working in the field of contemporary drawing. “Drawing 
-Expoâ€  is a celebration of the imagination and fantasy that flourishes within the 
+Expo”  is a celebration of the imagination and fantasy that flourishes within the 
 transference of the artist's idea to the drawn surface. New worlds are 
 projected by this exciting medium. The artists involved challenge disciplinary 
 borders and definitions with their varying approaches to the work. Using print 

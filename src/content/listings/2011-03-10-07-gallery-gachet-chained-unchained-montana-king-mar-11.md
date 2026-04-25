@@ -42,7 +42,7 @@ culture. The lighters create a stained glass window effect representing
 colonial-forced Catholic education for indigenous peoples.
 
 The installation is part of Dallas’s healing. “We are all people of the
-earth,â€  she states, â€œand that in order to heal the earth, we have to heal
+earth,”  she states, “and that in order to heal the earth, we have to heal
 ourselves first.
 
 Ceremony features a large ceremony lodge made from thousands of lighters,
@@ -61,7 +61,7 @@ stories of her daughter, friend and comrade, all whom lost their lives to
 addiction.
 
 A former Out of the Rain participant, Montana King has produced a body of
-art that explores the â€œChained and Unchainedâ€  aspects of existence, and the
+art that explores the “Chained and Unchained”  aspects of existence, and the
 possibility of emerging into the freedom of unchained being. The chains of
 addiction and trauma presented are both real and metaphorical, their heavy
 presence exposing the viewer to greater possibilities of freedom.

@@ -41,12 +41,12 @@ in Westridge Park, near the site of 2007′s massive pipeline rupture. The rally
 will feature music, speakers (including Burnaby MP Kennedy Stewart, Ben 
 West of Forest Ethics and others), poetry, comedy and more. From there the 
 procession will conclude it’s journey to Westridge Marine Terminal, “the end 
-of the lineâ€  for tar sands shipments before they are put on tankers and sent 
+of the line”  for tar sands shipments before they are put on tankers and sent 
 abroad. As walkers arrive, a flotilla of boats, canoes and kayaks organized 
 by North Shore NOPE will be making noise on the Burrard Inlet.
 
 Saloman was commissioned to create a performative public walk as part of 
-Unit/Pitt Projectsâ€™ â€œCollective Walks/Spaces of Contestationâ€  exhibition, curated 
+Unit/Pitt Projects’ “Collective Walks/Spaces of Contestation”  exhibition, curated 
 by Mariane Bourcheix-Laporte. The Vancouver gallery’s exhibition which 
 runs from March 22 – May 3, with a reception on Friday, April 18, is an 
 access point to 3 other walks co-created by the invited artists and a 
@@ -55,14 +55,14 @@ and the Vancouver Public Library; Didier Morelli and the Britannia Outreach
 Program; and The Unlearning Walking Club which will host walking 
 adventures every Sunday for the duration of the exhibition.
 
-The Peopleâ€™s Procession was imagined by Saloman as a â€œcounter-mapâ€  as a 
+The People’s Procession was imagined by Saloman as a “counter-map”  as a 
 response to the maps provided by Kinder-Morgan and the Federal 
 Government. Speaking about the People’s Procession, Saloman has said “I 
 wanted to create a map that showed the real lives that are affected by this 
 project; a map that could be a different kind of educational tool. By making this 
 map with our bodies, moving through space, the participants carry the 
 knowledge with them and the tools to share it with others – they simply have 
-to go for walk.â€  In addition to the Peopleâ€™s Procession, Saloman is creating a 
+to go for walk.”  In addition to the People’s Procession, Saloman is creating a 
 printed map of the Burnaby pipeline network that includes oral histories; 
 recent and archival photos; and the streets, green spaces and waterways 
 affected by the pipeline.
@@ -74,7 +74,7 @@ how activists see things. I wanted to see if a protest created from the
 perspective of artists might create something different than what we’re used 
 to seeing, but still be very effective. Luckily BROKE immediately understood 
 that Art could speak to people in unique ways and they’ve been fantastic 
-collaborators.â€ 
+collaborators.” 
 
 The People’s Procession & Rally Against the Pipeline will begin at 10:00 am in 
 Forest Grove Park and culminate in a rally at 1:00pm in Westridge Park. The 

@@ -9,7 +9,7 @@ summary: "Exit 22 at Capilano University | THE CRUCIBLE | FEB 15"
 ---
 
 THE CRUCIBLE: Exit 22 presents The Crucible. Directed by Stuart Aikins, Arthur 
-Millerâ€™s The Crucible tells the tale of the Salem Witch Trials in1692. Sanctimony 
+Miller’s The Crucible tells the tale of the Salem Witch Trials in1692. Sanctimony 
 has poisonous  consequences when a vengeful teenager accuses a rival of 
 witchcraft. Those  accusations  multiply to consume the entire village. February 
 15-18, 2012 , 8pm. North Shore Credit Union Centre for the Performing Arts (Birch 

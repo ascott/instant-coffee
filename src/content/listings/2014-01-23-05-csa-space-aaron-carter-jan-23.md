@@ -25,8 +25,8 @@ now, but we are unwavering forever. Neapolitan, aside from being a
 person of Naples, is an absolute.
 
 Chocolate, vanilla and strawberry. Understand that to avoid a triangle 
-is to have more than three members of the absolute Ã¢â‚¬â€  so make a 
-square, another square, another square Ã¢â‚¬â€  vanilla, chocolate, 
+is to have more than three members of the absolute ââ‚¬”  so make a 
+square, another square, another square ââ‚¬”  vanilla, chocolate, 
 strawberry and Dijon. That one is yours.
 
 Aaron Carter is an Australian artist based in Vancouver.

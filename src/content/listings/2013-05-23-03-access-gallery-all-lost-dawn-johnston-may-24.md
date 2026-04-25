@@ -44,7 +44,7 @@ from the S.S. Pacific, a steamship that sank in the Strait of Juan de
 Fuca in 1875. The shard of wood, now housed in the Vancouver 
 Maritime Museum, was recovered at the shoreline in Victoria some six 
 weeks after the disaster. Scrawled on its surface were presumably the 
-last words of passenger Sewell Moody: â€œS.P. Moody. All Lost.â€  Like 
+last words of passenger Sewell Moody: “S.P. Moody. All Lost.”  Like 
 those sealed cargo containers accidentally pitched from their vessels 
 and left to drift, forgotten, at sea, Johnston’s ALL LOST suggests the 
 threads of connection that entangle disparate narratives and the 

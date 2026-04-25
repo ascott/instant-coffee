@@ -296,7 +296,7 @@ Seymour Street, Vancouver, BC.
 Far Away So Close Part II
 
 Kathleen Ritter, Guillermo Trejo
-24 January â�“ 7 March, 2015
+24 January ’“ 7 March, 2015
 "Everything that needs to be said has already been said. But since no one
 was listening, everything must be said again." - Andre Gide
 

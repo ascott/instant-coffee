@@ -65,7 +65,7 @@ since 1974. The Importance of Being Iceland/travel essays in art was
 awarded the Warhol/creative capital art writers’ grant in 2007. The
 Foundation for Contemporary Art awarded her a grant for poetry in 2014;
 Her Inferno (a poet’s novel) is now available (in her own voice) on
-ITunes; in 2012 she received a Guggenheim fellowship. â€œStreet Retreat,â€ 
+ITunes; in 2012 she received a Guggenheim fellowship. “Street Retreat,” 
 her essay about living on the streets of New York City with a group of
 Buddhists and homeless activists will be included in this year’s Whitney
 Biennial.

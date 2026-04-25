@@ -10,15 +10,15 @@ summary: "LIVE for Bright Light | Procession of Performing Circles | MAR 7"
 
 Procession of Performing Circles
 
-Presented by LIVE for Bright Light 2010 Sunday, March 7th 7 â�� 9pm
+Presented by LIVE for Bright Light 2010 Sunday, March 7th 7 ’ 9pm
 
 The Procession of Performing Circles is a living artwork based around
 the concept of a parade, procession, or carnivale--a festive and
-inclusive public intervention to celebrate the story of Vancouverâ��s
+inclusive public intervention to celebrate the story of Vancouver’s
 historical Downtown EastSide community.
 
 Conceived and curated by Glenn Lewis, the Procession of Performing
-Circles features some of the cityâ��s most celebrated performers,
+Circles features some of the city’s most celebrated performers,
 choreographers and dancers. Six performing groups include: Margaret
 Dragu as Lady Justice with her 7 Virtues and Vices (escorted by Rose
 Man); Karen Jamieson, working with her Carnegie Centre troupe; Coleen

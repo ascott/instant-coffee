@@ -19,7 +19,7 @@ Roedde House Museum
 
 On August 19th, Roedde House Museum launches a new exhibition on the
 origins of Vancouver tourism and travel. “Souvenirs of Howe Sound: A
-History of Local Tourismâ€  traces the rise of well-known Howe Sound getaways
+History of Local Tourism”  traces the rise of well-known Howe Sound getaways
 such as Bowen Island, Horseshoe Bay, and the Sunshine Coast, in the context
 of Vancouver’s colonization and urbanization. Narrated through historical
 photographs and promotional posters of Howe Sound from the early to
@@ -29,8 +29,8 @@ invites reflection on what it means to view the landscape as a tourist.
 
 Pioneer businesses such as the Union Steamship and Terminal Steamship
 companies played a large role in the tourist industry by creating
-impressions of British Columbia as a â€œpristine wildernessâ€  preserved for
-the enjoyment of modern, â€œcivilizedâ€  travellers. Such depictions erased
+impressions of British Columbia as a “pristine wilderness”  preserved for
+the enjoyment of modern, “civilized”  travellers. Such depictions erased
 indigenous presence and relied on a vision of the land as uninhabited. The
 Roeddes, a pioneering West End family, were present during this pivotal
 moment in the emergence of modern tourism in British Columbia, and often
@@ -38,7 +38,7 @@ enjoyed excursions around Vancouver and Howe Sound themselves.
 
 “By sharing the history of tourism in Vancouver, I hope the exhibition can
 offer locals and visitors alike a new way of thinking about our
-contemporary attitudes and practices towards land, leisure, and travel,â€ 
+contemporary attitudes and practices towards land, leisure, and travel,” 
 says exhibition curator Racan Souiedan. The tradition of marketing
 Vancouver as a wild and rugged nature destination has a lasting legacy. In
 the most recent Regional Tourism Profile done by Destination BC,
@@ -53,7 +53,7 @@ photographs from the early days of Vancouver tourism; Roedde Family photos
 and memories of summers spent at Horseshoe Bay; and accounts from Pauline
 Johnson (Tekahionwake) and Chief Joe Capilano.
 
-â€œSouvenirs of Howe Soundâ€  will have a special launch event and open
+“Souvenirs of Howe Sound”  will have a special launch event and open
 reception on Wednesday, August 19th from 5:00pm to 7:00pm. SFU History
 Professor, Dr. Jack Little will give a presentation: 'Views from the Deck:
 Union Steamship Cruises on Canada's Pacific Coast, 1889-1958' at 5:30pm.

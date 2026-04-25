@@ -123,7 +123,7 @@ with a printed image. In the time before photography such
 illustrations served as scientific evidence. The grand idea of 
 publishing these books was to give ordinary people access to 
 information that until then was confined to the “libraries of the 
-wealthy.â€ 
+wealthy.” 
 
 Image:
 Thomas Bewick, Untitled vignette, Wood engraving
@@ -664,7 +664,7 @@ one
 involving a political campaign worker for the last federal election
 who, according to the CBC [2], circulated an email “seeking people 
 in
-â€˜national folklore costumesâ€™â€  for a promotional photo-op. More 
+‘national folklore costumes’”  for a promotional photo-op. More 
 serious
 examples include the federal government’s refusal to request the
 repatriation of Omar Khadr, the Canadian citizen captured as a minor
@@ -677,7 +677,7 @@ Both cases bring up the issue of belonging in aesthetic terms: the
 subjective perception of the body’s identity creates a set of possible
 interactions with the nation. As if to say “we need you to look
 ‘folkloric,’ but there are limits to how much you can deviate from the
-prescribed image of the nation.â€  Indeed, there are borders.
+prescribed image of the nation.”  Indeed, there are borders.
 
 Yet, there are some things that escape the languages of identity and
 visibility. There is that which cannot be accounted for by the
@@ -737,7 +737,7 @@ the artifact that only appears to be a story, but in fact is not, and you
 understood it as a story, then in your mind it would be lodged as a 
 story and nothing you or I could say to the contrary would change 
 that. Once it is a story it remains one or fades. It could be a series of 
-lies or mistakes, but nevertheless it is a story or it doesnâ€™t exist.â€  â€”
+lies or mistakes, but nevertheless it is a story or it doesn’t exist.”  —
 Fred Douglas
 
 In celebration of Access’ twentieth year we are inviting artists to re-
@@ -976,7 +976,7 @@ when bored we reserve the right to do nothing by Instant Coffee
 
 We have nothing to say. Well, maybe that’s inaccurate. We have lots 
 to say, but nothing we say is meaningful, or better yet what we want 
-to say is â€œpurposefullyâ€  meaningless. There is no direct intent. Even 
+to say is “purposefully”  meaningless. There is no direct intent. Even 
 though that statement rings true it is an improbability, dubious 
 because we have proceeded with some aims. We have made a 
 plan and followed it, and before that we defined a goal. We wanted 
@@ -1035,11 +1035,11 @@ the exhibition is a new video installation work titled Where Will We
 Live? produced at the Or Gallery in July of this year. The work is 
 based on an assignment designed by the artist’s father, Edward 
 Buckingham, for his grade 4 classes. Students are asked to create 
-an â€œinventory listâ€  of an imagined present or future city. Using simple 
+an “inventory list”  of an imagined present or future city. Using simple 
 paper construction techniques each student creates a number of 
 buildings, roughly in scale with each other. At the end of this 
 exercise the group is asked to physically fit the city together, 
-deciding which buildings â€œbelongâ€  next to which, subsequently 
+deciding which buildings “belong”  next to which, subsequently 
 forming a model city that reflects and expresses their ideals. To 
 produce this work, Matthew Buckingham collaborated with students 
 of an Arts Umbrella summer class, planning and creating their city 
@@ -1048,7 +1048,7 @@ over four consecutive days.
 The title work of the exhibition, Creative Destruction (2006), a small 
 text-based sculptural work, shares a critical investigation into cities. 
 The work presents a short paragraph as a condensation of the 
-economic idea of â€œcreative destruction,â€  theorized by Werner 
+economic idea of “creative destruction,”  theorized by Werner 
 Sombart and Joseph Schumpeter, and later analyzed by David 
 Harvey.
 
@@ -1492,7 +1492,7 @@ eight years later, we are pleased to present three nights of music by
 artists, or more specifically music by artists’ bands. Curated by The 
 Music Appreciation Society, the festival will consist of two nights of 
 bands and DJs at The Waldorf Hotel (Wednesday the 14th and 
-Thursday the 15th), a one-night â€œchamber performanceâ€  by Mathew 
+Thursday the 15th), a one-night “chamber performance”  by Mathew 
 Sawyer at UNIT/PITT (Friday the 16th), and a panel 
 discussion/listening event on the history of the influential Vancouver 
 art band UJ3RK5, at Emily Carr University (Saturday, September 17, 

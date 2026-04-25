@@ -23,9 +23,9 @@ panel discussion, refreshments, and a live performance. Admission is
 free. 
 
 The key speaker and panelists represent a rich diversity of artists who 
-are using sound to actively participate in a â€œconversationâ€  with the natural 
+are using sound to actively participate in a “conversation”  with the natural 
 world. Avant-garde composer David Dunn is the keynote speaker who is 
-a pioneer of â€œenvironmental music.â€  In 1973, he travelled with three 
+a pioneer of “environmental music.”  In 1973, he travelled with three 
 trumpet players to the Grand Canyon where they improvised with the 
 spatial acoustics of rock formations and animals in the Canyon. Dunn 
 lives in Sante Fe, New Mexico where he is the current director of the Art 
@@ -38,7 +38,7 @@ inspired by the work of the American composer and amateur mushroom
 enthusiast John Cage. This recording of mushroom spores as they are 
 released into the air invites the listener to contemplate the relationship 
 between music and mushrooms. Matt Smith’s BogScape is a 
-â€œnaturalisticâ€  installation that generates sound from weather data 
+“naturalistic”  installation that generates sound from weather data 
 gathering systems located in or near Burns Bog. Stephanie Loveless’s 
 quadraphonic sound installation Cricket, Tree, Crow uses voice to 
 investigate the communication of insect, plant, and animal worlds. These 

@@ -24,14 +24,14 @@ Johannessen will arrive in Victoria in mid-September to plan his performance,
 scouring the city for an appropriate venue and theme for his performance.
 
 “The AGGV is pleased to partner with Open Space to bring world-class 
-performance art to Victoria,â€  said AGGV director Jon Tupper. â€œJohannessenâ€™s 
+performance art to Victoria,”  said AGGV director Jon Tupper. “Johannessen’s 
 lyrical public performance will fascinate Victorians and truly fulfill the Gallery’s 
-mandate of bringing art into the community.â€ 
+mandate of bringing art into the community.” 
 
 "Kurt Johannessen's visit continues a long-standing series of internationally -
 acclaimed performance artists brought to Victoria by Open Space, including 
 Jacques von Poppel (Netherlands), Ron Athey (USA), Lee Wen (Singapore) and 
-Alastair MacLennan (Ireland),â€  said Helen Marzolf, Open Space Executive 
+Alastair MacLennan (Ireland),”  said Helen Marzolf, Open Space Executive 
 Director.
 
 In September of 2010, Open Space hosted an exchange with Bbeyond an artist-

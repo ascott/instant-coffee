@@ -20,7 +20,7 @@ VancouverMaritimeMuseum.com
 VANCOUVER, B.C. (January 12, 2015) – For the first time, SpongeBob
 SquarePants, the world’s favorite sea dwelling invertebrate, comes ashore
 to our world for his most super-heroic adventure yet, in his new 3D movie,
-â€œTHE SPONGEBOB MOVIE: SPONGE OUT OF WATERâ€ , which hits theatre screens on
+“THE SPONGEBOB MOVIE: SPONGE OUT OF WATER” , which hits theatre screens on
 February 6.
 As part of his campaign to promote the highly anticipated new 3D movie,
 SpongeBob SquarePants himself will be live at the Vancouver Maritime Museum
@@ -31,13 +31,13 @@ to meet the new Superhero SpongeBob and take photos with the famous
 character. Mini movie posters will also be available, while quantities last.
 
 From Paramount Animation and Nickelodeon Movies comes “THE SPONGEBOB MOVIE:
-SPONGE OUT OF WATER,â€  an all-new 3D adventure thatâ€™s as wild and funny as
+SPONGE OUT OF WATER,”  an all-new 3D adventure that’s as wild and funny as
 its name. For the first time, SpongeBob SquarePants, the world’s favourite
 sea dwelling invertebrate, comes ashore to our world for his most
 super-heroic adventure yet.
 
 Produced by Paul Tibbitt and Mary Parent. Based on the series “SpongeBob
-SquarePantsâ€  created by Stephen Hillenburg. Story by Stephen Hillenburg &
+SquarePants”  created by Stephen Hillenburg. Story by Stephen Hillenburg &
 Paul Tibbitt, screenplay by Glenn Berger & Jonathan Aibel and Paul Tibbitt
 and directed by Paul Tibbitt.
 SpongeBobMovie.com

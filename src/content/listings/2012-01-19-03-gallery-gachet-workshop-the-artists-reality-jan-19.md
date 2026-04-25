@@ -37,9 +37,9 @@ gallery supporter, Karen Lievesley on The Artist’s Reality: exploring the cult
 landscape and realities of being an artist.
 
 This 4-week workshop series will cover topics ranging from “The history of 
-artist run centres and cultural institutionsâ€  to â€œVancouverâ€™s Art Scene and 
-Outsider Art - where does Gachet fit?â€ ; from â€œThe economic truth of being an 
-artistâ€  to â€œWays in which to survive economicallyâ€ ; Participants will be 
+artist run centres and cultural institutions”  to “Vancouver’s Art Scene and 
+Outsider Art - where does Gachet fit?” ; from “The economic truth of being an 
+artist”  to “Ways in which to survive economically” ; Participants will be 
 encouraged to think about how they sit in relation to the artist run culture 
 movement in Canada and specifically, Vancouver, as well as help them develop 
 their own arts’ careers.

@@ -33,7 +33,7 @@ Eligible for PuSh Pass access
 
 A group of office temps plan a farewell party for a recently laid off
 colleague. Will a Motsu hot pot restaurant do? Someone is obviously
-tampering with the climate-control system and itâ€™s getting out of 
+tampering with the climate-control system and it’s getting out of 
 hand.
 Should the police be notified? A coworker makes her farewell speech.
 What does it have to do with imaginary penguins and the death of a
@@ -47,8 +47,8 @@ and John Cage, each of the three scenes speak to the dark humour
 and despair of a generation that had been promised a brilliant future
 only to end up ensnared in fluorescent cubicles.
 
-Strangely hypnoticâ€¦ a three-part meditation on death, class, and
-listening for the sad poetry in the everydayâ€¦ By creating a jarring
+Strangely hypnotic… a three-part meditation on death, class, and
+listening for the sad poetry in the everyday… By creating a jarring
 juxtaposition between the physical score and the text, the forgettable is
 remembered, small details speak volumes. - Engine 28
 
@@ -56,7 +56,7 @@ Stylishly idiosyncratic director Toshiki Okada is known for crafting sharp
 and visually vibrant works of theatre out of the most ordinary of
 interactions. Founded in 1997, his Tokyo-based company is called
 chelfitsch, a neologism that evokes a childish deformation of the
-English word â€œselfish.â€ A rising star on the international theatre 
+English word “selfish.” A rising star on the international theatre 
 scene,
 chelfitsch has presented shows in the major theatre festivals of Berlin,
 Vienna, Paris, Singapore and New York, returning to Vancouver after

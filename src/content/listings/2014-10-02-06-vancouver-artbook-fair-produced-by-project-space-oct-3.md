@@ -17,7 +17,7 @@ Free and open to the public, the Vancouver Art/Book Fair is the only
 international art book fair in Canada and one of only two on the West
 Coast. In 2014 the event is anticipated to attract over 1,500 visitors from
 across the Greater Vancouver Area and beyond.
-Presented by Project Space, VA/BF is a two-day festival of artistsâ€™
+Presented by Project Space, VA/BF is a two-day festival of artists’
 publishing featuring nearly one hundred local, national and international
 publishers, as well as a diverse line-up of programs, performances and
 artist projects. Featured artists travel to Vancouver from across Canada
@@ -37,7 +37,7 @@ FRIDAY, OCTOBER 3
 Members Only Preview
 Open to Members of Project Space and the Vancouver Art Gallery
 Vancouver Art Gallery, Lobby & Annex, 750 Hornby St.
-Friday, October 3, 6â€“8pm
+Friday, October 3, 6–8pm
 Memberships available at the door or http://www.projectspace.ca/memberships
 
 VA/BF Reception

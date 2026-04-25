@@ -43,9 +43,9 @@ building, this fundraiser is a great way to support your artistic community.
 For more information about this year’s event and participating vendors, please 
 visit www.toque2012.tumblr.com
 
-â€œA true artistsâ€™ fair with a solidly local feelâ€  â€“ Scout Magazine
+“A true artists’ fair with a solidly local feel”  – Scout Magazine
 
 “Of all the artisan fairs happening this Christmas, the Western Front’s annual 
-Toque sale just might be the most artful.â€  - Georgia Straight
+Toque sale just might be the most artful.”  - Georgia Straight
 
 Thank you to our supporters

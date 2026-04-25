@@ -24,8 +24,8 @@ Burrard Arts Foundation is pleased to present a group show of work by six
 Vancouver-based artists that address or innovate with colour by pouring,
 soaking, covering, washing, staining, inflating and negating. Recent works
 by Jeff Hallbauer, Eddy Hofbauer, Zoe Hodgson, Simone Jarvis, Ben Marvin
-and Jacobo Zambrano are paired with a semi-fictional rewriting of colourâ€™s
+and Jacobo Zambrano are paired with a semi-fictional rewriting of colour’s
 history as a way to reimagine it as a cultural symbol of economy, power,
-pleasure, memory and science. Using fictionâ€™s idiosyncratic ability to
+pleasure, memory and science. Using fiction’s idiosyncratic ability to
 offer alternative possibilities, the exhibition treats revisionist history
 as a rinse and colour as a flag with all the sanctioned trappings.

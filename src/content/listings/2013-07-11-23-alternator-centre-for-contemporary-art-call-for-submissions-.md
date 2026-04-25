@@ -63,5 +63,5 @@ The Alternator Centre for Contemporary Art
 Kelowna, BC
 V1Y 6Z1
 
-A copy of the Alternatorâ��s programming policy can be found online at:
+A copy of the Alternator’s programming policy can be found online at:
 http://alternatorcentre.com/submit/call_for_submissions/

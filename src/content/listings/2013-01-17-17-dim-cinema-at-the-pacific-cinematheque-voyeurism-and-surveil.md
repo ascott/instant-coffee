@@ -51,6 +51,6 @@ Total running time: approx. 83 mins.
 This program was curated by graduate students at the University of British 
 Columbia in a seminar, led by John O’Brian of the Department of Art History, 
 Visual Art, and Theory, titled “Surveillance, Voyeurism, Criminality, and 
-Photography.â€  Participants included Vikki Addona, Kate Henderson, Jeremy 
+Photography.”  Participants included Vikki Addona, Kate Henderson, Jeremy 
 Jaud, Kyoung Yong Lee, Dana Loughlin, Vanessa Parent, Robin Simpson, 
 Sofia Stalner, Shalini Vanan, Stephen Wichuk, and Jayne Wilkinson.

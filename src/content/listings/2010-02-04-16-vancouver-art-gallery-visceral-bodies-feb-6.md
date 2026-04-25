@@ -70,7 +70,7 @@ Finally, Visceral Bodies presents work by artists who question whether our
 physical form is becoming increasingly irrelevant, and who reflect the
 cultural anxiety about what the future holds for the human form. The work
 of David Altmejd, Berlinde de Bruyckere, Antony Gormley, Luanne Martineau,
-Hiroko Okada and Thomas SchÃ�Â¼tte prophesize a body that is fragmented,
+Hiroko Okada and Thomas SchÂ¼tte prophesize a body that is fragmented,
 revealing hybrid species and mutated genders, which could be the
 consequences of biological experimentation. Unconcerned with accurately
 depicting the body, these artists convey powerful ideas, concepts and

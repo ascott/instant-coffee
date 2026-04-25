@@ -33,11 +33,11 @@ Reproduction in which the magician is compared to the painter and the
 surgeon is compared to the cameraman.
 
 “The magician heals a sick person by the laying on of hands; the surgeon
-cuts into the patientâ€™s body.â€  Benjamin goes on to state: â€œThe painter
+cuts into the patient’s body.”  Benjamin goes on to state: “The painter
 maintains in his work a natural distance from reality, the cameraman
 penetrates deeply into its web. There is a tremendous difference between
 the pictures they obtain. That of the painter is a total one, that of the
-cameraman consists of multiple fragments which are assembled under a new law.â€ 
+cameraman consists of multiple fragments which are assembled under a new law.” 
 
 Farmer’s presentation of the figures though seems to reveal a desire to
 maintain both positions simultaneously and it is into this inquiry and

@@ -30,16 +30,16 @@ formal concerns that point back to their making: the method, the language,
 and the inherent meaning of the technology used. There are 7 Sleepwalks for
 you to explore and find the answers for:
 Ã&#65533;Â 
-Ã¢ï¿½Â¢Ã&#65533;Â Ã&#65533;Â Ã&#65533;Â  Can you feel the gaze of technological sight? - Pointing
-Ã¢ï¿½Â¢Ã&#65533;Â Ã&#65533;Â Ã&#65533;Â  Can you see the change of light? - Spectral Arrangement 1
-Ã¢ï¿½Â¢Ã&#65533;Â Ã&#65533;Â Ã&#65533;Â  Can you crack the code? - Alpha Bravo
-Ã¢ï¿½Â¢Ã&#65533;Â Ã&#65533;Â Ã&#65533;Â  Can you play the Remington? - The Remington
-Ã¢ï¿½Â¢Ã&#65533;Â Ã&#65533;Â Ã&#65533;Â  Are you sure you are in control? Ã¢ï¿½ï¿½ Motorhead.6
-Ã¢ï¿½Â¢Ã&#65533;Â Ã&#65533;Â Ã&#65533;Â  What are the consequences of your actions? - Inadvertent Interaction
-Ã¢ï¿½Â¢Ã&#65533;Â Ã&#65533;Â Ã&#65533;Â  Where do things begin and end and how would you splice them together?
+âï¿½Â¢Ã&#65533;Â Ã&#65533;Â Ã&#65533;Â  Can you feel the gaze of technological sight? - Pointing
+âï¿½Â¢Ã&#65533;Â Ã&#65533;Â Ã&#65533;Â  Can you see the change of light? - Spectral Arrangement 1
+âï¿½Â¢Ã&#65533;Â Ã&#65533;Â Ã&#65533;Â  Can you crack the code? - Alpha Bravo
+âï¿½Â¢Ã&#65533;Â Ã&#65533;Â Ã&#65533;Â  Can you play the Remington? - The Remington
+âï¿½Â¢Ã&#65533;Â Ã&#65533;Â Ã&#65533;Â  Are you sure you are in control? âï¿½ï¿½ Motorhead.6
+âï¿½Â¢Ã&#65533;Â Ã&#65533;Â Ã&#65533;Â  What are the consequences of your actions? - Inadvertent Interaction
+âï¿½Â¢Ã&#65533;Â Ã&#65533;Â Ã&#65533;Â  Where do things begin and end and how would you splice them together?
 - Tiny Cinema
 
-Description of works with artistsâ�� bios at www.vivomediaarts.com
+Description of works with artists’ bios at www.vivomediaarts.com
 <http://www.vivomediaarts.com/>
 The SLAB is a Studio LAB and a community of practice for electronic media
 artists and technology enthusiasts. We foster experimentation and provide
@@ -47,7 +47,7 @@ artists with the means and motivation to develop their art unconstrained by
 new media conventions and assumed ways of using technology. SLAB offers
 workshops and facilitates collaborative projects, providing artists with
 mentorship and technical assistance. The projects conclude in public
-exhibitions and events. SLAB art doesnâ��t attempt to gloss over the rough
+exhibitions and events. SLAB art doesn’t attempt to gloss over the rough
 edges of its creation, but instead exposes the processes of its production.
 Blurring the lines between experimentation, creation and public
 presentation, SLAB events are risk-sharing experiences between the artists

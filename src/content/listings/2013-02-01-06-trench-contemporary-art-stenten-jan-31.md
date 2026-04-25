@@ -34,17 +34,17 @@ The thorough, diligent yet serene lines of Even Broens’ wall sculptures reflec
 the “formal, poetic, and philosophical possibilities of sculpture. From this 
 point of departure, objects possess an essence. In studying the essence of 
 objects, there is potential for a greater understanding of how we are 
-ontologically bound with them.â€ 
+ontologically bound with them.” 
 
 The patient hand-cut ‘digitization’ of Ed Spence’s reorganized places “suggest 
 a state of flux or perceptive revelation…[where] the fracturing of surface brings 
-into question our valuation of digital craft in contrast to the hand made.â€  His 
+into question our valuation of digital craft in contrast to the hand made.”  His 
 creation of an “alternative perception is mediated by the aesthetics of an 
-indexed colour mode andâ€¦onscreen isometry.â€ 
+indexed colour mode and…onscreen isometry.” 
 
 The rich, colourful sensory travels of Gabriel Dubois’ paint strokes bring his 
-â€œoutside artâ€  inside, where messages and images are broken down into â€œhints 
-of figurative formsâ€  and carefully placed lines. Here, graffiti, drafting, paint, line, 
+“outside art”  inside, where messages and images are broken down into “hints 
+of figurative forms”  and carefully placed lines. Here, graffiti, drafting, paint, line, 
 colour and found materials intertwine ideas of the urban, the personal and the 
 formal, while challenging our assumptions of where these all belong.
 

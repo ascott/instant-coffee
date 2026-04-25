@@ -236,7 +236,7 @@ Opening Reception // Saturday, February 26th // 7pm - 11pm
 Andrew Dadson and Jonathan Syme exhibit new works that explore the
 materiality of paint through distinct methods of layering. Syme uses
 linear elements of saturated colour to draw the eye into his optically
-rich fields of algorithmic-like abstraction. In contrast, Dadsonâ��s
+rich fields of algorithmic-like abstraction. In contrast, Dadson’s
 work is mute and calm by nature with subtle evidence of the layers of
 colour and texture that make up the final effaced surface; both
 allowing the viewer to enter the void and explore the liminal space
@@ -532,7 +532,7 @@ Saint Jesua
 Aaron Moran
 Henry Adam Svec
 Lindsay Dakin
-Sylvana Dâ��Angelo
+Sylvana D’Angelo
 
 darling is a quarterly publication.
 
@@ -601,7 +601,7 @@ They include Ferrand (Truffaut), the director who observes at one
 point that making a movie is like a stagecoach trip through the old
 West ("At first you hope for a pleasant trip. Then you simply hope to
 reach your destination"); Julie (Jacqueline Bisset), the beautiful
-Hollywood star of the film within; Alphonse (Jean-Pierre LÃ�Â©aud of 400
+Hollywood star of the film within; Alphonse (Jean-Pierre LÂ©aud of 400
 Blows), a nice, nut-brained young actor preoccupied by movies and
 women, in that order; Alexandre (Jean-Pierre Aumont), the aging male
 lead of the film within, and Severine (Miss Cortese), Alexandre's
@@ -610,7 +610,7 @@ when he reveals plans to settle down with his new young male lover.
 
 Day for Night is Truffaut's fondest, most compassionate film, and
 although it is packed with references to films and film people
-(Welles, Vigo, Fellini, BuÃ�Â±uel, among others) and although it is
+(Welles, Vigo, Fellini, BuÂ±uel, among others) and although it is
 dedicated to Lillian and Dorothy Gish, it's not a particularly inside
 movie. That is, it has great fun showing us how movies are made, how
 rain and snow are manufactured, how animals are directed (or not), how
@@ -699,20 +699,20 @@ landscapes, and gestures. Influenced by west coast experimental filmmakers
 of the 1960s and 70s and her own education in anthropology and ethnography,
 Strand immersed her filmmaking in the joy of being with people. For 30
 years, she made films about the people and landscapes of California and
-Mexico. â��To leave out the spirit of the people presents a thin tapestry of
+Mexico. ’To leave out the spirit of the people presents a thin tapestry of
 the culture, easy to rent, lacking in strength and depth. I want to know
 really what it is like to be a breathing, talking, moving, emotional,
-relating individual in the society.â�� Strand also strove for intimacy with
+relating individual in the society.’ Strand also strove for intimacy with
 her camera, keeping it close to her body and trusting her own weight and
 motion to persuade its gaze. Her physical intimacy with her subjects is
 evidenced in the dominance of close-ups. The resulting shallow depth of
 field creates kinetic compositions of horizons flattened against
 sun-stroked faces and cropped bodies in motion. Her appreciation of
 synchronicity, intuition and romance is also evident in her found-footage
-collages. â��If poetry is the art of making evocative connections between
+collages. ’If poetry is the art of making evocative connections between
 otherwise dissimilar phenomena, then Chick Strand is a great poet, for
 these films transcend their material to create a surreal and sublime
-universe beyond reasonâ�� (Gene Youngblood).
+universe beyond reason’ (Gene Youngblood).
 
 Programme Curated by Dominic Angerame and Canyon Cinema
 
@@ -734,7 +734,7 @@ __________________
 
 Amy Lynn Kazymerchyk
 Associate Programmer: DIM Cinema
-Pacific CinÃ©mathÃ¨que
+Pacific Cinémathèque
 cinematheque.bc.ca
 dimcinema.ca
 
@@ -766,7 +766,7 @@ Participating Artists:
 
 Mairin Cooley, Liz Van Allen, Jessica Parsons, Peter Hadfield, Vincent Van
 Haaf, Jennilee Marigomen, Athena Papadopoulos,Greg Ryan, Luciana
-D'AnunciaÃ§Ã£o, Heidi Nagtegaal, Devin Mackenzie, Theodore Bernard, Jaik
+D'AnunciaçÃ£o, Heidi Nagtegaal, Devin Mackenzie, Theodore Bernard, Jaik
 Olsen, Shawna Mclellan, Marie Horstead, Simon Redcrop, Patrick McManus,
 Patrick Cruz, Sam Buss, Jordan and David Doody, Stephen James, Chris Boni,
 Barry Doupe, Emilio Rojas, Zahid Zawa, Robert Fougere,Paul Paper, Ian
@@ -804,7 +804,7 @@ http://www.facebook.com/lovedancing
 Drop Out Video Arts Society
 http://www.dropoutvideo.com
 
-BYOB and Artist RafaÃ«l Rozendaal:
+BYOB and Artist Rafaël Rozendaal:
 
 http://www.byobworldwide.com/
 
@@ -868,7 +868,7 @@ technological communication. Vancouver artist Germaine Koh and Toronto
 artist Gordon Hicks are interested in how, in our age of everyday
 telepresence manifested by constant phone and computer use, relationships
 between time and space are being altered in significant ways. There/Here,
-Koh and Hicksâ�� current exhibition at the Surrey Art Gallery, presents a
+Koh and Hicks’ current exhibition at the Surrey Art Gallery, presents a
 compelling work of interactive sculpture that addresses the influence of
 technology on our daily lives. Join Germaine Koh for a discussion about the
 exhibition and her collaboration with Gordon Hicks on Thursday, March 3,
@@ -886,10 +886,10 @@ Born in Malaysia and based in Vancouver, Germaine Koh is an internationally
 active artist recognized for her wide breadth of artistic practice
 concerned with everyday objects and daily activities that often go
 unnoticed, yet profoundly shape our experiences. She has exhibited widely
-in such venues as De Appel (Amsterdam), MusÃ©e d'art contemporain de
-MontrÃ©al, Para/Site Art Space (Hong Kong), Frankfurter Kunstverein
+in such venues as De Appel (Amsterdam), Musée d'art contemporain de
+Montréal, Para/Site Art Space (Hong Kong), Frankfurter Kunstverein
 (Germany), Bloomberg SPACE (London), The Power Plant (Toronto), Seoul
-Museum of Art, Artspace (Sydney) and the Liverpool, Sydney and MontrÃ©al
+Museum of Art, Artspace (Sydney) and the Liverpool, Sydney and Montréal
 biennials. Koh was a recipient of the prestigious Jack and Doris Shadbolt
 Foundation's VIVA Award in 2010 and was a finalist for the 2004 Sobey Art
 Award. Formerly an Assistant Curator of Contemporary Art at the National
@@ -932,14 +932,14 @@ LIMINAL POSITIONS
 FRIDAY MARCH 4, 6-8PM South Building #301, RECEPTION 8PM Agro Cafe,
 SATURDAY MARCH 5, 10:30AM-4:30PM, South Building #301.
 
-This yearâ��s conference seeks to gauge and engage the current state of Canadian
+This year’s conference seeks to gauge and engage the current state of Canadian
 academic research across the fields of art, history, philosophy, critical +
 cultural studies. Presenting critical and creative explorations into the
 potentially rich contradictions inherent in criticizing culture while
 earnestly taking part in producing it.
 
 Liminal Positions aims to provide a forum for the discussion of questions
-centered around the notion of in-betweenness. Asking where the â��workâ�� of
+centered around the notion of in-betweenness. Asking where the ’work’ of
 art actually occurs and considering the role of the artist within commodity
 culture? Or conversely, how have cultural analysts approached writing or
 theorizing popular culture or current events?
@@ -1166,7 +1166,7 @@ http://www.haidanation.ca/Pages/Splash/Public_Notices/artist_residency.html
 CALL | Call for Interest- The Fountain as Muse</a>
 Call for Interest- The Fountain as Muse
 
-Marcel Duchampâ��s â��The Fountainâ�� is generally regarded as the first piece of
+Marcel Duchamp’s ’The Fountain’ is generally regarded as the first piece of
 conceptual artwork. As contemporary artists we either build on or reject
 this tradition of conceptual art. Create a response to the work The
 Fountain whether literal or conceptual which will be curated and exhibited

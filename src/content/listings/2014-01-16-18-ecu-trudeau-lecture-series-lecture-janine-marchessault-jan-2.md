@@ -27,7 +27,7 @@ a 2012 fellow of the Pierre Elliott Trudeau Foundation.
 What is the function of public art today? If art is the highest expression of our 
 culture, might it play a role in bringing citizens together in new and 
 unforeseen ways to recognize shared problems and devise common 
-purposes? Might the â€œnew urbanismâ€  proposed by the great architect Rem 
+purposes? Might the “new urbanism”  proposed by the great architect Rem 
 Koolhaas be found in new forms of participatory public art that are 
 temporarily transforming urban spaces around the world?
 The most enlightened urban planners and designers have always been 

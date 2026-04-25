@@ -13,7 +13,7 @@ January 14 – February 25
 Opening reception Saturday January 14, 6-9pm
 
 Double Veronica, 2011
-Oil on canvas, 58x39â€ 
+Oil on canvas, 58x39” 
 
 Blanket is pleased to present Beige Infinity, a solo exhibition of new
 paintings by New York based artist Brian Kokoska. A palette all together

@@ -38,7 +38,7 @@ Release Date: Oct 1st, 2015
 
 Fill out our online Submissions form on our website and email
 submission artwork to art.katalyst@gmail.com with the subject line:
-â€œAttn: Issue # Submission: First & Last Nameâ€ . Deadlines are the 5th
+“Attn: Issue # Submission: First & Last Name” . Deadlines are the 5th
 of every month.
 
 -Include 3-8 high resolution (300 dpi, high quality, non watermarked)

@@ -30,10 +30,10 @@ arts, and lifetime achievement.
 “Vancouver City Council supports a diverse and thriving cultural
 community that is vital to a vibrant, healthy city. The 2015 Mayor’s Arts
 Awards honourees and emerging artists represent the depth and
-diversity of talent that we have in this city,â€  said Mayor Gregor
+diversity of talent that we have in this city,”  said Mayor Gregor
 Robertson. “On behalf of my colleagues on Vancouver City Council, I
 extend my congratulations to these extraordinary artists, who make
-Vancouver such an inspiring and creative city.â€ 
+Vancouver such an inspiring and creative city.” 
 
 Award recipients are selected for their significant contributions to their
 respective disciplines, as well as for leadership, innovation, and

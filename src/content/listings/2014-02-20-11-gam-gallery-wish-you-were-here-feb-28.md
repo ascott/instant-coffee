@@ -34,7 +34,7 @@ the artist and made into miniature form. The resulting work depicts scenes
 that may or may not still exist, standing as a record of the continuously 
 changing cityscape. As Susan Stewart claims in her book On Longing, “We 
 ﬁnd the miniature at the origin of private, individual history, but we ﬁnd the 
-gigantic at the origin of public and natural history.â€  The works in the exhibition 
+gigantic at the origin of public and natural history.”  The works in the exhibition 
 oscillate between allusion and deﬁnition, souvenir and model, and the 
 experience of the public and the private. 
 

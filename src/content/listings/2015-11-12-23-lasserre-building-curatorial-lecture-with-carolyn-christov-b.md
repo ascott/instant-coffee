@@ -16,7 +16,7 @@ Room 102 - Lasserre Building, 6333 Memorial Road, UBC
 
 The Belkin Art Gallery is pleased to present a talk by Carolyn Christov-
 Bakargiev, “The 14th Istanbul Biennial: On Annie Besant, thought
-forms, mad science, love and politics,â€  as part of the Curatorial Lecture
+forms, mad science, love and politics,”  as part of the Curatorial Lecture
 Series. This lecture will explore the relationship between the 14th
 Istanbul Biennial titled Saltwater. A Theory of Thought Forms and 19th
 and early 20th century theosophist Annie Besant’s notion of thought

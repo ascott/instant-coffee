@@ -16,8 +16,8 @@ of Columbus once stood. The plaza looks over the rail yard and industrial lots
 below, a place called Skwachàys in the Squamish language. Waste Lands is a 
 project that investigates this space, once a tidal zone where the Pacific ocean 
 washed right up to Clark Drive, recently rebranded as The Flats, “Vancouver’s 
-hottest art district,â€ 1 a place that contests any closed notions of public and 
-private land, trespassers and landlords, or Indigenous land and â€œsettledâ€  cities.
+hottest art district,” 1 a place that contests any closed notions of public and 
+private land, trespassers and landlords, or Indigenous land and “settled”  cities.
 
 Friday June 13th
 Sunset Terrace Gallery

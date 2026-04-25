@@ -9,7 +9,7 @@ summary: "Goethe Satellite Vancouver | 4 New Projects | coming soon"
 ---
 
 After a successful start with the Freie Internationale Tankstelle, or FIT, a “fueling 
-station for the creative spiritâ€  by Berlin artist Dida Zende, which took the form of a 
+station for the creative spirit”  by Berlin artist Dida Zende, which took the form of a 
 custom architecture built from shipping containers at the Waldorf Hotel, four new 
 projects have been announced for the Goethe Satellite Vancouver.
 

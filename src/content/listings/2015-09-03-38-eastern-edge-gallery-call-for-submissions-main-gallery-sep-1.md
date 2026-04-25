@@ -29,7 +29,7 @@ critical writing, etc.); and
 6. An accompanying image list
 
 Please send applications to gallery@easternedge.ca, and indicate
-â€œMain Gallery Submissionâ€  in your subject line.
+“Main Gallery Submission”  in your subject line.
 
 For more information on the gallery's, history, mandate and call for
 submissions, please visit our website at www.easternedge.ca.

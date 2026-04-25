@@ -31,7 +31,7 @@ Rodney Graham: Props and Other Paintings is the final installment of a trio
 of exhibitions held from May to November 2014 in Vancouver, including Rodney Graham: Collected Works (May 31 to October 4) at Rennie Collection at Wing Sang and Torqued Chandelier Release and Other Works (June 20 to August 17) at the Morris and Helen Belkin Art Gallery at the University of British Columbia. The exhibition is presented in collaboration with Rennie Collection, which initiated the three exhibitions and holds a substantial collection of Graham’s work.
 
 Recent solo exhibitions of Graham’s work have been held at the Vancouver
-Art Gallery; Museu Picasso, Barcelona; the Museu dâ€™Art Contemporani de Barcelona; Hamburger Kunsthalle, Hamburg and Museum für Gegenwartskunst, Basel. Grahamâ€™s work can be found in a number of public collections
+Art Gallery; Museu Picasso, Barcelona; the Museu d’Art Contemporani de Barcelona; Hamburger Kunsthalle, Hamburg and Museum für Gegenwartskunst, Basel. Graham’s work can be found in a number of public collections
 worldwide, including the Museum of Modern Art, New York; the Centre Georges Pompidou, Paris; the Tate Modern, London and the Metropolitan Museum of Art, New York. In 2006 Emily Carr University Press published This is the Only
 Living I’ve Got (Don’t Take it Away From Me):
 

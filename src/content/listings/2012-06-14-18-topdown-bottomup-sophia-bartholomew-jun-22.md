@@ -15,7 +15,7 @@ aversionofyourself.tumblr.com
 opening: june 22 7PM
 artist run event: july 10 7PM
 
-â€œthe reason iâ€™m painting this way is because i want to be a machine.â€ 
+“the reason i’m painting this way is because i want to be a machine.” 
 because i want to be a factory. an assembly line of readymades:
 appropriated garments and regurgitated texts. words from
 conversations, from jokes, from art, lectures, fiction, facebook,

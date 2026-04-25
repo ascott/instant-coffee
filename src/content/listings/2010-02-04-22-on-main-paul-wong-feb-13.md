@@ -32,22 +32,22 @@ artworks at two Canada Line stations in Vancouver
 Both projects will be up during the Olympics and beyond. Canada Line is
 the new rapid transit system connecting downtown to the YVR Airport.
 
-Paul Wongâ��s â��5â�� WALL MURAL is at the Canada Line City Centre Station
+Paul Wong’s ’5’ WALL MURAL is at the Canada Line City Centre Station
 
-This is an exciting addition to the â��5â�� Project. The â��5â�� MURAL is a
-40â��x10â�� transparency mounted on the exterior west wall of the station. The
+This is an exciting addition to the ’5’ Project. The ’5’ MURAL is a
+40’x10’ transparency mounted on the exterior west wall of the station. The
 City Centre Station is prominently located at the very heart of the city at
 Granville and Georgia Street.
 
 Presented by Winsor Gallery, City of Vancouver, inTransitBC, and ON MAIN
 
-Michele Quanâ��s GARLANDS at the Canada Line King Edward Station
+Michele Quan’s GARLANDS at the Canada Line King Edward Station
 
 GARLANDS is a ceramic installation with text. This is a version of
 GARLANDS that was exhibited at ON MAIN Summer 2009. You can see GARLANDS in
 the exterior windows facing Cambie Street at King Edward Station. The
-interior view includes the quote â��â�¦if you donâ��t fill it with stars and
-falsenessâ�� by C. Bukowski.
+interior view includes the quote ’’¦if you don’t fill it with stars and
+falseness’ by C. Bukowski.
 
 www.mquan.com
 

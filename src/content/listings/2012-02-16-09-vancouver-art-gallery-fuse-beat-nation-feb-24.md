@@ -26,14 +26,14 @@ Bear Witness: award-winning multimedia artist and filmmaker Bear
 Witness brings his DJ skills to FUSE;
 A Tribe Called Red: this DJ collective’s signature dubstep re-mixes of 
 native American drum circles have been called “the most exciting music 
-in Indian Countryâ€ ;
+in Indian Country” ;
 Dedos: recognized as one of Canada’s graffiti/b-boy pioneers, this 
 Juno Award-winning artist brings his dance style to the Gallery;
 Silver Jackson (Nicholas Galanin): showing another side of his artistic 
 expression, Tlingit/Aleut multimedia artist Galanin picks up his guitar 
 and performs as Silver Jackson;
 Skeena Reece: a multi-disciplinary Tsimshian/Gitskan and Cree artist, 
-Reece brings her special humour and â€œsacred clowningâ€  performance 
+Reece brings her special humour and “sacred clowning”  performance 
 to the Rotunda;
 Vancouver-based aboriginal artist Raymond Boisjoly makes a special 
 handstamp for the night.

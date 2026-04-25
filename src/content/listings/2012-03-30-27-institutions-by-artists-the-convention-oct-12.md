@@ -85,11 +85,11 @@ to registration@arcpost.ca.
  
 • 20% of the fees will be retained if there is a cancellation up to 60 days 
 prior to the Conference. 
- â€¢ 50% of the fees will be retained if there is a cancellation 60 to 7 days 
+ • 50% of the fees will be retained if there is a cancellation 60 to 7 days 
 prior to the Conference.  
 • Last minute (less than 7 days) cancellation will not be refundable. 
- â€¢ Non-refundable in case of non-attendance. 
- â€¢ Conference participation is transferable to another person.
+ • Non-refundable in case of non-attendance. 
+ • Conference participation is transferable to another person.
 
 %%%%%% Accommodations %%%%%%
 

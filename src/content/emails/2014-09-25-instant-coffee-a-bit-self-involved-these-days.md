@@ -102,7 +102,7 @@ Membership and Outreach Coordinator
 
 To apply, please send a resume and cover letter via email to
 cfat.hiringcommittee@gmail.com with the subject line “Membership Outreach
-Coordinatorâ€ .
+Coordinator” .
 
 Office and Volunteer Coordinator
 
@@ -149,7 +149,7 @@ Nova Scotia Department of Labour and Advanced Education. To be eligible for
 the position you must qualify for the program. Details about eligibility
 are below:
 
-â€¢ You must be an unemployed individual (â€œinsured participantâ€ ) as
+• You must be an unemployed individual (“insured participant” ) as
 defined by Section 58 of the Employment Insurance Act. This means that you
 are an individual for whom:
 
@@ -185,7 +185,7 @@ a contradictory turn of phrase. What does it mean to gain and lose
 simultaneously? The scope of the word expands when considering
 “longing” as an abstract, often unseeable, exchange. Much more
 than a desire to find whatever is missing, longing functions as a state of
-being, a phenomenology that canâ€™t always be remedied… The corporeality
+being, a phenomenology that can’t always be remedied… The corporeality
 of longing is matched then by a psychological conditioning that is
 sometimes, if not consistently, out of one’s control.
 
@@ -195,7 +195,7 @@ their own gains and losses is largely pre–appointed by laws and social
 convention. This means that a state of longing, much like a state of
 belonging, is political. It turns out you can lose something you never
 had… And, this is the most potent, and perhaps difficult, mode of
-longing˜for when you canâ€™t figure out what you lost, thereâ€™s a chance
+longing˜for when you can’t figure out what you lost, there’s a chance
 it might never be found.
 
 How then is longing, in its myriad forms, represented as a quality
@@ -436,7 +436,7 @@ Exhibition continues to January 4, 2015
 
 Through colour portraits of multiracial individuals of all ages and walks
 of life, award-winning filmmaker and artist Kip Fulbeck raises the
-question, â€œWhat are you?â€  Originally used as a derogatory label derived
+question, “What are you?”  Originally used as a derogatory label derived
 from the Hawaiian word for "half," hapa is now a term of pride by many
 whose mixed-race heritage includes Asian ancestry. These powerful yet
 intimate expressions of identity offers a complex perspective on an
@@ -951,7 +951,7 @@ Liverpool, a once vital seaport which, like Vancouver, is being
 dramatically redefined by social and global economic change. Buckingham
 writes that without “using words the pictures and sounds juxtapose
 different archetypal sites from Liverpool’s city-scape, allowing places and
-their respective â€˜pastsâ€™ to resonate with and contradict each other.â€  The
+their respective ‘pasts’ to resonate with and contradict each other.”  The
 wave of change that impacts inhabitants of most port cities is akin to the
 drastic change that befalls Daniel Orme as he transitions from sea to land.
 This wave of change is physically manifested by Buckingham as the platform
@@ -1194,7 +1194,7 @@ Rodney Graham: Props and Other Paintings is the final installment of a trio
 of exhibitions held from May to November 2014 in Vancouver, including Rodney Graham: Collected Works (May 31 to October 4) at Rennie Collection at Wing Sang and Torqued Chandelier Release and Other Works (June 20 to August 17) at the Morris and Helen Belkin Art Gallery at the University of British Columbia. The exhibition is presented in collaboration with Rennie Collection, which initiated the three exhibitions and holds a substantial collection of Graham’s work.
 
 Recent solo exhibitions of Graham’s work have been held at the Vancouver
-Art Gallery; Museu Picasso, Barcelona; the Museu dâ€™Art Contemporani de Barcelona; Hamburger Kunsthalle, Hamburg and Museum für Gegenwartskunst, Basel. Grahamâ€™s work can be found in a number of public collections
+Art Gallery; Museu Picasso, Barcelona; the Museu d’Art Contemporani de Barcelona; Hamburger Kunsthalle, Hamburg and Museum für Gegenwartskunst, Basel. Graham’s work can be found in a number of public collections
 worldwide, including the Museum of Modern Art, New York; the Centre Georges Pompidou, Paris; the Tate Modern, London and the Metropolitan Museum of Art, New York. In 2006 Emily Carr University Press published This is the Only
 Living I’ve Got (Don’t Take it Away From Me):
 
@@ -1218,7 +1218,7 @@ Joan Carlisle Irving Lecture Series
 Department of Art History, Visual Art & Theory, University of British Columbia
 
 Kaja Silverman
-â€œUnstoppable Developmentâ€ 
+“Unstoppable Development” 
 
 Wednesday, October 8, 2014
 5:30 pm Room 102 Frederic Lasserre Building
@@ -1280,7 +1280,7 @@ curatorial project, while being fully supported by the fantastic team
 members behind Gallery 295. There are not many opportunities like this open
 to young curators working in Vancouver, and since 'Locate' the support for
 the Gallery 295 community and beyond has been unwavering. I would encourage
-all curators working in Vancouver with ambition to apply.â€  - Avalon Mott
+all curators working in Vancouver with ambition to apply.”  - Avalon Mott
 
 Our Call for Proposals has been extended to October 10th, 2014.
 

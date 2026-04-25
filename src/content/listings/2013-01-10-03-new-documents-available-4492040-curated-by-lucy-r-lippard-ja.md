@@ -18,7 +18,7 @@ the early 1970s. A launch will be held at the Vancouver Art Gallery on January
 
 Drawn from material originally published between 1969 and 1974, 4,492,040 
 includes reprints of all four of the hugely important catalogs from the “numbers 
-showsâ€  produced for a series of exhibitions named for the populations of the 
+shows”  produced for a series of exhibitions named for the populations of the 
 cities in which they were held: 557,087 (Seattle), 955,000 (Vancouver), 
 c.7,500 (Valencia, California), and 2,972,453 (Buenos Aires). As with the 
 originals, 4,492,040 is made up of a collection of loose notecards containing 
@@ -55,7 +55,7 @@ Tuesday, January 8 at 7 pm in the Heritage Courtroom at the Vancouver Art
 Gallery.
 
 Join Cornelia Butler, Chief Curator of Drawings at the Museum of Modern Art 
-New York and author of â€œWomen Â­â€“ Concept â€“ Artâ€  in From Conceptualism to 
+New York and author of “Women Â­– Concept – Art”  in From Conceptualism to 
 Feminism, and Grant Arnold, Audain Curator of British Columbia Art at the 
 Vancouver Art Gallery, for an informal discussion of Lippard’s catalogs within 
 the context of the exhibitions they accompanied.

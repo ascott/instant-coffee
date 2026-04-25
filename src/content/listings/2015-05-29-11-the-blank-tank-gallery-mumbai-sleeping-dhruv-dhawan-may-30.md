@@ -32,7 +32,7 @@ condition. He studied cultural anthropology at Duke University and
 completed his Masters in film production at UBC.
 
 Dhruv’s films are distributed globally and have been nominated for various
-awards on the festival circuit. His debut feature, â€œFrom Dustâ€  was
+awards on the festival circuit. His debut feature, “From Dust”  was
 critically acclaimed by the international press and screened at the United
 Nations for its exposé of gentrification in the wake of natural disasters.
 

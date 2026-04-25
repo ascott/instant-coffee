@@ -76,7 +76,7 @@ Lorna Brown is an artist, writer, independent curator and founding
 member of Other Sights and participant in the Communications Office.
 
 This conversation is the final installment of “The Situation is This: 
-Speakers Series 2011â€  and a bridge to â€œThe Future is Floatingâ€ , a 
+Speakers Series 2011”  and a bridge to “The Future is Floating” , a 
 series of Communication Office events that will take place in various 
 locations around Vancouver during 2012.
 
@@ -1013,14 +1013,14 @@ Sound terrifying? Yes, probably. But who knows? It could also be
 exhilarating, cathartic, perhaps even liberating.
 
 With access to over 1-million daily subway commuters, confessors take 
-on the potential â€œriskâ€  of being recognized by passerby. While names 
+on the potential “risk”  of being recognized by passerby. While names 
 will NOT be disclosed on screen, visual identities will. And that’s the 
 exciting part; the risky part; the real challenge. Maybe you want that 
 ONE person to discover that ONE secret you’ve been hiding from them 
 for years? Or maybe you just want the chance to finally share your 
 secret with others? Either way, the platform is yours….
 
-At its core, this project attempts to exmaine the â€œcollectiveâ€  act of 
+At its core, this project attempts to exmaine the “collective”  act of 
 confessing by exploring some deeply rooted questions: What if we 
 could confess our secrets on a mass-scale? What if we could confess 
 with the support of a large group? Would that make it easier for us to 

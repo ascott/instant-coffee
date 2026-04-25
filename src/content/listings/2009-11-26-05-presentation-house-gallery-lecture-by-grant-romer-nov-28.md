@@ -41,13 +41,13 @@ this remarkable collection, that reveals the scholarship, intuitions and
 passions of the collectors.
 
 The exhibition features iconic as well as anonymous images that
-underscore the Malcolmsonâ��s interest in experimental approaches to the
+underscore the Malcolmson’s interest in experimental approaches to the
 medium, from Fox Talbot to Robert Frank. The beginnings of photography is
 represented by salted paper prints from paper negatives of the mid-1840s
-and twenty-first century photography, by several of Vancouverâ��s most
+and twenty-first century photography, by several of Vancouver’s most
 notable contemporary artists. This range of images draws links between the
 earliest innovations in the medium to those of today; for instance, Gustave
-Le Grayâ��s 1850s seascape produced from two negatives precedes the collage
+Le Gray’s 1850s seascape produced from two negatives precedes the collage
 techniques of modernist photography that continue in digital practices.
 While alluding to historical developments and stylistic periods, the
 exhibition knits together images from diverse contexts, genres and time
@@ -76,8 +76,8 @@ chaotic energies and visual dynamics of modern cities. Abstraction and
 visuality itself as subject matter are prevalent threads in the exhibition.
 
 The exhibition reveals how developments in camera and print
-technologies impacted â��the new vision.â�� The unique character of each
-vintage print emphasizes the very materiality of photographsâ��their physical
+technologies impacted ’the new vision.’ The unique character of each
+vintage print emphasizes the very materiality of photographs’their physical
 surfaces, the patinas of aging and accidents of chemicals interacting with
 paper. These visual effects emphasize the mysterious, elusive qualities of
 photographic images as traces of a moment in time and the strong poetic and

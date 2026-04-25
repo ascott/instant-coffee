@@ -296,7 +296,7 @@ explicate and to resist the ways in which victimhood is constructed.
 
 CECILY NICHOLSON has worked with women of the downtown eastside community
 of Vancouver for the past ten years and is currently the Coordinator of
-Funds with the Downtown Eastside Womenâ��s Centre. She has collaborated most
+Funds with the Downtown Eastside Women’s Centre. She has collaborated most
 recently as a member of the VIVO Media Arts collective, the Press Release
 poetry collective and the No One is Illegal, Vancouver collective. Triage,
 a book of poetry, is forthcoming from Talonbooks in Spring 2011.
@@ -431,7 +431,7 @@ imaginary solutions to real questions, curated by Noxious Sector (Doug
 Jarvis and Ted Hiebert}.
 
 Artists: hannah_g, Julie Gendron & Emma Hendrix, Tetsushi Higashino, Gordon
-Lebredt, Chikako Maria Mori & Boris Nieslony, FranÃ�Â§ois Mathieu, Arjuna
+Lebredt, Chikako Maria Mori & Boris Nieslony, FranÂ§ois Mathieu, Arjuna
 Neuman, and Anne-Marie Proulx.
 
 5th Annual Trading Cards Exhibition November 26, 2010 - January 23, 2011
@@ -481,7 +481,7 @@ and thinking about art in Vancouver and beyond.
 No Windows presents artworks by local and national artists Rhonda Weppler +
 Trevor Mahovsky, Adad Hannah, Jamie Drouin, and Zoe Tissandier. Each artist
 considers the structures that underlie gallery and museum
-practicesâ��principles and assumptions that may seem invisible or
+practices’principles and assumptions that may seem invisible or
 commonsense, yet shape the creation, mediation, and reception of art.
 
 Each work seeks to transform our perception of gallery practices. Rhonda
@@ -627,13 +627,13 @@ inquiry, as in the case of the conceptual art journal Art and Language
 (1969), and the discursive periodical October (1974). Others, such as
 Canadian Art (1943) demonstrate a shift of focus or an expansion of an
 existing publication. We have included several local examples in an
-attempt to show how Vancouverâ��s own publishing practices exist in
-connection with outside developments; Ian Wallace and Jeff Wallâ��s New Media
+attempt to show how Vancouver’s own publishing practices exist in
+connection with outside developments; Ian Wallace and Jeff Wall’s New Media
 Bulletin (1969) may be considered in this light, despite its limited
 distribution and the existence of only one issue. Fillip (2004) has been
 included as a contemporary example of a lasting Vancouver perspective. By
 presenting these magazines in their original form we hope to provide a
-useful cross section of significant developments in artistâ��s publishing
+useful cross section of significant developments in artist’s publishing
 practices and the surrounding discursive milestones.
 
 Index
@@ -647,35 +647,35 @@ Emily Carr Library
 The exhibition Index will focus on the work of artists who have developed
 practises, or produced individual works, based the activity of indexing.
 The highly individual impetus to index and various methods of cataloguing
-can be identified within works such as Michael Landyâ��s Breakdown, an
-inventory of all 7,227 of the artistâ��s possessions (each item subsequently
-destroyed in an assembly line style performance) or Daniel Spoerriâ��s An
+can be identified within works such as Michael Landy’s Breakdown, an
+inventory of all 7,227 of the artist’s possessions (each item subsequently
+destroyed in an assembly line style performance) or Daniel Spoerri’s An
 Anecdoted Topography of Chance, a numbered, annotated account of each item
-on the artistâ��s dinner table at 3:47pm On October 17, 1981. It is also
-evident in works such as Jeremy Hofâ��s index of iconic music albums whose
-titles include the names of colours and Luis Jacobâ��s Image Bank, an image
+on the artist’s dinner table at 3:47pm On October 17, 1981. It is also
+evident in works such as Jeremy Hof’s index of iconic music albums whose
+titles include the names of colours and Luis Jacob’s Image Bank, an image
 database built on principles of visual analogy, and free association.
 
 Index focuses on works that represent this impulse catalogue elements of
 life which, although bearing resemblance to one another in some fashion, do
-not easily fit into accepted methods of categorization â�� numeric or
+not easily fit into accepted methods of categorization ’ numeric or
 alphabetic systems, for example. Daily life is comprised of processes of
 indexing that range from the highly precise to the un-recognizably chaotic.
-Through processes of indexing based on innumerable criteria â�� urgency,
-rhythm, logical sequences of information â�� we learn to organize the tasks
+Through processes of indexing based on innumerable criteria ’ urgency,
+rhythm, logical sequences of information ’ we learn to organize the tasks
 and materials that occupy our lives. Processes of indexing do not
 exclusively concern themselves with objects, but also activities,
 processes, and feelings.
 
-Michael Landy and Daniel Spoerriâ��s works in the exhibition embody a style
-of â��freeze-frameâ�� indexing, wherein accumulations of objects from the
-artistâ��s life are identified with neurotic precision and subsequently
-re-contextualized into artworkâ��s, exhibitions, and book works. On the other
-hand, Jeremy Hof and Luis Jacobâ��s processes of indexing take aesthetic
-criteria as their driving principle â�� linguistic references to colour, and
+Michael Landy and Daniel Spoerri’s works in the exhibition embody a style
+of ’freeze-frame’ indexing, wherein accumulations of objects from the
+artist’s life are identified with neurotic precision and subsequently
+re-contextualized into artwork’s, exhibitions, and book works. On the other
+hand, Jeremy Hof and Luis Jacob’s processes of indexing take aesthetic
+criteria as their driving principle ’ linguistic references to colour, and
 analogous visual forms, respectively.
 
-Index is the result of a careful combing of the libraryâ��s own index, in
+Index is the result of a careful combing of the library’s own index, in
 search of artists who preoccupy themselves with exploring new and
 idiosyncratic forms of organization.
 
@@ -716,7 +716,7 @@ extensively, at underground local sites and at key international
 institutions, from obscure avant garde venues to landmarks such as the
 New York Museum of Modern Art, the National Gallery of Art
 (Washington), the Centre de Cultura Contemparania de Barcelona , the
-Kunsthalle, Basel, the European Media Art Festival(OsnabrÃ�Â¼ck), MIT
+Kunsthalle, Basel, the European Media Art Festival(OsnabrÂ¼ck), MIT
 Boston, the International Documentary Film Festival of Amsterdam
 (finalist for the Joris Ivens Award), the Nouveau Cinema Festival of
 Montreal, the Sao Paulo International Film Festival, the Chicago
@@ -736,7 +736,7 @@ The work is about representation today
 the beginnings of cinema via Eadweard Muybridge & the energy
 certificates of the Technocracy party & the absolute value of noise &
 the year 1957 & regional modernism & the binary communication
-revolution & Vermeer's-Milk Maid- & PoincarÃ�Â© recurrence theorem & the
+revolution & Vermeer's-Milk Maid- & PoincarÂ© recurrence theorem & the
 great Canadian cowboy singer Wilf Carter & Western Culture & the
 concept of Grace in Catholic painting & the Tath-gatas of Buddhism &
 Boris Karloff as Frankenstein reaching for the light.
@@ -1069,7 +1069,7 @@ http://shuddergallery.com
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2010-11-25-20-the-powell-street-festival-seeking-general-manager-programmi">20. The Powell Street Festival | seeking: GENERAL MANAGER & PROGRAMMING DIRECTOR | DEC 6</a>
 ------------------------------------------------------------------------
-The Powell Street Festival Societyâ��s mission is to celebrate the arts and
+The Powell Street Festival Society’s mission is to celebrate the arts and
 culture of Japanese Canadians and Asian Canadians, to encourage Asian
 Canadians to take a leadership role in the development of the arts in
 Canada, and to foster community development through cultural events. The
@@ -1112,9 +1112,9 @@ forms to community participants and vendors
 ·facilitating work of the Board of Directors, the Fundraising Committee,
 Festival Committee and the Advocacy Committee
 ·researching artists on an ongoing basis
-Â·in cooperation with the Programming Committee, developing each yearâ��s theme
+Â·in cooperation with the Programming Committee, developing each year’s theme
 ·in cooperation with the Programming Committee, overseeing the development
-of each seasonâ��s programming and translating it into project descriptions
+of each season’s programming and translating it into project descriptions
 ·developing relationships year-round with artists and other arts partners
 ·confirming MCs for the festival
 ·liaising with festival artists
@@ -1129,7 +1129,7 @@ Committee meetings.
 QUALIFICATIONS:
 The ideal candidate will have a passionate commitment to supporting
 Japanese and Asian Canadian artists and art-forms in unique projects and to
-maintaining the Societyâ�� s professional reputation and community-based
+maintaining the Society’ s professional reputation and community-based
 principles. The candidate must be able to work independently in a
 fast-paced, deadline-driven environment as well as enjoy working
 collaboratively with the board of directors, individual artists and other
@@ -1143,7 +1143,7 @@ similar experience is required. Specific experience with, or knowledge of,
 the national and local Asian Canadian arts scenes, the mainstream arts
 community, and of the operations of non-profit societies is also desirable,
 with proven curatorial and/or programming experience. Familiarity with
-Vancouverâ��s non-profit artistic and social services organizations (Japanese
+Vancouver’s non-profit artistic and social services organizations (Japanese
 Canadian, and Downtown Eastside organizations especially) is advisable.
 Graphic design and Web design skills are an asset. This position is
 perfect for a problem-solving team player who thrives in a fast-paced,

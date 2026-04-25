@@ -115,7 +115,7 @@ Artspeak, Vancouver (2010). Her work has been included in the
 following group exhibitions Children’s Films, Bielefelder Kunstverein
 (2011); The Problem of Nothing, Hayaka ARTI, Istanbul (2011);
 Geschmacksverstärker, MMK Zollamt, Frankfurt (2010), Ghost Town,
-â€œGhost Townâ€ , MOTHER, Frankfurt (2010).
+“Ghost Town” , MOTHER, Frankfurt (2010).
 
 For further information or press enquires please contact Catriona
 Jeffries or Anne Low at +1 604 736 1554.

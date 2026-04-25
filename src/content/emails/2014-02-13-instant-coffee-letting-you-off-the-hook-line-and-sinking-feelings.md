@@ -50,7 +50,7 @@ Pulling Feathers from a Broken Tooth
 
 Casey Wei
 Jeremy Jansen
-Johan BjÃ¶rck
+Johan Björck
 Megan Hepburn
 Scott Lewis
 Steve Hubert
@@ -116,7 +116,7 @@ IccarusCar
 February 13 - March 23, 2014
 
 “Mark my words: a combination airplane and motorcar is coming. You may 
-smile, but it will come.â€  â€“ Henry Ford 1940
+smile, but it will come.”  – Henry Ford 1940
 
 Having survived the horrors of the Second World War, the western world 
 imagined a planet without conflict, where technology would allow us endless 
@@ -177,12 +177,12 @@ Jamie Bizness and Bud Snow. Submissions to the June festival will be
 accepted until April 30, 2014, and participating galleries and artists will 
 announced soon after.
 
-â€œThe theme of Juneâ€™s submission group show will be â€˜public/privateâ€™â€ , said 
+“The theme of June’s submission group show will be ‘public/private’” , said 
 organizers Katayoon Yousefbigloo and Sara Wylie. “We want to address this 
 dichotomy in artistic practice and in the greater context of the collapsing 
 divide between these two realms in modern society. The theme is simply a 
 suggestion for the submissions and may serve as a catalyst for artists to 
-share their private world with the public world.â€ 
+share their private world with the public world.” 
 
 Last year, Art Waste featured 50 Vancouver artists in over 15 venues 
 across the city, bringing out hundreds of people in support of local artists. 
@@ -278,8 +278,8 @@ to ceremonial regalia and conceptual photography. It emphasizes regional art
 from the postwar era to the present day, revealing the collectors’ special 
 interest in local and emerging artists, many of whom have become personal 
 friends. “My passion for the visual arts is not just about owning and collecting 
-art,â€  says Michael Oâ€™Brian; â€œThe work must create within me a desire to feel 
-and understand what was in the artistâ€™s mind at the time of its creation.â€ 
+art,”  says Michael O’Brian; “The work must create within me a desire to feel 
+and understand what was in the artist’s mind at the time of its creation.” 
 
 Taking an experimental approach to the exhibition, the curators—Karen 
 Duffek (Museum of Anthropology, UBC), Helga Pakasaar (Presentation House 
@@ -293,9 +293,9 @@ Woods, artworks in the exhibition are presented as a series of
 conversations, from intimate to confrontational. 
 
 “We have each brought different perspectives into the process of assembling 
-the exhibit,â€  says Duffek, â€œand want to honour the vision of the Michael 
+the exhibit,”  says Duffek, “and want to honour the vision of the Michael 
 O’Brian Family Foundation, which founded Satellite Gallery as a space for 
-new and temporary projects, collaborations, and experiments in the arts.â€ 
+new and temporary projects, collaborations, and experiments in the arts.” 
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2014-02-13-08-the-apartment-screening-samuel-beckett-teleplays-and-jonatha">08. The Apartment | Screening Samuel Beckett Teleplays | and & Jonathan Baldock Performances | FEB 14</a>
@@ -806,10 +806,10 @@ University of Art + Design, Ackerman has exhibited across Canada and in
 Europe. She received an honorable mention for the Kingston Prize for 
 Canadian Portraiture in 2009, and was included in Carte Blanche 2: Painting, a 
 survey and showcase painting in Canada (published by The Magenta 
-Foundation, fall 2008). In 2012, she exhibited â€œHeterotopiaâ€  at Winsor Gallery, 
+Foundation, fall 2008). In 2012, she exhibited “Heterotopia”  at Winsor Gallery, 
 a study into the inner workings of the artist’s studio. She continues to explore 
 this theme in the work for her 2014 exhibition at Winsor Gallery, entitled “It’s 
-Not You, Itâ€™s Meâ€ . Another viewing of more new works will take place in the 
+Not You, It’s Me” . Another viewing of more new works will take place in the 
 fall of 2014 in Germany.
 
 ------------------------------------------------------------------------
@@ -946,7 +946,7 @@ Akhavan and Kota Ezawa, and gallery artists Antonia Hirsch and Yedda
 Morrison opens to the public on Thursday, February 27th, and runs through 
 Saturday, April 5th, 2014. 
 
-Utopias Constructed examines the conditions under which â€œutopiaâ€  might be 
+Utopias Constructed examines the conditions under which “utopia”  might be 
 found. Central to this exhibition are considerations of the city as a physical 
 assemblage of private and public structures, and as an ideology: a 
 concentrated and dynamic interaction of social, cultural, and economic 
@@ -1112,8 +1112,8 @@ Includes: accommodation, large shared studio, workshop facilitation, and an
 exhibition
 
 Luminous bodies is a two-week thematic residency to create artworks that 
-shed new light on the human body. Its objective is to challenge â€œnormativityâ€  
-and "otherness.â€  Its goal is to reinvent and re-present the body in most 
+shed new light on the human body. Its objective is to challenge “normativity”  
+and "otherness.”  Its goal is to reinvent and re-present the body in most 
 inclusive and diverse ways. Audio-visual screenings, guest artist talks 
 followed by studio visits, a gallery tour and readings, uncover how our 
 bodies are culturally and aesthetically constructed, displayed and controlled. 

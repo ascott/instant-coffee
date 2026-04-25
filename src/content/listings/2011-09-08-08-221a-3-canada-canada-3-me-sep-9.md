@@ -72,7 +72,7 @@ one
 involving a political campaign worker for the last federal election
 who, according to the CBC [2], circulated an email “seeking people 
 in
-â€˜national folklore costumesâ€™â€  for a promotional photo-op. More 
+‘national folklore costumes’”  for a promotional photo-op. More 
 serious
 examples include the federal government’s refusal to request the
 repatriation of Omar Khadr, the Canadian citizen captured as a minor
@@ -85,7 +85,7 @@ Both cases bring up the issue of belonging in aesthetic terms: the
 subjective perception of the body’s identity creates a set of possible
 interactions with the nation. As if to say “we need you to look
 ‘folkloric,’ but there are limits to how much you can deviate from the
-prescribed image of the nation.â€  Indeed, there are borders.
+prescribed image of the nation.”  Indeed, there are borders.
 
 Yet, there are some things that escape the languages of identity and
 visibility. There is that which cannot be accounted for by the

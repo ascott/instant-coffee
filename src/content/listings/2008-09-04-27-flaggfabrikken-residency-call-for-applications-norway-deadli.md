@@ -58,12 +58,12 @@ Applications must include
 THE APPLICATION MUST REACH FLAGGFABRIKKEN BY POST OR E-MAIL NO LATER THAN
 OCTOBER 1ST 2008. The residencies will be decided before November 15th 2008.
 
-POST THE APPLICATION TO: Artist in residence Flaggfabrikken â�� senter for
+POST THE APPLICATION TO: Artist in residence Flaggfabrikken ’ senter for
 fotografi og billedkunst M¸llendalsveien 17, 5009 Bergen Norway
 
 or e-mail to: post@flaggfabrikken.net
 
-For those using courier services â�� Note that the package/envelope should
+For those using courier services ’ Note that the package/envelope should
 also be marked with: "Entrance from Klaus Hanssens vei"
 
 PLEASE NOTE: if you want your submitted material in return you have to

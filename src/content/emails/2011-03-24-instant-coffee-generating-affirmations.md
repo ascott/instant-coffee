@@ -1282,7 +1282,7 @@ exhibitions run from April 14 to May 29, 2011, with the opening reception
 April 14 from 7 to 9pm, 32388 Veterans Way, Abbotsford.
 
 Man Turned to Stone: Txwelatse
-Organized in collaboration with the StÃ³:lÅ� Research and Resource Management
+Organized in collaboration with the Stó:lÅ� Research and Resource Management
 Centre and the T'xwelatse Family
 Stone Txwelatse, is an ancestor of the Chilliwack (Tselxweyeqw), one of
 the St tribes, a man who was born thousands of years ago and

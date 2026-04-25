@@ -9,7 +9,7 @@ summary: "VOX Montreal | Raymond Boisjoly “From age to age, as its...\" | APR 
 ---
 
 Raymond Boisjoly
-â€œFrom age to age, as its shape slowly unravelledâ€¦â€ 
+“From age to age, as its shape slowly unravelled…” 
 
 2015.04.17 - 06.27
 Opening on April 17, 2015, at 5:00 pm
@@ -24,7 +24,7 @@ interested in vernacular forms of representation and modes of production of
 images.
 
 The series of large-format inkjet prints “From age to age, as its shape
-slowly unravelledâ€¦â€ â€”created specifically for VOX, along with a silent
+slowly unravelled…” —created specifically for VOX, along with a silent
 video—is derived from a process premised on the deliberate misuse and
 unlikely interfacing of seemingly incompatible technologies associated with
 the production and consumption of digital images. A video found on YouTube
@@ -42,7 +42,7 @@ from their intended context to museums and taken merely for tokens of
 aesthetic pleasure, these works of tribal art are newly mediated for
 another audience, just as a camera or other representational technology
 mediates its imagery. These changes are not neutral, and the meanings they
-produce are central to the understanding of â€œartâ€  as a historical and
+produce are central to the understanding of “art”  as a historical and
 colonial category.
 
 http://centrevox.ca/en/exposition/raymond-bois

@@ -40,7 +40,7 @@ If you purchased the object, how much did it cost?
 
 What made you select/keep the object?
 
-Does the object have a â€œhomeâ€ /particular location in your living space,
+Does the object have a “home” /particular location in your living space,
 office, studio, car, etc.?
 
 Is there anything else that you would like to tell us about your souvenir?

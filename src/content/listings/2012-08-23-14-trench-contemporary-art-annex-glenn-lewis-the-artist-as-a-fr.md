@@ -33,7 +33,7 @@ assemblage sculptures which address issues of social expression and
 constraint, historical reference, authenticity and personal mortality. Lewis 
 believes found materials, as Heidegger put it, create “a kind of knowing-how 
 rather than knowing-that…what is most important and meaningful in our lives 
-is not and should not be accessible to critical reflection.â€ 
+is not and should not be accessible to critical reflection.” 
 
 A 4 channel video installation at Trench Annex: I Won’t Take Your Hand 
 Monsieur Manet, I Have Not Washed in Eight Days, continues Lewis’s 
@@ -43,10 +43,10 @@ Cezanne’s small strokes of warm and cool colours as an alternative to
 perspective, his decades-long play with temporal looping of film and video, 
 both Cezanne’s and Manet’s instigation of modern art, and Duchamp’s 
 Fountain, Lewis creates a process-present work that merges a temporal 
-relationship between the past and future. These â€œbath[s] of knowledgeâ€  in 
+relationship between the past and future. These “bath[s] of knowledge”  in 
 nature (as Cezanne described it), appropriate the tinkling and rushing of the 
 fountains as well, and, as Duchamp states: “whether Mr. Mutt with his own 
-hands made the fountain or not has no importance. He chose it.â€ 
+hands made the fountain or not has no importance. He chose it.” 
 
 For more information please contact Trench at 604-681-2577.
 info@trenchgallery.com

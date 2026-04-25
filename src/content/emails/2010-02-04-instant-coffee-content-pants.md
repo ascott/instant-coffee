@@ -774,7 +774,7 @@ Finally, Visceral Bodies presents work by artists who question whether our
 physical form is becoming increasingly irrelevant, and who reflect the
 cultural anxiety about what the future holds for the human form. The work
 of David Altmejd, Berlinde de Bruyckere, Antony Gormley, Luanne Martineau,
-Hiroko Okada and Thomas SchÃ�Â¼tte prophesize a body that is fragmented,
+Hiroko Okada and Thomas SchÂ¼tte prophesize a body that is fragmented,
 revealing hybrid species and mutated genders, which could be the
 consequences of biological experimentation. Unconcerned with accurately
 depicting the body, these artists convey powerful ideas, concepts and
@@ -994,7 +994,7 @@ March 21, 2010
 Most installations are free and open to the public
 
 Bright Light brings together the creative energy of fourteen arts
-organizations active in Vancouverâ��s Downtown Eastside. Outdoor
+organizations active in Vancouver’s Downtown Eastside. Outdoor
 performances, video projections, urban planning demonstrations, social
 events and a parade are just some of the manifestations that animate the
 historical heart of the city. The group includes artist-run centres, a
@@ -1005,7 +1005,7 @@ Bright Light is one of a wide variety of public art projects that have been
 commissioned to mark the occasion of the Vancouver 2010 Olympics and
 Paralympic Games. In the case of Bright Light, the intention is to animate
 the newly completed Carrall Street Greenway with projects that explore new
-understandings of public art. In todayâ��s mobile, digital era, public art
+understandings of public art. In today’s mobile, digital era, public art
 has moved beyond sculpture. Time-based multi-media, internet social spaces
 and even books can be understood as situations for public art.
 
@@ -1120,7 +1120,7 @@ vox, knobs and tubes, buttons, various utensils and sliders), 10pm
 
 Thursday, March 18: Danish Artist Ditte Lyngkær Pedersen will host a
 screening event based on her video works and give a short presentation on
-the artists-run exhibition space rum46 in Ã�rhus, Denmark, 8pm
+the artists-run exhibition space rum46 in rhus, Denmark, 8pm
 
 Friday, March 19: CAM DALES of the ice cream social playing 50's and 60's hits.
 
@@ -1162,22 +1162,22 @@ artworks at two Canada Line stations in Vancouver
 Both projects will be up during the Olympics and beyond. Canada Line is
 the new rapid transit system connecting downtown to the YVR Airport.
 
-Paul Wongâ��s â��5â�� WALL MURAL is at the Canada Line City Centre Station
+Paul Wong’s ’5’ WALL MURAL is at the Canada Line City Centre Station
 
-This is an exciting addition to the â��5â�� Project. The â��5â�� MURAL is a
-40â��x10â�� transparency mounted on the exterior west wall of the station. The
+This is an exciting addition to the ’5’ Project. The ’5’ MURAL is a
+40’x10’ transparency mounted on the exterior west wall of the station. The
 City Centre Station is prominently located at the very heart of the city at
 Granville and Georgia Street.
 
 Presented by Winsor Gallery, City of Vancouver, inTransitBC, and ON MAIN
 
-Michele Quanâ��s GARLANDS at the Canada Line King Edward Station
+Michele Quan’s GARLANDS at the Canada Line King Edward Station
 
 GARLANDS is a ceramic installation with text. This is a version of
 GARLANDS that was exhibited at ON MAIN Summer 2009. You can see GARLANDS in
 the exterior windows facing Cambie Street at King Edward Station. The
-interior view includes the quote â��â�¦if you donâ��t fill it with stars and
-falsenessâ�� by C. Bukowski.
+interior view includes the quote ’’¦if you don’t fill it with stars and
+falseness’ by C. Bukowski.
 
 www.mquan.com
 
@@ -1230,7 +1230,7 @@ Guests, Margaret will present VERB WOMAN: unraveling (romance and the
 anthemic).
 
 DONATO MANCINI is the author of two books of procedural and visual poetry,
-Ligatures (2005) and Ã�thel (2007), both from New Star books, both nominated
+Ligatures (2005) and thel (2007), both from New Star books, both nominated
 for the ReLit Award. He also co-directed the world's first genuine in-world
 avatar documentary AVATARA (2003), now part of the Ubu Web international
 archive of experimental film and video. Long time member of the Kootenay

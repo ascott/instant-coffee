@@ -47,12 +47,12 @@ Details of Residency:
 
 46-day stay in furnished, wood heated circular Yurta, 6 blocks from the
 Vancouver 2010 Olympic village. Access to gallery bathrooms and communal
-meals included, Art budget of $500 - $1000 (receipts required). Groppâ��s
+meals included, Art budget of $500 - $1000 (receipts required). Gropp’s
 Gallery charges a 15% commission on all works sold during the opening of
 the Blood & Culture exhibition on February 12th, 2010. A Legacy Donation of
 one piece of art (chosen by the artist) is to be donated to the Rare Earth
-Societyâ��s permanent collection. With the exception of the Blood & Culture
-exhibition opening commission charge to Groppâ��s Gallery, and the donated
+Society’s permanent collection. With the exception of the Blood & Culture
+exhibition opening commission charge to Gropp’s Gallery, and the donated
 piece to the Rare Earth Society (as outlined above), the Artist will hold
 100% ownership of all works created and sold during their residency. The
 chosen artist is required to hold open studios minimum 4 hours a day 5 days
@@ -80,4 +80,4 @@ Rare Earth Society Nelson BC
 
 Sculpture Shop Manager
 
-Groppâ��s Gallery Vancouver BC
+Gropp’s Gallery Vancouver BC

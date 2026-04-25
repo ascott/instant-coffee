@@ -32,7 +32,7 @@ that you forgot to close and now you have to deal with the mess." O.H.
 Based in Frankfurt and Toronto, artist/filmmaker Oliver Husain binds 
 fractured narrative with theatrical materiality in his playful investigation 
 of identity politics. His body of work combines film, sculpture, and 
-installation, tending to construct what he calls â€œattractive trapsâ€  for his 
+installation, tending to construct what he calls “attractive traps”  for his 
 audience, in which perception and assumption threaten a fragile sense 
 of wholeness. His work was recently shown at MOCA Cleaveland and 
 Nuit Blanche, Toronto. In 2011, a retrospective of his films and videos 

@@ -95,7 +95,7 @@ in Canada where he lived in Calgary, Toronto and now Vancouver.
 Roger Farr is the author of Surplus (poetry; Line Books, 2006), IKMQ 
 (prose-poetry; New Star, 2012), and Means (poetry, radio script, 
 prose; Line Books, 2012). He has been described as “a poet of great 
-heart and aesthetic/political commitment.â€  As a cultural critic, his writing 
+heart and aesthetic/political commitment.”  As a cultural critic, his writing 
 on radical social movements and the avant-garde has appeared in 
 numerous literary and 'movement' periodicals, and has been broadcast 
 on the airwaves of several pirate radio stations on the West Coast of 
@@ -107,6 +107,6 @@ interviews, and short fiction), his latest being Finding Ft. George
 (Caitlin Press) and declining america (BookThug). His recent interest is 
 experimental activist ecopoetry; he is working on a study of Devil’s 
 Club / Hoolhghulh tentatively titled Panax and an essay on animal-
-human relations called â€œThe Parahuman.â€ 
+human relations called “The Parahuman.” 
 
 With thanks for the support of the Canada Council for the Arts.

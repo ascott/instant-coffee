@@ -45,10 +45,10 @@ art exhibitions accompanied by a rapidly growing representation of Asian
 artists. However, critical inquiry into inter-Asian artistic collaborations and 
 activities has only just begun to enter into scholarly discussions in theory and 
 in practice. As cultural critic C.J. Wan-Ling Wee noted, in the 1980s and
-1990s the idea of contemporary â€œNew Asiaâ€  was curated into â€œbeingâ€ â€™ as one 
+1990s the idea of contemporary “New Asia”  was curated into “being” ’ as one 
 that imagined “a cosmopolitan-multicultural Asia able to transcend national 
 boundaries, even as there was the awareness that the region’s cultural 
-diversity and history of political fractures made this endeavor difficult.â€  In the 
+diversity and history of political fractures made this endeavor difficult.”  In the 
 new millennium, the renewed emphasis on inter-Asian cooperation has led to 
 the concomitant realization of the notion of a Global Asia and distinctions 
 between the Global South and the Global North.
@@ -69,8 +69,8 @@ and platform to examine current categories, spaces and frameworks
 constructing the inter-Asian imaginary in the global exhibitionary complex and 
 implications for identity formation and the local over the last two decades. 
 Another approach might be to consider how an exhibition of contemporary 
-Indian art in China (i.e., â€œIndian Highwayâ€  at Beijingâ€™s Ullens Center for 
-Contemporary Art in 2012) differs from an exhibition about â€œIndia in China.â€ 
+Indian art in China (i.e., “Indian Highway”  at Beijing’s Ullens Center for 
+Contemporary Art in 2012) differs from an exhibition about “India in China.” 
 Furthermore, Asian biennales are not necessarily located in Asia proper writ 
 large: Manchester hosts the Asian Triennial in the UK, and the Asia Pacific 
 Triennial is based in Brisbane, Australia. Meanwhile Istanbul in West Asia 

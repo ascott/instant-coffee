@@ -5,11 +5,11 @@ emailDate: "Thu, 27 Jun 2013 14:05:25 -0700"
 number: 10
 type: ""
 venue: "Initial Gallery"
-summary: "Initial Gallery | â€œthe Diarist, the Commentator, & the Seerâ€  | JUL 4"
+summary: "Initial Gallery | “the Diarist, the Commentator, & the Seer”  | JUL 4"
 ---
 
 Initial Gallery
-â€œthe Diarist, the Commentator, & the Seerâ€  
+“the Diarist, the Commentator, & the Seer”  
 July 4th to August 14th, 2013
 
 the Diarist: Jen Osborne - Objectively recording a part of society not always 

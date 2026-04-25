@@ -53,7 +53,7 @@ Back Alley Entrance
 info@gallery295.com
 www.gallery295.com
 
-Gallery 295 proudly presents Dan Sineyâ€™s new photographic diptychs 
+Gallery 295 proudly presents Dan Siney’s new photographic diptychs 
 opening
 September 5th at Gallery 295. This exhibition will also be on display during
 SWARM.
@@ -83,7 +83,7 @@ Jennilee Marigomen and Chris Taylor. Sineys work has been exhibited in
 group shows throughout North America, Europe and Japan, with solo and two-
 person exhibitions in Canada. Most recently his work was exhibited in
 Phantasmagoria at the Presentation House Gallery, and in a collaborative
-exhibition with Andrea Pinheiro, â€œStrange Weather,â€ at The University of
+exhibition with Andrea Pinheiro, “Strange Weather,” at The University of
 Algoma.
 
 ------------------------------------------------------------------------
@@ -101,7 +101,7 @@ The project assumes the characteristics of the retail environment to connect
 to the local community while challenging the gallery’s role as an intermediary 
 that delimits the viewer’s direct access to art. Video titles in stock are artists’ 
 works procured through an international open call for submissions. 
-â€œCustomersâ€  are asked to pay what they wish, which can be interpreted as 
+“Customers”  are asked to pay what they wish, which can be interpreted as 
 cash, a non-monetary exchange, critique or no remuneration. This facet is in 
 place as an experimental form of engagement, where artists have the 
 opportunity to receive responses directly from viewers. In addition to payment, 
@@ -181,7 +181,7 @@ painting, drawing, sculpture and digital media.
 
 Csetkwe Fortier elaborates on her painting practice and focus on preservation
 of traditional foods, The jars of stcuwin (salmon) represent the preservation
-and processing of cultural nutritionâ€¦ It is through the use of image, colour,
+and processing of cultural nutrition… It is through the use of image, colour,
 and technique that I express my sadness, frustration and hope in respect to
 the threat to our health. The content of the jars symbolize the entrapment and
 dependence that the corporations and government are trying to enforce on the
@@ -195,7 +195,7 @@ the hunger pains and bring attention to our story.
 
 The artists acknowledge an active and ongoing mentorship with artist,
 Lawrence Paul Yuxweluptun, throughout the creation of this exhibition.
-Bracken describes the relationship as multifaceted. â€œHe has given us
+Bracken describes the relationship as multifaceted. “He has given us
 invaluable tips and tricks that have helped our technical process in painting
 and we have had good talks about concept, form, Indian politics and life, art
 world dealings, and the history of Indigenous art on the coast and in the
@@ -236,7 +236,7 @@ The Flowers of Evil and the writings of French thief and prostitute, Jean Genet,
 who stated: "There exists a close relationship between flowers and convicts.
 The fragility and delicacy of the former are of the same nature as the brutal
 insensitivity of the latter". This deeply resonant statement was a theme
-throughout all of Genetâ€™s writings, and becomes the foundation for this 
+throughout all of Genet’s writings, and becomes the foundation for this 
 body of
 work.
 
@@ -253,7 +253,7 @@ photography in an age of digital production.
 Jonah Samson has been photographing, writing, curating and collecting for
 over a decade. His writing on photography has been included in magazines
 across North America. He has exhibited nationally and internationally,
-including Otherworldly at the MusÃ©e EugÃ¨ne Leroy, Lille, France (2012) 
+including Otherworldly at the Musée Eugène Leroy, Lille, France (2012) 
 and
 the Museum of Arts and Design, New York (2011), Pleasantville at Studio 9,
 Istanbul (2011), The Archives of Pleasantville Historical Society at G. Gibson
@@ -262,7 +262,7 @@ in the UK (2010). In September 2013 Samson will present Another Happy
 Day, a selection of found photographs from his personal collection, which he
 was invited to develop into a book and exhibition at Presentation House
 Gallery, Vancouver. In the same month he will also release an artist
-publication titled Dead Manâ€™s Hand, based on early 20th century crime
+publication titled Dead Man’s Hand, based on early 20th century crime
 photography and Film Noir. Samson currently lives on Cape Breton Island,
 Nova Scotia.
 
@@ -288,7 +288,7 @@ has become, turns the fun park into a sylvan pastoral.
 
 Captured in the process of returning to nature, the site still retains the human 
 presence of security guards, what the artist has called “guardians of a ‘dead’ 
-space.â€  As they patrol a place with no clear use or value, they become 
+space.”  As they patrol a place with no clear use or value, they become 
 representatives of corporate law and order that offers protection without 
 preservation. They stand idly by as the object of their surveillance slowly 
 disappears under rampant vegetation. Is this what an eventually depleted 
@@ -319,11 +319,11 @@ Opening reception: Friday September 6, 6- 9 pm
 In his first exhibition at Republic since 2009, Vancouver photographer Jim
 Breukelman returns with a new body of work highlighting his recent
 experimentation with photoassemblage. As its title implies, Out of Fiction
-borrows from both fantasy â€“ as expressed in raw creativity responding to the
-banal templates often offered in childrenâ€™s colouring books â€“ and reality: 
+borrows from both fantasy – as expressed in raw creativity responding to the
+banal templates often offered in children’s colouring books – and reality: 
 how
-these processes of imagination manifest themselves â€œin ways both
-foreseeable and unforeseeableâ€ . The act of bringing these elements 
+these processes of imagination manifest themselves “in ways both
+foreseeable and unforeseeable” . The act of bringing these elements 
 together
 in finished photographic works illuminates the proximity of their origins in a
 historical, cultural imaginary, as well as the tenuousness of the divisions
@@ -374,7 +374,7 @@ Language itself is already mediating and informing our experiences as we
 post, tweet and blog to potentially millions. Recognizing that many of things 
 that we take for granted in everyday life are constructions— fabrications that 
 colour our vision of our lives and our environments—the artists in Fictive 
-Realities present â€œtruthsâ€  about our lives by overlaying them on the familiar 
+Realities present “truths”  about our lives by overlaying them on the familiar 
 and the mundane. Using technologies such interactive digital projection, 
 artware (artist made software), video mediated sculptural installations, and 
 good old fashioned storytelling, Fictive Realities is an exhibition that literally 
@@ -415,7 +415,7 @@ received her MFA from NSCAD (Halifax, Nova Scotia). Her work often
 experiments with the ubiquitous desktop PC, as a site of intimate virtual or 
 digital experiences – teasing out resonant connections between machines 
 and bodies and between digital and actual spaces. She often collaborates 
-with her brother and particle physicist Colin Gay on these â€œartwareâ€  projects. 
+with her brother and particle physicist Colin Gay on these “artware”  projects. 
 Interested in the possibilities of touch and poetics within new media platforms, 
 they develop artware designed to play with technologies in non-useful ways.
 Since 1997, Michelle has operated Steamworks Media (www.steamworks.net) 
@@ -610,7 +610,7 @@ other miscelany.
 July 8-September 8, 2013
 
 Jen Weih is a Vancouver-based artist whose practice includes video, print,
-sculpture, installation and sound performance. Weihâ€™s two series of works
+sculpture, installation and sound performance. Weih’s two series of works
 present diverging aspects of her practice. One set of images are based on
 fragments, sketches, research and notes from the period 2005-2013, showing
 elements of inspiration and preliminary thoughts for works. The other set of
@@ -637,7 +637,7 @@ sports. Spectators are welcome.
 
 Tuesday 24 September: How To Kickstart workshop <http://league-league.org/?
 p=1725>
-Free but limited admission Ã¢â‚¬â€  get your ticket beginning 26 August at
+Free but limited admission ââ‚¬”  get your ticket beginning 26 August at
 <https://www.eventbrite.com/event/6656795655>
 Recently expanded to Canada, Kickstarter is a funding platform for creative
 projects. Join Kickstarter Art Program Director Stephanie Pereira for a primer on
@@ -651,9 +651,9 @@ Scrivener’s Monthly is pleased to host Will Holder and Kaisa Lassinaro on
 Monday September 9th at 7pm in the Luxe Hall at Western Front.
 
 Will Holder will read from Silvia Federici’s “People vs Freedom on land, 
-animals and womenâ€  as part of the ongoing series â€œâ€¦for single mothersâ€¦â€  
+animals and women”  as part of the ongoing series “…for single mothers…”  
 
-Kaisa Lassinaro will screen â€œAgnes Martin 1974: An Interviewâ€  in the context 
+Kaisa Lassinaro will screen “Agnes Martin 1974: An Interview”  in the context 
 of a forthcoming printed compilation of interviews from the Video Data Bank, 
 conducted between 1974–1988 by feminist video artists, and founders of the 
 Video Data Bank, Lyn Blumenthal and Kate Horsfield.
@@ -670,7 +670,7 @@ published by Occasional Papers (occasionalpapers.org), 2011.
 Scrivener’s Monthly is a series of public presentations that explore the space 
 between material practices and spoken words: a periodical that talks. Set 
 alongside the exhibitions program at Western Front, this experiment in “not 
-publishingâ€  involves readings, performances, and other articulations.
+publishing”  involves readings, performances, and other articulations.
 
 Western Front is located at 303 East 8th Avenue, Vancouver. Please visit our 
 website at www.front.bc.ca
@@ -818,7 +818,7 @@ personalities and capture the decisive moment so essential for such a
 photograph. Byron has accompanied me on some of my forays into the older 
 parts of the city and he consistently comes away with strong, innovative 
 photographs. We both derive enormous pleasure from each others company 
-during these walkabouts.â€  â€” Fred Herzog
+during these walkabouts.”  — Fred Herzog
 
 
 
@@ -853,7 +853,7 @@ document, preserve, and revitalize endangered languages.
 
 John Wynne's practice includes large-scale sound installations in galleries 
 and public spaces, photographs that produce sound, and “composed 
-documentariesâ€  that explore the boundaries between documentation and 
+documentaries”  that explore the boundaries between documentation and 
 abstraction. 
 
 Curated by Karen Duffek, Curator of Contemporary Visual Arts & Pacific 
@@ -971,7 +971,7 @@ Unearthly Waters is a collaborative project conceived by Tommy Ting and
 Maja Ngom shortly after graduating in 2012. Both without any immediate 
 plans they felt fragile and exhausted, uncertain of their future journeys as 
 artists. Although separated by the geographical location (Ting living in Canada 
-and Ngom in the UK) they situated Joseph Conradâ€™s â€œHeart of Darknessâ€  as 
+and Ngom in the UK) they situated Joseph Conrad’s “Heart of Darkness”  as 
 their common horizon. Deciding to work independently but in dialogue with 
 each other, they shared their research, ideas and processes on a blog. The 
 immense remoteness and inability to meet in person often caused frustration 
@@ -1011,15 +1011,15 @@ http://www.facebook.com/Yactac
 CENTRE A'S FALL 2013 EXHIBITION REFLECTS ON LIFE WITHIN THE 
 GATED SAUDI ARAMCO HEADQUARTERS 
 
-Centre A announces its Fall 2013 exhibition, â€œMinutes from a Second Story,â€  
+Centre A announces its Fall 2013 exhibition, “Minutes from a Second Story,”  
 by Hajra Waheed.
 
 VANCOUVER, BC – Centre A: Vancouver International Centre for 
 Contemporary Asian Art is delighted to host Montréal-based artist Hajra 
-Waheed's solo exhibition, â€œMinutes from a Second Storyâ€ . Born in Calgary, 
+Waheed's solo exhibition, “Minutes from a Second Story” . Born in Calgary, 
 Waheed was raised within the gated headquarters of Saudi ARAMCO, the 
 largest transnational oil corporation in the world and home base to 25% of the 
-worldâ€™s oil exports. â€œMinutes from a Second Storyâ€  is a comprehensive body of 
+world’s oil exports. “Minutes from a Second Story”  is a comprehensive body of 
 work that includes video and mixed media works on paper that reflect upon 
 Waheed’s experiences of growing up in ARAMCO’s gated compound. 
 
@@ -1032,9 +1032,9 @@ War and beginning of the first Gulf War.
 
 “It was during my most formative years, that I began studying this place with a 
 discerning eye. I realized how critical it was/is to begin to make better sense 
-of this rather strange lived experience,â€  states Waheed. â€œThough it is by no 
+of this rather strange lived experience,”  states Waheed. “Though it is by no 
 means the basis of all of my work, the experiences that I had there have 
-played a profound role in the many narratives I continue to explore today.â€ 
+played a profound role in the many narratives I continue to explore today.” 
 
 Haema Sivanesan, Executive Director, Centre A states, “Waheed draws on 
 personal experience to critique, in part, restrictions on the use of photography 
@@ -1042,9 +1042,9 @@ in Saudi Arabia and its impact on the popular imagination. Her work explores
 how the absence of photographs constitutes a loss, and her practice is 
 intriguing for how it seeks to recuperate this loss, dealing with issues of 
 memory, absence, isolationism and the negotiation of a profoundly different 
-world view on the production and display of images.â€ 
+world view on the production and display of images.” 
 
-â€œMinutes from a Second Storyâ€  is the second exhibition to be held at Centre 
+“Minutes from a Second Story”  is the second exhibition to be held at Centre 
 A’s new gallery space in the heart of Vancouver’s original Chinatown block. 
 The exhibition will be on display from September 13 - November 2, 2013. 
 
@@ -1088,9 +1088,9 @@ Mediation (2009-ongoing). Prior to entering the art world, Nasar worked as a
 management consultant and banker.
 
 Nasar will speak on questions of geography, region and nation with insights 
-into developments in contemporary art from West Asia or the â€œMiddle Eastâ€ , 
+into developments in contemporary art from West Asia or the “Middle East” , 
 and with relation to the current exhibition at Centre A, “Minutes from a Second 
-Storyâ€  by Hajra Waheed. 
+Story”  by Hajra Waheed. 
 
 Asia Art Archive is an independent, non-profit organization dedicated to 
 documenting the recent history of contemporary art in Asia within an 
@@ -1149,7 +1149,7 @@ generosity of our patrons, donors, members and volunteers.
 
 - 30 -
 
-Available for comment on â€œMinutes from a Second Storyâ€ :
+Available for comment on “Minutes from a Second Story” :
 
 Centre A Executive Director: Haema Sivanesan
 
@@ -1307,8 +1307,8 @@ Nigel-Z-flag
 
 God Save the Queen is inspired by the heavy curtain of colonialism that still 
 hangs over Canada and the spirit of rebellion that was once crystallized by the 
-Sex Pistols anti-Jubilee anthem, â€œGod Save The Queenâ€ . The question â€œHow 
-do you feel about living under the yoke of the British Crown to this day?â€  has 
+Sex Pistols anti-Jubilee anthem, “God Save The Queen” . The question “How 
+do you feel about living under the yoke of the British Crown to this day?”  has 
 been posed to First Nations artists and non-native artists producing a 
 spectrum of responses.
 
@@ -1395,7 +1395,7 @@ SFU Gallery, AQ 3004, 8888 University Drive, Burnaby
 
 Opening Events: Saturday September 14, 11am-1pm
 Breakfast, mimosas and live music.
-Starting at noon The Armadillo Quartet will play works by Antonin DvořÃ¡k and 
+Starting at noon The Armadillo Quartet will play works by Antonin Dvořák and 
 Philip Glass.
 
 Samuel Roy-Bois' practice is concerned with the conceptual and physical 
@@ -1434,7 +1434,7 @@ Hundreds of enquiring minds have attended the series at the College over the
 past two seasons to discuss and debate a host of philosophical issues. The 
 fall 2013 season has a distinct focus on definitions of freedom and will open 
 with a discussion on privacy. In this digital age, where personal information is 
-considered â€œthe new oil of the internetâ€ , where does the value of privacy fit? 
+considered “the new oil of the internet” , where does the value of privacy fit? 
 What happens to our democracy when people are more and more transparent 
 (for safety) and government is more and more secret (for security)? The topic 
 will be explored by lawyer Micheal Vonn, who is the policy director for the BC 
@@ -1498,9 +1498,9 @@ slick, and visually delicious, Indian Candy speaks volumes on how
 Indigenous iconography has been consumed by popular culture.
 
 “Dana Claxton’s newest body of work has been long-awaited and does not 
-disappoint,â€  says gallery owner Jennifer Winsor. â€œWith such bright and 
+disappoint,”  says gallery owner Jennifer Winsor. “With such bright and 
 seductive surfaces, these works become both a literal reversal of the white-
-washing of history and a brilliant tribute to pop art and culture.â€ 
+washing of history and a brilliant tribute to pop art and culture.” 
 
 About Dana Claxton
 Claxton is part of a generation of First Nations artists who employ strategies 

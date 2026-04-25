@@ -19,7 +19,7 @@ Part 1*
 Stan Douglas
 Kevin Romaniuk
 Jamie Hilder
-HÃ�Â¥vard Pedersen
+HÂ¥vard Pedersen
 Shannon Oksanen
 Jeremy Shaw
 Laura Piasta and David Catherall

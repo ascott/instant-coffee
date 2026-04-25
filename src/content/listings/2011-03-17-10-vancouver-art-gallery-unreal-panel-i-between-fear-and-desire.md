@@ -59,7 +59,7 @@ In the Gallery
 
 Join us for a walking talk through the WE: VANCOUVER with exhibition
 manifesto-writer, urbanist and architecture critic Trevor Boddy, curator of
-the exhibition â€œVancouverism: Architecture Builds the Cityâ€  shown in London
+the exhibition “Vancouverism: Architecture Builds the City”  shown in London
 in 2008, Paris in 2009 and at Woodwards for the 2010 Olympics.
 
 WE: VANCOUVER is organized around the principle of the manifesto, a form of
@@ -73,7 +73,7 @@ various disciplines—architecture and design, art and visual culture,
 literature and activism—that are produced in Vancouver and reflect uniquely
 on the city. Individual or collective, they are realized by people who
 propose new ways we might inhabit this place. The exhibition title refers
-to the multiple perspectives that make up the pronoun â€œwe,â€  reflecting the
+to the multiple perspectives that make up the pronoun “we,”  reflecting the
 viewpoints that give this place its unique shape and meaning. Rather than
 suggesting a single unified position, the exhibition recognizes that
 difference is a fundamental part of a city.
@@ -102,7 +102,7 @@ while some were set elsewhere (Rumble in the Bronx, 1995). Over the years,
 film production has had a strong impact on Vancouver, conflating our
 understanding of the reality of the city with its filmic representation.
 Indeed, there is a perceived anxiety about a city that spends more time
-standing in for other cities than it does in â€œplayingâ€  itself. Turnerâ€™s
+standing in for other cities than it does in “playing”  itself. Turner’s
 extensive research into film in Vancouver comprises one aspect of the
 city’s past that continues to resonate today: its filmic image that is
 projected beyond the city boundaries to elsewhere.

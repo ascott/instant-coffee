@@ -47,7 +47,7 @@ relationship between institutional and non-institutional forms of education
 and of the active participants in, or subjects of, education. Following
 with historical examples such as Robert Filliou's Teaching and Learning as
 Performing Arts, and Ian Wallace's The Idea of University, in addition to
-more recent works such as Kristina Lee Podesvaâ��s Colourschool project, the
+more recent works such as Kristina Lee Podesva’s Colourschool project, the
 works in this exhibition simultaneously critique and extol the educational
 process.
 

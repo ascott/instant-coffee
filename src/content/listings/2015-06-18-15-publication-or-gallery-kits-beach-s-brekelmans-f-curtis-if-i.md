@@ -15,7 +15,7 @@ at Kitsilano Beach, 2:00 PM, 20 June, 2015
 
 Please join us at Kitsilano Beach on Saturday, June 20th for the launch of
 a new artists’ book by Steven Brekelmans and Fiona Curtis. “If I wanted to
-sit on the sand I wouldnâ€™t have brought this logâ€  is a book of drawings of
+sit on the sand I wouldn’t have brought this log”  is a book of drawings of
 logs.
 
 *Note: In the event of rain, the launch will be held at 2PM at the Or

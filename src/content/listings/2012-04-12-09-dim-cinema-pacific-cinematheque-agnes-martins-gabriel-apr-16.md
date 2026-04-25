@@ -29,7 +29,7 @@ and an unseen observer; the handheld camera that is rarely at rest, but instead
 feels its way across the landscape, meandering and contemplating. Whatever 
 tension exists in Gabriel comes from transition, variation, and difference: 
 between shore and land, snow and desert, silence and Bach, solidity and 
-movement, abstraction and natureâ€  (MOMA). 78 mins, 1976, Colour, 16mm 
+movement, abstraction and nature”  (MOMA). 78 mins, 1976, Colour, 16mm 
 transferred to DVD, USA. Courtesy of The Pace Gallery.
 “Agnes Martin was born in Macklin, Saskatchewan in 1912 and grew up in 
 Vancouver. She moved to the USA in 1932, taking American citizenship in 1940. 
@@ -41,5 +41,5 @@ on the development of Minimalism in the USA, although Martin regarded her use
 of grids as a development from the ‘all-over’ compositional methods of Abstract 
 Expressionism. She persistently rejected the suggestion that her paintings were 
 conceived in response to the landscape of New Mexico, where she settled again 
-in 1967 and where she chose to work most of her lifeâ€  (Oxford University 
+in 1967 and where she chose to work most of her life”  (Oxford University 
 Press).

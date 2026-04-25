@@ -21,10 +21,10 @@ artists within the first five years of their careers.
 
 The prize is the only one of its kind selected through an open competition. 
 “There are other artist prizes awarded in Vancouver, but those are by 
-nomination only, and focus on mid-career or senior artists,â€  explained CASV 
+nomination only, and focus on mid-career or senior artists,”  explained CASV 
 Board Member, Rachel Lafo, Chair of the Emerging Artist’s Prize. “We 
 wanted to provide emerging artists with a chance to showcase their work and 
-receive financial support to enable them to keep on working.â€  
+receive financial support to enable them to keep on working.”  
 
 The prize is open to artwork in all media by artists residing in the Lower 
 Mainland. The prize defines an emerging artist as someone who has 

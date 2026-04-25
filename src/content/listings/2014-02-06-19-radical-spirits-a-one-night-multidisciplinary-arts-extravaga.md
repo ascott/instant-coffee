@@ -29,7 +29,7 @@ cultural silencing and erasure of radical feminism. We want to
 challenge and reject this erasure by exhibiting art that reworks themes 
 of the ghostly, the supernatural, and the spiritual to serve a female-
 positive and egalitarian agenda. We also invite audience participation 
-in that we invite people to attend costumed as their â€œmagical selvesâ€ .
+in that we invite people to attend costumed as their “magical selves” .
 
 We noticed the lack of radical, socially conscious art in Vancouver and 
 created Radical Spirits to work toward changing that. We are an 

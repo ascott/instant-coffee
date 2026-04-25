@@ -29,7 +29,7 @@ forward passing on values and ethics, rituals and philosophies, through daily
 movements that ripple out beyond Vancouver. Their legacy and lineage are the 
 foundations of a strong, vibrant cultural community in Chinatown. Dedicated to 
 the spirit and life of my grandmother and all grandmothers for their everyday 
-endurance and persistence despite our cultural and social neglect of eldersâ€  
+endurance and persistence despite our cultural and social neglect of elders”  
 (Laiwan, 2011).
 
 Laiwan is an artist with a wide-ranging practice that follows her interest in cross-

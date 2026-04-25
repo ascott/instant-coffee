@@ -27,7 +27,7 @@ gain from their mentors and communities, they are also influenced by other
 modes of education, decolonization and globalization. Curator, Nan Capogna
 says, “The senior artists’ commitment to mentoring a younger of generation
 of artists is humbling and inspiring and the works of the younger artists
-are of extraordinary qualityâ€ .
+are of extraordinary quality” .
 
 The YVR Art Foundation is a nonprofit organization that supports BC First
 Nations art and artists through scholarships, awards and exhibitions. The
@@ -45,10 +45,10 @@ and the compelling photographic images of Tamara Skubovius. A publication
 for the exhibition is being produced.
 
 “We are pleased to partner with the Richmond Art Gallery to present
-Interweavings,â€  said Susan Jackson, Executive Director, YVR Art Foundation.
+Interweavings,”  said Susan Jackson, Executive Director, YVR Art Foundation.
 “This exhibition provides a unique opportunity for past YVR Art Foundation
 scholarship recipients to showcase their stories and accomplishments as BC
-First Nations artists.â€  The Opening Reception is Saturday, November 15,
+First Nations artists.”  The Opening Reception is Saturday, November 15,
 1:00-4:00pm and members of the public are invited to attend. The artists
 and curators will provide an introduction to the exhibition at 1:30pm.
 Admission to the opening reception is free and light refreshments will be

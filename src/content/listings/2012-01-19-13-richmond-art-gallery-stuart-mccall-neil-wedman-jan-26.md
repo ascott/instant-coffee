@@ -52,7 +52,7 @@ since 1968, he has been making images for over 25 years.
 
 Since the 1990s he has worked with Vancouver artist Neil Wedman on various 
 photo based projects including “Every Bus Stop from My Place to the 
-Racetrackâ€  (1997), and â€œMovies â€˜til Dawnâ€  (2009). Represented in Vancouver by 
+Racetrack”  (1997), and “Movies ‘til Dawn”  (2009). Represented in Vancouver by 
 the Vancouver Art Gallery Art Rentals and Sales and in Calgary at the Axis 
 Contemporary Art Gallery, his work has also been shown at the Surrey Art 
 Gallery, Port Moody Arts Centre and Canvas Gallery in Vancouver.

@@ -19,7 +19,7 @@ Opening: November 20th @ 8pm
 Love is a projection, but it still deserves to be acknowledged. As you
 fall, stage your own desires: get a fantasy, make a Pinterest board, then
 have a dream wedding. Use the potency of symbols to devise your own
-yearnings, and donÃ¢€™t settle for anything less.
+yearnings, and donâ€™t settle for anything less.
 
 http://doesheworshipyou.weebly.com/
 

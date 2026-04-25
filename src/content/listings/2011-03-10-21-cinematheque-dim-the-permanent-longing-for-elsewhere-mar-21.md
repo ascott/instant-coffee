@@ -29,7 +29,7 @@ flows spill across national borders. Migrants are one element among many
 that constitute global circulations of culture, politics and economy, and
 the contemporary denizen must continually negotiate acculturations between
 the many communities that compose their lives. “The Permanent Longing for
-Elsewhereâ€  features works that hone in on a sense of frustration that often
+Elsewhere”  features works that hone in on a sense of frustration that often
 accompanies experiences of migration, exploring how national identification
 is breaking down as a suitable frame of reference in a globalized world. By
 stimulating the political imagination, these films prompt a consideration

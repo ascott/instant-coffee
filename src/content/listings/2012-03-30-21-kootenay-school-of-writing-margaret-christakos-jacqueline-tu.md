@@ -87,10 +87,10 @@ Queensland’s inaugural poet-in-residence at the Judith Wright Centre
 of Contemporary Arts in Brisbane, Australia in 2005, a poet-in-
 residence in Tasmania in 2006, and a guest writer at the Queensland 
 Poetry Festival in 2007. She collaborated with artist Shima Iuchi on a 
-geographically installed interactive project called â€œReading Kamloopsâ€  
+geographically installed interactive project called “Reading Kamloops”  
 and read at the Bowery Poetry Club in New York. A new publication 
 called The Ends of the Earth is forthcoming from ECW Press. Her work 
-has appeared in anthologies â€” â€œselected poemsâ€  in How the Light Gets 
-In (2009), â€œAlmostâ€  in Companions and Horizons, (2005), and 
-â€œKamloopsâ€  in The Small Cities Anthology (2005). She has also 
+has appeared in anthologies — “selected poems”  in How the Light Gets 
+In (2009), “Almost”  in Companions and Horizons, (2005), and 
+“Kamloops”  in The Small Cities Anthology (2005). She has also 
 published in many journals in Canada and abroad.

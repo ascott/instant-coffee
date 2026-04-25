@@ -14,7 +14,7 @@ May 5 - May 30, 2010
 2130 Yew Street, Vancouver
 All work viewable from the street
 
-On exhibit in the Vivarium Gallery window from May 4 â�� May 30, are three
+On exhibit in the Vivarium Gallery window from May 4 ’ May 30, are three
 paintings by Christopher Rodrigues. These pieces are part of an
 autobiographical series of paintings, drawings & digital images, produced
 in New York from 2001- 2007. The series examines the affect of immigration

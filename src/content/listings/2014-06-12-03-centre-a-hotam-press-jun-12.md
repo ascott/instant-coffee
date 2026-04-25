@@ -25,12 +25,12 @@ Digitally printed and available online, the books have been exhibited in various
 art book fairs and independent booksellers in cities including New York, Los 
 Angeles, Tokyo and Toronto.
 
-The first issue of hotam, â€œA Brief History of Me,â€  is the pictorial timeline of the 
+The first issue of hotam, “A Brief History of Me,”  is the pictorial timeline of the 
 artist juxtaposed by historic events. The second issue “Other People’s 
-Businessâ€  is made up of his archive of obsolete business cards of friends 
-and people he used to know. â€œJourney to the West,â€  the third release, 
+Business”  is made up of his archive of obsolete business cards of friends 
+and people he used to know. “Journey to the West,”  the third release, 
 documents a 19th Century fictional philosopher/traveller in strange places, 
-while the most recent issue No. 4 â€œFine Chinaâ€  redesigns classic porcelain 
+while the most recent issue No. 4 “Fine China”  redesigns classic porcelain 
 wares to commemorate recent history and cultural memory of the country of 
 growing power in the new century.
 

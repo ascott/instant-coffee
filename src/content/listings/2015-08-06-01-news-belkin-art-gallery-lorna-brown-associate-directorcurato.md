@@ -17,8 +17,8 @@ Gallery’s Associate Director/Curator for a three-year term effective July
 
 “Lorna is a highly respected artist, educator, independent curator and
 project instigator and we are absolutely thrilled that she has agreed to
-come to the Belkin,â€  said the Galleryâ€™s Director Scott Watson. â€œLorna will
-help to continue to renew the Gallery and expand our network.â€ 
+come to the Belkin,”  said the Gallery’s Director Scott Watson. “Lorna will
+help to continue to renew the Gallery and expand our network.” 
 
 Lorna Brown is a Vancouver-based visual artist, curator, writer, educator
 and editor. She has exhibited her work internationally since 1984. Brown

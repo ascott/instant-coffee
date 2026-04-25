@@ -27,16 +27,16 @@ odyssey, one that is tapped directly into the hyper-mediated world in which
 we all live.
 
 “Paul Wong’s newest body of work is proof of his ubiquity. Through his 
-mastery of exploiting social media he is everywhere all the time.â€  says gallery 
+mastery of exploiting social media he is everywhere all the time.”  says gallery 
 owner Jennifer Winsor. “His work highlights how integrated society has 
 become using these new tools and leads one to question, are we controlling 
-these applications or do they control us?â€ 
+these applications or do they control us?” 
 
 #paulwong2014 explores the artist’s incessant image making through a 
 monumental installation entitled Looking, Looping & Listening. With over 300 
 loops created from animated .gif's and short video clips, this piece spans the 
 length of the major wall in Winsor’s West Gallery. It is made up of forty 10 x 
-12â€  video screens, each one providing direct access to Wongâ€™s life. The artist 
+12”  video screens, each one providing direct access to Wong’s life. The artist 
 is no stranger to image making as he has been documenting all aspects of his 
 life in the name of art for over 30 years.
 

@@ -10,18 +10,18 @@ summary: "Burnaby Art Gallery | All is Unmentionable, Up in the Air: Eli Bornows
 
 New Exhibition: All is Unmentionable, Up in the Air: Eli Bornowsky
 
-BURNABY, BC Ã¢€“ The Burnaby Art Gallery is pleased to present a new
+BURNABY, BC â€“ The Burnaby Art Gallery is pleased to present a new
 exhibition featuring the works by Vancouver-based contemporary artist Eli
 Bornowsky. Please join us on Thursday, November 20 from 7-9pm for the
 opening reception of All is Unmentionable, Up in the Air: Eli Bornowsky.
 
 Eli Bornowsky has been practicing as an artist in Vancouver over the past
 decade, and has accomplished an impressive and diverse body of abstract
-paintings. This exhibition features a number of large canvas Ã¢€˜doublesÃ¢€™
+paintings. This exhibition features a number of large canvas â€˜doublesâ€™
 which mirror each other with their almost-but-not-quite identical forms. A
 new suite of works on paper is presented, as well as a selection of works
 from the City of Burnaby Permanent Art Collection. Bornowsky explores the
-polyrhythmic textures of landscape, Renaissance painting, the artistÃ¢€™s
+polyrhythmic textures of landscape, Renaissance painting, the artistâ€™s
 studio, colour, Abstract Expressionism, doubles, and Cubism. Accompanying
 this exhibition is an artist book of the same title, published by the
 Burnaby Art Gallery. All is Unmentionable, Up in the Air: Eli Bornowsky

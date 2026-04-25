@@ -32,7 +32,7 @@ conceptualism while celebrating the focus and skill demanded by this
 technical medium.
 
 At this time The Apartment will also present a small grouping of works by 
-New York artist B Wurtz. This is Bâ€™s third exhibition with the gallery.  
+New York artist B Wurtz. This is B’s third exhibition with the gallery.  
 Using a constrained palette of materials re-purposed from everyday life 
 Wurtz’s art takes up the most American of modes, POP, to realize a critical 
 perspective that is aesthetically rarified while materially familiar. 
@@ -43,7 +43,7 @@ inherently vulnerable.
 get them where I want, but sometimes it’s just a matter of a minor tweak that 
 clinches it all. I don’t want to obscure what the objects are. I like that there is 
 inherent meaning attached to them in terms of their use-value, but ultimately I 
-want the work to be formal, nearly classical.â€ [1]   B Wurtz has exhibited 
+want the work to be formal, nearly classical.” [1]   B Wurtz has exhibited 
 extensively since graduating with a MFA from Cal Arts in 1980. He was 
 recently included in the 2013 Prague Biennial and has presented solo 
 exhibitions at Richard Telles Fine Art, LA (2014), Galerija Gregor Podnar, 

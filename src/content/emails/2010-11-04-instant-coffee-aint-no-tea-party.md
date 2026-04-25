@@ -66,7 +66,7 @@ His books include Hard Core Logo, The Pornographer¹s Poem and most recently
 
 Thursdays Writing Collective, directed by Elee Kraljii Gardiner, has been
 called, “the biggest, boldest, and by far the most vital conspiracy of
-writers operating in Vancouver at present,â€  by Geist magazine. TWC meets at
+writers operating in Vancouver at present,”  by Geist magazine. TWC meets at
 Carnegie Community Centre every Thursday for drop-in creative writing
 sessions. More info at www.thursdayspoemsandprose.ca
 
@@ -222,7 +222,7 @@ debris, and mythology, the gesture of dancers, graphs, politics and dreams.
 I draw to get back to basics, to the initial mark making process with
 carbon, the fundamental molecule of all life. I also enjoy manipulating
 materials and discovering what each material has to say about this place we
-shareâ€ .
+share” .
 
 About the work; Florescence is an exploration tied to my previous works
 inspired by botany, printing and by the image of the vital organs found in
@@ -455,7 +455,7 @@ Vancouver’s Entertainment District, exposing a pressure to be beautiful,
 and flaunting the authority that it enables.
 
 El Reinado by Jen Osborne showcases impoverished Colombian beauty
-contestants competing for the title of â€œPeopleâ€™s Princessâ€  to improve their
+contestants competing for the title of “People’s Princess”  to improve their
 chances of finding a lucrative job in entertainment, or, a husband from a
 higher economic class. Beauty, for Columbia, is a national resource, and it
 gives Colombians a way to survive living in turmoil by celebrating things
@@ -835,7 +835,7 @@ Canadian series Markings with Neil Bissondath, and served as creative
 consultant for the American Experience series We Shall Remain: A Native
 History of America, broadcast on PBS in April 2009.
 
-Smith lives in Washington, D.C. His middle name is pronounced â€œchot,â€  and
+Smith lives in Washington, D.C. His middle name is pronounced “chot,”  and
 rhymes with hot. He has no college or university degrees.
 
 
@@ -1159,7 +1159,7 @@ for a possible encounter with the Philippine Army (which does not, in the
 end, occur).
 
 In a geo-political world where more and more struggles for sovereignty are
-labeled â€œterroristâ€ , Boulos gives a non-journalistic, diaristic and very
+labeled “terrorist” , Boulos gives a non-journalistic, diaristic and very
 human portrait of people who have turned to militancy.
 
 This exhibition has been made possible with funding from The Canada Council

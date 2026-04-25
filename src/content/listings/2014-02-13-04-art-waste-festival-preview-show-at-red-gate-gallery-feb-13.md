@@ -29,12 +29,12 @@ Jamie Bizness and Bud Snow. Submissions to the June festival will be
 accepted until April 30, 2014, and participating galleries and artists will 
 announced soon after.
 
-â€œThe theme of Juneâ€™s submission group show will be â€˜public/privateâ€™â€ , said 
+“The theme of June’s submission group show will be ‘public/private’” , said 
 organizers Katayoon Yousefbigloo and Sara Wylie. “We want to address this 
 dichotomy in artistic practice and in the greater context of the collapsing 
 divide between these two realms in modern society. The theme is simply a 
 suggestion for the submissions and may serve as a catalyst for artists to 
-share their private world with the public world.â€ 
+share their private world with the public world.” 
 
 Last year, Art Waste featured 50 Vancouver artists in over 15 venues 
 across the city, bringing out hundreds of people in support of local artists. 

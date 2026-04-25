@@ -29,7 +29,7 @@ Rather than presenting her photographs as traditional two dimensional
 prints, Bubas began printing multiple images from her negatives to
 laser cut and reconstruct the scenes into three-dimensional tableaux,
 building up layers and layers of intricate details. The final result
-is a selection of three-dimensional photographs or paper â€œtolesâ€
+is a selection of three-dimensional photographs or paper “toles”
 housed in Plexiglas cases. The scenes are lush and mesmerizing, but
 also suggest a tone of isolation; Bubas' unique perceptiveness and
 skill for conveying narrative is readily apparent.

@@ -17,9 +17,9 @@ Curated by Margaret Stern
 The Or Gallery is pleased to present #saltandwater: The Palestinian-Israeli
 Conflict, an exhibition of four Palestinian artists. In his 1981 book, The
 Political Unconscious, Fredric Jameson asserts the idea of Louis
-Althusserâ€™s â€œabsent causeâ€  within a structure. He posits that the structure
-itself is intrinsic to its effects, that Jacques Lacanâ€™s â€œrealâ€  and Louis
-Althusserâ€™s â€œabsent causeâ€  can never be represented in their entirety, as
+Althusser’s “absent cause”  within a structure. He posits that the structure
+itself is intrinsic to its effects, that Jacques Lacan’s “real”  and Louis
+Althusser’s “absent cause”  can never be represented in their entirety, as
 the signifier will always take the place of the signified. In looking at
 the Palestinian-Israeli conflict, Jameson’s argument can bring new light to
 the violence and unspeakable totality of the ongoing occupation. Seemingly
@@ -35,7 +35,7 @@ importance. In the summer of 2014, approximately 350 Palestinian prisoners
 participated in a hunger strike. 183 administrative detainees –
 Palestinians held without charge or trial – were unfairly detained in
 Israeli jails. The hashtag that emerged from the strike was
-â€œ#saltandwater,â€  supporting the consumption by the prisoners of only salt
+“#saltandwater,”  supporting the consumption by the prisoners of only salt
 and water for survival. Salt and water became symbols for life, for
 solidarity, and symbols of a lack of access to basic human necessities. The
 Palestinian people do not have access to enough clean, useable water. They

@@ -29,16 +29,16 @@ live with one another, more equitably and mindful of one another’s needs as
 well as our own?
 
 Beginning in the spring of 2012 Red76 initiated THIS IS AN (A) FRONT, first 
-with a series of projects feeding into an â€œAmerican-style Pizzeriaâ€  established 
+with a series of projects feeding into an “American-style Pizzeria”  established 
 in Pristina, Kosovo, called Henry. This action, funded by the US State 
 Department, served as a means towards discussing the relative power we 
 hold over one another, as well as more obtusely the power held in relation to 
 the ways and means in which the action itself was initiated to begin with and 
 its associations vis a vis The State. How do we self-regulate when “our very 
-existenceâ€  is determined through the auspices of governmental power?
+existence”  is determined through the auspices of governmental power?
 
 For the second edition of THIS IS AN (A) FRONT the group presents Thumbs 
-Up! a â€œused mp3â€  store located in Vancouver, Canadaâ€™s Chinatown. On this 
+Up! a “used mp3”  store located in Vancouver, Canada’s Chinatown. On this 
 occasion the front reveals itself almost as a series of skins, each with its own 
 considerations and means of interaction: first, the entrance of UNIT/ PITT will 
 be walled off, converted into a makeshift but functional lobby/convenience 

@@ -42,7 +42,7 @@ Writers' Trust Fiction Prize and won the 2009 Ethel Wilson Fiction
 Prize as well as the 2009 City of Vancouver Book Award. His short
 stories have appeared in The Walrus and Pyramid Power. His short story
 "Sheep Dub" was included in the 2000 Journey Prize Anthology and
-â€œConjugationâ€  appeared in the 2006 Journey Prize Anthology; it was
+“Conjugation”  appeared in the 2006 Journey Prize Anthology; it was
 shortlisted for the Journey Prize Award. He is a contributing editor
 for the visual art magazines Border Crossings and Contemporary, for
 which he writes on Vancouver art and artists.

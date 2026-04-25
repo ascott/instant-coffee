@@ -38,7 +38,7 @@ about the role of the artist in the green burial movement, and in funeral
 rites and memorials, including some examples and images that have inspired me.
 Joseph Montague (Artist/Artisan)
 Joseph Montague is a ceramicist, painter and printmaker. Early in his
-career he worked as a preparator for his â��day jobâ��, framing and matting the
+career he worked as a preparator for his ’day job’, framing and matting the
 permanent collection at the Guggenheim Museum in Manhattan. He spent seven
 summers working at a printmaking studio in Tuscany, and his Fountain of
 Time is permanently installed at the main branch of the Vancouver Public
@@ -49,8 +49,8 @@ naturally in water, thus incorporating both a philosophy that reflects the
 impermanence of the material world, and respect for the environment by
 minimizing the eco-footprint. He has also created unique dual purpose
 containers, one of which was selected for the international art competition
-â��Ashes to Artâ�� in 2008. These are creations suitable for use as a vase
-during a personâ��s lifetime, therefore imbued with the memory of flowers,
+’Ashes to Art’ in 2008. These are creations suitable for use as a vase
+during a person’s lifetime, therefore imbued with the memory of flowers,
 which with the addition of a lid become a ceremonial container to hold ashes.
 Mountain View Cemetery phone:604.325.2646
 mountainview.cemetery@vancouver.ca

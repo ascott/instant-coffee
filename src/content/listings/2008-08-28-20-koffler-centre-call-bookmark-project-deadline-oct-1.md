@@ -41,7 +41,7 @@ presence echoes their memory inside the book. Upon returning, the reader
 once again replaces the bookmark in order to immerse back into the text.
 The act of reading therefore proceeds in the continual interchange between
 the reader and the bookmark, initiated and sustained by the process of
-â��inserting'.
+’inserting'.
 
 Both unique bookmarks and multiples created by fine art students and
 practicing artists will be introduced into the 8,000 books on display

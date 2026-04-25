@@ -44,7 +44,7 @@ Visit www.powellstreetfestival.com for more information on all events.
 
 On opening night, Thursday, March 4, Kasai will give an artist talk at 8:30 pm.
 
-This is the launching event for the Powell Street FestivalÃ�Â¢Ã¯Â¿Â½Ã¯Â¿Â½s 2010
+This is the launching event for the Powell Street FestivalÂ¢ïÂ¿Â½ïÂ¿Â½s 2010
 season of
 events.
 

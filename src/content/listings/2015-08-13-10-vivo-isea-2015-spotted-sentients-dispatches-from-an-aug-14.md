@@ -40,11 +40,11 @@ Film/TV (stereoscopic displays) have failed to add a significant point of
 view, because they are still rooted in a single perspective. The 
 implication is that the viewer is rendered immobile. Their movement 
 and physicality is mute. As a counterpoint to these stereoscopic 
-displays, â€œWe Are With Youâ€  encourages the viewer to move in relation 
+displays, “We Are With You”  encourages the viewer to move in relation 
 to a 3D animated sculpture. This 3D Volumetric Display is more of a 
 Tannenbaum or Bonfire. It is very different in that it is viewed in the 
 round, revealing itself with movement, sharing our physical space and 
-allows interaction between viewers. â€œWe Are With Youâ€  is a platform for 
+allows interaction between viewers. “We Are With You”  is a platform for 
 artistic enquiry in 3D space. It is a new medium, continuing on from the 
 19th century experiments with the Zoetropes. It has been used to 
 create 3D Puppets, A Laboratory for Synthetic Psychology, Interactive 

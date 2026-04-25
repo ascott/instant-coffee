@@ -42,10 +42,10 @@ UBC
 Graham Harman
 
 The next lecture in the Ziegler Speaker Series, entitled ““What Objects Can Do 
-for the Artsâ€  will be presented by Prof. Graham Harman, Distinguished 
+for the Arts”  will be presented by Prof. Graham Harman, Distinguished 
 University Professor at the American University in Cairo.
 
-In an essay for last yearâ€™s Documenta (13) catalog entitled â€œThe Third Table,â€  
+In an essay for last year’s Documenta (13) catalog entitled “The Third Table,”  
 Prof. Harman argued that the arts have a special role in dealing with objects 
 in separation from their qualities, something the natural sciences cannot 
 afford to do since their method (the opposite one) is to reduce objects to their 
@@ -283,7 +283,7 @@ curatorial work includes Beat Nation: Art Hip Hop and Aboriginal Culture,
 featuring 27 contemporary Aboriginal artists currently at Vancouver Art 
 Gallery.
 
-â€œBarn Swallowsâ€ 
+“Barn Swallows” 
 
 CAROLINE MONNET, DEVIN TROY STROTHER, LAWRENCE PAUL 
 YUXWELUPTUN
@@ -317,7 +317,7 @@ collision of nature and culture in recent history.
 DEVIN TROY STROTHER’s high-relief assemblages and paintings centre 
 around caricatures of black figures in sometimes gory, sexualized scenes on 
 top of abstract backgrounds, which poke fun at the pretensions of formalism. 
-Sardonic titles like A Black Joan Jonas in â€œNigga Iâ€™m a Coyoteâ€  highlight the 
+Sardonic titles like A Black Joan Jonas in “Nigga I’m a Coyote”  highlight the 
 entangled histories of primitivism and abstraction within avant-garde art, 
 asking, in the process, who has the right to use certain kinds of language and 
 certain kinds of history.
@@ -421,7 +421,7 @@ Marrow, Jan Pfeiffer and Jerry Zaslove, moderated by Samir Gandesha.
 
 Considering the complex and far-reaching implications of the exhibition of
 Marat Sade Bohnice in the unique context of Vancouver, the panel will
-address topics including Peter Weissâ€™ life and practice, the Foucauldian
+address topics including Peter Weiss’ life and practice, the Foucauldian
 themes of madness and the carceral, the histories of de-institutionalization
 and mental health reform in British Columbia and elsewhere, shifting notions
 of human rights and citizenship, and the critical value of cultural intervention
@@ -477,7 +477,7 @@ Gallery Assistant
 Audain Gallery
 Simon Fraser University
 Goldcorp Centre for the Arts
-#3275 â€“ 149 West Hastings
+#3275 – 149 West Hastings
 Vancouver BC V6B 1H4
 P: (778) 782-9102
 E: audaingallery@sfu.ca
@@ -507,7 +507,7 @@ V5T 1S1
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2014-02-27-13-avenue-beyond-the-walls-of-intelligence-life-is-defined-mar-">13. Avenue | Beyond the walls of intelligence, life is defined | MAR 6</a>
 ------------------------------------------------------------------------
-â€œBeyond the walls of intelligence, life is defined.â€  
+“Beyond the walls of intelligence, life is defined.”  
 -Nasir bin Olu Dara Jones
 
 Olivia Qiu	
@@ -717,7 +717,7 @@ This is the full call as it appears on our website http://kapsula.ca/ :
 "The iconoclastic gesture that produces the modernist artwork functions, of 
 course, not simply as a manifestation of artistic subjectivity understood as 
 pure negativity. This gesture had the positive goal of revealing the materiality 
-of the artwork, its pure presenceâ€  (Boris Groys 2008,"The Topology of 
+of the artwork, its pure presence”  (Boris Groys 2008,"The Topology of 
 Contemporary Art," 78-79).
 
 Art that makes us angry often requires the most careful analysis and 
@@ -817,7 +817,7 @@ dog, at best maybe able to bite a cop’s leg, or at least warn you when they
 are at the door. Sometimes it allows us to think differently about the spaces 
 we need to contest. Poet and activist Stephen Collis will explore some of 
 these spaces, inside and outside of poems—from the streets, to urban and 
-suburban â€œcommons,â€  to the conceptual space of the future and the 
+suburban “commons,”  to the conceptual space of the future and the 
 pervasive and interconnected spaces of resource extraction that enclose 
 such futurity in diminishing climate returns. 
 

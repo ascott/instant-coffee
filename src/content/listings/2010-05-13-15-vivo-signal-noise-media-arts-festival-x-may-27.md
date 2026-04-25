@@ -25,9 +25,9 @@ non-verbal communication, and representing and positioning subjectivities.
 The festival is exited to present the work of: Mitchell Akiyama | Raymond
 Boisjoly | Jubal Brown | Roy Caussy | Kevin Clancy | Aleesa Cohene | Benny
 Nemerofsky Ramsay | Ian William Craig | Brady Cranfield | Spencer Davis |
-RÃ¤ di Martino | Felix Dufour-LaperriÃ¨re | Francisca Duran | Empress | Peter
+RÃ¤ di Martino | Felix Dufour-Laperrière | Francisca Duran | Empress | Peter
 Eramian | Gabriela Golder | Lief Hall | Max Hattler | Tijmen Hauer | Alex
-Hetherington | Pil & Galia Kollectiv | Pascal LiÃ¨vre | Heidi Nagtegaal |
+Hetherington | Pil & Galia Kollectiv | Pascal Lièvre | Heidi Nagtegaal |
 Hee Won Navi Lee | Lance Olsen | Heidi Phillips | Elodie Pong | Anahita
 Razul | Mary Reid Kelley | Billy Roisz | Josh Rose | Sade Sade | prOphecy
 Sun | Leslie Supnet | DJ Tapes | Yi Xin Tong | Sydney Vermont | Paul Walde

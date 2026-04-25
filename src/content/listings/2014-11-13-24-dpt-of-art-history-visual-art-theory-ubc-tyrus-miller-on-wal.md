@@ -11,7 +11,7 @@ summary: "Dpt. of Art History, Visual Art & Theory, UBC | Tyrus Miller on Walter
 Professor Tyrus Miller, University of California, Santa Cruz
 
 “Walter Benjamin’s Psychogeography: Space, Affect, and Movement from
-One-way Street to Central Parkâ€ 
+One-way Street to Central Park” 
 
 Department of Art History, Visual Art & Theory, University of British Columbia
 Friday, November 21st, 2014

@@ -8,34 +8,34 @@ venue: "AGGV"
 summary: "AGGV | James Gordaneer | APR 11"
 ---
 
-James Gordaneerâ��s Sixty Year Career to be Showcased at AGGV
+James Gordaneer’s Sixty Year Career to be Showcased at AGGV
 
 Victoria, BC (March 18, 2010) - The Art Gallery of Greater Victoria will
-celebrate the career of one of Victoriaâ��s most prolific painters with the
+celebrate the career of one of Victoria’s most prolific painters with the
 opening, next month, of James Gordaneer: A Life in Painting. The
-exhibition presents the first comprehensive survey of Gordaneerâ��s work,
+exhibition presents the first comprehensive survey of Gordaneer’s work,
 spanning almost six decades and featuring over 40 paintings, studies and
 drawings.
 
-â��Jimâ��s work embraces aspects from the major theories in painting such as
+’Jim’s work embraces aspects from the major theories in painting such as
 Abstraction and Neo Expressionism; however he has consciously resisted
-classification by refusing immersion in any one theory,â�� said exhibition
+classification by refusing immersion in any one theory,’ said exhibition
 curator, Nicole Stanbridge.
 
 James Gordaneer: A Life in Painting opens on April 9th for a 2 month run at
 the AGGV. Gordaneer has been a fixture in the Victoria arts community
-since the 1970â��s as a teacher, colleague and mentor. The artist makes a
+since the 1970’s as a teacher, colleague and mentor. The artist makes a
 point of working in his studio daily, continuously delighting in the act of
 putting paint to canvas.
 
-â��The exhibition is a great opportunity to see the evolution of Gordaneerâ��s
-painting practice starting with work from the 1950â��s.â�� said Stanbridge,
-â��Jim is at a point in his career where he feels he that he has a â��license
-to be freeâ�� and we are particularly pleased to be featuring some of his
-paintings from 2009, including â��Ship of Foolsâ�� and â��Bring in the
-Clowns.â�� â��
+’The exhibition is a great opportunity to see the evolution of Gordaneer’s
+painting practice starting with work from the 1950’s.’ said Stanbridge,
+’Jim is at a point in his career where he feels he that he has a ’license
+to be free’ and we are particularly pleased to be featuring some of his
+paintings from 2009, including ’Ship of Fools’ and ’Bring in the
+Clowns.’ ’
 
-Gordaneerâ��s travels during the late 1950â��s and 60â��s in Europe, Mexico and
+Gordaneer’s travels during the late 1950’s and 60’s in Europe, Mexico and
 the United States, exposed him to a broad range of art from old masters to
 modern revolutionaries. He was particularly influenced by the works of
 Abstract Expressionists like Willem de Kooning, Arshile Gorky and Franz Kline.

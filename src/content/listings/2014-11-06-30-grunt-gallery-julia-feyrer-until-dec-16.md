@@ -23,7 +23,7 @@ Feyrer’s starting point is the kitchen—a space that has played a central
 role in the gallery’s social and creative life since its beginnings in 1984. A 
 meeting space that entertained activities, conversations, and ideas 
 fuelled by coffee, tea, beer, and wine, it has been a venue of literal and 
-figurative â€œbrewingâ€ , where creative relationships have percolated over 
+figurative “brewing” , where creative relationships have percolated over 
 the years. The idea of the kitchen has long been a source of inspiration 
 for the gallery, and the physical site has evolved into the present-day 
 media lab and an exhibition space for innovative media works.

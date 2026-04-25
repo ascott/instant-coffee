@@ -26,7 +26,7 @@ occult. Please join us for the opening reception Friday, May 9, 2014 8pm -
 11pm. The artist will also be present during the event. 
 
 “Unsubstantiated claims of bizarre behavior that are difficult to prove or 
-disproveâ€ 
+disprove” 
 - Kenneth V Lanning, Special Agent for the FBI Behavioral Science Unit 
 (1992)
 Intense feelings erupted all over North America in the early 1980s that 
@@ -38,7 +38,7 @@ The initial investigations into SRA were conducted by anthropologists and
 sociologists, who failed to find evidence of SRA actually occurring; instead 
 they concluded that SRA was a result of rumors and folk legends that were 
 spread by “media hype, Christian fundamentalism, mental health and law 
-enforcement professionals and child abuse advocatesâ€  (The Dilemma of 
+enforcement professionals and child abuse advocates”  (The Dilemma of 
 Ritual Abuse: Cautions and Guides for Therapists. Fraser, GA - 1997). 
 Nonetheless Satanic Ritual Abuse became a moral panic that seemed to 
 distort normal childhood fears and fantasies into a so-called crime epidemic 

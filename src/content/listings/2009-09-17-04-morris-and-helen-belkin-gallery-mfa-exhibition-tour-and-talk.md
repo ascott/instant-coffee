@@ -42,7 +42,7 @@ software and technologies, and delivers educational programming free of charge. 
 talks will highlight the work of local Vancouver artists that use a variety of technologies within their 
 artistic practice. See www.hubcentre.org.
 Jen Weih’s practice a dialogue between construction and collapse, elegance and horror, sense 
-and non-sense. Her projects include a range of aesthetics from â€œbadâ€  fonts to geometric balance 
+and non-sense. Her projects include a range of aesthetics from “bad”  fonts to geometric balance 
 and uses materials that are found, manufactured, and crafted. Work for this show will include a 
 collection of 8 ½ x 11 inch, 20 lb. bond paper sculptures produced through a combination of 
 conscious decision making and chance-based processes.

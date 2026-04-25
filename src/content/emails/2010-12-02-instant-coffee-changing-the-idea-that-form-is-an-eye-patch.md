@@ -461,7 +461,7 @@ INTERVIEWS with
 
 Raymond Pettibon
 “I like to say things with a visual economy of line and, as much as I can,
-in words.â€  states Pettibon in an interview with Border Crossings. The
+in words.”  states Pettibon in an interview with Border Crossings. The
 California-based artist talks with BC about his comic-like works on paper
 that combine text and drawn images inspired by figures from popular
 American culture.
@@ -719,7 +719,7 @@ Four #48
 The title of the exhibition, To Tame A Land, makes reference to the 1955
 novel of the same name by American author Louis L’Amour. It is a coming of
 age story of a young boy orphaned and left to wander “a wild land of
-canyons and buttes, and on dust-choked cattle trails.â€  Vancouver is known
+canyons and buttes, and on dust-choked cattle trails.”  Vancouver is known
 worldwide for its natural beauty, and the mountains, forests, lakes and
 ocean it is surrounded by is featured in architectural design almost as a
 façade, a picture to be viewed through the glass window of an apartment
@@ -922,7 +922,7 @@ CALL FOR PAPERS (DEADLINE EXTENDED TO DECEMBER 15TH)
 As Hal Foster has noted in a recent questionnaire on the subject,
 contemporaneity-while not a new term-has at our present moment assumed a
 relevance as insistent as it is diverse. Encompassing a wide array of
-concerns including the ambitions and anxieties of the â€œnewâ€  in historical
+concerns including the ambitions and anxieties of the “new”  in historical
 and neo-avant-gardes, the epistemological status of collected objects, and
 the ontological status of the historian, contemporaneity lies at the heart
 of many of the most pressing questions currently preoccupying the
@@ -937,9 +937,9 @@ anticipate our shared futures.
 
 Possible topics may include:
 
--Contemporaneity and the notion of â€œpresent-nessâ€ 
+-Contemporaneity and the notion of “present-ness” 
 
--Contemporaneity and the notion of â€œpast-nessâ€ 
+-Contemporaneity and the notion of “past-ness” 
 
 -Technology and the temporal aspects of cultural exchange
 
@@ -951,7 +951,7 @@ Possible topics may include:
 
 -Contemporary art and the contemporary art market
 
--The status of the prefix â€œpostâ€ 
+-The status of the prefix “post” 
 
 -Periodization in the humanities (Antiquity, Renaissance, Modern etc.)
 

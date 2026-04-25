@@ -159,7 +159,7 @@ such as administration, ambient music, detours, neologisms, loitering, and
 secretive acts. Artworks were often performed furtively and were not
 necessarily visible. Evidence of such gestures may remain as documentary
 images, video footage, anecdotes, research, maps, scripts, detonated low
-munitions, accessories, fraudulent products, a sense of dÃ©jÃ -vu, an awkward
+munitions, accessories, fraudulent products, a sense of déjÃ -vu, an awkward
 encounter, or distant memory. Works may have been disseminated by
 exhibition, print, mail, lecture, free gifts, invitation, word of mouth, or
 reenactment. Ritter has worked under different aliases including, but not

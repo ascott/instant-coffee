@@ -20,10 +20,10 @@ Josephine Pryde is an artist who lives in London, and in Berlin where she has
 been Professor for Contemporary Photography at the University of the Arts. She 
 has had recent solo exhibitions at Chisenhale Gallery, London; MD72, Berlin; 
 Reena Spaulings Fine Art, New York and Richard Telles Fine Art, Los Angeles. 
-Group shows include â€œFilms & Filmingâ€ , organised by David Lieske at Bischoff 
-Projects, Frankfurt, â€œMadame Realismâ€ , Marres Centre for Contemporary Art, 
+Group shows include “Films & Filming” , organised by David Lieske at Bischoff 
+Projects, Frankfurt, “Madame Realism” , Marres Centre for Contemporary Art, 
 Maastricht, and “The J.G. Ballard Centre for Psychopathological Research 
-presents: â€˜Zodiac 3000â€™ â€  at the International Project Space, Birmingham.
+presents: ‘Zodiac 3000’ ”  at the International Project Space, Birmingham.
 Her practice employs a continuous shuttling between the generic technical 
 conditions of culture and the image, and the irreducibly singular - that for which 
 no prior decision (or strategy) can be applied. As part of the Distinguished 
@@ -33,7 +33,7 @@ open to the public.
 
 SB: In your exhibition Brains & Chains, you refer to Eva Hesse, amongst other 
 things. If I have understood you correctly, what you’re concerned with here is 
-the â€œmodel swotâ€ , above all the one embodied by women artists who could be, or 
+the “model swot” , above all the one embodied by women artists who could be, or 
 who are, established in the art business.
 
 JP: Yes. I got interested in working with my own embarrassment.

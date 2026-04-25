@@ -28,7 +28,7 @@ draws on archival film footage and sound materials sourced from the Isuma
 Archive at the National Gallery of Canada, as well as sound and film
 materials from the artist’s personal collection and other ethnographical
 material. Conceived as an Indigenous response to Glenn Gould’s celebrated
-composition â€œThe Idea of the Northâ€ , Inutiq will appropriate Gouldâ€™s piece
+composition “The Idea of the North” , Inutiq will appropriate Gould’s piece
 as a musical score, paired with new voices and imagery to produce a layered
 and multi-vocal work.
 

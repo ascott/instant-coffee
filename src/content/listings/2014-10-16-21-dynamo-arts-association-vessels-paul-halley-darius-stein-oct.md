@@ -15,7 +15,7 @@ Dynamo Arts Association
 Reception: Saturday October 25, 8pm 
 *** with performance at 9pm
 
-The word â€œvesselsâ€  offers an array of different meanings and connotations. 
+The word “vessels”  offers an array of different meanings and connotations. 
 Some of the most common refer to an object used as a container, a craft 
 designed for water transportation, or the more literary translation which 
 describes a person who embodies a particular quality or use for a 

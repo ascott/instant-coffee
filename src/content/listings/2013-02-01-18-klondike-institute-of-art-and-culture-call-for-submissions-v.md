@@ -24,7 +24,7 @@ take the form of a video rental store that carries artistsʼ videos.
 The project employs the characteristics of the retail environment to
 connect to the local community while, challenging the galleryʼs role
 as an intermediary that delimits the viewerʼs direct access to art.
-â€œCustomersâ€  are asked to pay what they wish, which can be interpreted
+“Customers”  are asked to pay what they wish, which can be interpreted
 as cash, a non-monetary exchange, critique, or no remuneration. This
 facet is in place as an experimental form of engagement, where artists
 have the opportunity to receive responses directly from viewers. In
@@ -35,7 +35,7 @@ return policies at commercial ventures.
 
 Background
 This is the second iteration of the Under New Management video
-â€œrentalâ€  store. As part of a larger exhibition/project, the first
+“rental”  store. As part of a larger exhibition/project, the first
 store took place in Toronto from August 3-14, 2010. This method of
 disseminating video art to the general public was exceptionally
 popular during its short run.

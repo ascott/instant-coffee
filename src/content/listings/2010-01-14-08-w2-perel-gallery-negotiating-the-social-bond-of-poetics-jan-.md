@@ -78,20 +78,20 @@ Psychoanalysis, and Seminar XX: On Feminine Sexuality, The Limits of Love
 and Knowledge, and some of the selected fragments from Television. He
 proposes that there are four fundamental discourses, or structures of
 discourse, that produce different social bonds for the subject. These
-discourses consist of the masterÃ¢â�¬â�¢s discourse, the hystericÃ¢â�¬â�¢s discourse, the
-university discourse, and the analystÃ¢â�¬â�¢s discourse. While Lacan is concerned
+discourses consist of the masterâ’¬’¢s discourse, the hystericâ’¬’¢s discourse, the
+university discourse, and the analystâ’¬’¢s discourse. While Lacan is concerned
 with the limitation of the master's discourse and the university discourse,
 he sees the potential of transformation in the analyst's discourse.
 Although he asserts that it is necessary to make an hysterization of
-discourse in the process of analysisÃ¢â�¬â��because this is the first step towards
-questioning the masterÃ¢â�¬â�¢s discourseÃ¢â�¬â��he asserts that this discourse must then
-be shifted to the analystÃ¢â�¬â�¢s discourse for Real change to occur. Seminar
+discourse in the process of analysisâ’¬’because this is the first step towards
+questioning the masterâ’¬’¢s discourseâ’¬’he asserts that this discourse must then
+be shifted to the analystâ’¬’¢s discourse for Real change to occur. Seminar
 XVII, which took place in 1969, follows the student and social revolt of
 May 68, a historical moment in which Lacan was immersed. He is critical of
 revolutions that appear to simply question the master and the university,
 and as a consequence only reproduce a new master, without shifting social
 bonds, as he cynically suggests that the Parisian students of 68 were in
-danger of doing. However, we do find moments in LacanÃ¢â�¬â�¢s seminars in which
+danger of doing. However, we do find moments in Lacanâ’¬’¢s seminars in which
 he suggests that a writer can hold a similar position as an analyst, and
 thus one would assume, also be able to shift these other discourses to
 enact some social change. Therefore, I am using this frame to ask
@@ -99,7 +99,7 @@ questions, develop a dialogue, about poetics and social change. Can
 poetics operate like the analyst's discourse to create a different social
 bond through language? Do poets intervene in these other discourses or
 intersect with them in subversive ways that shift discourse and social
-bonds? Is LacanÃ¢â�¬â�¢s concept of the structure of the four discourses useful
+bonds? Is Lacanâ’¬’¢s concept of the structure of the four discourses useful
 for us today, particularly as we head into financial cuts in the arts and
 academia that may limit interventions in hegemonic discourses? Or do we
 need to rethink what poetics and discourse are and reconsider how we engage
@@ -107,7 +107,7 @@ with and disseminate them?
 
 - Nancy Gillespie
 
-A further description of LacanÃ¢â�¬â�¢s four discourses will be available for
+A further description of Lacanâ’¬’¢s four discourses will be available for
 workshop registrants.
 
 for more information click here : http://www.kswnet.org/

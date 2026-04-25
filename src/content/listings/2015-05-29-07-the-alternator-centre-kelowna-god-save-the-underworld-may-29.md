@@ -21,10 +21,10 @@ the Alternator Centre for Contemporary Art.
 The exhibit is headed by Chris Bose and features work from other members of
 Kamloops’ Arbour Collective, an urban Aboriginal, Métis and Inuit artist
 association.
-â€œThe underworld is a community that society rarely acknowledges,â€  says
+“The underworld is a community that society rarely acknowledges,”  says
 Bose. “This exhibit brings outsider art from the fringes of our social
 systems; it is created for people who will never step foot in a gallery or
-museum.â€ 
+museum.” 
 Much of the exhibit’s contentious content wrestles with themes of missing
 Aboriginal women, poverty and issues of injustice facing an array of
 underserved and plighted communities.
@@ -35,8 +35,8 @@ The new exhibit follows gallery manager Peter Green’s address to Kelowna’s
 City Council earlier this month that outlined the importance of the
 Alternator’s socially engaged art.
 “Street art and graffiti are often vilified and synonymous with urban
-decay,â€  says Green. â€œGod Save the Underworld is however politically
-charged and an incredibly potent expression.â€ 
+decay,”  says Green. “God Save the Underworld is however politically
+charged and an incredibly potent expression.” 
 In honour of National Aboriginal Day on June 21st, the Bose will partner
 with an undisclosed downtown business to paint a public mural.
 The Alternator and Bose are slated to participate in the city’s Canada Day

@@ -9,7 +9,7 @@ summary: "DIM Cinema at The Cinematheque | Pierre Huyghe: The Host and the Cloud
 ---
 
 “Huyghe’s strength lies in his understanding . . . [that] images have
-become masks for universal media ventriloquism.â€  (Jean Baudrillard)
+become masks for universal media ventriloquism.”  (Jean Baudrillard)
 
 VANCOUVER PREMIERE! DIM Cinema is delighted to present the
 Vancouver premiere of Pierre Huyghe’s The Host and the Cloud, a
@@ -23,7 +23,7 @@ actors through a series of fragmented narratives, fantastical visions, and
 dreamlike rituals as they freely interpret three public holidays —
 Halloween, Valentine’s Day, and May Day. “The film might be Huyghe’s 
 most
-elaborate, intriguing and, quite possibly, weirdest offering to dateâ€ 
+elaborate, intriguing and, quite possibly, weirdest offering to date” 
 (Naomi Fry, Frieze).
 
 The Host and the Cloud. France, 2009. Dir: Pierre Huyghe. 121 min. DCP

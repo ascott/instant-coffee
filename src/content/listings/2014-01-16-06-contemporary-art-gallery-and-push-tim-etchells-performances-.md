@@ -22,8 +22,8 @@ the founder of theatre company Forced Entertainment, Etchells has a diverse
 practice encompassing performance, art and fiction. 
 Illuminating our building until June, Who Knows reveals a fascination with 
 rules and systems in language and culture. Presented in multi colour and 
-various combinations four phrases of â€œI Knowâ€ , â€œYou Knowâ€ , â€œWe Knowâ€ , 
-â€œThey Knowâ€ , evoke a playfully paranoid suggestion. The overall tone 
+various combinations four phrases of “I Know” , “You Know” , “We Know” , 
+“They Know” , evoke a playfully paranoid suggestion. The overall tone 
 however takes on something of the surveillance topic even more on our 
 minds since the information leaked by former intelligence contractor Edward 
 Snowden in May of last year.

@@ -17,8 +17,8 @@ Western Front Lux
 
 Access Gallery presents an artist talk by Sobey award nominated artist
 Diane Borasto at the Western Front Lux, Sunday May 9th. In Vancouver
-to complete a new project for Access Galleryâ��s summer exhibition,
-Field Work (June 25 â�� July 24), Diane Borsato will discuss her recent
+to complete a new project for Access Gallery’s summer exhibition,
+Field Work (June 25 ’ July 24), Diane Borsato will discuss her recent
 relational and interventionist projects. In works such as The
 Chinatown Foray (2009-10) and Terrestrial/Celestial, the artist
 collaborated on events with groups of amateur mycologists (mushroom

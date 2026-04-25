@@ -18,7 +18,7 @@ All artists will be in attendance
 WAAP | WIL ABALLE ART PROJECTS
 528-2050 Scotia St., Buzzer 189
 
-The diverse works featured in â€œAs It Isâ€  are informed by tradition but also 
+The diverse works featured in “As It Is”  are informed by tradition but also 
 propelled by innovation, with each artist working to distill their visual 
 vocabulary as a means of conveying an essential experience. The pieces are 
 process driven, and often use paint in unconventional ways. Paint is built up 

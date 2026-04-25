@@ -20,20 +20,20 @@ August 16, 2014.
 
 In A Trip To The Moon the works of Groat, Limit and Pinheiro destabilize 
 the viewer by removing any recognizable horizon line. The fragmentary 
-aspect of Maggie Groatâ€™s sculptural wall work â€œ13 Moonlight 
+aspect of Maggie Groat’s sculptural wall work “13 Moonlight 
 Reflectors or A Proposal for Returning Moonlight Back to the Moon (August 
-3rd)â€ diffracts the exhibition in its reflection, dismantling the other works 
+3rd)” diffracts the exhibition in its reflection, dismantling the other works 
 in the show into an abstraction that challenges the surety of the spectator. 
-The leveler in Jimmy Limit photographic print â€œLevel with Ginger Root 
+The leveler in Jimmy Limit photographic print “Level with Ginger Root 
 on Grey (Accuracy, Agriculture, Conceal, Control, Even, Fluidity, Fresh, 
 Future, Healthy Eating, Herb, Isolation, Morality, Nobody, Progress, 
 Recovery, Success, Truth)belies its utilitarian value and becomes a foreign 
 object floating in negative space. His multiple slip cast ceramics hint at a 
 future archaeology, collection/archive of information that will eventually be 
 lost and rediscovered and examined or translated like the rediscovery of 
-Greek philosophy in the Middle Ages. [1] Andrea Pinheiroâ€™s scanned 
-and enlarged paintings on photographic prints, â€œLadderâ€ and â
-€œBridge,â€ hint at this eventual unearthing and interpretation, marks 
+Greek philosophy in the Middle Ages. [1] Andrea Pinheiro’s scanned 
+and enlarged paintings on photographic prints, “Ladder” and â
+€œBridge,” hint at this eventual unearthing and interpretation, marks 
 that contain a recognizable logic to be deciphered and a path to achieve it. 
 By exploring the assumption that what we know now will be identified in the 
 future, A Trip To The Moon stakes its claim on the skeptic and the optimist 
@@ -52,7 +52,7 @@ in his work include exotic fruit, hardware store goods and his own
 handmade ceramics. Drawing on industrial supply aesthetics, stock 
 imagery and his work as a commercial photographer, Limit addresses how 
 photography functions both as a tool of commerce and as a commodity. 
-Limitâ€™s work has recently appeared on the covers of C Magazine and 
+Limit’s work has recently appeared on the covers of C Magazine and 
 cura Magazine (Italy) and has been featured in Magenta Magazine and 
 Canadian Art. He has exhibited in Toronto, Rome and New York City. His 
 work is on view this spring in solo shows at Rodman Hall/Brock University 

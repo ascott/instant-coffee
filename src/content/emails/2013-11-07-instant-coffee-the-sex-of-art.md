@@ -73,7 +73,7 @@ Canadian and international artists. The gallery's roster includes artists workin
 in installation, video, sculpture, photography, mixed media, and contemporary
 painting. A number of our artists work internationally, including recent
 residencies and exhibitions in Spain, Denmark, Germany, France, and the
-United States. Republic Gallery recently took part in Papier 13 in MontrÃ©al.
+United States. Republic Gallery recently took part in Papier 13 in Montréal.
 
 -----------
 
@@ -222,20 +222,20 @@ sculpture and video the project roots in a basic exploration... how do we see
 more similarities with those around us? Searching for Land is the reflection of
 one such coordinated search.
 
-â€˜We did not come directly at each other. in our many correspondences, we
+‘We did not come directly at each other. in our many correspondences, we
 have shared the same grounds and described to each other what is behind
 us, and what is facing us in our sculptural practice as well as everyday life. if
 we were two dots, immersed in the same thing, say a die, then we would be
-dots set on different planes. in this sense, we are a part of a number â€“a
+dots set on different planes. in this sense, we are a part of a number –a
 greater whole. This exhibition might map our shared tendencies - or rather our
 tendencies in trying to understand what drives us. Two dots seen at once in a
-three dimensional space: a parabolaâ€™
-â€“ Kitsum Cheng
+three dimensional space: a parabola’
+– Kitsum Cheng
 
 Searching for Land marks the first Vancouver exhibition for both artists.
 
-â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â
-€¦â€¦â€¦â€¦.
+……………………………………………………………………â
+€¦……….
 
 Kitsum Cheng was born in Hong Kong and is now based in Frankfurt,
 Germany, where she is currently attending the Staedelschule. Previously, she
@@ -430,7 +430,7 @@ Kootenay School of Writing
 
 +
 
-â€œCantonese 49â€ 
+“Cantonese 49” 
 
 One of the seven lakes, and these passages:
 Rainy River Navigation
@@ -493,7 +493,7 @@ And the power of the beast.
 +
 
 KRS-One
-from â€œSound of Da Policeâ€ 
+from “Sound of Da Police” 
 
 Now here's a little truth, open up your eyes
 While you're checking out the boom-bap, check the exercise
@@ -507,7 +507,7 @@ You need a little clarity, check the similarity
 +
 
 Zhou Zan
-â€œMr. Zhang San Rides through Town on a Minibusâ€ 
+“Mr. Zhang San Rides through Town on a Minibus” 
 
 4.
 
@@ -516,7 +516,7 @@ revolutionary enterprise,
 these are antitheses in the books he's read;
 the question he has no time for allegorized
 by passengers getting on and off in turn: “Those who want to get on, get on;
-if it's your stop, say somethingâ€  â€“ history's meaning
+if it's your stop, say something”  – history's meaning
 found in excessive annotations of ordinary speech.
 
 But why must his identity be made clear?
@@ -527,12 +527,12 @@ how much his business has earned.
 His youth is promising; is his seat on the minibus
 nothing more than a mark of the nouveau riche?
 
-â€œWill have bread, will have everything.â€  He admires
+“Will have bread, will have everything.”  He admires
 the Marlboro pressed between his fingers, distinguished emblem
 of two esteemed cultures, characters: Act! Victory lies ahead! Yet he
 identifies himself with the cigarette: “I am being burned
 to the utmost degree by my own flame
-and curl up in my own smoke.â€ 
+and curl up in my own smoke.” 
 
 
 
@@ -548,8 +548,8 @@ Vancouver, 555 Hamilton, BC, Canada.
 
 Walter Benjamin was an influential philosopher and art theoretician, best 
 known for his 1936 essay “The Work of Art in the Age of Mechanical 
-Reproductionâ€ . In 1986 â€” many years after his tragic death â€” Walter 
-Benjamin reappeared in public with the lecture â€œMondrian â€™63â€“â€™96″ organized 
+Reproduction” . In 1986 — many years after his tragic death — Walter 
+Benjamin reappeared in public with the lecture “Mondrian ’63–’96″ organized 
 by the Marxist Center in Ljubljana. In recent years, Mr. Benjamin has been an 
 associate of the Museum of American Art in Berlin, giving interviews and 
 publishing articles internationally.
@@ -648,7 +648,7 @@ from Mega-events (2011) and Autogestion, or Henri Lefebvre in New Belgrade
 
 Stephen Collis is an Associate Professor in the Department of English at 
 SFU. A poet and activist and social critic, he is the author of three parts of the 
-on-going â€œBarricades Projectâ€ : Anarchive (2005), The Commons (2008), and 
+on-going “Barricades Project” : Anarchive (2005), The Commons (2008), and 
 the forthcoming To the Barricades (2013). His writing on the Occupy 
 movement is collected in Dispatches from the Occupation (2012).
 
@@ -660,8 +660,8 @@ Canada (upcoming). Her research focuses on activism, visual culture and
 changing economies. Using Canada as main case study, her work looks at 
 the relationship between the parallel appearance in the mid-1990s of global 
 anti-capitalist protest movements and a growing discourse around “creative 
-industriesâ€  as a sector of great economic potential. Focusing on the 
-international art world, the designation of urban spaces as â€œcreative cities,â€  
+industries”  as a sector of great economic potential. Focusing on the 
+international art world, the designation of urban spaces as “creative cities,”  
 and an increasing economic precarity amongst creative workers, her research 
 examines specific moments where protest collides with an escalating 
 economization of culture.
@@ -851,7 +851,7 @@ Gallery hours: Tuesday - Saturday 12-5pm
 Western Front is pleased to present a new solo exhibition by Israeli artist Noa 
 Giniger.
 
-Absolute Countdown traces Ginigerâ€™s attempt to â€œcheer upâ€  a weeping willow 
+Absolute Countdown traces Giniger’s attempt to “cheer up”  a weeping willow 
 with the help of artificial wind. The melancholic object becomes the subject of 
 this poetic intervention, as the artist’s forceful yet ephemeral action attempts 
 to momentarily erase the willow’s somber shrug. While this monumental—but 
@@ -936,7 +936,7 @@ statements which surround the mechanical and philosophical parameters of
 photography, being tested through a variety of photographic paper, film,
 cameras; materials in flux and subject to a myriad of simultaneous meanings.
 This exhibition has been developed in partnership between MK Gallery, Milton
-Keynes, UK and Centro Galego de Arte ContemporÃƒÂ¡nea Ã¢â‚¬â€  CGAC, Santiago
+Keynes, UK and Centro Galego de Arte ContemporÃƒÂ¡nea ââ‚¬”  CGAC, Santiago
 de Compostela, Spain. Special thanks also to David Zwirner, New York;
 Maureen Paley, London; Galeria Marta Cervera, Madrid; Regen Projects, Los
 Angeles and Galerie Nelson-Freeman, Paris.
@@ -947,7 +947,7 @@ fire/
 NOTES TO EDITORS:
 Public Events: Exhibition Opening & Public Programmes
 
-1) Exhibition Opening and Closing Party for Capture Photography Festival â€“
+1) Exhibition Opening and Closing Party for Capture Photography Festival –
 Thursday, November 14, 7-10pm at the CAG
 Public opening and celebration of the exhibition and closing party for Capture
 Photography Festival. www.capturephotofest.com. Artist present. Opening
@@ -1000,7 +1000,7 @@ http://www.contemporaryartgallery.ca/exhibitions/meric-algun-ringborg/
 NOTES TO EDITORS:
 Public Events: Exhibition Opening & Public Programmes
 
-1) Exhibition Opening and Closing Party for Capture Photography Festival â€“
+1) Exhibition Opening and Closing Party for Capture Photography Festival –
 Thursday, November 14, 7-10pm at the CAG
 Public opening and celebration of the exhibition and closing party for Capture
 Photography Festival, www.capturephotofest.com. Opening reception
@@ -1024,7 +1024,7 @@ Tuesday, December 3, 7pm
 Erdem Taşdelen is a multidisciplinary artist who lives and works in Vancouver
 and currently teaches in the Critical and Cultural Studies Department at Emily
 Carr University of Art + Design.
-4) Free Guided Visits â€“ Saturdays & Sundays: Nov 16, Dec 1, Dec 7, Dec
+4) Free Guided Visits – Saturdays & Sundays: Nov 16, Dec 1, Dec 7, Dec
 14, Dec 15, Jan 5 and Jan 11. All tours start at 3pm. Contemporary Art
 Gallery
 Join Nigel Prince, Executive Director, Jill Henderson, Communications
@@ -1051,7 +1051,7 @@ T: 604.681.2700
 E: j.henderson@contemporaryartgallery.ca W:
 www.contemporaryartgallery.ca
 Contemporary Art Gallery - 555 Nelson Street, Vancouver, BC V6B 6R5
-Hours: Tues â€“ Sun: 12- 6 pm. FREE ADMISSION
+Hours: Tues – Sun: 12- 6 pm. FREE ADMISSION
 IMAGE: James Welling, Gelatin Photograph 51 (1984), inkjet print mounted to
 metal, 20 Ã— 16 inches. Courtesy the artist and David Zwirner Gallery, New
 York / London.
@@ -1132,7 +1132,7 @@ There is a 6.5 inch step at the front entrance
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2013-11-07-16-artspeak-back-to-the-door-nov-15">16. Artspeak | Back to the Door | NOV 15</a>
 ------------------------------------------------------------------------
-â€œBack to the Doorâ€ 
+“Back to the Door” 
 
 BECKY KOLSRUD, KALUP LINZY, 
 ELIZABETH MILTON
@@ -1174,7 +1174,7 @@ November 15, 2013 – January 25, 2014
 Gallery Hours: Tuesday – Saturdays, 11am-6pm
 Opening Reception: Friday, November 15, 2013, 7pm
 
-â€œA Chorus of Lungsâ€  is a 3D interactive sound and video installation that 
+“A Chorus of Lungs”  is a 3D interactive sound and video installation that 
 explores the idea of the social body, its voice and breath. The installation 
 appears as a constellation of animated lungs floating in space to the cadence 
 of breathing. The viewer is invited to animate the Chorus of Lungs by pushing 
@@ -1184,13 +1184,13 @@ The intention is that this installation produces a space of agency for the
 viewer, re-considering the relationship between art object and viewer, but also 
 exploring tensions and possibilities inherent to the notion of community. The 
 artists state, “We are exploring the tensions between community, chorus, and 
-individual voicing with an attentiveness to our singular and collective being.â€  
+individual voicing with an attentiveness to our singular and collective being.”  
 The work addresses ideas of the individual and society, and within the 
 consideration of Asian identities, reflects on approaches to individual 
 difference and diversity, social engagement, interaction, shared space and 
 ideas of collectivity.
 
-â€œA Chorus of Lungsâ€  represents an important work in the development of 
+“A Chorus of Lungs”  represents an important work in the development of 
 media technologies, drawing on artistic innovation and institutional and artistic 
 collaboration. At Centre A, the presentation of this work will be accompanied 
 by public programs, including artist talks, and 3D drawing workshops 
@@ -1270,7 +1270,7 @@ Speculative Fiction writing at Douglas College.
 Jennica Harper’s most recent book of poetry is Wood. Her previous books are 
 What It Feels Like for a Girl and The Octopus and Other Poems, and she has 
 a poem forthcoming in the anthology I Found It at the Movies. Her long poem 
-â€œLiner Notesâ€  won a Silver National Magazine Award, and her work has twice 
+“Liner Notes”  won a Silver National Magazine Award, and her work has twice 
 been selected for Vancouver’s Poetry in Transit program. Jennica is also a 
 film and TV writer, and most recently wrote on YTV’s teen comedy Mr. 
 Young.
@@ -1475,7 +1475,7 @@ means limited to the fixed context closure of ‘art’.) we need a broad social
 base in positive opposition to the ideological content and social relations 
 reproduced by ‘official’ ‘digital’ culture. those of you wishing to participate 
 should send correspondence to: the editors, post office box 728. canal street 
-station, new york city, 10013 236 east pender street, vancouver v6a 1t7â€ 
+station, new york city, 10013 236 east pender street, vancouver v6a 1t7” 
 
 The exhibition is part of Arnaud Desjardin's ABRRR - Artists' Books Research 
 Residency in Vancouver, co-produced with the Emily Carr University Library 
@@ -1486,7 +1486,7 @@ residency activities at the Emily Carr University Library, and the launch of his
 Arnaud Desjardin is a French artist, curator and publisher currently based in 
 London. He describes his ongoing publication project, The Everyday Press, 
 as a “channel for collaborations with artists, curators, writers and academics 
-to produce acts of publication to be considered as art works.â€  Having recently 
+to produce acts of publication to be considered as art works.”  Having recently 
 published a sourcebook on artists’ books ("Book on Books on Artists’ 
 Books"), Desjardin is currently developing an online archival project in 
 collaboration with Banner Repeater, an artist led project space in London.
@@ -1587,8 +1587,8 @@ Reception. Exploring conflict and forgetting within public and private contexts,
 Dragu's lens focuses on footage from Berlin and Belfast as well as 
 documentation from her 2009-2011 performances of VERB WOMAN: a dance 
 of forgetting (dedicated to her mother who had Alzheimer’s disease). The new 
-two channel-video, divided into â€œconflictâ€  and â€œforgettingâ€  channels, considers 
-the underlying tensions of conscious and unconscious â€œforgettingâ€  by 
+two channel-video, divided into “conflict”  and “forgetting”  channels, considers 
+the underlying tensions of conscious and unconscious “forgetting”  by 
 individuals and nations faced with painful histories. 
 Dragu will be present in the exhibition space at selected times, inviting visitors 
 to participate in a Community Quilt Chance Operation. Visitors will be 
@@ -1617,7 +1617,7 @@ Mail Art (aka Postal or Correspondence Art) is a long-standing non-
 commercial art practice where artists collaborate and exchange artworks 
 through the postal service. Over 650 artists from more than 45 countries 
 working in a variety of art media have contributed to this exhibition, mailing in 
-4â€  x 6â€  artworks based on the theme of â€œmemoryâ€ . All submissions received 
+4”  x 6”  artworks based on the theme of “memory” . All submissions received 
 will also be part of an online gallery at www.richmondartgallery.org to 
 showcase the great variety of artists and artworks involved in this large 
 international network. 
@@ -1645,7 +1645,7 @@ Email: gallery@richmond.ca
 
 instant coffee: tops and bottoms
 
-"To make art politically means to choose materials that do not intimidate, a format that doesnâ€™t dominate, a device that does not seduce. To make art politically is not to submit to an ideology or to denounce the system, in opposition to so-called â€œpolitical art.â€  
+"To make art politically means to choose materials that do not intimidate, a format that doesn’t dominate, a device that does not seduce. To make art politically is not to submit to an ideology or to denounce the system, in opposition to so-called “political art.”  
 
 Bishop, Claire: Antagonism and Relational Aesthetics, October 110 [Fall 2004], p.75
 

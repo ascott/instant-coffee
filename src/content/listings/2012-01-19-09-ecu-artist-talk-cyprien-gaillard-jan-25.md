@@ -37,7 +37,7 @@ prize) in Germany’s Young Art Prize exhibition at Berlin’s Hamburgerbahnhof.
 In The Recovery of Discovery, Gaillard notoriously built a pyramid out of 72,000 
 bottles of beer at KW Institute for Contemporary Art in Berlin and invited visitors 
 to contribute to the work by drinking it. As Gaillard states:. “The physical 
-hangover is also an architectural one, from which one has to recover.â€  
+hangover is also an architectural one, from which one has to recover.”  
 
 Gaillard was recently awarded the 2010 Prix Marcel Duchamp, France’s most 
 prestigious award for contemporary visual arts.

@@ -18,7 +18,7 @@ I’m interested in experiencing something, and the act of taking a
 picture is a way for me to process that experience into an image…For
 me, so much of that comes from the details, the ability of the print
 to describe the space between things.
-â€” An-My LÃª, â€œAn-My LÃªâ€™s Events Ashore,â€  The New Yorker
+— An-My LÃª, “An-My LÃª’s Events Ashore,”  The New Yorker
 
 In her first exhibition in Canada, An-My Lê presents a selection of
 photographic works that depict landscapes transformed by military
@@ -39,7 +39,7 @@ military exercises on land and humanitarian efforts in countries such
 as Haiti. Lê’s relationship with her subject matter speaks of her own
 complex experiences. As she says: “My life has been completely
 affected by American foreign policy…They were the perpetrators, but
-they were also the saviours.â€ 
+they were also the saviours.” 
 
 An-My Lê was the Audain Distinguished Artist-in-Residence at Emily
 Carr University in spring 2015. Her work has been widely exhibited,

@@ -15,7 +15,7 @@ Exhibition dates: February 17th- March 4th
 The exhibition The Romance Capital of the Yukon focuses on the idea
 of shelter and the romanticism of trying to find a space for yourself in
 the context of the north, specifically the town of Dawson City in
-Canadaâ€™s Yukon Territory. Each of the artists has based their work 
+Canada’s Yukon Territory. Each of the artists has based their work 
 for
 this show on personal experiences from their time spent in the Yukon
 Territory in the summer of 2011. The show features work by Northern

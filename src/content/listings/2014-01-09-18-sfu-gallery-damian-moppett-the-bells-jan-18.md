@@ -30,18 +30,18 @@ dense and populated with tools, materials, artworks in process, and
 referents from Peter Paul Rubens, Auguste Rodin and Anthony Caro to 
 Mike Kelley and Luke Lindoe.
 
-For his exhibition â€œThe Bellsâ€  at SFU Gallery, Moppettâ€™s new video 
+For his exhibition “The Bells”  at SFU Gallery, Moppett’s new video 
 engages directly with photographs of his studio and its contents. These 
 images are presented to the video camera as stills and are 
 accompanied by a soundtrack of the artist responding to the images. 
 The distance provided by the multiple cameras provokes the 
 consideration of a material practice over time. Referencing Hollis 
-Framptonâ€™s work, specifically the 1971 film â€œ(nostalgia)â€ , which depicts 
+Frampton’s work, specifically the 1971 film “(nostalgia)” , which depicts 
 the slow burning of photographs from Frampton’s early artistic 
 explorations with a soundtrack of comments, Moppett similarly asks 
 viewers to engage with past and present temporalities within the work.
 
-â€œThe Bellsâ€  announces a located moment in Moppettâ€™s practice, and in 
+“The Bells”  announces a located moment in Moppett’s practice, and in 
 doing so locates his practice within a broader historical context. Bells 
 themselves mark time, are a call to worship, signal alarm and mark the 
 beginning and end of work. They are a form of mass communication to 
@@ -53,14 +53,14 @@ to the process of the work.
 
 Connected to the permutations of the studio is the forthcoming 
 permanent outdoor installation of a sculptural work by Moppett, “Large 
-Painting and Caryatid Maquette in Studio at Night (Sculpture Version)â€ , 
+Painting and Caryatid Maquette in Studio at Night (Sculpture Version)” , 
 2012 on SFU’s Burnaby campus as part of the SFU Art Collection. The 
 sculpture presents the studio as a kind of stage set. The artist 
 transformed a painting of the studio into a three-dimensional space, 
 taking abstracted shapes and reproducing them as large-scale cutouts 
 in painted aluminum.
 
-The exhibition â€œThe Bellsâ€  will be accompanied by a publication. The 
+The exhibition “The Bells”  will be accompanied by a publication. The 
 first in a new SFU Galleries publication series, the publication includes 
 a commissioned parallel text by Lisa Robertson and as well as critical 
 source materials related to the artist’s layered practice.

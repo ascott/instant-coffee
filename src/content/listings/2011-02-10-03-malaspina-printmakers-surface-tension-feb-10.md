@@ -68,4 +68,4 @@ Granville Island, Vancouver, BC V6H 3S3
 malaspinagallery@telus.net
 www.malaspinaprintmakers.com
 
-Gallery Hours: Tuesday â�� Friday 10 - 5 pm Saturday and Sunday 11 - 5 pm
+Gallery Hours: Tuesday ’ Friday 10 - 5 pm Saturday and Sunday 11 - 5 pm

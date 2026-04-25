@@ -122,18 +122,18 @@ jeremyisaospeier@qlink.ca
 <a href="/instant-coffee/listings/2008-08-28-03-sfu-teck-gallery-james-k-m-cave-paintings-sep-2">03. SFU | Teck Gallery | James K-M: Cave Paintings | SEP 2</a>
 ------------------------------------------------------------------------
 James K-M: Cave Paintings
-September 2 â�� November 22, 2008
+September 2 ’ November 22, 2008
 Teck Gallery, Vancouver Campus (515 West Hastings)
 
 Opening: Friday September 5, 8pm to 9pm
 
-Artist talk: Monday September 15, 7pm: â��Is There Anything Old Here?â��
+Artist talk: Monday September 15, 7pm: ’Is There Anything Old Here?’
 
 Geometric abstraction has historically been one important way to picture
 idealized, utopian, or optically dizzying models of pictorial space. James
-K-Mâ��s hyper-organized matrices of simple geometric shapes form complex
-visual spaces. They also explore what Bloch and Adorno called â��the
-contradictions of utopian longing,â�� a condition that applies to all art
+K-M’s hyper-organized matrices of simple geometric shapes form complex
+visual spaces. They also explore what Bloch and Adorno called ’the
+contradictions of utopian longing,’ a condition that applies to all art
 with utopian aspirations, regardless of its form. Abstraction returned
 painting to the realm of ideas: idealism, science, philosophy, and the
 spiritual were all touchstones in the period from 1900 to 1980. Does
@@ -151,7 +151,7 @@ Please join us for the opening of the exhibition at the Teck Gallery, SFU
 Vancouver Campus. The artist will be in attendance. Opening remarks at 8:30pm.
 
 Artist Talk: Monday, September 15, 7pm
-The artist will present a talk titled â��Is There Anything Old Here?â�� Room
+The artist will present a talk titled ’Is There Anything Old Here?’ Room
 1600, SFU Vancouver Campus
 
 Publication:
@@ -259,7 +259,7 @@ level of the EasyPark parkade on Water Street will be transformed into a
 drive-in that welcomes drive-in, bike-in and walk-in audiences for a
 celebration of BC film.
 
-The theme of the film series is â��Vancouver Stars as Itself.â�� Featuring
+The theme of the film series is ’Vancouver Stars as Itself.’ Featuring
 shorts and feature films that have been shot in part or wholly within the
 Metro Vancouver area, the drive-in will showcase the talents of BC
 filmmakers. The provocative venue for the film series is an enticement to
@@ -301,9 +301,9 @@ Alice and Martha is the tale of two women who earn their living at a
 tedious delivery job. The film follows the protagonists through their daily
 routine; against the backdrop of Vancouver, Martha monopolizes the
 conversation with her nostalgic memories of the old country, her
-disenchantment of modern-day life, and her dreams of escape. Aliceâ��s
+disenchantment of modern-day life, and her dreams of escape. Alice’s
 pent-up anxieties and emotions translate into anger as she is forced to
-respond to Marthaâ��s antics. She wonders if sheâ��ll be able to keep it
+respond to Martha’s antics. She wonders if she’ll be able to keep it
 together in the presence of her overbearing companion whose observations
 force her to question such a mundane existence. To what lengths will they
 go to escape their repetitive daily lives?
@@ -321,9 +321,9 @@ Fetching Cody is an edgy yet sweet romantic comedy set in the Downtown
 Eastside. Art Frankel (Baruchel) is a hustler and general lay-about who is
 head over heels in love with the luminous Cody (Lind). When she falls into
 a coma from an apparent overdose, it is up to Art to seek out the one
-person who offers him any kind of hope: his homeless friend Harveyâ��and the
+person who offers him any kind of hope: his homeless friend Harvey’and the
 time machine he found in a dumpster. Desperate to reach her, Art suspends
-disbelief and embarks on a quest through time and space, deep into Codyâ��s
+disbelief and embarks on a quest through time and space, deep into Cody’s
 past. A thought provoking and funny movie about the sacrifices people will
 make for love.
 
@@ -363,9 +363,9 @@ preceded by The Reincarnation of W (2008)
 Director: Yun Lam Li
 
 The Reincarnation of W is a metaphorical journey of W. It is set in the
-background of the re-construction of Vancouverâ��s controversial Woodwardâ��s
+background of the re-construction of Vancouver’s controversial Woodward’s
 building. Chapter One: As 8:30am approaches, clouds gather strength over
-Vancouverâ��s Downtown Eastside. As water mist sprays over his hollow body, W
+Vancouver’s Downtown Eastside. As water mist sprays over his hollow body, W
 faces the moment he hopes will lead to enlightenment. Chapter Two: The
 journey of W is now complete. He waits for his turn to reincarnate while
 solemnly watching the world he left behind.
@@ -1065,7 +1065,7 @@ presence echoes their memory inside the book. Upon returning, the reader
 once again replaces the bookmark in order to immerse back into the text.
 The act of reading therefore proceeds in the continual interchange between
 the reader and the bookmark, initiated and sustained by the process of
-â��inserting'.
+’inserting'.
 
 Both unique bookmarks and multiples created by fine art students and
 practicing artists will be introduced into the 8,000 books on display

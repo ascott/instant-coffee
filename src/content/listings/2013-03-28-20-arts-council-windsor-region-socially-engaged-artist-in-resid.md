@@ -28,7 +28,7 @@ media arts.
 
 Neighbourhood Spaces will embed artists in community sites such as parks, 
 nature reserves, libraries, health or community centres. These sites will 
-provide a â€œhome baseâ€  for each artist to work during their residency, while also 
+provide a “home base”  for each artist to work during their residency, while also 
 allowing the artist to take on diverse roles, engaging with community 
 members in various ways to animate, explore and inspire the specific stories, 
 curiosities, challenges and triumphs of the local community. 

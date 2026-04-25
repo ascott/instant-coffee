@@ -87,14 +87,14 @@ Thursday, June 26 from 8-10pm.
 Stefan Bruggemann
 'Headlines and Last Lines in the Movies'
 June 13 to September 7, 2014
-Gallery faÃ§ade
+Gallery façade
 
 'Headlines & Last Lines in the Movies' transforms the facade of the
 Contemporary Art Gallery, wooden cladding covering its frontage and south
 east corner. Resembling a construction site, the structure becomes the
 ground for the work; the title a precise description of itself. In this new mural,
 Bruggemann writes headlines from current newspapers, from local to global,
-in combination with excerpts of last lines from popular films. â€˜Forget it Jake, 
+in combination with excerpts of last lines from popular films. ‘Forget it Jake, 
 its
 Chinatown could be spray-painted next to Enbridge Pipeline Rejected, the
 juxtaposition of appropriated texts creating both a familiarity and an oddly
@@ -172,12 +172,12 @@ Digitally printed and available online, the books have been exhibited in various
 art book fairs and independent booksellers in cities including New York, Los 
 Angeles, Tokyo and Toronto.
 
-The first issue of hotam, â€œA Brief History of Me,â€  is the pictorial timeline of the 
+The first issue of hotam, “A Brief History of Me,”  is the pictorial timeline of the 
 artist juxtaposed by historic events. The second issue “Other People’s 
-Businessâ€  is made up of his archive of obsolete business cards of friends 
-and people he used to know. â€œJourney to the West,â€  the third release, 
+Business”  is made up of his archive of obsolete business cards of friends 
+and people he used to know. “Journey to the West,”  the third release, 
 documents a 19th Century fictional philosopher/traveller in strange places, 
-while the most recent issue No. 4 â€œFine Chinaâ€  redesigns classic porcelain 
+while the most recent issue No. 4 “Fine China”  redesigns classic porcelain 
 wares to commemorate recent history and cultural memory of the country of 
 growing power in the new century.
 
@@ -243,8 +243,8 @@ of Columbus once stood. The plaza looks over the rail yard and industrial lots
 below, a place called Skwachàys in the Squamish language. Waste Lands is a 
 project that investigates this space, once a tidal zone where the Pacific ocean 
 washed right up to Clark Drive, recently rebranded as The Flats, “Vancouver’s 
-hottest art district,â€ 1 a place that contests any closed notions of public and 
-private land, trespassers and landlords, or Indigenous land and â€œsettledâ€  cities.
+hottest art district,” 1 a place that contests any closed notions of public and 
+private land, trespassers and landlords, or Indigenous land and “settled”  cities.
 
 Friday June 13th
 Sunset Terrace Gallery
@@ -341,7 +341,7 @@ About the speakers:
 BRUCE MACDONALD is a historical consultant specializing in Vancouver’s 
 past. His work for the City of Vancouver has included speaking, cartography, 
 historical plaque writing and design, and heritage house assessment. He is 
-the author of the award-winning book â€œVancouver: A Visual Historyâ€  (1992), 
+the author of the award-winning book “Vancouver: A Visual History”  (1992), 
 which has led to work with many local artists and writers on projects 
 involving awareness of the city, and with various media interested in 
 Vancouver, such as local TV and radio, the Vancouver Sun, Maclean’s and 
@@ -457,7 +457,7 @@ This performance is in conjunction with the exhibition Queering Citizenship at
 Satellite Gallery. By considering the climate of queer citizens in Eastern 
 Europe and Africa, the exhibition poses the question, “How might art and 
 culture help us to look again at the way in which we understand the 
-conditions of queer citizens in global politics?â€  The artists in the exhibition 
+conditions of queer citizens in global politics?”  The artists in the exhibition 
 engage with the term queer not only as an identity that embraces different 
 sexualities, genders, international and transnational backgrounds, but as a 
 verb: as in queering or rethinking the familiar ways citizenship and belonging 
@@ -893,18 +893,18 @@ the public on Thursday, June 26th and runs through Saturday, August 16,
 In A Trip To The Moon the works of Groat, Limit and Pinheiro destabilize the 
 viewer by removing any recognizable horizon line. The fragmentary aspect of 
 Maggie Groat’s sculptural wall work “13 Moonlight Reflectors or A Proposal 
-for Returning Moonlight Back to the Moon (August 3rd)â€  diffracts the 
+for Returning Moonlight Back to the Moon (August 3rd)”  diffracts the 
 exhibition in its reflection, dismantling the other works in the show into an 
 abstraction that challenges the surety of the spectator. The leveler in Jimmy 
 Limit’s photographic print “Level with Ginger Root on Grey (Accuracy, 
 Agriculture, Conceal, Control, Even, Fluidity, Fresh, Future, Healthy Eating, 
-Herb, Isolation, Morality, Nobody, Progress, Recovery, Success, Truth)â€  
+Herb, Isolation, Morality, Nobody, Progress, Recovery, Success, Truth)”  
 belies its utilitarian value and becomes a foreign object floating in negative 
 space. His multiple slip cast ceramics hint at a future archaeology, a 
 “collection/archive of information that will eventually be lost and rediscovered 
 and examined or translated like the rediscovery of Greek philosophy in the 
-Middle Ages.â€ [1] Andrea Pinheiroâ€™s scanned and enlarged paintings on 
-photographic prints, â€œLadderâ€  and â€œBridge,â€  hint at this eventual unearthing 
+Middle Ages.” [1] Andrea Pinheiro’s scanned and enlarged paintings on 
+photographic prints, “Ladder”  and “Bridge,”  hint at this eventual unearthing 
 and interpretation, marks that contain a recognizable logic to be deciphered 
 and a path to achieve it. By exploring the assumption that what we know 
 now will be identified in the future, A Trip To The Moon stakes its claim on the 
@@ -1096,7 +1096,7 @@ The Icarus Project’s 10 year anniversary collection, as well as featured work
 by Jacks McNamara, Faith Rhyne, and Cherise Clarke. The Icarus Project is 
 an international radical mental health support network, alternative media 
 project, and online community by and for people struggling with the 
-experiences commonly labeled as â€œmental illness.â€  By these individuals joining 
+experiences commonly labeled as “mental illness.”  By these individuals joining 
 together as a community, the intertwined threads of madness, creativity, and 
 collaboration can inspire hope and transformation in an oppressive and 
 damaged world. This show boldly navigates the space between brilliance 
@@ -1112,20 +1112,20 @@ graphics, logos, fliers, book covers, stickers, stencils, and other work from
 The Icarus Project’s many publications and events over the years.
 
 Mad Pride is an international movement created by psychiatric survivors, 
-consumers, folks labeled â€œmentally illâ€  â€” all of us that proudly reclaim the 
+consumers, folks labeled “mentally ill”  — all of us that proudly reclaim the 
 words mad & crazy, and those in solidarity with us. We are mad. We are 
 crazy. And we are damn proud to be. We believe madness is a completely 
 sane and well-adjusted response to living in such a mad world.
 
 In Sept 2013, Vancouver Mayor Gregor Robertson declared a Mental Health 
-Crisis. We know what this means: using the language of â€œcareâ€  and 
-â€œsupportâ€ , civic government will co-ordinate the total control of the lives of the 
+Crisis. We know what this means: using the language of “care”  and 
+“support” , civic government will co-ordinate the total control of the lives of the 
 most marginalized people in society – those of us called mad. Talk back, fight 
 back, make art.
 
 In Gachet’s basis of unity, “We work for the elimination of discrimination 
 against people marginalized by their mental health, trauma and/or abuse 
-experience.â€  And we use art to do just that.
+experience.”  And we use art to do just that.
 
 All of this madness will culminate in a Mad Pride Cabaret of festivities taking 
 place on Saturday, July 12th 2014, 7 – 10.30pm as part of International Mad 

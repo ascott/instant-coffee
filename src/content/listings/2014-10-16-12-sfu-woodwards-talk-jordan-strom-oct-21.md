@@ -30,7 +30,7 @@ Surrey, and its larger vicinity south of the Fraser River, works of visual art
 have illuminated these categories against a backdrop of the contemporary 
 city as refuge. It is here that the parameters of the ‘arrival city’s’ creative 
 force is determined as much by internal migration under duress (such as 
-the new waves of â€œflightâ€  from the cityâ€™s historical centres) as by 
+the new waves of “flight”  from the city’s historical centres) as by 
 transnational exile.
 
 Drawing from several recent Surrey Art Gallery exhibitions including 

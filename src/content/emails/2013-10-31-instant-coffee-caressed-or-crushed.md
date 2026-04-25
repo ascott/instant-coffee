@@ -101,7 +101,7 @@ One of the questions posed by the Summer Institute 2014 will be how do
 feminists describe their work and how do we use feminist-informed language 
 to describe politicized art? Through readings, critique and hands-on creation, 
 participants will have the opportunity to consider a broad range of practices, 
-language and strategies that could be called â€œfeminist,â€  and that contribute to 
+language and strategies that could be called “feminist,”  and that contribute to 
 anti-oppression politics.
 
 This critical discursive opportunity will take place in Plug In ICA’s new 
@@ -120,14 +120,14 @@ DAG, has supported a variety of art projects, among them Les Blues, a group
 dedicated to increasing the visibility and histories of queer people of colour. 
 NAG, their angry letter writing campaign, took the Toronto International Film 
 Festival to task for their racist and misogynist list of “100 essential filmmakers 
-of all time.â€  Recent exhibitions include the presentation of art porn hybrid 
+of all time.”  Recent exhibitions include the presentation of art porn hybrid 
 Community Action Center by AL Steiner and AK Burns and a focus on the UK 
 based Cinenova collection as animated by eight local activists and artists.
 
 FAG is committed to the cultivation of a new kind of sisterhood that isn’t 
 based on gender and privilege and a new kind of brotherhood that isn’t based 
 on rape and pillage. FAG is feminist in its resistance and in its attempts to 
-reconcile â€œartsâ€  participation in oppressive systems. FAG is feminist in its 
+reconcile “arts”  participation in oppressive systems. FAG is feminist in its 
 insistence on closing the gap between studio, gallery, art, activism, social 
 and home. FAG is not fixed. FAG is not success. 
 https://www.facebook.com/FeministArtGallery
@@ -160,7 +160,7 @@ Sarah Leavitt, Miriam Libicki, Geoff Mann, Alessandra Naccarato, Catherine
 Owen, Colin Upton, and Matthew Walsh. Come and meet this event’s diverse 
 group of featured artists, educators, writers, publishers, curators and 
 performers under one roof. And don’t forget: Sign up in advance to participate 
-in the â€œ1-2 Punch Book Pitchâ€  at Canzine West. To sign up, please email 
+in the “1-2 Punch Book Pitch”  at Canzine West. To sign up, please email 
 canzine@brokenpencil.com with your: name, email address, phone number 
 and 2-3 line description of the project you are going to pitch.
 Sign up now! We only have room for 8 participants and this will be first come, 
@@ -419,7 +419,7 @@ University.
 Scrivener’s Monthly is a series of public presentations that explore the space 
 between material practices and spoken words: a periodical that talks. Set 
 alongside the exhibitions program at Western Front, this experiment in “not 
-publishingâ€  involves readings, performances, and other articulations.
+publishing”  involves readings, performances, and other articulations.
 
 Visit www.front.bc.ca for more information.
 
@@ -874,7 +874,7 @@ November 15, 2013 to January 12, 2014
 Opening Thursday November 14, 7-10 pm
 The Contemporary Art Gallery presents a major solo exhibition of early work 
 by American artist James Welling. 
-Welling emerged as a seminal figure in the â€œPictures Generationâ€ , an 
+Welling emerged as a seminal figure in the “Pictures Generation” , an 
 influential group of artists including Sherrie Levine, Cindy Sherman and 
 Richard Prince. Working in New York in the late 1970s and early 1980s, they 
 were acclaimed for their pioneering use of photography and for opening up a 
@@ -893,9 +893,9 @@ snow-capped mountain ridges. By focusing on simple, repetitive motifs
 Welling sought to remove photography from its subject, in order to trigger 
 personal associations in the viewer and to explore how we see, rather than 
 what we see. These works were frequently contact-printed to gain what 
-Welling described as â€œa facsimile effect,â€  involving no enlargement from the 
+Welling described as “a facsimile effect,”  involving no enlargement from the 
 negative. As Welling stated at the time, “the (small) image convinces me of 
-its truth in a way larger images cannot.â€ 
+its truth in a way larger images cannot.” 
 The exhibition and publication, Mind on Fire, brings together around one 
 hundred of Welling’s early, experimental and abstract works from this period, 
 statements which surround the mechanical and philosophical parameters of 
@@ -1058,10 +1058,10 @@ borrowed from public and private collections, will augment the exhibition.
 “Harold Mortimer-Lamb was a great supporter of the Art Gallery of Greater 
 Victoria. He donated works to the AGGV during his lifetime; through a 
 bequest; and many more have been purchased with a fund that was 
-established as part of his estate,â€  said Jon Tupper, director of the AGGV. 
+established as part of his estate,”  said Jon Tupper, director of the AGGV. 
 “Mortimer-Lamb has been extremely important to the growth of this institution, 
 and we are deeply indebted to Robert Amos for creating this remarkable 
-exploration of his life and legacy.â€ 
+exploration of his life and legacy.” 
 
 Mortimer-Lamb was a significant figure in the Canadian art world for decades 
 but there has been little information available about the man and his life. 
@@ -1073,9 +1073,9 @@ being launched by TouchWood Editions to coincide with the exhibition
 opening.
 
 “Mortimer-Lamb loved art: the artworks, the people who made them, and 
-those who inspired them,â€  said Amos. â€œHe is mentioned in the index of many 
+those who inspired them,”  said Amos. “He is mentioned in the index of many 
 books about Canadian art history but – until now – has remained a figure in 
-the background.â€ 
+the background.” 
 
 At the age of 70 Mortimer-Lamb married the 30-year-old artist Vera 
 Weatherbie. They enjoyed 28 years of marriage. When Vera passed away in 
@@ -1117,22 +1117,22 @@ Victoria BC V8S 4L8
 CENTRE A ENGAGES THE BODY WITH THE POETIC SPECTACLE OF 3D 
 INTERACTIVE VIDEO AND SOUND TECHNOLOGY
 
-Centre A announces its winter 2013 exhibition, â€œA Chorus of Lungsâ€  by Leila 
+Centre A announces its winter 2013 exhibition, “A Chorus of Lungs”  by Leila 
 Sujir and Maria Lantin.
 
 VANCOUVER, BC (October 30, 2013) – Centre A: Vancouver International 
 Centre for Contemporary Asian Art is pleased to announce the November 15th 
-opening of â€œA Chorus of Lungs,â€  an exhibition by Canadian artists Leila Sujir 
+opening of “A Chorus of Lungs,”  an exhibition by Canadian artists Leila Sujir 
 and Maria Lantin. Animated lungs, accompanied by the sounds of the ebb 
 and flow of breathing, will appear floating in the gallery. Viewers will be invited 
 to push and pull their hands together to animate the installation, compressing 
 or creating a space for the lungs to become a chorus both visually and 
-audibly. â€œA Chorus of Lungsâ€  explores ideas of the social body, its voice and 
+audibly. “A Chorus of Lungs”  explores ideas of the social body, its voice and 
 breath, using interactive 3D video and audio.
 
 The project inspires viewers to ask a variety of questions regarding the 
 relationship between virtual and physical space, and what happens when one 
-encounters a dreamlike â€˜visionâ€™ space. â€œA Chorus of Lungsâ€  considers ideas of 
+encounters a dreamlike ‘vision’ space. “A Chorus of Lungs”  considers ideas of 
 technology and the social sphere, with particular reference to ideas regarding 
 the body and the state. 
 
@@ -1140,15 +1140,15 @@ The artists explain, “We are exploring the tension between community,
 chorus, and individual voices with an attentiveness to our singular and 
 collective being. By giving a performative role to the viewer, we are considering 
 the relationship between the virtual and the real, and the possibility of the 
-blurring of these categories.â€ 
+blurring of these categories.” 
 
 Haema Sivanesan, Executive Director at Centre A, states, “Canadian artists, 
 universities and institutions are amongst those at the forefront of developing 
 3D interactive technologies. Leila Sujir and Maria Lantin’s collaborative 
 installation re-considers the viewer’s relationship to the artwork, creating a 
-dreamlike, poetic experience in the gallery.â€ 
+dreamlike, poetic experience in the gallery.” 
 
-â€œA Chorus of Lungsâ€  will be Centre Aâ€™s first presentation of interactive 3D 
+“A Chorus of Lungs”  will be Centre A’s first presentation of interactive 3D 
 drawing video and sound installation. Public programs, including artist talks 
 and 3D drawing workshops, will accompany the work. A publication with an 
 essay by Michelle Jacques, Chief Curator of the Art Gallery of Greater 
@@ -1187,7 +1187,7 @@ generosity of our patrons, donors, members and volunteers.
 
 – 30 –
 
-Available for comment on â€œA Chorus of Lungsâ€ :
+Available for comment on “A Chorus of Lungs” :
 
 Artists: Leila Sujir, Maria Lantin
 
@@ -1432,10 +1432,10 @@ artists within the first five years of their careers.
 
 The prize is the only one of its kind selected through an open competition. 
 “There are other artist prizes awarded in Vancouver, but those are by 
-nomination only, and focus on mid-career or senior artists,â€  explained CASV 
+nomination only, and focus on mid-career or senior artists,”  explained CASV 
 Board Member, Rachel Lafo, Chair of the Emerging Artist’s Prize. “We 
 wanted to provide emerging artists with a chance to showcase their work and 
-receive financial support to enable them to keep on working.â€  
+receive financial support to enable them to keep on working.”  
 
 The prize is open to artwork in all media by artists residing in the Lower 
 Mainland. The prize defines an emerging artist as someone who has 

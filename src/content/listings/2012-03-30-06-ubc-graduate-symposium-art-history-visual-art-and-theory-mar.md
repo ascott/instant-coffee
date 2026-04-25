@@ -12,14 +12,14 @@ The University of British Columbia's Department of Art History and the
 Art History, Visual Art and Theory Graduate Symposium Committee 
 cordially invite you to attend the 35th annual University of British 
 Columbia Art History, Visual Art and Theory Graduate Symposium, 
-â€œThe Unseen,â€  which will attend to a critical reassessment of what 
+“The Unseen,”  which will attend to a critical reassessment of what 
 resists representation, description, articulation or documentation. The 
 event will take place on Friday, March 30 through to Saturday, March 
 31 in the Lillooet Room (301) located in the Chapman Learning 
 Commons of the Irving K. Barber Learning Centre, 1961 East Mall, 
 Vancouver, BC V6T 1Z1. Doors open at 10:30am with presentations 
 beginning at 10:45am. In conjunction with the symposium, “The 
-Unseenâ€  art exhibition will be opening Friday, March 30th at the AMS 
+Unseen”  art exhibition will be opening Friday, March 30th at the AMS 
 Art Gallery at 7:00pm (details below). The schedule is as follows:
 
 Friday, March 30th, 2012
@@ -31,7 +31,7 @@ Chris Jones (University of Florida), “'Walk into the View':
 Rephotography as Art Practice 1975-2010"
 11:30 – 12:15:
 Frances Cullen (University of Alberta), “Stillness in Motion: Alex 
-Pragerâ€™s Despair and the Reassessment of Cinematic Timeâ€ 
+Prager’s Despair and the Reassessment of Cinematic Time” 
 
 12:15 – 1:15: Lunch Break
 
@@ -45,7 +45,7 @@ Panel II:
 3:30 – 3:45: Exhibition Introduction
 3:45 – 4:30:
 Alexandra L. Simpson (Queen’s University), “Blindness and Site: Art 
-Illustrating the Invisible in Touch Tour Picturesâ€ 
+Illustrating the Invisible in Touch Tour Pictures” 
 
 5:00 – 7:00: The Unseen Opening Reception and Exhibition, AMS Art 
 Gallery
@@ -60,22 +60,22 @@ Saturday, March 31st, 2012
 Panel III
 10:45 – 11:30:
 Catherine Walsh (Boston University), “Displacement and Figuration in 
-Giambolognaâ€™s Appenninoâ€ 
+Giambologna’s Appennino” 
 11:30 – 12:15:
-Christina Gray (UCLA), â€œHumour and Adolf Loosâ€ 
+Christina Gray (UCLA), “Humour and Adolf Loos” 
 12:15 – 1:00:
 Alexey Golubev (UBC), “Unseen Materiality in Marginalia of Post-
-Stalinist Soviet Magazinesâ€ 
+Stalinist Soviet Magazines” 
 
 1:00 – 2:00: Lunch Break
 
 Panel IV
 2:00 – 2:45:
 Carley Hodgkinson (NSCAD), “Re-imagining the Temporary and Void 
-Spaces of the Cityâ€ 
+Spaces of the City” 
 2:45 – 3:30:
 Erica Zacharias (UBC), “Insight Out of Site: Staging Gordon Matta-
-Clarkâ€ 
+Clark” 
 
 3:30 – 4:00: Closing Remarks
 

@@ -14,7 +14,7 @@ attendance. Jen is joining us all the way from Toronto.
 
 "Never letting the viewer to commit to any one of these references as 
 a starting point Aitkens desire is to “evoke brief in-body experiences 
-and visceral reactionsâ€  to the works. Aitkens sculpture allows the 
+and visceral reactions”  to the works. Aitkens sculpture allows the 
 viewer to wander in and out, sensually exploring the forms, their 
 playful nature, possible origins and her exquisite attention to detail." 
 

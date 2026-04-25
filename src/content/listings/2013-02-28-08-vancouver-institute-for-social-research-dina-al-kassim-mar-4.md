@@ -22,7 +22,7 @@ services on a voluntary basis.
 
 March 4th – Dina Al-Kassim
 “Of Elephants and Kings: A Seminar on Jacques Derrida’s The Beast and the 
-Sovereign, Vol. Iâ€ 
+Sovereign, Vol. I” 
 
 With the translation of Michel Foucault’s 1975 seminar Society Must Be 
 Defended in 2003, a new wave of interest in biopolitics, already underway 
@@ -33,7 +33,7 @@ seeming normalization of refugee status, indefinite detention, torture and other
 sovereign exceptions that blur the distinction between rogue state and rule of 
 law. While political philosophy has attended to intensifications and alterations 
 in the contemporary framing and embodiment of state sovereignty, going so 
-far as to suggest that the â€œstate of exceptionâ€  has become the rule, recent 
+far as to suggest that the “state of exception”  has become the rule, recent 
 work in postcolonial studies, critical races studies, feminist philosophy, queer 
 studies, third world cultural studies and literature offers nuanced and complex 
 analyses of life in the margins, analyses that demonstrate the inextricability of 
@@ -54,8 +54,8 @@ the human caught in a vast holding pen or state of exception become global in
 ever more ruthless forms of diminished life. Focusing on the final three 
 sessions of this work (pp. 250-349) we will follow Derrida’s engagement with 
 Agamben’s appropriation of Foucault and augment that discussion through 
-reference to two short texts: Agambenâ€™s â€œWhat is an Apparatus?â€  and 
-Foucaultâ€™s â€œThe Confessions of the Fleshâ€ .
+reference to two short texts: Agamben’s “What is an Apparatus?”  and 
+Foucault’s “The Confessions of the Flesh” .
 
 Dina Al-Kassim is the author of On Pain of Speech: Fantasies of the First 
 Order and the Literary Rant, Al-Kassim is a critical theorist working on 

@@ -60,7 +60,7 @@ April 18th -“April 28th 2013
 Opening April 18th 6pm-9pm
 
 A canvas turned on its side allowing for the paint to fall and address the
-deterritorialization of autonomous pigments lost in diaspora. A â€˜rhizomaticâ
+deterritorialization of autonomous pigments lost in diaspora. A ‘rhizomaticâ
 €™
 structure containing the capacity to circumvent singular acts of color, thought,
 and gesture. Lying in an expanded field of ahistorical happenings off the

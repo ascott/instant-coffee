@@ -26,7 +26,7 @@ As the artist has described, “the mark-making that appears on the fabric in
 my work consists of traces of pigment from the process of water drying. The
 lines from this process influence my formal decisions and potentials, and
 that is the space where the experimental process and formal abstraction
-engage and produce outcomes.â€ 
+engage and produce outcomes.” 
 
 Colleen Heslin completed her BFA at Emily Carr University in 2003 and her
 MFA at Concordia University in 2014. She won the RBC Painting Competition

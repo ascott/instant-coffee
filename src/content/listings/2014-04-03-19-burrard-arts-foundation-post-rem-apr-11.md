@@ -28,9 +28,9 @@ For further info, contact:
 wil@waapart.com
 +1 778 229 3458
 
-Post rem, a Latin phrase, literally means â€œafter the thingâ€  and is defined in 
-Merriam-Webster as â€œlogically subsequent to the existence of particularsâ€ . 
-The word â€œpostâ€  in art typically connotes a reference of a work to a 
+Post rem, a Latin phrase, literally means “after the thing”  and is defined in 
+Merriam-Webster as “logically subsequent to the existence of particulars” . 
+The word “post”  in art typically connotes a reference of a work to a 
 movement; not here. Post Rem, the exhibition, will look at moments when 
 chance occurrences become the source of inspiration from which 
 contemporary artists derive to make work.

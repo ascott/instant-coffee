@@ -42,7 +42,7 @@ times.
 Kevin Murphy is a Vancouver artist who works primarily in 3 
 dimensions, using a variety of materials in combination with systems, 
 cycles, and organisms. He most often investigates human relationships 
-to ideas of â€œNatureâ€  and the natural or nonhuman world, and how 
+to ideas of “Nature”  and the natural or nonhuman world, and how 
 these manifest in material, economic, and imaginative terms. Kevin 
 received a BFA from the University of British Columbia in 2009, and 
 currently works there as the Drawing, Painting & Sculpture Technician.

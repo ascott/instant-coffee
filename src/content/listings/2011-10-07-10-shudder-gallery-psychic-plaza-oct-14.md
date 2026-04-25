@@ -35,7 +35,7 @@ the 2011 Fraser Valley Biennale.
 
 Ian Edmonds is a senior student at Emily Carr University of Art + Design. He 
 recently had a solo show at the Vancouver School of Art Gallery called “Let it go 
-to your headâ€  in 2011.
+to your head”  in 2011.
 
 Setareh Yasan received her BFA from Emily Carr University of Art + Design in 
 2010. Her works have been shown at 221a artist run center, Surrey Art Gallery 
@@ -59,7 +59,7 @@ Makiko Yoshii received her BFA from Emily Carr University of Art + Design in
 project for the 2010 Vancouver Olympics.
 
 Alainna Whachell is a senior student at Emily Carr University of Art + Design. 
-She recently had a two person exhibition with Nicole Ondre titled â€œMatter Workâ€  
+She recently had a two person exhibition with Nicole Ondre titled “Matter Work”  
 at the UNIT/PITT in 2010 formerly known as the Helen Pitt Gallery.
 
 Janice Cheung received her BFA from University of Guelph. She is one of the co-

@@ -17,7 +17,7 @@ event invites local residents and music fans to Victory Square, located at
 the corner of Cambie and Hastings, to come celebrate the end of summer with
 a splurge of local bands.
 
-"Weâ€™re really excited to be celebrating 10 years of Victory Square,â€  says
+"We’re really excited to be celebrating 10 years of Victory Square,”  says
 festival organizer Mike Gittens. “Every year the event seems to grow. It’s
 pretty special to see people come together to support exciting new
 Vancouver musicians and support Megaphone Magazine and CiTR, not to mention
@@ -42,13 +42,13 @@ from local businesses.
 The Block Party will also continue its tradition of supporting community
 media in Vancouver. Proceeds from the event’s sponsors and the day’s raffle
 will go towards Megaphone, a magazine sold on the streets of Vancouver by
-homeless and low‐income vendors, and CiTR 101.9FM, Vancouverâ€™s independent
+homeless and low‐income vendors, and CiTR 101.9FM, Vancouver’s independent
 community and campus-based broadcaster.
 
 “The Block Party exists to support awesome community-based organizations
-and great new music coming out of Vancouver,â€  says Sarah Cordingley, Music
+and great new music coming out of Vancouver,”  says Sarah Cordingley, Music
 Director at CiTR. “Even though the event is celebrating its tenth year, its
-still as great as the first.â€ 
+still as great as the first.” 
 
 The Victory Square Block Party promises to be a great event, supporting
 local musicians and the incredible work that Megaphone Magazine and CiTR

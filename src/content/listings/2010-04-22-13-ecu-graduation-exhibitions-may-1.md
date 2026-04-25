@@ -12,7 +12,7 @@ Emily Carr graduation exhibitions
 
 Join us as we showcase the work of our 2010 Graduates and Undergraduates.
 
-These exhibitions highlight studentsâ�� creativity and innovation across
+These exhibitions highlight students’ creativity and innovation across
 visual arts,
 
 media and design. Exhibitions are free and open to the public.

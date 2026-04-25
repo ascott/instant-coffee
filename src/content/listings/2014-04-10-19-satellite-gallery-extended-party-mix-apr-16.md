@@ -27,11 +27,11 @@ When asked to occupy the Satellite Gallery for a period of three weeks with
 only the mandate to produce work collaboratively, the artists said, “We found 
 ourselves momentarily frozen, faced with the great unknown of what, how, 
 and who might come out of such an experimental framework: occupying a 
-gallery in an attempt to create generative work together.â€  They continue, â€œThe 
+gallery in an attempt to create generative work together.”  They continue, “The 
 attempt to collectively envision what might come out of us feels akin to 
 predicting what elephants and dolphins might naturally create together, 
 knowing only that they are both mammals, have grey skin, and do not speak 
-the same language.â€ 
+the same language.” 
 
 Using Satellite Gallery’s distinctive site above Club FiveSixty as a point of 
 departure, the Club becomes a site to respond to within the Gallery, an 

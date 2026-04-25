@@ -12,9 +12,9 @@ Scrivener’s Monthly is pleased to host Will Holder and Kaisa Lassinaro on
 Monday September 9th at 7pm in the Luxe Hall at Western Front.
 
 Will Holder will read from Silvia Federici’s “People vs Freedom on land, 
-animals and womenâ€  as part of the ongoing series â€œâ€¦for single mothersâ€¦â€  
+animals and women”  as part of the ongoing series “…for single mothers…”  
 
-Kaisa Lassinaro will screen â€œAgnes Martin 1974: An Interviewâ€  in the context 
+Kaisa Lassinaro will screen “Agnes Martin 1974: An Interview”  in the context 
 of a forthcoming printed compilation of interviews from the Video Data Bank, 
 conducted between 1974–1988 by feminist video artists, and founders of the 
 Video Data Bank, Lyn Blumenthal and Kate Horsfield.
@@ -31,7 +31,7 @@ published by Occasional Papers (occasionalpapers.org), 2011.
 Scrivener’s Monthly is a series of public presentations that explore the space 
 between material practices and spoken words: a periodical that talks. Set 
 alongside the exhibitions program at Western Front, this experiment in “not 
-publishingâ€  involves readings, performances, and other articulations.
+publishing”  involves readings, performances, and other articulations.
 
 Western Front is located at 303 East 8th Avenue, Vancouver. Please visit our 
 website at www.front.bc.ca

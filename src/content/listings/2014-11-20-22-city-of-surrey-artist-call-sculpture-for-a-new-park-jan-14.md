@@ -21,7 +21,7 @@ artists or artist teams for a sculpture for a new park in Surrey, BC. The
 proposed artwork will be placed on a low grassed mound and will be clearly
 seen by the public walking through the park and when entering the parking
 lot. Artists answering this call are invited to envision a sculpture that
-responds to â€œWaterâ€  as the theme for the artwork.
+responds to “Water”  as the theme for the artwork.
 
 Shortlisted artists will be offered a design fee of $1,500.00 to develop
 their concepts in detail.

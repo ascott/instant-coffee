@@ -22,7 +22,7 @@ sociopolitical context of working as an artist in contemporary Iranian-
 middle eastern culture. The sequencing of the photos fosters a 
 subtle narrative effect in each series. The subjects addressed in the 
 photos include embodied cultural and social confusion; alienation in 
-a â€œwiredâ€  world; and loss of beauty in a socially restricted life. In 
+a “wired”  world; and loss of beauty in a socially restricted life. In 
 these series, which are strongly affected by the political situation of 
 Iran, after the wane of the recent social movement, Ahadi strives to 
 represent the sociopolitical truth of his country through a number of 

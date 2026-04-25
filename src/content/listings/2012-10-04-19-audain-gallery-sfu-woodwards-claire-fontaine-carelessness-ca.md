@@ -13,15 +13,15 @@ Exhibition: October 12 – December 22, 2012
 Opening: October 11, 8:00 pm
 Artist’s Talk: October 11, 6:00 pm
 Carelessness Causes Fire is the first solo exhibition in Canada by the Paris-
-based â€œcollective artistâ€  Claire Fontaine, who is the Audain Artist in Residence 
+based “collective artist”  Claire Fontaine, who is the Audain Artist in Residence 
 for the fall of 2012. Taking her name from a common brand of French 
 notebooks and stationary, Claire Fontaine is a self-described “readymade 
-artistâ€ , founded in 2004 and aided by her â€œassistantsâ€  Fulvia Carnevale and 
+artist” , founded in 2004 and aided by her “assistants”  Fulvia Carnevale and 
 James Thornhill.
 Claire Fontaine’s work for Carelessness Causes Fire features sculpture, 
 writing, video, and painting. These different media are used as “vectors of a 
-specific intensityâ€  to critically explore what the artist identifies as the â€œcrisis of 
-singularityâ€  and the political impotency she sees in contemporary society.
+specific intensity”  to critically explore what the artist identifies as the “crisis of 
+singularity”  and the political impotency she sees in contemporary society.
 The exhibition presents old and new works to examine the psychological and 
 political consequences of the Arab Spring on the western perception of reality. 
 The ambiguity of the exhibition’s title, lifted from a security warning found by 
@@ -35,7 +35,7 @@ figuration, still have ethical consequences. Here, the artist confronts these
 languages directly with the real world economic and political violence that 
 they do not portray but, nonetheless, still intimately relate to.
 The series of digital paintings entitled Studies for Tactical Entry, for example, 
-faithfully transcribes the representation of the â€œcones of actionâ€  of firearms 
+faithfully transcribes the representation of the “cones of action”  of firearms 
 held by two armed people as they traverse various corridors and stairways. 
 Although the geometrical figures on the canvases appear very similar to the 
 visual language of Suprematist painting, in reality, however, they are 
@@ -45,7 +45,7 @@ As part of her residency, Claire Fontaine will work with students from both the
 MFA Program at the School for the Contemporary Arts at Simon Fraser 
 University and the MFA in Visual Art Program at the University of British 
 Columbia, screening a selection of films and leading a series of seminars 
-exploring the artistâ€™s notion of the â€œhuman strike.â€  This work with students will 
+exploring the artist’s notion of the “human strike.”  This work with students will 
 culminate in a final public presentation by Claire Fontaine, featuring a talk and 
 a screening of excerpts from the selected films, on November 24 at 7:00 pm 
 at the Djavad Mowafaghian Cinema in the Goldcorp Centre for the Arts.

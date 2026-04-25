@@ -59,7 +59,7 @@ Availability: Part-time, 15-20 h/week
 Salary: 12/h
 
 To apply please send an email with your Resume and Cover Letter to Paul
-Kyle at info@elanfineart.ca with the subject line â€œGallery Assistantâ€ . We
+Kyle at info@elanfineart.ca with the subject line “Gallery Assistant” . We
 will begin interviews as soon as possible, and the start date is Tuesday
 June 25th or another mutually agreeable date. Visit our website:
 www.elanfineart.ca

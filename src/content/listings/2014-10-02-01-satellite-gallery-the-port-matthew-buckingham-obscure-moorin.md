@@ -28,7 +28,7 @@ Liverpool, a once vital seaport which, like Vancouver, is being
 dramatically redefined by social and global economic change. Buckingham
 writes that without “using words the pictures and sounds juxtapose
 different archetypal sites from Liverpool’s city-scape, allowing places and
-their respective â€˜pastsâ€™ to resonate with and contradict each other.â€  The
+their respective ‘pasts’ to resonate with and contradict each other.”  The
 wave of change that impacts inhabitants of most port cities is akin to the
 drastic change that befalls Daniel Orme as he transitions from sea to land.
 This wave of change is physically manifested by Buckingham as the platform

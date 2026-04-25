@@ -31,7 +31,7 @@ history as cultural innovators, activists and archivists – their work,
 preserved in the distinct collections of the three participating centres,
 has captured moments in Vancouver’s cultural evolution, documenting
 important moments and alternative opportunities for social change. Archival
-collections at ARCs provide a unique â€œgrassrootsâ€  window into the
+collections at ARCs provide a unique “grassroots”  window into the
 alternative histories that have shaped our city. Urban Aboriginal, visible
 minority, LGBTQ, feminist, social justice, environmental, and
 countercultural communities figure prominently in our records. This series

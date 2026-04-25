@@ -17,11 +17,11 @@ Join us for our opening reception: Saturday, November 5th, 4pm
 New Location: 222 E. Georgia St.
 
 Gallery Hours: Tues. – Sat. 12-5pm
-â€œI have a dream today!â€  â€“ Martin Luther King Jr.
+“I have a dream today!”  – Martin Luther King Jr.
 
 “And so the three possibilities I have mentioned have always stood before man 
 whenever he has encountered an Other: he could choose war, he could fence 
-himself in behind a wall, or he could start up a dialogue.â€  â€“ Ryszard Kapuścinski
+himself in behind a wall, or he could start up a dialogue.”  – Ryszard Kapuścinski
 
 Access Gallery presents Paragraph of Possibility – a public art project by 
 Vancouver-based artist Tonik Wojtyra.

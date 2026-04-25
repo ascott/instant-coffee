@@ -25,7 +25,7 @@ Gallery Curator Jordan Strom. Subjects of the presentations and
 conversation will include: how the South of Fraser region inspires each
 artist’s work; why it’s important to them to make art that reveals the
 history of change in this region; how artists seek to capture the present
-moment - â€œthe nowâ€  - through their work; and how their work explores ways
+moment - “the now”  - through their work; and how their work explores ways
 of depicting the human figure. Admission to this event is free.
 
 About the Speakers
@@ -54,7 +54,7 @@ Playing with an expanded idea of portraiture, the artists in Views from the
 Southbank II create representations or impressions of people and places,
 some working in traditional portraiture style and others using more
 experimental and collaborative methods. Their work is situated in context
-to the rapidly growing â€œSouth of Fraserâ€  region of British Columbiaâ€™s Lower
+to the rapidly growing “South of Fraser”  region of British Columbia’s Lower
 Mainland, comprising the municipalities of Surrey, Langley, Delta, and
 White Rock. In capturing the character(s) of a place that is constantly
 changing, the artists offer a brief interval in time—the present moment

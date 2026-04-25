@@ -22,12 +22,12 @@ March 8 – 9 , 2012
 
 Paper Proposal & Artwork Submission Deadline: December 2, 2011
 
-The term â€œstruggleâ€  contains both liberating and oppressive connotations. The 
+The term “struggle”  contains both liberating and oppressive connotations. The 
 resulting tension
 has long been considered an inherent aspect of art production. Struggle 
 manifests in various
 forms, whether political, cultural, economic, or personal. While the “struggling 
-artistâ€  has been
+artist”  has been
 a problematic art historical trope, this symposium seeks to revisit the issue of 
 struggle in an
 unromanticized, contemporary vein. We invite participants to submit proposals 

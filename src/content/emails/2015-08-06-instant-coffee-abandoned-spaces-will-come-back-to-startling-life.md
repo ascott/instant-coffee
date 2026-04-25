@@ -51,8 +51,8 @@ Gallery’s Associate Director/Curator for a three-year term effective July
 
 “Lorna is a highly respected artist, educator, independent curator and
 project instigator and we are absolutely thrilled that she has agreed to
-come to the Belkin,â€  said the Galleryâ€™s Director Scott Watson. â€œLorna will
-help to continue to renew the Gallery and expand our network.â€ 
+come to the Belkin,”  said the Gallery’s Director Scott Watson. “Lorna will
+help to continue to renew the Gallery and expand our network.” 
 
 Lorna Brown is a Vancouver-based visual artist, curator, writer, educator
 and editor. She has exhibited her work internationally since 1984. Brown
@@ -124,7 +124,7 @@ feeding people. They were honoring the animal…and today we just shop for
 meat. We all had to be really quiet to keep it calm; that kind of hush was
 a really interesting addition to the installation and performance.'
 
-'We live atomized lives,â€  Helene continues. â€œWith technology, people become
+'We live atomized lives,”  Helene continues. “With technology, people become
 more and more isolated from each other. The same thing happens with food
 production. In many different aspects of our life…we are becoming more and
 more specialized.'
@@ -191,8 +191,8 @@ traditional forms of activism find an unusual ally in the soft-spokenness
 of In Passing. Central to the exhibition, and abridging each of the
 artist’s furtive works, is also a complicated relationship to the practice
 of trespassing. Trespassing, as conceived from the French trespasser, “to
-pass overâ€ , is often associated with the property rights to a parcel of
-land. But to â€œpass overâ€  can also be understood as a bypass, the whim of a
+pass over” , is often associated with the property rights to a parcel of
+land. But to “pass over”  can also be understood as a bypass, the whim of a
 cursory glance, or the disregard of something not worth remembering. Rather
 than trespassing to pass over, In Passing aims to intervene in the moment
 of thoroughfare.
@@ -234,7 +234,7 @@ will showcase over 160 cutting-edge digital artworks, each one carefully
 selected by a team of curators.
 Simon Fraser University is hosting the symposium, which will be focused at
 SFU Woodwards. One of the top universities in the world under 50 (and no. 2
-in Canada); SFU is taking its motto, â€œEngaging the Worldâ€ ,very seriously.
+in Canada); SFU is taking its motto, “Engaging the World” ,very seriously.
 The action will spread beyond Gastown.
 
 ISEA2015 will partner with Vancouver Art Gallery, taking over the
@@ -425,7 +425,7 @@ supported by golden arches. We continued, right and slightly up, until the
 sidewalk ended and the sun fell. We looked out out out, and then headed in
 in in, to where it read on the map, 'Limousine Slabs Within 24 Hours.'"
 
-spare room presents "Limousine Slabs Within 24 Hoursâ€ , a body of work by
+spare room presents "Limousine Slabs Within 24 Hours” , a body of work by
 writer and visual artist, Alex Bovril. Bovril received a BA from Newcastle
 University, and is currently an MFA candidate in Creative Writing at New
 York University. The work will be accompanied by a parallel text by visual
@@ -685,7 +685,7 @@ into something other than itself.
 
 Well-known for helping to canonise the concept of post-internet in
 contemporary art, MARISA OLSON’s works often interrogate the mutability of
-technology. Rendering the idea of â€œmedia archaeologyâ€  as sculpture, Olson
+technology. Rendering the idea of “media archaeology”  as sculpture, Olson
 has reclaimed obsolete technologies and memorialised them as art. As a
 direct counterpoint, DANIEL JEFFERIES presents ink drawings on flower
 petals that will inevitably degrade over time; in this case, no amount of
@@ -714,7 +714,7 @@ their representations to be seen. JASON MCLEAN’s collaborative sculpture
 with SCOTT LAWRENCE functions cleverly as a visual double entendre.
 VANESSA BROWN’s flat panels fuse picture and sculpture, and the objects
 depicted in them are derived surrealistically from dream-activated visual
-fields. BARRY DOUPE explores the various forms â€œa lineâ€  can take, and how
+fields. BARRY DOUPE explores the various forms “a line”  can take, and how
 its elasticity and transformability can be employed to express a vast range
 of emotional states.
 
@@ -922,7 +922,7 @@ sequences, the artwork questions how the digital format might reconfigure
 the experience of a public space and the public figure of Mao Zedong.
 
 Scott Kildall’s internet art and sculpture EquityBot treats twenty-four
-states of human affect as tradable commodities, â€œinvestingâ€  in emotions
+states of human affect as tradable commodities, “investing”  in emotions
 such as anger, joy, disgust and amazement. It then links these emotions
 with actual stocks to make investments using a simulated brokerage account.
 
@@ -1083,7 +1083,7 @@ draws on archival film footage and sound materials sourced from the Isuma
 Archive at the National Gallery of Canada, as well as sound and film
 materials from the artist’s personal collection and other ethnographical
 material. Conceived as an Indigenous response to Glenn Gould’s celebrated
-composition â€œThe Idea of the Northâ€ , Inutiq will appropriate Gouldâ€™s piece
+composition “The Idea of the North” , Inutiq will appropriate Gould’s piece
 as a musical score, paired with new voices and imagery to produce a layered
 and multi-vocal work.
 
@@ -1142,7 +1142,7 @@ Mounir Fatmi, Who is Joseph Anton? (Morocco/France, 2013, 11:00)
 Naz Shahrokh, On the Road (be fekret hastam) (United Arab Emirates, 2013 6:40)
 
 Live Cinema Performance (30 minutes)
-VJ Um Amel with Fadi Z. Sakr, â€œFrom Cairo to Gaza: Mobilizing the Body Politicâ€ 
+VJ Um Amel with Fadi Z. Sakr, “From Cairo to Gaza: Mobilizing the Body Politic” 
 
 These works identify patterns of information that lie below visible and
 audible thresholds and bring them into perception. They are alert to
@@ -1184,7 +1184,7 @@ Roedde House Museum
 
 On August 19th, Roedde House Museum launches a new exhibition on the
 origins of Vancouver tourism and travel. “Souvenirs of Howe Sound: A
-History of Local Tourismâ€  traces the rise of well-known Howe Sound getaways
+History of Local Tourism”  traces the rise of well-known Howe Sound getaways
 such as Bowen Island, Horseshoe Bay, and the Sunshine Coast, in the context
 of Vancouver’s colonization and urbanization. Narrated through historical
 photographs and promotional posters of Howe Sound from the early to
@@ -1194,8 +1194,8 @@ invites reflection on what it means to view the landscape as a tourist.
 
 Pioneer businesses such as the Union Steamship and Terminal Steamship
 companies played a large role in the tourist industry by creating
-impressions of British Columbia as a â€œpristine wildernessâ€  preserved for
-the enjoyment of modern, â€œcivilizedâ€  travellers. Such depictions erased
+impressions of British Columbia as a “pristine wilderness”  preserved for
+the enjoyment of modern, “civilized”  travellers. Such depictions erased
 indigenous presence and relied on a vision of the land as uninhabited. The
 Roeddes, a pioneering West End family, were present during this pivotal
 moment in the emergence of modern tourism in British Columbia, and often
@@ -1203,7 +1203,7 @@ enjoyed excursions around Vancouver and Howe Sound themselves.
 
 “By sharing the history of tourism in Vancouver, I hope the exhibition can
 offer locals and visitors alike a new way of thinking about our
-contemporary attitudes and practices towards land, leisure, and travel,â€ 
+contemporary attitudes and practices towards land, leisure, and travel,” 
 says exhibition curator Racan Souiedan. The tradition of marketing
 Vancouver as a wild and rugged nature destination has a lasting legacy. In
 the most recent Regional Tourism Profile done by Destination BC,
@@ -1218,7 +1218,7 @@ photographs from the early days of Vancouver tourism; Roedde Family photos
 and memories of summers spent at Horseshoe Bay; and accounts from Pauline
 Johnson (Tekahionwake) and Chief Joe Capilano.
 
-â€œSouvenirs of Howe Soundâ€  will have a special launch event and open
+“Souvenirs of Howe Sound”  will have a special launch event and open
 reception on Wednesday, August 19th from 5:00pm to 7:00pm. SFU History
 Professor, Dr. Jack Little will give a presentation: 'Views from the Deck:
 Union Steamship Cruises on Canada's Pacific Coast, 1889-1958' at 5:30pm.
@@ -1384,7 +1384,7 @@ Our exhibition calendar features a range of art practices from contemporary
 to outsider to exhibitions representing community–engaged and social
 practice methods, as well as a diversity of mediums: photography, video,
 performance art, drawing, 3D, installation, ceramics, textiles and more.
-For more information on Gachetâ€™s vision and Basis of Unity, please see
+For more information on Gachet’s vision and Basis of Unity, please see
 http://gachet.org/about.
 
 We welcome proposals that challenge mental health stigmas, barriers to full
@@ -1419,7 +1419,7 @@ and a numbered image list
 • a short video that typifies your work
 • audio recordings
 2. A written proposal describing a well–thought out theme or body of work,
-explaining what you wish  to do and any special requirements (250â€“500
+explaining what you wish  to do and any special requirements (250–500
 words)
 3. A CV or biography, charting your arts education and exhibitions
 history 

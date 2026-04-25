@@ -21,7 +21,7 @@ $60 + taxes: General Admission
 REGISTRATION: http://bit.ly/1NzK6WY
 
 For the uninitiated, a contact printer is a device for the controlled
-exposure of a negative (typically) onto an unexposed â€œprint stockâ€  while
+exposure of a negative (typically) onto an unexposed “print stock”  while
 pressed in contact with one another. Once exposed, the print stock is
 developed as a positive of the original negative, producing an image of
 unparalleled quality and sharpness compared to all other methods of

@@ -15,7 +15,7 @@ RON TRAN
 A Walking Tour: Saturday, July 9th, 4pm
 Starting at the Contemporary Art Gallery
 
-The Contemporary Art Gallery will host a walking tour of A Way to Go with the artist Ron Tran and a pony. At â€œstopsâ€  along the way Tran will speak about his interest in using the form of a guided walk to structure and depict his own experience of the city. Its formal characteristics spurred him to traverse places he wouldnâ€™t normal consider, build narrative associations between specific locations, establish relationships with people he encountered and employ new technologies to guide an audience on an unexpected route through Vancouverâ€™s downtown core.
+The Contemporary Art Gallery will host a walking tour of A Way to Go with the artist Ron Tran and a pony. At “stops”  along the way Tran will speak about his interest in using the form of a guided walk to structure and depict his own experience of the city. Its formal characteristics spurred him to traverse places he wouldn’t normal consider, build narrative associations between specific locations, establish relationships with people he encountered and employ new technologies to guide an audience on an unexpected route through Vancouver’s downtown core.
 
 Tran will lead a pony on his walking tour. This performative gesture is deliberately comic, adding a fantastical element that will no doubt cause some double takes and create a degree of surprise. However, the animal also functions romantically, as a poetic device to conjure a past time, becoming the antithesis of the GPS technology utilized as a guiding tool for this project.
 

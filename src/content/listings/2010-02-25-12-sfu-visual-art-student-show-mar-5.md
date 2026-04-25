@@ -10,7 +10,7 @@ summary: "SFU | Visual Art Student Show | MAR 5"
 
 W2 Community Media Arts and SFU Visual Art Students Present:
 
-SFUâ��s Visual Art Student Show
+SFU’s Visual Art Student Show
 
 March 6-14, 2010
 Opening - Friday March 5, 7pm

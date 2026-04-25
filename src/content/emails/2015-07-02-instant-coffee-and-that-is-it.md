@@ -40,13 +40,13 @@ visual arts. There is no clear or one path in becoming an artist, but there
 are steps involved in maintaining an exciting and enriching career. As
 emerging artists you have to be creative, not just in your work, but in
 practical life. The workshop is designed to be both formal and informal.
-You will have a solid artist â€œpackageâ€ (statement, proposal, and portfolio)
+You will have a solid artist “package” (statement, proposal, and portfolio)
 that you can modify for funding, exhibition submissions, residencies, and
 maybe even getting into other programs. And you will have an intimate
 conversation with a working artist in how to maintain a practice, be
 disciplined with your methodology, and be part of an artistic community.
 
-Jade Yumang was named after his motherâ€™s beauty salon and from an earlier
+Jade Yumang was named after his mother’s beauty salon and from an earlier
 age has been obsessed with beautiful, yet slightly off things. His work
 primarily focuses on the concept of queer form through sculptural
 abstraction, installation, and performance. He received his MFA at Parsons
@@ -210,16 +210,16 @@ cornerstone. The day’s events will conclude with a party at newly-opened
 Red Truck Brewery featuring The Trews, No Sinner, Rich Hope, and the Ice
 Cream Social DJs.
 
-+ Burrard Arts Foundation presents â€œTowards a Fictional History of Colour,â€ 
++ Burrard Arts Foundation presents “Towards a Fictional History of Colour,” 
 a group exhibition featuring works by Ben Marvin, Eddy Hofbauer, Jacobo
 Zambrano, Jeff Hallbauer, Simone Jarvis, and Zoe Hodgson.
 
-+ Equinox Gallery presents â€œDay School,â€  an exhibition of new works by
++ Equinox Gallery presents “Day School,”  an exhibition of new works by
 multidisciplinary artist Sonny Assu. Assu will speak about his work at 1:00pm.
 
 + Monte Clark Gallery opens a two-person exhibition by Garry Winogrand with
 Larry Clark, titled “Women are better than men. Not only have they
-survived, they do prevail.â€ 
+survived, they do prevail.” 
 
 + Macaulay Fine Art exhibits paintings by Attila Richard Lukacs and
 Lawrence Paul Yuxweluptun.
@@ -264,7 +264,7 @@ visual and media art practices.
 We produce 5 to 6 exhibitions annually. These exhibitions are determined by
 a curatorial committee made up of approximately 9 people, consisting of
 curators, programming staff, board members and artists. They meet for 5
-days in August to review and select exhibitions for the 2016 â€“ 2017
+days in August to review and select exhibitions for the 2016 – 2017
 programming cycle.
 
 We invite you to submit your exhibition proposal to grunt gallery. If you

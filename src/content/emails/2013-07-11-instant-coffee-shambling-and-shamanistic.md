@@ -122,9 +122,9 @@ Currently at the KIOSK:
 Gaye Chan: SWEAT | July 10-14
 Project Reception: Thursday, July 11, 6-8pm
 
-A five-day long performance thatâ��s part theater and demonstration, SWEAT
+A five-day long performance that’s part theater and demonstration, SWEAT
 features Gaye Chan weaving baskets made from bale straps collected from
-neighbouring shopkeepers. SWEAT is a part of Chanâ��s ongoing work with
+neighbouring shopkeepers. SWEAT is a part of Chan’s ongoing work with
 EATING IN PUBLIC, a collective that she co-founded in 2003.
 
 Chan, born in Hong Kong and immigrated to the United States in 1969,
@@ -244,12 +244,12 @@ Join us at Black & Yellow Gallery for the exhibition and book launch for
 Switcheroo, a photography project by Hana Pesut aka Sincerely Hana.
 
 Switcheroo is a dual portrait series where accomplices are photographed
-twice, once in their own outfits and again wearing each othersâ�� outfits
+twice, once in their own outfits and again wearing each others’ outfits
 against the same background.
 
 Hana Pesut (aka Sincerely Hana) is a self-taught photographer raised in a
 small town in the mountains and currently living in Vancouver, Canada. Her
-main focus in photography is the â��little momentsâ�� that people sometimes
+main focus in photography is the ’little moments’ that people sometimes
 miss and later wish they had captured. She hopes to inspire others to take
 more photos in their daily lives.
 
@@ -398,7 +398,7 @@ http://www.renniecollection.org/contact/index.php
 
 Rennie Collection is pleased to present an exhibition of works by a
 selection of internationally renowned artists: Pablo Bronstein, Aaron
-Curry, Andrew Grassie, Louise Lawler, Mike Nelson, Roman OndÃ�Â¡k and Ian
+Curry, Andrew Grassie, Louise Lawler, Mike Nelson, Roman OndÂ¡k and Ian
 Wallace.
 
 While all of these artists have their own distinctly unique styles and
@@ -452,13 +452,13 @@ physically broken, we do not forget about it. We are reminded of the
 memories associated with it". His work speaks to the ultimate temporality
 and artifice of the gallery or museum space.
 
-Where the viewers detached in Lawler's work, Slovakian artist Roman OndÃ�Â¡k
+Where the viewers detached in Lawler's work, Slovakian artist Roman OndÂ¡k
 (b. 1966) utilizes the gallery visitor as a key component. Shown for the
 first time in Canada, Measuring the Universe (2007) is an interactive piece
 previously exhibited at Tate Liverpool and MoMA, NY. Over the course of the
 exhibition, attendants mark visitors' heights, first names, and dates of
 the measurements on the gallery walls. The mark making becomes the measure
-of man. By inviting people to actively participate, OndÃ�Â¡k creates a work of
+of man. By inviting people to actively participate, OndÂ¡k creates a work of
 art from a prosaic everyday behavior while questioning the roles of art
 objects and spectators, production and reception.
 
@@ -560,7 +560,7 @@ Scott McFarland lives and works in Toronto, Canada. His works are
 included in public collections such as the Museum of Modern Art, the
 Vancouver Art Gallery, the National Gallery of Canada, the San
 Francisco Museum of Modern Art, and the J. Paul Getty Museum. An
-upcoming exhibition of McFarlandâ��s work from the last five years will
+upcoming exhibition of McFarland’s work from the last five years will
 be presented at the Art Gallery of Ontario in Spring of 2014.
 
 Gallery hours:
@@ -638,7 +638,7 @@ Brady Cranfield | Gallery Assistant
 Audain Gallery
 Simon Fraser University
 Goldcorp Centre for the Arts
-#3275 â�� 149 West Hastings
+#3275 ’ 149 West Hastings
 Vancouver BC V6B 1H4
 P: (778) 782-9102
 E: info@audaingallery.ca
@@ -668,29 +668,29 @@ HANGS IN THE BALANCE.
 Some artists, like companies, focus on creating one type of product over
 and over again; others, over time, grow massively diverse portfolios of
 products and services. Starting with a chocolate bar vendor he titled
-mykiosk, since 1997, Koreaâ��based German artist Dirk Fleischmann has been
+mykiosk, since 1997, Korea’based German artist Dirk Fleischmann has been
 building a highly diversified conglomerate of micro companies, a practice
 through which he investigates contemporary modes of production, as they
-pertain to both economic value and cultural meaning. Fleischmannâ��s
+pertain to both economic value and cultural meaning. Fleischmann’s
 enterprises range from chandelier manufacturing to textiles and
 derivatives. Riffing off of the strategies of artists engaged in
-institutional critique and social practice alike, Fleischmannâ��s work
+institutional critique and social practice alike, Fleischmann’s work
 explores the relationship between narrative and commodification.
 Considering abstraction inherent in geographic distance his work probes
 questions surrounding collaboration, status and new international divisions
 of labour (NIDL).
 
-From July 18 ~ August 24 the cafÃ�Â© for contemporary art will be presenting
+From July 18 ~ August 24 the cafÂ© for contemporary art will be presenting
 myconceptstore, a fully functioning store featuring a variety of products
 that Fleischmann has produced through over a decade of economic art
 projects. Here we will display and be selling carbon credits from
 myforestfarm, Made in North Korea and Made in the Philippines shirts from
 myfashionindustries, a new chandelier from mycheongjuchandelierchohab, and
-much more. Similar to the cafÃ�Â© for contemporary artÃ¢ï¿½ï¿½s own practices,
+much more. Similar to the cafÂ© for contemporary artâï¿½ï¿½s own practices,
 resulting profits will be reinvested to sustain existing projects or start
 up new ventures.
 
-Graduating from FrankfurtÃ¢ï¿½ï¿½s renowned StÃ�Â¤dleschule, Fleischmann teaches at
+Graduating from Frankfurtâï¿½ï¿½s renowned StÂ¤dleschule, Fleischmann teaches at
 Cheongju University in Korea where he runs a chandelier studio with a
 selection of former and current students and directs an ongoing series of
 talks by visiting artists and curators. Fleischmann has exhibited
@@ -700,7 +700,7 @@ include: Pilot Micro Multiplex | Mall, Sharjah Art Foundation, Dubai, UAE
 Korea (2012), On The Metaphor of Growth Kunstverein Hannover, Germany
 (2011) and, Limuranin, Kaesong und Rosario, Bielefelder Kunstverein,
 Bielefelder, Germany (2010). Currently visiting Vancouver thanks to the
-CafÃ�Â© for Contemporary ArtÃ¢ï¿½ï¿½s Airmiles-for-Artists Fellowship, over the
+CafÂ© for Contemporary Artâï¿½ï¿½s Airmiles-for-Artists Fellowship, over the
 summer he is teaching a graduate seminar in Media and
 Visual Art at Emily Carr University.
 
@@ -919,10 +919,10 @@ emitting lamps performed live by Adam Basanta, Julian Stein, Max Stein. The
 lamps are arranged to both surround and permeate audience members, creating
 a multi channel light and sound performance. The work investigates the
 potential of domestic objects, both to recall their quotidian functions and
-â�� through aesthetic transformation â�� transcend them.
+’ through aesthetic transformation ’ transcend them.
 www.musicforlamps.com
 
-JOSH HITEâ��s work is primarily concerned with human movement through local
+JOSH HITE’s work is primarily concerned with human movement through local
 spaces. He is inspired by the potential for the creation of subjective
 pathways and the myriad results that occur when movers decidedly confront
 obstacles. Recent work focuses on the technological alteration of action
@@ -1132,7 +1132,7 @@ Triennial and Videonale. Kiharas first solo museum exhibition in North
 America, Shigeyuki Kihara: Living Photographs (2008-09), was held at the
 Metropolitan Museum of Art, New York, following the acquisition of her
 works by the museum for their permanent collection. Kihara's work is
-included in the current exhibition SakahÃ�Â n: International Indigenous Art at
+included in the current exhibition SakahÂ n: International Indigenous Art at
 the National Gallery of Canada.
 
 Curated by Dr. Carol Mayer (Curator, Africa/Pacific), and organized to
@@ -1156,8 +1156,8 @@ info@satellitegallery.ca
 604-681-8425
 
 Satellite Gallery is an experimental exhibition space shared by three arts
-institutionsâ��Presentation House Gallery, Morris and Helen Belkin Art
-Gallery, and the Museum of Anthropologyâ��and is a Michael Oâ��Brian Family
+institutions’Presentation House Gallery, Morris and Helen Belkin Art
+Gallery, and the Museum of Anthropology’and is a Michael O’Brian Family
 Foundation project.
 
 560 Seymour Street, 2nd Floor
@@ -1257,7 +1257,7 @@ The Alternator Centre for Contemporary Art
 Kelowna, BC
 V1Y 6Z1
 
-A copy of the Alternatorâ��s programming policy can be found online at:
+A copy of the Alternator’s programming policy can be found online at:
 http://alternatorcentre.com/submit/call_for_submissions/
 
 ------------------------------------------------------------------------

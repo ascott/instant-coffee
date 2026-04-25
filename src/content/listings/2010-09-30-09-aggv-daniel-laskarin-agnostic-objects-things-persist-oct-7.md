@@ -23,21 +23,21 @@ materials in his work.
 
 “In an increasingly two-dimensional world, sculpture is reasserting itself
 as an essential art practice. This is good news in a city that for three
-decades has been developing some of the best sculptors in Canada,â€  said Jon
+decades has been developing some of the best sculptors in Canada,”  said Jon
 Tupper director of the Art Gallery of Greater Victoria. “The work of Daniel
-Laskarin fits into the unique practice that one finds in Victoria.â€ 
+Laskarin fits into the unique practice that one finds in Victoria.” 
 
 “Laskarin uses a wide variety of materials to intrigue and repulse,
 materials that suggest or refer to the familiar but somehow can not be
-defined,â€  said exhibition curator Nicole Stanbridge. In Laskarinâ€™s most
+defined,”  said exhibition curator Nicole Stanbridge. In Laskarin’s most
 recent work, now beacon, now sea, he pushes his material explorations to
 the limits. Laskarin takes a familiar object, a chair, made of steel and
 ravaged by a shotgun, and gently swathes it in luxurious fabric. “An homage
-to the Baroque, no doubt, but with a tenacious sobriety,â€  added Stanbridge.
+to the Baroque, no doubt, but with a tenacious sobriety,”  added Stanbridge.
 
 “I set out to create objects which might look almost recognizable, but
 never quite identifiable – that hover within the agnostic condition of
-uncertainty between the general and the specific,â€  said Laskarin.
+uncertainty between the general and the specific,”  said Laskarin.
 
 Laskarin whose sculptures and public art commissions have been presented
 across Canada and internationally was educated at Simon Fraser University

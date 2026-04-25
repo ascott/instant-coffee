@@ -80,7 +80,7 @@ and celebratory.
 Khan Lee was born in Seoul, Korea where he studied architecture at
 Hong-Ik University, and studied fine art at Emily Carr Institute of Art
 and Design in Vancouver. He is a founding member of Vancouver
-based artist collective â€˜Intermissionâ€™ and presently a member of 
+based artist collective ‘Intermission’ and presently a member of 
 Instant Coffee artist collective. His experiments with form, medium, 
 content, and expression have resulted in performance, sculpture, and 
 media works. Lee lives and works in Vancouver BC, and has exhibited
@@ -194,7 +194,7 @@ from the S.S. Pacific, a steamship that sank in the Strait of Juan de
 Fuca in 1875. The shard of wood, now housed in the Vancouver 
 Maritime Museum, was recovered at the shoreline in Victoria some six 
 weeks after the disaster. Scrawled on its surface were presumably the 
-last words of passenger Sewell Moody: â€œS.P. Moody. All Lost.â€  Like 
+last words of passenger Sewell Moody: “S.P. Moody. All Lost.”  Like 
 those sealed cargo containers accidentally pitched from their vessels 
 and left to drift, forgotten, at sea, Johnston’s ALL LOST suggests the 
 threads of connection that entangle disparate narratives and the 
@@ -279,7 +279,7 @@ Canadian Art Magazine for her writing on contemporary art.
 
 Les Ramsay received his BFA in Visual Arts in 2007 from Emily Carr
 University in Vancouver, and also studied at the Bellas Artes,
-Universidad PolitÃ©cnica de Valencia, Spain. Ramsay is represented 
+Universidad Politécnica de Valencia, Spain. Ramsay is represented 
 by Cooper Cole Gallery in Toronto and his work has been exhibited in
 Canada, Spain, Sweden, and the United States.
 
@@ -338,7 +338,7 @@ Cultural producers will find it increasingly impossible to exist here, and
 will contend with the reality of spaces and neighbourhoods flipped by 
 developers. Housing choices will largely be determined by the 
 prejudices of property managers and landlords who, unlike most, can 
-afford to say â€œno.â€ 
+afford to say “no.” 
 
 Poetry, critical discussion, artworks, performances, workshops and 
 music contributions by:
@@ -384,7 +384,7 @@ Facilitator: Elvin Wyly
 
 Curator: Alex Muir
 
-â€œThe Art of Rentâ€  by David Harvey from Rebel Cities
+“The Art of Rent”  by David Harvey from Rebel Cities
 
 6 pm – 7:30 pm – conference opening
 
@@ -406,7 +406,7 @@ Moderator: Donato Mancini
 
 Musical performances starting at 10:00
 
-Humanities 101 board game â€œWhere Thereâ€™s Walls, Thereâ€™s Holesâ€ 
+Humanities 101 board game “Where There’s Walls, There’s Holes” 
 
 @ Viewed through a closed gate at 1407 E. Georgia Street (Cool Air 
 Rentals)
@@ -414,7 +414,7 @@ Rentals)
 9:30 – 10:00 pm – performance
 
 Psychotic Butler (featuring Penelope Hetherington) performs 
-â€œDISLODGEâ€  part 1
+“DISLODGE”  part 1
 
 SATURDAY May 25
 
@@ -551,33 +551,33 @@ with Carly Ramsey supplying pamphlets on squatting
 
 Open poetry reading (various authors)
 
-Julian Hou â€œFresh Paintâ€  (video screening)
+Julian Hou “Fresh Paint”  (video screening)
 
-mynameisscot â€œSelf Guided Walking Tourâ€  (visual slide show)
+mynameisscot “Self Guided Walking Tour”  (visual slide show)
 
 @ the corridor road behind 381 Railway Street (at Dunlevy Avenue)
 
 9:30 – 10:00 pm – performance
 
 Psychotic Butler (featuring Penelope Hetherington) performs 
-â€œDISLODGEâ€  part 2
+“DISLODGE”  part 2
 
 Artworks and Activities Ongoing Throughout the Assembly:
 
-Sarah Moore â€œMapping Rent Cityâ€  @DOGWOOD (mapping project)
+Sarah Moore “Mapping Rent City”  @DOGWOOD (mapping project)
 
 Carly Ramsey and Beshéle Caron “We live under patriarchy’s roof: rent 
-and housing zine compilationâ€  (zine compilation)
+and housing zine compilation”  (zine compilation)
 
 Menses/Loose Tights: THE RENT TAPE: Vancouver gentrification/ 
 displacement mix (music compilation)
 
-mynameisscot â€œRental Agreementâ€  (poster project)
+mynameisscot “Rental Agreement”  (poster project)
 
-Psychotic Butler performs â€œDISLODGEâ€  featuring Penelope 
+Psychotic Butler performs “DISLODGE”  featuring Penelope 
 Hetherington (2 performances)
 
-Alta Ego featuring Ray Hsu and Anahita Jamali Rad â€œCheckâ€  (poetry 
+Alta Ego featuring Ray Hsu and Anahita Jamali Rad “Check”  (poetry 
 project)
 
 
@@ -748,7 +748,7 @@ Kingsley Hall experiment (1965-1970) while he was working on his own
 series of social and psychological experiments called The Social 
 Engineer (1999). Fowler’s interest in Laing’s practice, and the 
 documentation of Kingsley Hall, evolved into the film What You See Is 
-Where Youâ€™re At (2001). Laingâ€™s hypotheses on the â€œdouble bindâ€ , the 
+Where You’re At (2001). Laing’s hypotheses on the “double bind” , the 
 family nexus, and ontological security in books such as The Divided 
 Self (1960) and The Politics of Experience (1967) shaped Fowler’s own 
 concerns with family, community, and collaborative formation; self and 
@@ -758,7 +758,7 @@ Situationists, the Free Cinema Movement, and free improvisation. All of
 these elements fold into Fowler’s poly-rhythmic compositions of sound 
 and images — formal experiments in tune with divided selves.
 
-The Way Out profiles Xentos â€œFray Bentosâ€  Jones, one of the founding 
+The Way Out profiles Xentos “Fray Bentos”  Jones, one of the founding 
 members of the post-punk band The Homosexuals. Pilgrimage from 
 Scattered Points reflects on the English composer Cornelius Cardew 
 (1936-1981) and The Scratch Orchestra (1968-73). Bogman 
@@ -859,8 +859,8 @@ and this didn’t stop the artists throughout history from making their
 work.
 
 How does this leap occur? In psychoanalysis it is through the 
-â€œsuspension of the critical facultyâ€  that the analysand first encounters in 
-the â€œevenly suspended attentionâ€  of the therapist. By presenting the 
+“suspension of the critical faculty”  that the analysand first encounters in 
+the “evenly suspended attention”  of the therapist. By presenting the 
 analysand with an enigmatic desire that keeps the analysand working, 
 trying to discover what the analyst wants from him, they sooner or later 
 realize that the desire can never be fulfilled and that they must be 
@@ -868,7 +868,7 @@ responsible for choosing their own course. This is the potential role of
 a teacher (or curator?) in art: to allow the artists’s own unique truth to 
 emerge that is absolutely different from their own.
 
-Isnâ€™t it this ability to â€œsuspend the critical faculty,â€  as recommended by 
+Isn’t it this ability to “suspend the critical faculty,”  as recommended by 
 Freud, that produces the most profound experience of art? 
 Paradoxically, it is the absence of grasping for the essential core that 
 unleashes the flood of affect that makes art feel most real. On May 31, 
@@ -1005,9 +1005,9 @@ take place on Saturday June 1st 9:30am-5:30pm and Sunday June
 West Hastings in Vancouver, BC.
 
 This year's LaConference title is “Sixty years after Lacan: On the 
-Symbolic Order in the Twenty-First Centuryâ€  and gravitates around 
-Lacanâ€™s â€œRome Discourse,â€  formally known as â€œThe Function and Field 
-of Speech and Language in Psychoanalysisâ€  (1953) where Lacan 
+Symbolic Order in the Twenty-First Century”  and gravitates around 
+Lacan’s “Rome Discourse,”  formally known as “The Function and Field 
+of Speech and Language in Psychoanalysis”  (1953) where Lacan 
 proposed a return to the primacy of speech and language as the 
 fundamental and irreducible concern of psychoanalysis. In this 
 fashion, he restated the importance of the Symbolic in the emergence 
@@ -1032,7 +1032,7 @@ as a part of Scrivener’s Monthly
 Reception with cash bar to follow.
 
 Sunday June 2nd 4.00-6.00pm
-Closing Event: Film Screening of Larry Clarkâ€™s â€œMARFA GIRLâ€ 
+Closing Event: Film Screening of Larry Clark’s “MARFA GIRL” 
 At SFU Goldcorp Centre for the Arts
 Djavad Mowafaghian Cinema
 
@@ -1372,7 +1372,7 @@ accepted submissions until the exhibition.
 
 Please e-mail submissions to Lara Fitzgerald, 
 programming@gachet.org, or drop off clearly labelled packages to 
-â€œGallery Gachet Annual Submissionsâ€  during gallery open hours, Weds 
+“Gallery Gachet Annual Submissions”  during gallery open hours, Weds 
 – Sun 12 – 6pm.
 
 
@@ -1516,7 +1516,7 @@ Submission Deadline: October 1, 2013 (postmark deadline)
 
 Theme: Memory
 
-Size: 4â€  x 6â€  (10.2 x 15.3 cm) postcard
+Size: 4”  x 6”  (10.2 x 15.3 cm) postcard
 
 Medium: Any medium that can be sent through the postal system, 
 original artworks only (no photocopies)
@@ -1545,7 +1545,7 @@ Art (aka Postal Art) is an art form where artists exchange artworks and
 correspondence through the mail.
 
 While all works received that fulfill the participation guidelines will be 
-exhibited, we ask artists to respond to the theme of â€œmemoryâ€ . This 
+exhibited, we ask artists to respond to the theme of “memory” . This 
 may include, but is not limited to:
 
 Individual memories
@@ -1562,7 +1562,7 @@ In Memoriam
 
 Participation Guidelines:
 
-â€¢ Artists can send up to three artworks sized 4â€  x 6â€  (10.2 x 15.3 cm) as 
+• Artists can send up to three artworks sized 4”  x 6”  (10.2 x 15.3 cm) as 
 a postcard.
 
 • Artworks must be sent through the postal system or hand-delivered. 

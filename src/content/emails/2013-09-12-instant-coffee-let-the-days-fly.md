@@ -77,7 +77,7 @@ modes of production to inform otherwise intangible socio-economic realities.
 This will be Sailly’s first solo exhibition in Canada.
 
 Alongside this exhibition Sylvain Sailly and Sarah Todd have programmed 
-â€œCalculated Movementsâ€  a screening at Pacific Cinematheque as part of DIM 
+“Calculated Movements”  a screening at Pacific Cinematheque as part of DIM 
 Cinema on Monday September 23rd at 7:30pm.
 
 Western Front Swarm programming on September 12th will also include new 
@@ -459,7 +459,7 @@ document, preserve, and revitalize endangered languages.
 
 John Wynne's practice includes large-scale sound installations in galleries 
 and public spaces, photographs that produce sound, and “composed 
-documentariesâ€  that explore the boundaries between documentation and 
+documentaries”  that explore the boundaries between documentation and 
 abstraction. 
 
 Curated by Karen Duffek, Curator of Contemporary Visual Arts & Pacific 
@@ -529,7 +529,7 @@ Join in the conversation: #SWARM14
 SWARM is an annual 2-night event that marks the launch of Vancouver’s 
 artist-run centre programming season with exhibition openings, performances, 
 screenings and special events. This year’s edition of SWARM will take place 
-on the evenings of September 12 and 13. The public is invited to â€œgallery-hopâ€  
+on the evenings of September 12 and 13. The public is invited to “gallery-hop”  
 from venue to venue to experience the vibrancy of Vancouver’s artist-run 
 centres and independent non-profit galleries.
 
@@ -580,7 +580,7 @@ Unearthly Waters is a collaborative project conceived by Tommy Ting and
 Maja Ngom shortly after graduating in 2012. Both without any immediate 
 plans they felt fragile and exhausted, uncertain of their future journeys as 
 artists. Although separated by the geographical location (Ting living in Canada 
-and Ngom in the UK) they situated Joseph Conradâ€™s â€œHeart of Darknessâ€  as 
+and Ngom in the UK) they situated Joseph Conrad’s “Heart of Darkness”  as 
 their common horizon. Deciding to work independently but in dialogue with 
 each other, they shared their research, ideas and processes on a blog. The 
 immense remoteness and inability to meet in person often caused frustration 
@@ -707,7 +707,7 @@ culture, and is free and open to the public and will run until October 19.
 Public Lecture & Programs
 The exhibition is accompanied by a free public lecture, co-presented with the 
 Vancity Office for Community Engagement, by Italian Marxist theorist Franco 
-â€œBifoâ€  Berardi, to be held at the Djavad Mowafaghian Cinema, SFU campus in 
+“Bifo”  Berardi, to be held at the Djavad Mowafaghian Cinema, SFU campus in 
 the Woodward’s complex at 149 West Hastings St., Vancouver, on 
 September 14th, at 7pm (Seating is by first-come-first-serve and is limited). In 
 the weeks following the lecture, four respondents will deliver talks at 221A in 
@@ -755,7 +755,7 @@ http://unitpitt.ca
 CENTRE A'S FALL 2013 EXHIBITION REFLECTS ON LIFE WITHIN THE
 GATED SAUDI ARAMCO HEADQUARTERS
 
-Centre A announces its Fall 2013 exhibition, â€œMinutes from a Second 
+Centre A announces its Fall 2013 exhibition, “Minutes from a Second 
 Story
 by Hajra Waheed.
 
@@ -764,10 +764,10 @@ Contemporary Asian Art is delighted to host Montreal-based artist Hajra
 Waheed's solo exhibition, Minutes from a Second Story . Born in Calgary,
 Waheed was raised within the gated headquarters of Saudi ARAMCO, the
 largest transnational oil corporation in the world and home base to 25% of the
-worlds oil exports. Minutes from a Second Storyâ€ is a comprehensive body 
+worlds oil exports. Minutes from a Second Story” is a comprehensive body 
 of
 work that includes video and mixed media works on paper that reflect upon
-Waheedâ€™s experiences of growing up in ARAMCOs gated compound.
+Waheed’s experiences of growing up in ARAMCOs gated compound.
 
 Centre A is proud to commission a new body of small format video works
 titled The Video Project (2012), which reflect broadly on everyday life in the
@@ -776,7 +776,7 @@ Scrapbook Project (2010-11), a 34 page visual diary that recuperates and
 reconsiders an important period of Gulf history, between the end of the Cold
 War and beginning of the first Gulf War.
 
-â€œIt was during my most formative years, that I began studying this place 
+“It was during my most formative years, that I began studying this place 
 with a
 discerning eye. I realized how critical it was/is to begin to make better sense
 of this rather strange lived experience states Waheed. Though it is by no
@@ -823,7 +823,7 @@ partnerships and programmes that generate new thinking around the material
 in the collection and about the art of the region. Earlier, he co-founded and
 was Curatorial Director of the London-based arts organization Green
 Cardamom. He was a Fellow of the Clore Leadership Programme, Research
-Fellow at Goldsmith College, and Arts Director for the UKâ€™s Festival of 
+Fellow at Goldsmith College, and Arts Director for the UK’s Festival of 
 Muslim
 Cultures (2006-07). His recent projects include: Safavids Revisited at the
 British Museum (2009); Where Three Dreams Cross at the Whitechapel
@@ -843,7 +843,7 @@ Story by Hajra Waheed.
 Asia Art Archive is an independent, non-profit organization dedicated to
 documenting the recent history of contemporary art in Asia within an
 international context. Founded in 2000, AAA is widely regarded as one of the
-worldâ€™s leading public resources for contemporary art in Asia. It continues 
+world’s leading public resources for contemporary art in Asia. It continues 
 to
 grow through a systematic program of research and critical engagement.
 
@@ -865,7 +865,7 @@ in conversation with Haema Sivanesan
 Saturday, October 12, 2013
 3pm
 
-Hajra Waheedâ€™s art practice responds to strictly imposed restrictions on
+Hajra Waheed’s art practice responds to strictly imposed restrictions on
 photography during her years growing up in Saudi Arabia. This panel
 discussion examines histories of aniconism in the Arab-Islamic world, and its
 tense relation to visual cultures and photo-practices that are ubiquitous in the
@@ -883,9 +883,9 @@ contemporary Asian art, foregrounding a range of diverse contemporary
 artistic practices
 
 Centre A provides a platform for art that engages and educates, promoting
-critical thought and reflective experiences. The Centreâ€™s gallery space, in 
+critical thought and reflective experiences. The Centre’s gallery space, in 
 the
-heart of Vancouverâ€™s Chinatown, welcomes artists and visitors from 
+heart of Vancouver’s Chinatown, welcomes artists and visitors from 
 diverse
 backgrounds.
 
@@ -900,7 +900,7 @@ generosity of our patrons, donors, members and volunteers.
 
 - 30 -
 
-Available for comment on â€œMinutes from a Second Storyâ€ :
+Available for comment on “Minutes from a Second Story” :
 
 Centre A Executive Director: Haema Sivanesan
 
@@ -983,7 +983,7 @@ throughout the show. Using an overhead projector, Jessica projects colourful
 imagery onto a large screen while Chloe creates a live soundtrack with beat-­
 boxing, guitar loops and help from the audience.
 
-â€œMind blowing, visual show, not to be missedâ€  Â­Julia Kalinina, Artswells 
+“Mind blowing, visual show, not to be missed”  Â­Julia Kalinina, Artswells 
 Festival
 
 Mind of a Snail is a shadow puppetry duo currently based out of Vancouver 
@@ -991,21 +991,21 @@ B.C. Since 2003, Chloé Ziner and Jessica Gabriel have been developing a
 multi-layered style of visual storytelling using overhead projectors as their 
 main light source. They have created shadow theatre for organizations in BC 
 and beyond, including Dusty FlowerPot Cabaret’s 2011 Jessie nominated 
-â€œHard Times Hit Paradeâ€ , Vancouver Art Gallery, Public Dreams Society and 
+“Hard Times Hit Parade” , Vancouver Art Gallery, Public Dreams Society and 
 many more.
 
 As well as being creative collaborators, Chloe and Jessica are a real­ life 
 couple.
 
 “The audience is both hypnotized and tantalized by the impossibly­ detailed 
-miniature world they bring to life.â€  Â­Jeanie Koegh, XÂ­tra West
+miniature world they bring to life.”  Â­Jeanie Koegh, XÂ­tra West
 
-â€œFilled with the wonder that first got me hooked on theatreâ€  Â­Plank Magazine, 
+“Filled with the wonder that first got me hooked on theatre”  Â­Plank Magazine, 
 Vancouver
 
-â€œa blastâ€  ****1/2 Winnipeg Free Press
+“a blast”  ****1/2 Winnipeg Free Press
 
-â€œbeautiful to beholdâ€  **** CBC
+“beautiful to behold”  **** CBC
 
 Mind of a Snail presents:
 Against Gravity at the 2013 Vancouver Fringe Festival
@@ -1133,16 +1133,16 @@ Amphibian14, Bracken Hanuse Corlett, KAST, Byron Steele, Nigel Z: God
 Save The Queen
 
 September 14 to October 26, 2013
-Opening Friday, September 13, 8pm Ã¢â‚¬â€  part of SWARM
+Opening Friday, September 13, 8pm ââ‚¬”  part of SWARM
 Curated by Chris Bose
 
 Nigel-Z-flag
 
 God Save the Queen is inspired by the heavy curtain of colonialism that still
 hangs over Canada and the spirit of rebellion that was once crystallized by the
-Sex Pistols anti-Jubilee anthem, â€œGod Save The Queenâ€ . The question 
-â€œHow
-do you feel about living under the yoke of the British Crown to this day?â€ 
+Sex Pistols anti-Jubilee anthem, “God Save The Queen” . The question 
+“How
+do you feel about living under the yoke of the British Crown to this day?” 
 has
 been posed to First Nations artists and non-native artists producing a
 spectrum of responses.
@@ -1155,10 +1155,10 @@ KAST My art all started when I was younger, I guess, but the art I mostly do
 now is not seen as an artistic art form, as we writers see it, but it is viewed as
 vandalism, trash, crime, even gang related! Although we are unwanted, we still
 thrive in an urban environment. Art is not just a hobby that brings a little light
-of joy into the dark night where I wonder. Mostly, itâ€™s my lifestyle. Iâ€™ve 
+of joy into the dark night where I wonder. Mostly, it’s my lifestyle. I’ve 
 been
 painting graff for around twelve years now, with a few breaks, but it has led me
-to other forms of art. Iâ€™ve had no professional training, besides watching a 
+to other forms of art. I’ve had no professional training, besides watching a 
 few
 Bob Ross shows, and was a solo graffiti artist most of the time. I started
 painting landscapes with oil in 2008 and now have combined the two forms
@@ -1168,18 +1168,18 @@ Byron Steele a.k.a. MaRvIN StRAnGE I started sculpting when i was 16.
 Started working in a scrap yard and taking things home, rooting in garbage
 and things just came together. Started sculpting again in the last 3 years. I
 use anything i can get my hands on: knives, dremels, drills, torches, lighters,
-whateverâ€™s handy at the time. when i sit down to sculpt, something else 
+whatever’s handy at the time. when i sit down to sculpt, something else 
 takes
-over: MaRvIN StRAnGE. when i come to, itâ€™s in front of me, what inspires 
+over: MaRvIN StRAnGE. when i come to, it’s in front of me, what inspires 
 me
-really. I want to take peopleâ€™s preconceptions of art and step all over 
+really. I want to take people’s preconceptions of art and step all over 
 them.
 
 Bracken Hanuse Corlett is a multimedia Northwest Coast artist hailing from
 the Wuikinuxv and Klahoose Nations. He has worked as a news writer for
 Redwire Magazine, and is the Co-founder and Co-coordinator of the newly
 formed Vancouver Indigenous Media Arts Festival. He is a graduate of the
-Enâ€™owkin Centre of Indigenous Art and is currently in his final year at 
+En’owkin Centre of Indigenous Art and is currently in his final year at 
 Emily
 Carr University of Art and Design. He has also studied Northwest Coast art,
 carving and design from acclaimed Heiltsuk artists Bradley Hunt and his sons
@@ -1197,7 +1197,7 @@ and hair flying everywhere, the Amphibian has re-discovered his performance
 outlet with this Project.
 
 Chris Bose is a writer, multi-disciplinary artist, musician and filmmaker. He is
-a war party baby born of the Nâ€™lakaâ€™pamux and Secwepemc Nations 
+a war party baby born of the N’laka’pamux and Secwepemc Nations 
 in BC,
 and currently spends his time in Kamloops BC.
 
@@ -1238,7 +1238,7 @@ Simon Fraser University at the Woodward's complex
 149 West Hastings St.
 Vancouver
 
-The Italian philosopher and critic Franco â€œBifoâ€  Berardi will give a
+The Italian philosopher and critic Franco “Bifo”  Berardi will give a
 free public lecture on the intersections of media, economics, and
 poetry at SFU Woodward’s on September 14.
 
@@ -1333,7 +1333,7 @@ Through the juxtaposition of various contexts and photographic techniques,
 Collected Shadows focuses on the natural and supernatural: earth, fire, air, 
 and water, accompany subjects of astrology and flight. The AMC strives to 
 “store, explore, and represent the lost shadows that lens-based technologies 
-have scattered to the wind,â€  highlighting the criticality that can be brought into 
+have scattered to the wind,”  highlighting the criticality that can be brought into 
 our engagement with photography.
 
 The Archive of Modern Conflict is an organization and independent publisher 
@@ -1812,7 +1812,7 @@ studio evidence of utility and production is collected throughout, tools hung on
 the wall, a wrist watch hung on the work bench. Wall’s photos hover between 
 a moment of reflection and a lifetime of creation.
 
-With this exhibition â€œTo See Farâ€  Trench continues to excavate the expansive 
+With this exhibition “To See Far”  Trench continues to excavate the expansive 
 history that is Vancouver’s late-Modernist art and invites viewers to discover 
 the virtuosity of David Marshall’s skill and craftsmanship. Drawn from the 
 artist’s collection, these sculptures and preparatory drawings exemplify a 
@@ -1880,12 +1880,12 @@ Through painting, photography, sculpture and mixed media installations, the
 artists offer a unique view of First Nations art in the region.
 
 “The vision for the project evolved directly from the concepts being investigated 
-in the work of artists, and co-curators, lessLIE and Rande Cook,â€  said Nicole 
+in the work of artists, and co-curators, lessLIE and Rande Cook,”  said Nicole 
 Stanbridge, AGGV Associate Curator of Contemporary Art and co-curator of 
 the exhibition. “They invited Dylan Thomas and Francis Dick to contribute to 
 the exhibition as well. The bodies of work presented by all four artists furthers 
 their investigation into personal stories, community histories and current 
-events.â€ 
+events.” 
 
 Conceived of as a two part exhibition, Urban Thunderbirds features Coast 
 Salish artists lessLIE and Dylan Thomas whose strong graphic work is 
@@ -1930,7 +1930,7 @@ Galapa (Rande Cook) was born in Alert Bay on the northern tip of Vancouver
 Island in 1977. Cook was inspired by artists who pushed the boundaries of 
 traditional art and challenged themselves to understand what defines Native 
 art and by those who produced work that followed the traditional spirit rather 
-than replicate historic masks in order to remain â€˜authenticâ€ . It is from this 
+than replicate historic masks in order to remain ‘authentic” . It is from this 
 inspiration that Ravens in a Material World takes shape. Cook looks to create 
 a new story from the old, this story line uses tradition as a foundation and 
 builds on it with contemporary themes.

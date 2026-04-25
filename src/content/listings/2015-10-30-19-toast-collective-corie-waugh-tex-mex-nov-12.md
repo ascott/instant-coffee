@@ -18,7 +18,7 @@ Kingsway, Vancouver BC
 
 “It always seems a bit artificial to find your way back because all that
 change has gone on, through the thinking before, the making and then
-the aftermath.â€ - Chantal Joffe
+the aftermath.” - Chantal Joffe
 
 Echoing the idea of Chantal Joffe, we cannot speak of the original
 intentions of the Tex Mex paintings. The series began as a reaction to

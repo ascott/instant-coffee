@@ -64,7 +64,7 @@ original interactive function.
 
 James Yan – One Percent (Loading Vancouver) graphically parodies the font 
 used in Windows 95, with its blue background mimicking the official color in the 
-City of Vancouver emblem â€” â€œfor the sea and sky that surround our cityâ€ . One 
+City of Vancouver emblem — “for the sea and sky that surround our city” . One 
 Percent shows the downloading buffer from 0 to 86%. Viewers wait to see what 
 is never revealed — lost histories, unrecorded moments, or things yet to come. 
 This is a media artwork that toys with viewer anticipation and expectation. Yan 

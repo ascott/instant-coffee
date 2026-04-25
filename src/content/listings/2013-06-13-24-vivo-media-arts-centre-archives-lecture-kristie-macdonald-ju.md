@@ -21,7 +21,7 @@ Vancouver, BC – grunt gallery, Western Front and VIVO Media Arts Centre are
 pleased to announce that Kristie MacDonald will be presenting a talk on
 Canadian artist-run archives on Wednesday June 19, 2013 at 7pm. It will
 take place at VIVO Media Arts Centre. Her lecture, “Towards a History of
-Artist-Run Archives in Canada: Traditional and Non-Traditional Forms,â€ 
+Artist-Run Archives in Canada: Traditional and Non-Traditional Forms,” 
 explores archives, collections and preservation initiatives within Canada’s
 artist-run community.
 

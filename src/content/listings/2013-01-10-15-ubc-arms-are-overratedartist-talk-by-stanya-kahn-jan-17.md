@@ -8,7 +8,7 @@ venue: "UBC"
 summary: "UBC | “Arms Are Overrated:Artist Talk by Stanya Kahn | JAN 17"
 ---
 
-â€œArms Are Overrated: An Artist's Talk by Stanya Kahnâ€ 
+“Arms Are Overrated: An Artist's Talk by Stanya Kahn” 
 Distinguishing Visiting Artist Program
 Department of Art History, Visual Art & Theory, University of British Columbia
 

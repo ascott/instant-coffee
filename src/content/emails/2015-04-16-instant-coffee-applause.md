@@ -34,7 +34,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2015-04-16-21-presentation-house-tris-vonna-michell-apr-23">21. OPENING | Presentation House | Tris Vonna-Michell | APR 23</a>
 <a href="/instant-coffee/listings/2015-04-16-22-avenue-merch-stand-dustin-brons-apr-24">22. OPENING | Avenue | Merch Stand - Dustin Brons | APR 24</a>
 <a href="/instant-coffee/listings/2015-04-16-23-gallery-gachet-un-quiet-bodies-the-transience-of-value-apr-2">23. OPENING | Gallery Gachet | Un Quiet Bodies & The Transience of Value | APR 24</a>
-<a href="/instant-coffee/listings/2015-04-16-24-seliyemetxwtexw-art-gallery-both-sides-of-now-bfa-grad-show-">24. OPENING | Sâ€™eliyemetxwtexw Art Gallery | â€œBoth Sides of Nowâ€  BFA GRAD SHOW | APR 24</a>
+<a href="/instant-coffee/listings/2015-04-16-24-seliyemetxwtexw-art-gallery-both-sides-of-now-bfa-grad-show-">24. OPENING | S’eliyemetxwtexw Art Gallery | “Both Sides of Now”  BFA GRAD SHOW | APR 24</a>
 <a href="/instant-coffee/listings/2015-04-16-25-cag-nurse-apr-25">25. PERFORMANCE | CAG | NURSE | APR 25</a>
 <a href="/instant-coffee/listings/2015-04-16-26-index-gallery-this-could-take-decades-oksanen-paolinelli-apr">26. OPENING | INDEX GALLERY | This Could Take Decades - Oksanen & Paolinelli | APR 25</a>
 <a href="/instant-coffee/listings/2015-04-16-27-richmond-art-gallery-curse-of-the-livable-city-panel-discuss">27. TALK | Richmond Art Gallery | Curse of the Livable City: Panel Discussion | APR 25</a>
@@ -59,7 +59,7 @@ Opening reception:
 Thursday April 16, 6-9 pm
 
 In his new work Buona Fortuna, Rubio transports us to the mountains of the
-â€œParco Nazionale del Cilentoâ€  in the south of Italy, where several isolated
+“Parco Nazionale del Cilento”  in the south of Italy, where several isolated
 villages were abandoned after a series of devastating earthquakes and
 landslides. Hidden among these ruins, and despite all the decay and
 destruction, several churches and chapels reveal themselves in all their
@@ -311,7 +311,7 @@ BECOME A MEMBER OF PROJECT SPACE: http://www.projectspace.ca/membership
 <a href="/instant-coffee/listings/2015-04-16-07-vox-montreal-raymond-boisjoly-from-age-to-age-as-its-apr-17">07. OPENING | VOX Montreal | Raymond Boisjoly “From age to age, as its..." | APR 17</a>
 ------------------------------------------------------------------------
 Raymond Boisjoly
-â€œFrom age to age, as its shape slowly unravelledâ€¦â€ 
+“From age to age, as its shape slowly unravelled…” 
 
 2015.04.17 - 06.27
 Opening on April 17, 2015, at 5:00 pm
@@ -326,7 +326,7 @@ interested in vernacular forms of representation and modes of production of
 images.
 
 The series of large-format inkjet prints “From age to age, as its shape
-slowly unravelledâ€¦â€ â€”created specifically for VOX, along with a silent
+slowly unravelled…” —created specifically for VOX, along with a silent
 video—is derived from a process premised on the deliberate misuse and
 unlikely interfacing of seemingly incompatible technologies associated with
 the production and consumption of digital images. A video found on YouTube
@@ -344,7 +344,7 @@ from their intended context to museums and taken merely for tokens of
 aesthetic pleasure, these works of tribal art are newly mediated for
 another audience, just as a camera or other representational technology
 mediates its imagery. These changes are not neutral, and the meanings they
-produce are central to the understanding of â€œartâ€  as a historical and
+produce are central to the understanding of “art”  as a historical and
 colonial category.
 
 http://centrevox.ca/en/exposition/raymond-bois
@@ -381,7 +381,7 @@ she bribes the karaoke guy with flowers for two songs instead of one.
 
 Steffanie Ling is a writer, curator and editor. She will have red wine and
 turtlenecks all year long. For LIT LIT LIT LIT she will be reading from
-work in process, tentatively titled â€œYouâ€™re a liar and a smokerâ€  a book of
+work in process, tentatively titled “You’re a liar and a smoker”  a book of
 twenty chapters for twenty cigarettes.
 
 Zebulon Zang is a filmmaker and writer from Maillardville, British
@@ -493,7 +493,7 @@ Photography Festival.
 A singular Hong Kong phenomenon, the Walled City housed up to 35,000 people
 living in over 300 interconnected high-rise buildings covering one square
 city block in a densely populated neighbourhood forming a “city within a
-cityâ€ . Though demolished 20 years ago in 1993, interest in the Kowloon
+city” . Though demolished 20 years ago in 1993, interest in the Kowloon
 Walled City continues, fuelled in part by urban legends that persist about
 this extraordinary community. The Kowloon images, published in book form,
 have never before been exhibited.
@@ -805,14 +805,14 @@ falling oil prices, coinciding with a fall federal election, mean that
 energy politics will be at the forefront of conversation for quite some
 time. The Northern Gateway is the single most salient and significant
 marker of that trend in Canada, and treating it as a case study might help
-to forecast the direction similar debates will take in the future.â€ 
+to forecast the direction similar debates will take in the future.” 
 
 The location of the film’s Vancouver premiere at VIVO Media Arts Centre is
 equally significant: “VIVO has a long and storied history of ruffling
 feathers. They’ve amassed one of the most significant collections of
 independent media in Canada, and have been there to witness similar stories
 of struggle in the past – Clayoquot Sound, Lyell Island, to name a few.
-Itâ€™s a huge honour to hold the screening in that setting.â€ 
+It’s a huge honour to hold the screening in that setting.” 
 
 The April 22nd screening marks the conclusion to a 14-stop premiere tour of
 the film throughout communities in Northern BC. Other screenings on that
@@ -824,7 +824,7 @@ wanted to premiere the film in Northern BC as a condition of respect to
 those impacted by the project. There’s a tendency for journalists to
 ‘parachute in’, collect material, and then leave. We wanted to respect the
 intrinsic link between place and identity felt by many who live in the path
-of the pipeline by holding the first screenings in the regions in question.â€ 
+of the pipeline by holding the first screenings in the regions in question.” 
 x
 
 Facebook Event: https://www.facebook.com/events/1064891950192880/
@@ -936,7 +936,7 @@ Un Quiet Bodies features the work of Aja Rose Bond and Chandra Melting Tallow.
 
 Un Quiet Bodies delves into the complex realities of the physiology of
 trauma, self-awareness, and levels of ability impacting one’s capacity to
-survive in a society designed for the â€œable-bodiedâ€ . Bondâ€™s work emphasizes
+survive in a society designed for the “able-bodied” . Bond’s work emphasizes
 the relationship between work, leisure and self-care when accounting for
 physical and mental limitations. Melting Tallow explores the implications
 of ability through the lens of colonial and intergenerational trauma and
@@ -972,9 +972,9 @@ Vancouver, BC V6A 1K3
 contact@gachet.org
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2015-04-16-24-seliyemetxwtexw-art-gallery-both-sides-of-now-bfa-grad-show-">24. OPENING | Sâ€™eliyemetxwtexw Art Gallery | â€œBoth Sides of Nowâ€  BFA GRAD SHOW | APR 24</a>
+<a href="/instant-coffee/listings/2015-04-16-24-seliyemetxwtexw-art-gallery-both-sides-of-now-bfa-grad-show-">24. OPENING | S’eliyemetxwtexw Art Gallery | “Both Sides of Now”  BFA GRAD SHOW | APR 24</a>
 ------------------------------------------------------------------------
-â€œBoth Sides of Nowâ€  BFA GRAD SHOW
+“Both Sides of Now”  BFA GRAD SHOW
 
 April 24-May 15, 2015
 
@@ -1031,7 +1031,7 @@ NURSE prescribe heady medication. Releases to date include Heads Remain
 <a href="/instant-coffee/listings/2015-04-16-26-index-gallery-this-could-take-decades-oksanen-paolinelli-apr">26. OPENING | INDEX GALLERY | This Could Take Decades - Oksanen & Paolinelli | APR 25</a>
 ------------------------------------------------------------------------
 A simultaneous crystallization between two practices, “This Could Take
-Decadesâ€  features the work of artists Shannon Oksanen and Nathalee
+Decades”  features the work of artists Shannon Oksanen and Nathalee
 Paolinelli. One practice traverses interiority and self-introspection,
 while the other embraces the exuberance and whimsy of childhood.
 Collectively, they reveal interpretive subjectivities through process and
@@ -1069,7 +1069,7 @@ the world?
 
 Panelists:
 Glenn Deer, Assistant Professor of English & Associate Editor of “Canadian
-Literatureâ€ , Dept. of English, UBC
+Literature” , Dept. of English, UBC
 Greg Girard, Photographer
 Bing Thom, Principal, Bing Thom Architects
 Rufina Wu, Architect AIBC
@@ -1383,7 +1383,7 @@ to overcome poverty, homelessness, or addiction.
 Please submit your proposal to artcommittee@ugm.ca by May 8, 2015. Please
 include a photo of your piece along with the following information: artist
 name, title of piece, medium, and size of piece (note: we cannot accept
-pieces that are smaller than 16â€ x20â€  or larger than 48â€ x48â€ ).
+pieces that are smaller than 16” x20”  or larger than 48” x48” ).
 
 If you have any questions, please contact UGM’s Art Committee at
 604.215.5445 ext 594 or artcommittee@ugm.ca. We look forward to reviewing

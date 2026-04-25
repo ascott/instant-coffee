@@ -22,16 +22,16 @@ Admission: $10 (includes a book) * No one will be turned away for lack of
 funds
 DVD boxset (includes one disc for each video programme): $20.00
 
-In November 2012, VIVO Media Arts Centre, VancouverÃ¢€™s 
+In November 2012, VIVO Media Arts Centre, Vancouverâ€™s 
 oldest media 
 access artist run centre, presented Anamnesia: Unforgetting, a series of three 
 screenings of videos from the 1970s and 1980s, collected through the early 
 Satellite Video Exchange program. The videos are now housed in 
-VIVOÃ¢€™s 
+VIVOâ€™s 
 Crista Dahl Media Library and Archive, a collection of 4500 titles of 
 international video art and related ephemera. Emerging out of Intermedia, the 
 Satellite Video Exchange collection documents important correspondence, 
-performance and activist video collaborations in VancouverÃ¢€™s art 
+performance and activist video collaborations in Vancouverâ€™s art 
 history.
 
 Along with the three video programmes, a publication, DVD box set, and 
@@ -47,7 +47,7 @@ curator's programmes, and their collaboration with VIVO over the past four
 years, within the history of social and cultural production at SVES. Alex Muir 
 extrapolates upon early artist-television pioneer Byron Black's international 
 practice, his Images from Infinity program on Cable 10, and his affiliation with 
-Robert FilliouÃ¢€™s Eternal Network, Image Bank, and the Western 
+Robert Filliouâ€™s Eternal Network, Image Bank, and the Western 
 Front. Donato 
 Mancini situates his curatorial frame within broader discourses on 
 polytemporality, polyrhythmia, and the archive, in literature, cinema, and 

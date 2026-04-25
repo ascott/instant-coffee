@@ -15,7 +15,7 @@ January 19, 2013, 7pm, Unit/Pitt, 15 E Pender St, Vancouver
 Join UNIT/PITT Projects Saturday, January 19 (2013) for GRAY Publication’s 
 first issue launch party and fundraiser.
 
-Issue one focuses on â€œemergenceâ€ : presenting visual and text-based works 
+Issue one focuses on “emergence” : presenting visual and text-based works 
 from Soledad Muñoz, Jules Francisco, professor Caroline Bellios of the 
 School of the Art Institute of Chicago, and Alexander McQueen Savile Row.
 

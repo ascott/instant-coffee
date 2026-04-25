@@ -87,21 +87,21 @@ Enter (Ntr)
 Kneel (Kn)
 
 A matter of respect to collaborators or eliminate them at your peril. During these
-moments nothing is said. Mark out here, â€œpauseâ€ and then there 
-â€œsilenceâ€ . Enter
+moments nothing is said. Mark out here, “pause” and then there 
+“silence” . Enter
 like a stiff feather. Throw the book. THUMP. Violet turns to blue. One character to
-the other may say, â€œShall we go?â€ The other replies, â€œYesâ€ . The 
+the other may say, “Shall we go?” The other replies, “Yes” . The 
 stage direction
-says: â€œThey do not move.â€
+says: “They do not move.”
 
 Is someone going to argue that stage direction is immaterial? I hope not.
 (Kissing the bookcase) We move into the gallery
-space, "Flatly." "Happily." "Holding back tears." and â€œLarge over-stuffed chairs
-that seem to swallow the characters.â€ We blink. The camera pans left and
-captures â€œAâ€ walking with a red page then at the next moment â€œAâ€ 
+space, "Flatly." "Happily." "Holding back tears." and “Large over-stuffed chairs
+that seem to swallow the characters.” We blink. The camera pans left and
+captures “A” walking with a red page then at the next moment “A” 
 disappear.
 
-More importantly, â€œtwo hundred women of the townâ€ enter the room. The 
+More importantly, “two hundred women of the town” enter the room. The 
 ﬁnal
 scene of the play opens with two girls winding a skein of red wool. Confusion
 reigns with various characters appearing and asking for deﬁnitive news. A
@@ -111,13 +111,13 @@ event which is designed to move an audience through all of the visual, aural, an
 dramatic means available. People Things Enter Exit.
 
 Ulla von Brandenburg (b. 1974, Karslrue, lives and works in Paris) has
-forthcoming solo exhibitions at Galerie du Granit, Le granit, ScÃ¨ne Nationale de
+forthcoming solo exhibitions at Galerie du Granit, Le granit, Scène Nationale de
 Belfort, France (2012); Rosascape, Paris (2012); Pilar Corrias Gallery, London
 (2012). Recent solo exhibitions include Produzentengalerie, Hamburg (2011);
-Vitrine de lâ€™Antenne, Le Plateau - FRAC* Ile de France, Paris (2011); Neue 
+Vitrine de l’Antenne, Le Plateau - FRAC* Ile de France, Paris (2011); Neue 
 Alte
 Welt, The Common Guild, Glasgow (2011); Neue Alte Welt, Art: Concept, Paris
-(2011); Chorspiel, Lilith Performance Studio, MalmÃ¶ (2011).
+(2011); Chorspiel, Lilith Performance Studio, Malmö (2011).
 
 Guy de Cointet (b. 1934, Paris, d. 1983, Los Angeles) was a French artist based
 in Los Angeles in the late sixties and seventies. His enigmatic and until very
@@ -139,7 +139,7 @@ exhibition Kill the Workers!, shown this past year at Chisenhale, London and
 Badischer Kunstverein, Karslrue will travel to the Walter Phillips Gallery, Banff in
 2012. She has a forthcoming solo exhibition at Presentation House Gallery,
 Vancouver and recent solo exhibitions include, i8 Gallery, Reykjavik (2011); See
-it Now, Art Now, Tate Britain, London (2010); Ballgame (Innings 1â€“3),
+it Now, Art Now, Tate Britain, London (2010); Ballgame (Innings 1–3),
 greengrassi, London (2009).
 
 Daria Martin (b. 1973, San Francisco, lives and works in London, UK) has a
@@ -248,7 +248,7 @@ Vancouver-based artist Raymond Boisjoly’s recent series of images, collectivel
 titled The Writing Lesson, uses visual conventions associated with black metal 
 music to create logos for indigenous place names such as Chilliwack, Massett 
 and Nanaimo. Boisjoly lays out these Anglicized words with dripping, thorny 
-embellishments and what he calls a â€œforced symmetry.â€  Like the band 
+embellishments and what he calls a “forced symmetry.”  Like the band 
 wordmarks to which they refer, Boisjoly’s decrepit tangles of letters often verge 
 on illegibility. This iteration of Boisjoly’s ongoing project will be the largest yet, 
 printed on a tarp, and taking its shape from the name Spuzzum, an 
@@ -301,12 +301,12 @@ Admission Free
 <a href="/instant-coffee/listings/2011-10-27-06-blim-gallery-cute-to-kill-ii-special-halloween-edition-oct-2">06. Blim Gallery | Cute to Kill II | Special Halloween Edition | OCT 28</a>
 ------------------------------------------------------------------------
 Blim, Asa Mori, and Powell Street Festival Society present:
-Cute to Kill II Ã¢â‚¬â€  Special Halloween Edition
+Cute to Kill II ââ‚¬”  Special Halloween Edition
 Friday October 28 | 8 - 11 PM | $12/10 | @ VIVO (Main St. Ã— 4th Ave.)
 
 Cute to Kill 2 is an expose of recent video works from local, national, and
-international animators and video artists. Each short film explores the artistsâ€™
-morbid fascination with dark subject matter through the guise of â€œcuteâ€ (a
+international animators and video artists. Each short film explores the artists’
+morbid fascination with dark subject matter through the guise of “cute” (a
 prevalent juxtaposition in contemporary Asian pop culture). In their first co-
 production, Yuriko Iga (of Blim) and Asa Mori bring together a wide range of
 adorably despondent short films to be viewed as a collection for this one night
@@ -356,7 +356,7 @@ October 29, 2011 to January 14, 2012
 
 Satellite Gallery presents Nature, Knowledge and the Knower, an exhibition that
 features digital enlargements of panoramic photographs as well as an online
-display of a selection of artist and explorer James L. (Lippit) Clarkâ€™s archives
+display of a selection of artist and explorer James L. (Lippit) Clark’s archives
 from the American Museum of Natural History in New York.
 
 This exhibition presents three dramatic panoramas taken with Kodak Cirkut
@@ -368,7 +368,7 @@ representation at the Museum.
 An online archive is the second element of the exhibition, providing
 unprecedented access to a selection of visual materials originally collected and
 organized by Clark. These resources were gathered to facilitate the making of
-the habitat dioramas and to provide the museumâ€™s exhibition department 
+the habitat dioramas and to provide the museum’s exhibition department 
 with an
 in-house picture collection. The website launches on October 28, 2011 at
 <www.natureknowledgeknower.com>. The photographs and the visual material
@@ -401,7 +401,7 @@ Gallery will be open by appointment after the opening until Nov 4.
 Please contact the gallery for private view schedule.
 
 In his book White Love, vicente l. rafael considers the tagalog
-word â€œmahalâ€ as a translation for the word â€œloveâ€ . It refers to
+word “mahal” as a translation for the word “love” . It refers to
 that which is dear, but also means valuable and expensive.
 Rafael writes that such ambiguities express love as a promise
 of fulfilment -- and a costly one.
@@ -475,13 +475,13 @@ essence. Interested in the gaps and gasps in sounds conducive to the
 transmission of tales he sometimes hears in the ether, Routhier finds inspiration
 in everyday situations. His work has been presented internationally and nationally
 at the Vancouver Vibrates, the Silence and Signal & Noise Festivals
-(Vancouver), ISEA 2006 (San JosÃ©, CA), Open Air-Ars Electronica 2002 (Linz,
+(Vancouver), ISEA 2006 (San José, CA), Open Air-Ars Electronica 2002 (Linz,
 Austria), Overgarden Festival (Copenhagen, Danemark), DLux Media Arts
 Festival (Melbourne, Australia), Global Mix Festival (Cracow, Poland), ICMC '94
 (International Computer Music Conference, Florida, USA), La Panderia (Mexico
 City), Ã‰cole des Beaux-Arts (Aix-en-Provence, France), Studio Cormier
-(MontrÃ©al), Artspace Gallery (Peterborough, ON), Surrey Art Gallery(Surrey),
-Helen Pitt Gallery (Vancouver), Articule (MontrÃ©al). His audio works have been
+(Montréal), Artspace Gallery (Peterborough, ON), Surrey Art Gallery(Surrey),
+Helen Pitt Gallery (Vancouver), Articule (Montréal). His audio works have been
 featured on Kunstradio (Vienna, Austria), CBC and Radio-Canada. Jean curated
 for the Surrey Art Gallery a series of audio artists as part of its ongoing Open
 Sound exhibit, as well as helped organize its audio art symposium in 2008 and
@@ -495,13 +495,13 @@ Art. He creates site-based systems that explore the aesthetics of engagement
 using a variety of designed forms and tools that address our many publics.
 These spatial and pedagogical projects, expand the social agency of art making,
 rethinking notions of space and place, authorship and audience. Working
-collaboratively and primarily within the public sphere, Levinâ€™s work ranges 
+collaboratively and primarily within the public sphere, Levin’s work ranges 
 from
 billboard projects, alternative tours of cities, land care centres and alternative
 mapping and telecommunication systems. Recently commissioned projects
-include a user-generated â€˜sousveillanceâ€™ system and a global contributive 
+include a user-generated ‘sousveillance’ system and a global contributive 
 new
-media platform, both showcased for Vancouverâ€™s 2010 Cultural Olympiad. 
+media platform, both showcased for Vancouver’s 2010 Cultural Olympiad. 
 He
 has been artist in residence for the Vancouver Parks Board, the TechLab at the
 Surrey Art Gallery, Emily Carr University and at the International Art Space,
@@ -520,14 +520,14 @@ journal West Coast Line. Pacific Avenue (LINEbooks, 2009) is his first poetry
 collection. Lowry is the Assistant Dean of Critical Studies and Community
 Engagements at Emily Carr University of Art + Design.
 
-Henry Tsangâ€™s projects have been exhibited internationally, incorporating 
+Henry Tsang’s projects have been exhibited internationally, incorporating 
 digital
 media, video, photography, language and sculptural elements in the exploration
 of the relationship between the public, community and identity in the new global
 order. Projects in the public sphere range from community-based curatorial and
 engagement practices to permanent commissioned artworks. Welcome to the
 Land of Light is a 100 metre-long installation located on the seawall handrail
-along Vancouver's False Creek. He has also worked with artistsâ€™ collectives
+along Vancouver's False Creek. He has also worked with artists’ collectives
 which produce temporary public art installations on shared political concerns,
 including The Association for Noncommercial Culture and Collective Echoes
 Youth Public Artists Collective, and has mentored many young artists through
@@ -535,7 +535,7 @@ various programs. Video installations such as Orange County, 2004, and
 Olympus, 2006, shot in California, Beijing, Torino and Vancouver, examine
 overlapping urban and socio-political spaces; and Napa North, 2008, looks at the
 relationship between wine, real estate and cultural translation in British
-Columbiaâ€™s Okanagan Valley. His curatorial projects (Self Not Whole: 
+Columbia’s Okanagan Valley. His curatorial projects (Self Not Whole: 
 Cultural
 Identity & Chinese-Canadian Artists in Vancouver, 1991; Racy Sexy: Race,
 Culture and Sexuality, 1993; and City at the End of Time: Hong Kong 1997,
@@ -968,7 +968,7 @@ exchange. These spots glow and flicker suggesting the simultaneous coming
 together of people, places and points of public-ness. Maraya invites multiple 
 publics into the many visual and textual discourses that shapes our sense of 
 here in all its uncanny similarities and its disarmingly blatant differences to a 
-there.â€  â€“ Maraya
+there.”  – Maraya
 For the first time, Centre A, with the support of the Canada Interactive Fund, was 
 able to commission the artists to develop an experimental internet platform. It 
 invites publics to engage with the large scope of Maraya artworks, research 
@@ -1084,10 +1084,10 @@ Josephine Pryde is an artist who lives in London, and in Berlin where she has
 been Professor for Contemporary Photography at the University of the Arts. She 
 has had recent solo exhibitions at Chisenhale Gallery, London; MD72, Berlin; 
 Reena Spaulings Fine Art, New York and Richard Telles Fine Art, Los Angeles. 
-Group shows include â€œFilms & Filmingâ€ , organised by David Lieske at Bischoff 
-Projects, Frankfurt, â€œMadame Realismâ€ , Marres Centre for Contemporary Art, 
+Group shows include “Films & Filming” , organised by David Lieske at Bischoff 
+Projects, Frankfurt, “Madame Realism” , Marres Centre for Contemporary Art, 
 Maastricht, and “The J.G. Ballard Centre for Psychopathological Research 
-presents: â€˜Zodiac 3000â€™ â€  at the International Project Space, Birmingham.
+presents: ‘Zodiac 3000’ ”  at the International Project Space, Birmingham.
 Her practice employs a continuous shuttling between the generic technical 
 conditions of culture and the image, and the irreducibly singular - that for which 
 no prior decision (or strategy) can be applied. As part of the Distinguished 
@@ -1097,7 +1097,7 @@ open to the public.
 
 SB: In your exhibition Brains & Chains, you refer to Eva Hesse, amongst other 
 things. If I have understood you correctly, what you’re concerned with here is 
-the â€œmodel swotâ€ , above all the one embodied by women artists who could be, or 
+the “model swot” , above all the one embodied by women artists who could be, or 
 who are, established in the art business.
 
 JP: Yes. I got interested in working with my own embarrassment.
@@ -1161,7 +1161,7 @@ representation and, accordingly, in cultural production.
 The premise of Intangible Economies is the assumption that personal 
 relationships are produced by economic activity, and that conversely, affect, and 
 in particular desire, generates economic transactions. In the wake of recent 
-global financial crises, it seems critical to interrogate the notion of â€œvalueâ€  in a 
+global financial crises, it seems critical to interrogate the notion of “value”  in a 
 broader sense. Intangible Economies seeks to tackle the difficult task of tracing 
 the role of affect in economic exchanges relative to artistic production, while also 
 enacting the unruly force of such transactions.
@@ -1230,12 +1230,12 @@ March 8 – 9 , 2012
 
 Paper Proposal & Artwork Submission Deadline: December 2, 2011
 
-The term â€œstruggleâ€  contains both liberating and oppressive connotations. The 
+The term “struggle”  contains both liberating and oppressive connotations. The 
 resulting tension
 has long been considered an inherent aspect of art production. Struggle 
 manifests in various
 forms, whether political, cultural, economic, or personal. While the “struggling 
-artistâ€  has been
+artist”  has been
 a problematic art historical trope, this symposium seeks to revisit the issue of 
 struggle in an
 unromanticized, contemporary vein. We invite participants to submit proposals 

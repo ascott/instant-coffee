@@ -122,7 +122,7 @@ time.
 
 Hosting workshops
 
-Renowned emcee (recently described as â€œillustriousâ€  by the Fringe 
+Renowned emcee (recently described as “illustrious”  by the Fringe 
 Festival!) David C. Jones will be presenting his popular hosting 
 workshop on Sunday August 28th.
 

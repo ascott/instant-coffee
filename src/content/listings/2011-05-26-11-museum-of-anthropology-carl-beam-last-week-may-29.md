@@ -18,7 +18,7 @@ instrumental in the development of the art of Canada’s First Nations. He is
 renowned for his powerful combinations of highly charged images from his
 personal Anishinaabe aesthetic, which is more akin to the expressive
 layering of Rauschenberg than the traditional forms of Anishinabek
-â€œWoodland Schoolâ€  painters.
+“Woodland School”  painters.
 
 Admission $15.68 Adults; $13.44 Students & Seniors 65+ / 6393 N.W. Marine
 Drive, Vancouver BC V6T 1Z2

@@ -17,7 +17,7 @@ November 15, 2013 – January 25, 2014
 Gallery Hours: Tuesday – Saturdays, 11am-6pm
 Opening Reception: Friday, November 15, 2013, 7pm
 
-â€œA Chorus of Lungsâ€  is a 3D interactive sound and video installation that 
+“A Chorus of Lungs”  is a 3D interactive sound and video installation that 
 explores the idea of the social body, its voice and breath. The installation 
 appears as a constellation of animated lungs floating in space to the cadence 
 of breathing. The viewer is invited to animate the Chorus of Lungs by pushing 
@@ -27,13 +27,13 @@ The intention is that this installation produces a space of agency for the
 viewer, re-considering the relationship between art object and viewer, but also 
 exploring tensions and possibilities inherent to the notion of community. The 
 artists state, “We are exploring the tensions between community, chorus, and 
-individual voicing with an attentiveness to our singular and collective being.â€  
+individual voicing with an attentiveness to our singular and collective being.”  
 The work addresses ideas of the individual and society, and within the 
 consideration of Asian identities, reflects on approaches to individual 
 difference and diversity, social engagement, interaction, shared space and 
 ideas of collectivity.
 
-â€œA Chorus of Lungsâ€  represents an important work in the development of 
+“A Chorus of Lungs”  represents an important work in the development of 
 media technologies, drawing on artistic innovation and institutional and artistic 
 collaboration. At Centre A, the presentation of this work will be accompanied 
 by public programs, including artist talks, and 3D drawing workshops 

@@ -31,7 +31,7 @@ This is a free performance and space is will be extremely limited.
 Record Release
 
 Thursday’s performance coincides with the release of SLEEP 
-(Fragment), a new 12â€  record by Grouper, published by Fillip in an 
+(Fragment), a new 12”  record by Grouper, published by Fillip in an 
 edition of 800 on 180 gsm white vinyl. A limited number of advanced 
 copies of the record will be available for purchase at the performance.
 

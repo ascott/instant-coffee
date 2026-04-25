@@ -147,7 +147,7 @@ conceptualism while celebrating the focus and skill demanded by this
 technical medium.
 
 At this time The Apartment will also present a small grouping of works by 
-New York artist B Wurtz. This is Bâ€™s third exhibition with the gallery.  
+New York artist B Wurtz. This is B’s third exhibition with the gallery.  
 Using a constrained palette of materials re-purposed from everyday life 
 Wurtz’s art takes up the most American of modes, POP, to realize a critical 
 perspective that is aesthetically rarified while materially familiar. 
@@ -158,7 +158,7 @@ inherently vulnerable.
 get them where I want, but sometimes it’s just a matter of a minor tweak that 
 clinches it all. I don’t want to obscure what the objects are. I like that there is 
 inherent meaning attached to them in terms of their use-value, but ultimately I 
-want the work to be formal, nearly classical.â€ [1]   B Wurtz has exhibited 
+want the work to be formal, nearly classical.” [1]   B Wurtz has exhibited 
 extensively since graduating with a MFA from Cal Arts in 1980. He was 
 recently included in the 2013 Prague Biennial and has presented solo 
 exhibitions at Richard Telles Fine Art, LA (2014), Galerija Gregor Podnar, 
@@ -372,12 +372,12 @@ Date: February 26, 2014
 Time: 5:30 PM
 Location: Lasserre Building, Room 104, 6333 Memorial Road, Vancouver
 
-â€œI seek to maintain and simultaneously disrupt paintingâ€™s absolute presence.â€ 
+“I seek to maintain and simultaneously disrupt painting’s absolute presence.” 
 
 R.H. Quaytman is an internationally exhibited artist based in New York. 
 Recent exhibitions of her work include; Passing Through the Opposite of 
 What It Approaches, Chapter 25, at The Renaissance Society in Chicago; 
-â€œDalet, Chapter 24,â€  Museum Abteiberg, MÃ¶nchengladbach, Germany; Spine, 
+“Dalet, Chapter 24,”  Museum Abteiberg, Mönchengladbach, Germany; Spine, 
 Chapter 20, at the Kunsthalle Basel, Switzerland; and participation in the 
 Venice Bienniale in 2011 and the Whitney Biennial in 2010. Quaytman is a 
 member of the painting faculty at the Milton Avery Graduate School of the 
@@ -403,7 +403,7 @@ point of projection for painting, so much as the structures of the book serve
 to bring painting into a formal rather than a signifying relationship to language, 
 to works of history and poetry. According to David Joselit, Quaytman, along 
 with a number of other contemporary artists, is engaged in what he has 
-named â€œtransitive paintingâ€  - a practice in which qualities and attributes pass 
+named “transitive painting”  - a practice in which qualities and attributes pass 
 from one activity or object into another. Thus the effort in Quaytman's work, 
 is oriented to a reconsideration of the nature of relation itself (not just that 
 which is related) between artistic mediums, histories and milieus. 
@@ -476,9 +476,9 @@ co-author of 100-Mile Diet and author of the recently released The Once and
 Future World, which served as inspiration for the exhibition.
 
 “Almost everyone has experienced the loss of some treasured natural space 
-â€” whether an entire forest or a simple vacant lot,â€  says MacKinnon. â€œThis 
+— whether an entire forest or a simple vacant lot,”  says MacKinnon. “This 
 exhibition is a way to connect with that feeling, and also explore the unlimited 
-possibilities of melding the urban and wild.â€ 
+possibilities of melding the urban and wild.” 
 
 In 2010, Vancouverites were mesmerized when a grey whale came for a 
 swim in False Creek, and in 2013 we were equally awe-struck by a beaver 
@@ -487,9 +487,9 @@ Vancouver seeks to encourage people to discover what nature was like in
 Vancouver’s past, reconnect with nature as meaningful to their lives, and 
 engage with efforts to make the city a wilder place.
 
-â€œRewilding Vancouver is an exhibition of remembering,â€  explains J.B. 
+“Rewilding Vancouver is an exhibition of remembering,”  explains J.B. 
 MacKinnon. “It allows the public to reconnect with a forgotten history in order 
-to look at the present and the possible future with new eyes.â€ 
+to look at the present and the possible future with new eyes.” 
 
 Location: Museum of Vancouver: 1100 Chestnut Street, Vancouver, BC
 
@@ -549,7 +549,7 @@ the artist and made into miniature form. The resulting work depicts scenes
 that may or may not still exist, standing as a record of the continuously 
 changing cityscape. As Susan Stewart claims in her book On Longing, “We 
 ﬁnd the miniature at the origin of private, individual history, but we ﬁnd the 
-gigantic at the origin of public and natural history.â€  The works in the exhibition 
+gigantic at the origin of public and natural history.”  The works in the exhibition 
 oscillate between allusion and deﬁnition, souvenir and model, and the 
 experience of the public and the private. 
 
@@ -611,7 +611,7 @@ Vancouver, Crawling, Weeping, Betting
 
 continuing until March 1, 2014
 Battery Opera PerformanceWalking Projects : “Vancouver, crawling, 
-weeping, bettingâ€  is a co-presentation by UNIT/PITT and battery opera 
+weeping, betting”  is a co-presentation by UNIT/PITT and battery opera 
 performance, comprising six weeks of public actions, clandestine 
 screenings, chance meetings, and intoxicated psychogeographies.
 
@@ -908,7 +908,7 @@ Andy Yan is a Vancouver-raised, UCLA-trained urban planner who works
 as a researcher for Bing Thom Architects and teaches at UBC. He will talk 
 about his research in real estate speculation and non-resident real estate 
 ownership and its effect on community, contributing to what he terms an 
-â€œinsecurity of belongingâ€ .
+“insecurity of belonging” .
 
 The evening’s program will also include a talk on taste and cultural space by 
 Gerry Shikatani, whose poetry, fiction, text-sound performance, and 
@@ -1020,7 +1020,7 @@ Dossiers received after this date will not be accepted.
 Entries must be submitted in PDF format to the following three email 
 addresses: 
 info@marcovigo.com, coordination@fraclorraine.org and curator@misf.no 
-with the subject: â€œAward for Young Curators.â€ 
+with the subject: “Award for Young Curators.” 
 
 Projects must be preferably written in English, although French, Galician, 
 Norwegian, and Spanish languages are admitted. In any case, an abstract (2 
@@ -1213,7 +1213,7 @@ engaged performance, monuments and memorials, community-based
 projects, land art, and street furniture, have all been classified as Public Art. 
 Despite the fact that the history of public art largely coincides with the history 
 of art (here we might think of Paleolithic cave paintings or Medieval frescoes) 
-the designation â€œPublic Artâ€  was coined in the late 1960s. Art historian 
+the designation “Public Art”  was coined in the late 1960s. Art historian 
 Rosalind Krauss recognized the need for a new terminology for sculpture 
 that had moved off the pedestal, into the gallery and out into the environment. 
 This relaxing of art’s limits has generated new categories of art that operate 

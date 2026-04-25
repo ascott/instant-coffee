@@ -79,7 +79,7 @@ on the persistent desire to bridge the gap between self and other,
 which can only ever fall short. A second video, The Quiet Room, runs 
 on a continuous loop, without beginning or end. Located in an 
 undefined institutional space, the viewer is positioned in the room 
-across the hall from â€œThe Quiet Room,â€  which might be a place where 
+across the hall from “The Quiet Room,”  which might be a place where 
 terminal patients go to live their final days, a space for tranquil 
 reflection, or where unacceptable behaviors are tamed.
 

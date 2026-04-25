@@ -27,10 +27,10 @@ emitting lamps performed live by Adam Basanta, Julian Stein, Max Stein. The
 lamps are arranged to both surround and permeate audience members, creating
 a multi channel light and sound performance. The work investigates the
 potential of domestic objects, both to recall their quotidian functions and
-â�� through aesthetic transformation â�� transcend them.
+’ through aesthetic transformation ’ transcend them.
 www.musicforlamps.com
 
-JOSH HITEâ��s work is primarily concerned with human movement through local
+JOSH HITE’s work is primarily concerned with human movement through local
 spaces. He is inspired by the potential for the creation of subjective
 pathways and the myriad results that occur when movers decidedly confront
 obstacles. Recent work focuses on the technological alteration of action

@@ -163,7 +163,7 @@ original interactive function.
 
 James Yan – One Percent (Loading Vancouver) graphically parodies the font 
 used in Windows 95, with its blue background mimicking the official color in the 
-City of Vancouver emblem â€” â€œfor the sea and sky that surround our cityâ€ . One 
+City of Vancouver emblem — “for the sea and sky that surround our city” . One 
 Percent shows the downloading buffer from 0 to 86%. Viewers wait to see what 
 is never revealed — lost histories, unrecorded moments, or things yet to come. 
 This is a media artwork that toys with viewer anticipation and expectation. Yan 
@@ -259,7 +259,7 @@ Whitechapel Gallery, and the Tate Modern.
 
 Yota Kobayashi (b. 1980 Nagoya, Japan) is a Vancouver-based composer 
 pursuing his doctoral study in composition at UBC and has been conducting a 
-research project on â€œmusical affordance in humanâ€“computer interactionsâ€ . His 
+research project on “musical affordance in human–computer interactions” . His 
 works have been presented at numerous festivals and conferences in 
 North/South America and Europe. His accolades include Musica Nova (1st 
 prizes in 2008 and 2009, Czech Republic), Concorso Internazionale Luigi 
@@ -367,7 +367,7 @@ a horse ride a cowgirl. The rocks shifted
 
 beneath his feet as he slowly made his way
 
-down Knox Mountain. â€œYee haw, is all!â€ 
+down Knox Mountain. “Yee haw, is all!” 
 
 Debra Jiggleigh Bitz rode her stallion off
 
@@ -375,7 +375,7 @@ into the sunset. We loves our oil bohy.
 
 “Welcome to Death Valley, no fucker gets
 
-in, no fucker gets out.â€  ...and the carcus
+in, no fucker gets out.”  ...and the carcus
 
 baked in the midday sun... She nervously
 
@@ -385,7 +385,7 @@ squealing finally subsided. “I met my
 
 husband here 46 years ago in the sheep
 
-barn.â€  Apple struddle. Horse with three
+barn.”  Apple struddle. Horse with three
 
 legs. She walked on the beach around the
 
@@ -828,7 +828,7 @@ It’s a really great thing!
 
 {Get this…}
 Yactac will reimburse up to half of your residency fee, which you can use 
-towards funding project(s) for your â€œFinal Exhibitionâ€ .
+towards funding project(s) for your “Final Exhibition” .
 *Cost breakdowns and receipts used will be required for all purchases affiliated 
 to project funding
 

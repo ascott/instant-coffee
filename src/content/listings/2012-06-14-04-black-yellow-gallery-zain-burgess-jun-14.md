@@ -17,7 +17,7 @@ Room 106, The Waldorf Hotel
 
 Artist Statement
 
-For Zain Burgess' upcoming solo show â€œDead Calm Centre,â€  Zain 
+For Zain Burgess' upcoming solo show “Dead Calm Centre,”  Zain 
 shows us new painting, sculpture, and video to hypothesize a material 
 and ideological collapse in a vast landscape of meaninglessness and 
 waste. He shows us a video of a decade of action films edited into a 

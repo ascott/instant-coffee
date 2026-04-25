@@ -31,11 +31,11 @@ explore history and time and our place within them.
 Fiona was the Dutch representative at the 53rd Venice Biennale (2009)
 presenting her project Disorient. Previous presentations include solo and
 group exhibitions at the MCA Chicago, the New Museum in New York, Modern
-Art Oxford, Academie der KÃ�Â¼nste Berlin, the Tate Modern, Centre Pompidou,
+Art Oxford, Academie der KÂ¼nste Berlin, the Tate Modern, Centre Pompidou,
 the Istanbul Biennial, Yokohama Triennale, Documenta 11, the 49th Venice
 Biennale, the Shanghai Biennale and the Berlin Biennale. Fiona Tan won the
 Infinity Award for Art in 2004 and was short listed for the first Artes
-Mundi Prize in 2003 and the Deutsche BÃ�Â¶rse Photography Prize in 2007.
+Mundi Prize in 2003 and the Deutsche BÂ¶rse Photography Prize in 2007.
 
 Vanessa Kwan
 

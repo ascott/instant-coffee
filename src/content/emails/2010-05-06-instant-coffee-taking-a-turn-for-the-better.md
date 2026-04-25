@@ -43,7 +43,7 @@ May 5 - May 30, 2010
 2130 Yew Street, Vancouver
 All work viewable from the street
 
-On exhibit in the Vivarium Gallery window from May 4 â�� May 30, are three
+On exhibit in the Vivarium Gallery window from May 4 ’ May 30, are three
 paintings by Christopher Rodrigues. These pieces are part of an
 autobiographical series of paintings, drawings & digital images, produced
 in New York from 2001- 2007. The series examines the affect of immigration
@@ -286,7 +286,7 @@ inserted, genetic material, begins to manufacture a viable, benign
 protein a protein that, according to the original, chemical alphabet, is
 itself another text. He is, in effect, striving to engineer a life-form so
 that it becomes not only a durable archive for storing a poem, but also a
-useable machine for writing a poem a poem that can literally survive foreverÃ�Â¦.
+useable machine for writing a poem a poem that can literally survive foreverÂ¦.
 
 +*+*+
 
@@ -469,7 +469,7 @@ Pact Purposes
 
 1. Provide non-juried exhibition opportunity
 2. Participation and celebration- community/volunteer/member
-3. Building industry â�� networking/knowledge/resources
+3. Building industry ’ networking/knowledge/resources
 
 Rules of the Potluck
 1. Food - Bring food and eat food!
@@ -480,7 +480,7 @@ Rules of the Potluck
 
 Gallery Hours:
 
-¨Thursday & Friday 4:00pm -8:00pmâ�¨
+¨Thursday & Friday 4:00pm -8:00pm’¨
 
 Saturday 12:00pm -5:00pm
 
@@ -494,7 +494,7 @@ Or by appointment
 
 221 E. GEORGIA ST.
 
-UNIT #100 (AT MAIN)â�¨
+UNIT #100 (AT MAIN)’¨
 
 VANCOUVER, BC.
 
@@ -585,8 +585,8 @@ Western Front Lux
 
 Access Gallery presents an artist talk by Sobey award nominated artist
 Diane Borasto at the Western Front Lux, Sunday May 9th. In Vancouver
-to complete a new project for Access Galleryâ��s summer exhibition,
-Field Work (June 25 â�� July 24), Diane Borsato will discuss her recent
+to complete a new project for Access Gallery’s summer exhibition,
+Field Work (June 25 ’ July 24), Diane Borsato will discuss her recent
 relational and interventionist projects. In works such as The
 Chinatown Foray (2009-10) and Terrestrial/Celestial, the artist
 collaborated on events with groups of amateur mycologists (mushroom
@@ -780,17 +780,17 @@ grunt gallery | 350 E. 2nd Unit 116 | ph. 604.251.0784 | grunt.ca
 Sky Dome (props, patches, rips, and tears)
 
 Merritt Johnson
-Fri, May 14 â�� Sat, June 26
+Fri, May 14 ’ Sat, June 26
 Mid-exhibition Reception Fri. May 28, 8-11pm
 Curated by Tania Willard
 
-â��Land is home, it is evidence of not only itself, but of force- retaining
+’Land is home, it is evidence of not only itself, but of force- retaining
 and dissolving marks of everything it has housed and supported. It is also
-the dividing line of space- it is the plane where earth meets the sky.â��
+the dividing line of space- it is the plane where earth meets the sky.’
 Merritt Johnson
 
-Merritt Johnsonâ��s new work at grunt gallery investigates perceptions of
-division and confluence where land and sky meet. Johnsonâ��s work both
+Merritt Johnson’s new work at grunt gallery investigates perceptions of
+division and confluence where land and sky meet. Johnson’s work both
 constructs and dissolves the landscape, concrete and imagined, measuring
 the absurdity of boundries, borders and territories. Referencing mapping,
 her work also surveys sky by layering, revealing and inverting ideas of
@@ -801,7 +801,7 @@ of wind and water Johnson purposes new meridians and imaginary cartography
 into her drawings and paintings that suggest natural systems and rhythms.
 Symbolic animals depicted in the exhibition become protector, and witness
 to the impacts of land and resource exploitation. Revealing the broken sky
-Johnsonâ��s multi-disciplinary work seeks to repair it, following
+Johnson’s multi-disciplinary work seeks to repair it, following
 instructions found in the land itself as told by the sky.
 
 Merritt Johnson is an artist working in two and three dimensional media,
@@ -885,7 +885,7 @@ pot-luck meal and open space discussion at the closing reception.
 
 During these events the SLOW working group invites participants to
 investigate questions about the present conditions of artistic practice:
-How do you locate â��the studio' in time and space? Where does it begin and
+How do you locate ’the studio' in time and space? Where does it begin and
 end? How does it relate to others? Is it necessary to become unavailable to
 others in order to have a practice?
 
@@ -1074,7 +1074,7 @@ Six residence scholarships will be awarded to international visual artists.
 
 Each scholarship lasts 6 months. All of them begin in April 2011 and are
 endowed with 1,200 euros per month and include free accommodation at the
-KÃ¼nstlerhaus SchloÃ� Balmoral.
+Künstlerhaus Schlo Balmoral.
 
 Eligible to apply for the international residence scholarships at the
 Kunstlerhaus Schloss Balmoral are international artists of any age from the

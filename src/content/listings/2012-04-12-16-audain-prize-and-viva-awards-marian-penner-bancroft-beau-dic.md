@@ -40,10 +40,10 @@ Vietnam, Vancouver-based artist Ron Tran’s work explores the ways that
 chance and coincidence influence daily life. Tran has exhibited in both group 
 and solo exhibitions in Canada, Europe and Asia. He was selected for the 2007 
 East International Biennial in Norwich, England and the Berlin Biennale 6.
-â€œWe are honoured to celebrate these important artists,â€  said Gallery director 
+“We are honoured to celebrate these important artists,”  said Gallery director 
 Kathleen Bartels, “These annual awards are a highlight of Canada’s visual arts 
 calendar. We congratulate Marian Penner Bancroft, Beau Dick and Ron Tran on 
-these prestigious awards.â€ 
+these prestigious awards.” 
 The Audain Prize for Lifetime Achievement in the Visual Arts and the VIVA 
 Awards will be presented at the Great Hall of the B.C. Law Courts at 800 Hornby 
 Street on May 9 at 7pm, with a reception following. For event information and 

@@ -64,7 +64,7 @@ Instead she intervenes by adding her own animal images to found
 drawings dating anywhere from the mid nineteenth century to the 
 present that she buys in thrift stores or on-line. These unwitting 
 collaborations are surprising and provocative, and as the artist says, 
-like â€œstories half told.â€ 
+like “stories half told.” 
 
 Seymour Art Gallery
 4360 Gallant Ave North Vancouver BC V7G 1L2

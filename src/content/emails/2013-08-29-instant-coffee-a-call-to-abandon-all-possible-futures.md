@@ -238,7 +238,7 @@ candidness of the photos taken? Is it the immediate physical fulfillment of
 Polaroids that satisfy both our desire for instant gratification and the tangible 
 qualities of film? Taking Polaroid pictures engages all of these aspects. They 
 straddle both worlds of contemporary photo-taking, the immediacy of digital 
-and the â€œrealâ€  of film. Shooting Polaroids also is a unique act, that engages 
+and the “real”  of film. Shooting Polaroids also is a unique act, that engages 
 both the subject as well as the photographer, which creates a 
 social/performance.
 In this show we are celebrating not only Polaroid instant-film, but all types of 
@@ -280,7 +280,7 @@ The projections exceed the stage.
 The stage is a model that cannot be interacted with by the performers.
 There is no resolution or composure.
 
-The performance is like the hypercomplexity of todayâ€™s â€œfoamâ€ : the 
+The performance is like the hypercomplexity of today’s “foam” : the 
 uncontrolled discourse of external references, a production of chaotic 
 signifiers, a chronic vertigo, and an ideology of the surfer. This artwork has 
 been inspired by the belief in that which is ‘out of joint’; ‘The part of no part’ is 
@@ -322,7 +322,7 @@ mediated image; and a direct experience that manifests in us as an
 immediate encounter with the art object. For Dan Siney, the photographs that 
 resonate are those in which he feels the presence of qualities, powers or 
 intensities that change his relationship to both these experiences. These 
-might be grouped together under the label â€œthe affective dimension of imagesâ€ .
+might be grouped together under the label “the affective dimension of images” .
 
 Affects– qualities, powers, intensities– are not generally found in any single 
 part of an image, in the frame, composition, subject, form, thematic, or colour, 
@@ -336,12 +336,12 @@ express, differently every time, affective experiences in the social world.
 Dan Siney is an ECUAD undergraduate (2003), who was recently selected for 
 the AIMA AGO Photography Prize long list. His photographs were also 
 recently published by Inventory Magazine, in a group artist book entitled 
-â€œQueen of Tsawwassenâ€ , with photographers Ali Bosworth, Seth Fluker, 
+“Queen of Tsawwassen” , with photographers Ali Bosworth, Seth Fluker, 
 Jennilee Marigomen and Chris Taylor. Siney’s work has been exhibited in 
 group shows throughout North America, Europe and Japan, with solo and two-
 person exhibitions in Canada. Most recently his work was exhibited in 
-â€œPhantasmagoriaâ€  at the Presentation House Gallery, and in a collaborative 
-exhibition with Andrea Pinheiro, â€œStrange Weather,â€  at The University of 
+“Phantasmagoria”  at the Presentation House Gallery, and in a collaborative 
+exhibition with Andrea Pinheiro, “Strange Weather,”  at The University of 
 Algoma.
 
 ------------------------------------------------------------------------
@@ -372,13 +372,13 @@ and processing of cultural nutrition… It is through the use of image, colour,
 and technique that I express my sadness, frustration and hope in respect to 
 the threat to our health. The content of the jars symbolize the entrapment and 
 dependence that the corporations and government are trying to enforce on the 
-people, by making deals where the land is poisoned.â€ 
+people, by making deals where the land is poisoned.” 
 
 Bracken Hanuse Corlett further relates his definition of hunger; “I have been 
 hungry to learn the old ways in a new day. I am hungry for many things that 
 used to be our birth rite: language, songs, forms, ceremony, hunting, fishing, 
 gathering… Through use of new media and old my work is an attempt to calm 
-the hunger pains and bring attention to our story.â€ 
+the hunger pains and bring attention to our story.” 
 
 The artists acknowledge an active and ongoing mentorship with artist, 
 Lawrence Paul Yuxweluptun, throughout the creation of this exhibition. 
@@ -388,7 +388,7 @@ and we have had good talks about concept, form, Indian politics and life, art
 world dealings, and the history of Indigenous art on the coast and in the 
 Interior [of British Columbia]. Yuxweluptun is in many ways a trickster, 
 comedian, historian and just a fun dude to sit and talk with. He has a very big 
-presence and yet is still a very humble man.â€  Yuxweluptun is curating the 
+presence and yet is still a very humble man.”  Yuxweluptun is curating the 
 work featured in the exhibition.
 
 Join grunt gallery for the opening reception on Thursday September 5th from 
@@ -530,7 +530,7 @@ experimentation with photoassemblage. As its title implies, Out of Fiction
 borrows from both fantasy – as expressed in raw creativity responding to the 
 banal templates often offered in children’s colouring books – and reality: how 
 these processes of imagination manifest themselves “in ways both 
-foreseeable and unforeseeableâ€ . The act of bringing these elements together 
+foreseeable and unforeseeable” . The act of bringing these elements together 
 in finished photographic works illuminates the proximity of their origins in a 
 historical, cultural imaginary, as well as the tenuousness of the divisions 
 between them.
@@ -541,7 +541,7 @@ founded the Fine Art Photography program in 1967 at the Vancouver School of
 Art, now the Emily Carr University of Art + Design. He was an instructor and 
 administrator at the school for over thirty years, during which time he played a 
 significant role in the development of the photographic arts in the city. Jim is 
-best-known for his â€œenvironmental portraitsâ€  which mark various idiosyncracies 
+best-known for his “environmental portraits”  which mark various idiosyncracies 
 of contemporary human life, such as his series Mesocosm, Paintball: Urban 
 War Game Landscapes, and Hot Properties, works from which were featured 
 in the 2012 Canadian Biennial at the National Gallery in Ottawa. Earlier in 
@@ -664,10 +664,10 @@ twenty contemporary and traditional First Nations artists, among them are
 Indian Residential School survivors and their descendants whose work is a 
 powerful testimony to their personal healing process. 
 
-NET-ETH is a hən̓q̓əmin̓əm̓ (Musqueam dialect) metaphor for â€œthe first light 
+NET-ETH is a hən̓q̓əmin̓əm̓ (Musqueam dialect) metaphor for “the first light 
 after the darkness, a time when you pray and cleanse your tools to make 
-them strongâ€ . Here, the artwork reflects the process of â€œopening up to the 
-light, so that we can all heal togetherâ€  from the intergenerational trauma that 
+them strong” . Here, the artwork reflects the process of “opening up to the 
+light, so that we can all heal together”  from the intergenerational trauma that 
 is the sad legacy of Canada's Indian Residential School system. 
 
 Organized by Malaspina Printmakers Society, the exhibition spans three 
@@ -996,7 +996,7 @@ Submissions can be sent on DVD (NTSC) enclosed with the following:
 
 Send all materials to 
 
-SAVAC â€“ MONITOR 10 
+SAVAC – MONITOR 10 
 
 401 Richmond Street West, Suite 450 
 
@@ -1155,8 +1155,8 @@ accepted you will be contacted. No phone calls please.
 Submissions deadline: October 21, 2013
 
 Please send submissions via email to submissions@nanaimogallery.ca with 
-subject line â€œThe December Showâ€  or via post to: Nanaimo Art Gallery, Attn.: 
-â€œThe December Showâ€ , 150 Commercial St., Nanaimo, BC, V9R 5G6. 
+subject line “The December Show”  or via post to: Nanaimo Art Gallery, Attn.: 
+“The December Show” , 150 Commercial St., Nanaimo, BC, V9R 5G6. 
 
 http://www.nanaimoartgallery.com/index.php/exhibitions/call-to-artists
 
@@ -1224,9 +1224,9 @@ CALL FOR ARTISTS
 The Anonymous Art Show
 
 The North Vancouver Community Arts Council & CityScape Community Art 
-Space are very excited to announce the 9th Annual â€œAnonymous Art Showâ€ . 
+Space are very excited to announce the 9th Annual “Anonymous Art Show” . 
 This group exhibition and fundraising event will include emerging and 
-established two-dimensional artists working strictly on unframed 8â€  x 8â€  x 1Â½â€  
+established two-dimensional artists working strictly on unframed 8”  x 8”  x 1Â½”  
 back stapled canvas or wood cradle panel.
 
 Artists are encouraged to participate in this worthwhile event as it is a 
@@ -1256,7 +1256,7 @@ who have sold works throughout the show twitter.com/NVArtsCouncil Hash
 Tag #AAS13
 
 All Artwork MUST meet the following requirements:
-Â· We only accept unframed, 8â€  x 8â€  x 1 Â½â€ , back stapled canvas or wood 
+Â· We only accept unframed, 8”  x 8”  x 1 Â½” , back stapled canvas or wood 
 cradle panel
 · A limit of 3 submissions per artist
 · Two dimensional works only - No relief work - No three dimensional 
@@ -1265,9 +1265,9 @@ work
 accepted
 · Full name, signature, title and website (if available) must be written on 
 the back of the canvas (Canvases signed on the front will not be accepted.)
-Â· All works must have a title and may not be called â€œUntitledâ€ .
+Â· All works must have a title and may not be called “Untitled” .
 · Paintings must be submitted completely dry and unwired.
-Â· Mark an â€œupâ€  arrow on the back of canvas to indicate top
+Â· Mark an “up”  arrow on the back of canvas to indicate top
 Diptychs and triptychs are acceptable but will not be shown together
 
 Please obtain the Artist Information Sheet and the Artist Contract to hand in 

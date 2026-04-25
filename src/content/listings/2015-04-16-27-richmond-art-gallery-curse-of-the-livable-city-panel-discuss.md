@@ -27,7 +27,7 @@ the world?
 
 Panelists:
 Glenn Deer, Assistant Professor of English & Associate Editor of “Canadian
-Literatureâ€ , Dept. of English, UBC
+Literature” , Dept. of English, UBC
 Greg Girard, Photographer
 Bing Thom, Principal, Bing Thom Architects
 Rufina Wu, Architect AIBC

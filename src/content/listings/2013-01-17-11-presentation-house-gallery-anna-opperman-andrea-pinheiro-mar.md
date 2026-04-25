@@ -29,7 +29,7 @@ first exhibitions in Canada of German artists Anna Oppermann and Marianne
 Wex, respectively.
 
 Anna Oppermann (1940-1993) was active during the 1970s and ‘80s. She is 
-best known for her â€œensemblesâ€ , fragmented assemblages of photographs, 
+best known for her “ensembles” , fragmented assemblages of photographs, 
 paper scraps, notes, drawings, photographic canvases and objects, often 
 displayed on and around low, altar-like podiums.
 

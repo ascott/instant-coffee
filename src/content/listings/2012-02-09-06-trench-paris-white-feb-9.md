@@ -21,7 +21,7 @@ In his essay "Don't Explain" Christopher Brayshaw writes of Enn:
 Erisalu worked hard to defamiliarize his audiences. His notebooks bear 
 witness to how he came time and again came to the act of painting 
 without the benefit of conventional beliefs, without religious or political 
-certainties, without, in his words, â€œTOXIC IDEAS.â€  To me, his paintingsâ€™ 
+certainties, without, in his words, “TOXIC IDEAS.”  To me, his paintings’ 
 complex formal games – their mirrorings, their repetitions, tautologies 
 and repeat attempts to trompe l’oeil are attempts to induce a 
 precarious uncertainty in viewers, to make us question our most 
@@ -29,7 +29,7 @@ cherished assumptions about painting’s relationship to language, and
 to make us think dialectically, seeing words as images, and images as 
 words. This purpose was not cheerful and by all accounts never easy, 
 but it is one I respect and admire, and one I therefore can’t, and won’t, 
-â€œexplain.â€ 
+“explain.” 
 
 Opening Reception Thursday February 9th, 6-9 pm in the Trench @ 
 148 Alexander Street.

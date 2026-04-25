@@ -26,7 +26,7 @@ between artist/audience, voyeur/exhibitionist, spectator/spectacle, and
 consumer/consumed.
 
 Camera/whore’s name is appropriated from net culture. Popularized by 
-the home webcam, â€œCamera whoreâ€  or â€œcam whoreâ€ , is an internet 
+the home webcam, “Camera whore”  or “cam whore” , is an internet 
 slang developed by the rapid trend of digital representations. The slash 
 (/) is inserted to draw attention to the separation of both the camera 
 and the participant while simultaneously causing internet search 

@@ -15,7 +15,7 @@ Reception: Sunday, February 15, 2-4 p.m.
 Curator Talk: Saturday, March 7, 2 p.m.
 Free Bookbinding Workshops: Sunday, March 8, Kids 11 a.m. and Adults 2 p.m.
 
-â€œMAKE RE|MAKE UN|MAKEâ€  highlights the work of six artists, each working
+“MAKE RE|MAKE UN|MAKE”  highlights the work of six artists, each working
 in different media, whose work utilizes repetition as a device to
 investigate diverse ideas and themes. Repetition is intrinsic to each of
 these artists’ creative processes, and is used both formally and
@@ -36,7 +36,7 @@ difference through the archetypal figure of Frankenstein’s monster. Tamara
 Skubovius employs repetition to tell stories about the land and those who
 inhabit it, and through the process of porcelain casting, creates serial
 objects that hold cultural symbolism and contemporary significance for the
-Tāltān First Nation. Janice Wuâ€™s realistic gouache paintings
+Tāltān First Nation. Janice Wu’s realistic gouache paintings
 illustrate her
 habit of collecting mundane objects, and present the symbolic and
 sentimental qualities these objects possess that extend further than their

@@ -30,9 +30,9 @@ Centre A presents CO-LAB, a cross-disciplinary project that marks
 the first collaboration between Centre A and Vancouver New Music. 
 CO-LAB brings together a group of artists from diverse backgrounds 
 to produce four exciting workshops and an exhibition. These four 
-workshops are â€œNoise/De-noiseâ€  with Giorgio Magnanensi, â€œSound 
-Experimentâ€  with Giorgio Magnanensi & Daniel Tones, â€œMap Senseâ€  
-with Germaine Koh & Gilliam Jerome, and â€œVertical Cityâ€  with 
+workshops are “Noise/De-noise”  with Giorgio Magnanensi, “Sound 
+Experiment”  with Giorgio Magnanensi & Daniel Tones, “Map Sense”  
+with Germaine Koh & Gilliam Jerome, and “Vertical City”  with 
 Andrew Lee & Jennifer Schine. Through facilitating a portal of 
 exchange between visual art and new music, CO-LAB is designed 
 to develop experimental models of cross-disciplinary collaboration 
@@ -44,7 +44,7 @@ perceiving the world; a tool of understanding… [it is] thus necessary
 to imagine radically new theoretical forms, in order to speak to new 
 realities. Sound, the organization of noise, is one such form. It 
 reflects the manufacture of society; it constitutes the audible 
-waveband of the vibrations and signs that make up society.â€  - 
+waveband of the vibrations and signs that make up society.”  - 
 Jacques Attali from Noise: The Political Economy of Music
 
 NOISE/DE-NOISE with Giorgio Magnanensi

@@ -30,9 +30,9 @@ Darboven’s musical work.
 Ultimately I was designing a collection of four artistic worlds that spanned the 
 relation between sensation and intellection. A generic tension, but generic in 
 the sense that it could encourage us to say something like “art and human 
-experienceâ€ . Existential! I like being alive; experience is what we are made for. 
+experience” . Existential! I like being alive; experience is what we are made for. 
 How do we think about our sensations? How do we sense ourselves 
-thinking?...â€ 
+thinking?...” 
 
 You are subscribed to the Or Gallery e-mail event list as 
 vancouver@instantcoffee.org

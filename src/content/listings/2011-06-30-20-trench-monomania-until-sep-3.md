@@ -41,7 +41,7 @@ Opening/Closing Summer Celebration
 
 Thursday August 25th, 6:30pm till late.
 
-monÂ·oÂ·maÂ·niÂ·a  â€“noun
+monÂ·oÂ·maÂ·niÂ·a  –noun
 
 1. An inordinate or obsessive zeal for or interest in a single 
 thing, idea, subject, or the like.

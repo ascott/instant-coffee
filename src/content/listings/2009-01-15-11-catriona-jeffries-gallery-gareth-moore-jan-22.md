@@ -17,7 +17,7 @@ Through the Regions of;
 Albi, Amarillo, Firenze, London, Celebration,
 N______, The Atlantic Ocean, Trento, Marfa, Cornwall,
 The Mississippi River, New Westminster, Spaceport, Barmouth,
-Old Schoolhouse Road, Milton Keynes, KÃ¶ln, ________,
+Old Schoolhouse Road, Milton Keynes, Köln, ________,
 South Holland Polders, Lascaux II, &,
 
 Comprising Incidents Inhabited by the Author

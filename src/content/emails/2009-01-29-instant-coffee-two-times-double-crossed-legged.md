@@ -90,7 +90,7 @@ grateful for the support of Vancouver Foundation and our members, donors
 and volunteers.
 
 Contemporary Art Gallery, 555 Nelson Street, Vancouver, BC, V6B 6R5, Canada
-www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 â�� 6 pm.
+www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 ’ 6 pm.
 
 Admission is free by donation.
 
@@ -131,7 +131,7 @@ their projects, click here to view a .pdf (1.78MB).
 
 Download the Assume Nothing Map & Event Guide.pdf or pick up a printed copy
 after January 29, 2009 at the following locations: Art Gallery of Greater
-Victoria, 1040 Moss St Ã&#65533;Â¢Ã¯Â¿Â½Ã&#65533;Â¢ Market Square, Unit 162A 560 Johnson St.
+Victoria, 1040 Moss St Ã&#65533;Â¢ïÂ¿Â½Ã&#65533;Â¢ Market Square, Unit 162A 560 Johnson St.
 
 In conjunction with the exhibition Assume Nothing: New Social Practice, the
 University of Victoria Faculty of Fine Arts and the Art Gallery of Greater
@@ -169,8 +169,8 @@ DR. WILLIAM K. CARROLL (Sociology)
 Keynote Address: FRIDAY, JANUARY 30, 7:30 pm
 
 Art Gallery of Greater Victoria, 1040 Moss Street
-Artist Talks: SATURDAY & SUNDAY, JANUARY 31 Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½ FEBRUARY 1, 9:30 am
-Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½ 5:00 pm
+Artist Talks: SATURDAY & SUNDAY, JANUARY 31 Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½ FEBRUARY 1, 9:30 am
+Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½ 5:00 pm
 University of Victoria, Harry Hickman Building, Room, 105
 
 
@@ -303,7 +303,7 @@ artists working in the emerging forms of multimedia and performed cinema.
 ANTHONY ROBERTS is a writer/director, composer and teacher. He has worked
 on a number of groundbreaking film and multimedia projects whose concerns
 range from interactivity to improvisation to surrealist collage. In 1990 he
-formed The Truth Channel with filmmaker Bill Mullanâ��an experimental
+formed The Truth Channel with filmmaker Bill Mullan’an experimental
 multimedia group that has co-produced over two-dozen
 installations/performances.
 

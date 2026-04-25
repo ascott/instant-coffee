@@ -52,7 +52,7 @@ Saturday April 7th, 2-5pm
 
 This Saturday at STORE FRONT Instant Coffee will publish and 
 launch
-the next in their series of â€œone questionâ€  handmade journals, GOOD
+the next in their series of “one question”  handmade journals, GOOD
 NEWS Issue 04.
 
 For this issue the artist collective has asked all those who have
@@ -76,7 +76,7 @@ journal on Saturday. Issues are free
 
 Good News: Issue 04: Success and Failure
 
-â€œIf you want to succeed, double your failure rate.â€  This quote from
+“If you want to succeed, double your failure rate.”  This quote from
 the American Industrialist responsible for building the IBM
 corporation, Thomas J. Watson, places the supposedly opposing
 conditions of success and failure together, not linking them as

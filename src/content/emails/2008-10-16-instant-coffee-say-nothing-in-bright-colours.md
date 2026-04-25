@@ -491,8 +491,8 @@ silent two-way dialogue. The dots possess a synasthaesic quality; they make
 their presence felt both through their colour and texture, as well as
 through how they collide against each other, how they float, thump and hum
 against the background and get us thinking. These spheres may have come from
-a recognizable set of traditions butâ�¹to refer to the well-worn Pythagorean
-phraseâ�¹they are not without their own special music.
+a recognizable set of traditions but’¹to refer to the well-worn Pythagorean
+phrase’¹they are not without their own special music.
 
 Blanket
 Contemporary Art Inc.
@@ -1157,14 +1157,14 @@ As an artist producing works for gallery installations and public spaces,
 Antonia Hirsch will address issues and concerns faced by artists as they
 develop projects for temporary and permanent contexts. Her recently
 commissioned permanent public artwork Double Blind will is a key feature of
-the Vancouver Community CollegeÃ&#65533;Â¢Ã¯Â¿â&#65533;&#65533;Ã¯Â¿â&#65533;&#65533;s (VCC) Broadway Campus Expansion
+the Vancouver Community CollegeÃ&#65533;Â¢ïÂ¿â&#65533;&#65533;ïÂ¿â&#65533;&#65533;s (VCC) Broadway Campus Expansion
 Project.
 Using convex security mirrors that are common to urban public spaces,
 Double Blind extends across three floors within the soaring atrium of
-VCCÃ&#65533;Â¢Ã¯Â¿â&#65533;&#65533;Ã¯Â¿â&#65533;&#65533;s
+VCCÃ&#65533;Â¢ïÂ¿â&#65533;&#65533;ïÂ¿â&#65533;&#65533;s
 new building. In winter 2006/07 and as part of Group Search: Art in the
 Library, Antonia Hirsch presented Anthropometrics, a largescale poster
-series that appeared Ã&#65533;Â¢Ã¯Â¿â&#65533;&#65533;Ã¯Â¿â&#65533;&#65533;informallyÃ&#65533;Â¢Ã¯Â¿â&#65533;&#65533;Ã¯Â¿â&#65533;&#65533; on hoardings across the City of
+series that appeared Ã&#65533;Â¢ïÂ¿â&#65533;&#65533;ïÂ¿â&#65533;&#65533;informallyÃ&#65533;Â¢ïÂ¿â&#65533;&#65533;ïÂ¿â&#65533;&#65533; on hoardings across the City of
 Vancouver, and at the Vancouver Public Library. Referencing these examples,
 Hirsch will explore the issues of production and the concerns of audience
 reception that are specific to art in public spaces.
@@ -1191,7 +1191,7 @@ Project for the Main Street Transit
 Corridor
 +
 Marko Simcic
-Ã&#65533;Â¢Ã¯Â¿â&#65533;&#65533;Ã¯Â¿â&#65533;&#65533;ParkÃ&#65533;Â¢Ã¯Â¿â&#65533;&#65533;Ã¯Â¿â&#65533;&#65533;, a project for the Ontario
+Ã&#65533;Â¢ïÂ¿â&#65533;&#65533;ïÂ¿â&#65533;&#65533;ParkÃ&#65533;Â¢ïÂ¿â&#65533;&#65533;ïÂ¿â&#65533;&#65533;, a project for the Ontario
 Street Greenway
 Spring 2009
 

@@ -36,7 +36,7 @@ life on the periphery of society, travelling across Canada while living in
 various cities before settling in Vancouver. He is a self-taught artist 
 known for his woodcarvings and paintings as well as his poetry. Melvin 
 is listed in Kobayashi and Bird’s “A Compendium of Canadian Folk 
-Artistsâ€  and in on display in the Canadian Museum of Civilization. 
+Artists”  and in on display in the Canadian Museum of Civilization. 
 
 Accompanying some of Melvin’s carvings is work by emerging artists 
 Joey Haley, Jonathan Petersen and Barry Doupe.

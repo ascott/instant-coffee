@@ -93,43 +93,43 @@ visit www.gachet.org for complete festival line-up and details! Or grab a
 festival guide at the gallery.
 
 OBJECTIVES:
-Ã�Â¢Ã¯Â¿Â½Ã�Â¢ Highlighting the global movement advocating for mental health and human
+Â¢ïÂ¿Â½Â¢ Highlighting the global movement advocating for mental health and human
 rights through sharing and showcasing artistic expression on these themes.
-Ã�Â¢Ã¯Â¿Â½Ã�Â¢ Connecting artistsÃ�Â¢Ã¯Â¿Â½Ã¯Â¿Â½ work that addresses the social
+Â¢ïÂ¿Â½Â¢ Connecting artistsÂ¢ïÂ¿Â½ïÂ¿Â½ work that addresses the social
 determinants of mental
 health.
-Ã�Â¢Ã¯Â¿Â½Ã�Â¢ Challenge stigmas of people living with mental health and trauma
+Â¢ïÂ¿Â½Â¢ Challenge stigmas of people living with mental health and trauma
 issues.
-Ã�Â¢Ã¯Â¿Â½Ã�Â¢ Providing a forum for discussion and education on these and related
+Â¢ïÂ¿Â½Â¢ Providing a forum for discussion and education on these and related
 (contextual) issues.
-Ã�Â¢Ã¯Â¿Â½Ã�Â¢ Creating links to the rights of individuals for holistic health and
+Â¢ïÂ¿Â½Â¢ Creating links to the rights of individuals for holistic health and
 security worldwide.
 
 For more information, please contact:
 Cherise Clarke, World Mad Pride Coordinator/Curator
 e: madpride@gachet.org | t: 604.687.2468 begin_of_the_skype_highlighting	      604.687.2468	end_of_the_skype_highlighting
 begin_of_the_skype_highlightingÂ Â Â Â Â Â Â Â Â Â Â Â Â Â 604.687.2468 begin_of_the_skype_highlighting		   604.687.2468      end_of_the_skype_highlightingÂ Â Â Â Â Â end_of_the_skype_highlighting
-begin_of_the_skype_highlightingÃ�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â 604.687.2468 begin_of_the_skype_highlighting		 604.687.2468	   end_of_the_skype_highlightingÃ�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â end_of_the_skype_highlighting
+begin_of_the_skype_highlightingÂ Â Â Â Â Â Â Â Â Â Â Â Â Â 604.687.2468 begin_of_the_skype_highlighting		 604.687.2468	   end_of_the_skype_highlightingÂ Â Â Â Â Â end_of_the_skype_highlighting
 
-Ã�Â¢Ã¯Â¿Â½Ã�Â¢ What can one say of the future of a world where increasing injury to
+Â¢ïÂ¿Â½Â¢ What can one say of the future of a world where increasing injury to
 the planet is a symptom of human psychopathology?" -Paul Shepard, "Nature
 and Madness
-Ã�Â¢Ã¯Â¿Â½Ã�Â¢ The (natural) world is sick; it needs healing; it is speaking
+Â¢ïÂ¿Â½Â¢ The (natural) world is sick; it needs healing; it is speaking
 through
 us, and it speaks the loudest through the most sensitive of us. -Sarah
 Conn, Centre for Psychology and Social Change, Cambridge MA
-Ã�Â¢Ã¯Â¿Â½Ã�Â¢ In (the dominant) culture, listening to the voices of the earth
+Â¢ïÂ¿Â½Â¢ In (the dominant) culture, listening to the voices of the earth
 as if
 the nonhuman world felt, heard, spoke would seem the essence of madness to
 most people...
 "The context for defining sanity in our time has reached planetary
 magnitude."-Theodore Roszak, Where Psyche Meets Gaia
-Ã�Â¢Ã¯Â¿Â½Ã�Â¢ Perhaps working on my feelings is not more subjective than
+Â¢ïÂ¿Â½Â¢ Perhaps working on my feelings is not more subjective than
 working on
 neighbourhood air quality. Perhaps killing weeds on my lawn with
 herbicides may be as repressive as what I am doing with my childhood
 memories. -James Hillman, A Psyche the Size of the Earth
-Ã�Â¢Ã¯Â¿Â½Ã�Â¢ My grandmother said (translated from Okanagan), The people down
+Â¢ïÂ¿Â½Â¢ My grandmother said (translated from Okanagan), The people down
 there
 are dangerous. They are all insane. -Jeanette Armstrong, Keepers of the Earth
 

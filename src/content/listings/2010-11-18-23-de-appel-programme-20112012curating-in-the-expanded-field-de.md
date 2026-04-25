@@ -49,8 +49,8 @@ researcher/curator, NL), and Jan Verwoert (art critic, DE).
 artists, curators, critics and other international professionals through
 thematic seminars and informal encounters. Guest teachers over the past
 years have been e.g. Hans Ulrich Obrist, Gerardo Mosquera, Ann Goldstein,
-Paul O'Neill, Paulo Herkenhoff, Jacques RanciÃ�Â¨re, Simon Sheikh, Pier Luigi
-Tazzi, Jan Hoet, Teresa Gleadowe, Tirdad Zolghadr, Ulay and Nina MÃ�Â¶ntmann.
+Paul O'Neill, Paulo Herkenhoff, Jacques RanciÂ¨re, Simon Sheikh, Pier Luigi
+Tazzi, Jan Hoet, Teresa Gleadowe, Tirdad Zolghadr, Ulay and Nina MÂ¶ntmann.
 
 - The opportunity to get acquainted with de Appel arts centre from 'the
 inside', and get a better insight into the mechanisms and governing

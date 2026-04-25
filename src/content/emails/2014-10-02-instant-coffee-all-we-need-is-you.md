@@ -60,7 +60,7 @@ Liverpool, a once vital seaport which, like Vancouver, is being
 dramatically redefined by social and global economic change. Buckingham
 writes that without “using words the pictures and sounds juxtapose
 different archetypal sites from Liverpool’s city-scape, allowing places and
-their respective â€˜pastsâ€™ to resonate with and contradict each other.â€  The
+their respective ‘pasts’ to resonate with and contradict each other.”  The
 wave of change that impacts inhabitants of most port cities is akin to the
 drastic change that befalls Daniel Orme as he transitions from sea to land.
 This wave of change is physically manifested by Buckingham as the platform
@@ -311,7 +311,7 @@ information is neither constant nor absolute but requires constant negotiation.
 A second body of work, An Eye for An Eye, produced this year with
 Vancouver’s Malaspina Printmakers continues the colours used in Kennedy’s
 Ethics 101 series which are based around idioms of exchange and power
-dynamics. Kennedy terms this colour scheme â€œthe Maher Arar coloursâ€ 
+dynamics. Kennedy terms this colour scheme “the Maher Arar colours” 
 referring to the torture and detainment of this eponymous Canadian citizen
 beginning with his interception at New York’s Kennedy Airport in September
 2002 and his subsequent deportation to Syria under the program of
@@ -369,7 +369,7 @@ Free and open to the public, the Vancouver Art/Book Fair is the only
 international art book fair in Canada and one of only two on the West
 Coast. In 2014 the event is anticipated to attract over 1,500 visitors from
 across the Greater Vancouver Area and beyond.
-Presented by Project Space, VA/BF is a two-day festival of artistsâ€™
+Presented by Project Space, VA/BF is a two-day festival of artists’
 publishing featuring nearly one hundred local, national and international
 publishers, as well as a diverse line-up of programs, performances and
 artist projects. Featured artists travel to Vancouver from across Canada
@@ -389,7 +389,7 @@ FRIDAY, OCTOBER 3
 Members Only Preview
 Open to Members of Project Space and the Vancouver Art Gallery
 Vancouver Art Gallery, Lobby & Annex, 750 Hornby St.
-Friday, October 3, 6â€“8pm
+Friday, October 3, 6–8pm
 Memberships available at the door or http://www.projectspace.ca/memberships
 
 VA/BF Reception
@@ -564,13 +564,13 @@ that musicians and non-musicians might produce new versions of his operas,
 by way of typographical scores. The bulk of this book is a result of that
 proposal: scores for Dust (1998) and Celestial Excursions (2003). These
 operas’ characters have, until now, been solely produced by and are the
-stories exchanged between Ashley and his â€œbandâ€  (singers Sam Ashley, Joan
+stories exchanged between Ashley and his “band”  (singers Sam Ashley, Joan
 La Barbara, Thomas Buckner, and Jacqueline Humbert); in landscapes
 (technological, imaginary, acoustic, organisational, sonic, ocular)
-produced by â€œBlueâ€  Gene Tyranny, Tom Hamilton, David Moodey, Cas Boumans,
+produced by “Blue”  Gene Tyranny, Tom Hamilton, David Moodey, Cas Boumans,
 and Mimi Johnson—the result of a thirty-year relationship. As such, any
-â€œscoresâ€  were written for this intimate readership. It hadnâ€™t been
-considered that any one outside this â€œbandâ€  might produce this work.
+“scores”  were written for this intimate readership. It hadn’t been
+considered that any one outside this “band”  might produce this work.
 
 The scores for Dust and Celestial Excursions are preceded by a selection of
 Ashley’s work, from 1963 to 2008, drawing attention to the varying
@@ -647,7 +647,7 @@ Victoria.
 the material conditions of the pictorial--a path that has led him from
 paintings with cut-out apertures through stretched lines of colour made of
 strands of latex and velvet cushions bound with ropes through to his recent
-constructions incorporating fluorescent, neon and LED lightsâ€  - Barry Schwabsky
+constructions incorporating fluorescent, neon and LED lights”  - Barry Schwabsky
 
 He is in Vancouver to install For Everyone A Sunset, at the Vancouver Art
 Gallery's Offsite, which opens Monday, October 20th at 6pm and will be up
@@ -768,7 +768,7 @@ Joan Carlisle Irving Lecture Series
 Department of Art History, Visual Art & Theory, University of British Columbia
 
 Kaja Silverman
-â€œUnstoppable Developmentâ€
+“Unstoppable Development”
 
 Wednesday, October 8, 2014
 5:30 pm Room 102 Frederic Lasserre Building
@@ -789,7 +789,7 @@ This event is free and open to the public.
 For further information please visit: www.ahva.ubc.ca
 Faculty of Arts | Department of Art History, Visual Art & Theory
 The University of British Columbia | Vancouver
-400 â€“ 6333 Memorial Road | Vancouver, BC Canada V6T 1Z2
+400 – 6333 Memorial Road | Vancouver, BC Canada V6T 1Z2
 Phone 604 822 5650
 ahva.head@ubc.ca
 www.ahva.ubc.ca | www.facebook.com/ahva.ubc.ca
@@ -872,7 +872,7 @@ seductiveness or power of rhetorical persuasion. Thus Klingberg’s work
 moves further than a mere critique of brand fetishism, the lure of
 contemporary global labels, beyond just pointing things out and rejecting
 them. It poses the awkward question of whether being alternative to a
-mainstream or on the â€œoutsideâ€  is any longer possible. Might a more
+mainstream or on the “outside”  is any longer possible. Might a more
 critical and appropriate assessment lie in revealing and acknowledging the
 subtle and insidious way in which we are all drawn into a sense of
 fascination with the things that surround us. Through her work we find
@@ -918,7 +918,7 @@ Janet Rogers, Victoria's Poet Laureate, presents a new collection of poetry
 entitled, Peace in Duress.
 
 "Poems drawing on the language of the earth and inflected with the
-outspoken vocality of activism address the crises of modern â€œland warsâ€  â€“
+outspoken vocality of activism address the crises of modern “land wars”  –
 environmental destruction, territorial disputes, and resource depletion.
 This collection is confessional love, learned survival, ardent resistance,
 and unique poetry that wants to be spoken (aloud). If poetry is medicine,
@@ -961,7 +961,7 @@ curatorial project, while being fully supported by the fantastic team
 members behind Gallery 295. There are not many opportunities like this open
 to young curators working in Vancouver, and since 'Locate' the support for
 the Gallery 295 community and beyond has been unwavering. I would encourage
-all curators working in Vancouver with ambition to apply.â€  - Avalon Mott
+all curators working in Vancouver with ambition to apply.”  - Avalon Mott
 
 Our Call for Proposals has been extended to October 10th, 2014.
 
@@ -1018,7 +1018,7 @@ was born in Vancouver, British Columbia and has resided in Victoria since
 genres of poetry, short fiction, spoken word performance poetry, video
 poetry and recorded poems with music and scriptwriting. You can hear Janet
 on the radio as she hosts Native Waves Radio on CFUV fm and Tribal Clefs on
-CBC radio one fm in Victoria BC. Her radio documentaries â€œBring Your Drumâ€ 
+CBC radio one fm in Victoria BC. Her radio documentaries “Bring Your Drum” 
 (50 years of indigenous protest music) and Resonating Reconciliation won
 Best Radio at the imagaineNATIVE Film and Media festival 2011 and 2013.
 

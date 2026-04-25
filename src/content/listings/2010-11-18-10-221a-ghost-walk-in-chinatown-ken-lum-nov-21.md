@@ -24,18 +24,18 @@ From 2000 to 2006 Ken Lum was head of the graduate program in studio
 art at the University of British Columbia, Vancouver, where he taught
 from 1990 until 2006. Lum joined the faculty of Bard College,
 Annandale-on-Hudson, in 2005 and worked there until 2007. He has been
-an invited professor at the Ã�cole Nationale SupÃ©rieure des Beaux-Arts,
+an invited professor at the cole Nationale Supérieure des Beaux-Arts,
 Paris, the Akademie der Bildenden Kunst, Munich, California College of
 the Arts, San Francisco, and the China Art Academy, Hangzhou. Lum is
 co-founder and founding editor of Yishu Journal of Contemporary
-Chinese Art. He has published extensively, and a book of Lumâ��s
+Chinese Art. He has published extensively, and a book of Lum’s
 writings, edited by Hans Ulrich Obrist, is forthcoming from Walter
-Koenig Books. In addition he recently completed an artistsâ�� book
+Koenig Books. In addition he recently completed an artists’ book
 project with philosopher Hubert Damisch that was launched with Three
-Star Press, Paris. Lum was Project Manager for Okwui Enwezorâ��s The
-Short Century: Independence and Liberation Movements in Africa 1945 â��
+Star Press, Paris. Lum was Project Manager for Okwui Enwezor’s The
+Short Century: Independence and Liberation Movements in Africa 1945 ’
 1994 (2001). He was also co-curator of the 7th Sharjah Biennial
-(2005), and Shanghai Modern: 1919 â�� 1945 (2005). Lum has exhibited
+(2005), and Shanghai Modern: 1919 ’ 1945 (2005). Lum has exhibited
 widely, including São Paulo Biennial (1998), Shanghai Biennale (2000),
 Documenta 11 (2002), the Istanbul Biennial (2007), and the Gwangju
 Biennale (2008). He is currently working on two public art
@@ -46,8 +46,8 @@ Ghost Walk in Chinatown is a pilot program for Artists Walking Home, a
 yearlong series of 32 walks guided by artists, designers, and
 architects presented by Walking Home Projects in conjunction with 221A
 Artist Run Centre. The program invites participants to experience a
-direct connection to the cityâ��s immediate environment â�� both natural
-and constructed â�� and to gain an understanding of how ideas and
+direct connection to the city’s immediate environment ’ both natural
+and constructed ’ and to gain an understanding of how ideas and
 intention become policy, resulting in action and infrastructure which
 shape our social and lived experiences in public spaces. Participants
 will explore sudden change of ambiance in a street within the space of

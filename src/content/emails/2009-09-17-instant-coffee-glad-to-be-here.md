@@ -183,7 +183,7 @@ software and technologies, and delivers educational programming free of charge. 
 talks will highlight the work of local Vancouver artists that use a variety of technologies within their 
 artistic practice. See www.hubcentre.org.
 Jen Weih’s practice a dialogue between construction and collapse, elegance and horror, sense 
-and non-sense. Her projects include a range of aesthetics from â€œbadâ€  fonts to geometric balance 
+and non-sense. Her projects include a range of aesthetics from “bad”  fonts to geometric balance 
 and uses materials that are found, manufactured, and crafted. Work for this show will include a 
 collection of 8 ½ x 11 inch, 20 lb. bond paper sculptures produced through a combination of 
 conscious decision making and chance-based processes.
@@ -272,7 +272,7 @@ Thursday September 17, SFU Vancouver campus (515 W. Hastings), 7PM in Room 7000.
 event is free and open to the public.
 
 This is the final event associated with the SFU Gallery’s recent exhibition “The Insurance Man: Kafka 
-in the Penal Colonyâ€ .
+in the Penal Colony” .
 The talk is co-sponsored by the SFU Gallery and the SFU Institute of the Humanities.
 
 Richard T. Gray is the Byron W. and Alice L. Lockwood Professor in the Humanities at the University 
@@ -641,7 +641,7 @@ For this year’s 20th anniversary of the show, CoCA is proud to have
 Jess Van Nostrand as juror. Jess Van Nostrand is Exhibitions Curator
 at Cornish College of the Arts and author of numerous essays and
 articles about the arts including the popular “Artists’ Guide to
-Seattleâ€  published by the Seattle Convention and Visitors Bureau. She
+Seattle”  published by the Seattle Convention and Visitors Bureau. She
 holds a BA in Art History from The George Washington University and an
 MA in Art History from Richmond University, London.
 

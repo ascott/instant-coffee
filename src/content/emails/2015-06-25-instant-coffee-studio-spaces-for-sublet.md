@@ -150,7 +150,7 @@ where he leads the School of Walls and Space.
 Scrivener’s Monthly is a series of public presentations that explore the
 space between material practices and spoken words: a periodical that talks.
 Set alongside the exhibitions program at Western Front, this experiment in
-â€œnot publishingâ€  involves readings, performances, and other articulations.
+“not publishing”  involves readings, performances, and other articulations.
 For more information about the series and other Western Front programs,
 please visit www.front.bc.ca
 221A
@@ -176,11 +176,11 @@ one of your favourite Canadian artists when the Art Gallery of Greater
 Victoria presents From the Collection: David Milne.
 
 “We are extremely fortunate to have seventeen of David Milne’s works in our
-collection,â€  says Michelle Jacques, chief curator at the Art Gallery of
+collection,”  says Michelle Jacques, chief curator at the Art Gallery of
 Greater Victoria. “To view them as an exhibition is quite moving,
 particularly to see Milne’s varied skill in oil, watercolour and drypoint.
 The works that will be on display are the result of fifty-four years of
-collecting Milne and demonstrate his artistic legacy.â€ 
+collecting Milne and demonstrate his artistic legacy.” 
 
 From the Collection: David Milne invites visitors to learn about how the
 AGGV came to have this wonderful collection of the artist’s work. The
@@ -234,8 +234,8 @@ STEVE HUBERT
 
 WAVES & FLICKERS is a one evening live event within the Planetarium
 presenting collaborations between local contemporary artists and musicians.
-The earth is fully tilted towards the sun, itâ€™s late June in Vancouver and
-there is a wild stirring beneath the Planetariumâ€™s dome. The projected sky
+The earth is fully tilted towards the sun, it’s late June in Vancouver and
+there is a wild stirring beneath the Planetarium’s dome. The projected sky
 is blushed with the ghosts of hazy teenage laser shows and childhood
 curiosity as collaborations between local musicians and artists respond to
 and re-activate this long established site of wonder. WAVES & FLICKERS
@@ -288,7 +288,7 @@ Over the past 15 years, Andrew Lee has toured extensively across North
 America and Europe with In Medias Res (File Under: Music) and Siskiyou
 (Constellation Records). He has shared the stage with Kurt Vile, Julianna
 Barwick, Damien Jurado, Frog Eyes, Porcelain Raft and many more and has
-performed at notable festivals such as All Tomorrowâ€™s Parties, Primavera
+performed at notable festivals such as All Tomorrow’s Parties, Primavera
 Sound, and Sled Island. He has also presented special artistic works at the
 Vancouver Art Gallery, The Centre for Performance Research in New York City
 and Kunstradio in Vienna. ​http://www.holyhum.com/
@@ -299,13 +299,13 @@ Institute of Art and Design. He works in performance, media, sculpture and
 drawing. His practice involves experimentation with form and process in
 order to express inherent relationships between material and immaterial
 content. He is a founding member of the Vancouver-based artist collective
-â€˜Intermissionâ€™ and is presently a member of â€˜Instant Coffeeâ€™ artist
+‘Intermission’ and is presently a member of ‘Instant Coffee’ artist
 collective. His work has been exhibited nationally, and internationally.
 Lee lives and works in Vancouver BC. http://khanlee.com/
 
 THE RED HOT ICICLES BURNING ON FIRE in collaboration with STEVE HUBERT
 
-THE RED HOT ICICLES BURNING ON FIRE is a rock nâ€™ roll circus from
+THE RED HOT ICICLES BURNING ON FIRE is a rock n’ roll circus from
 Vancouver, BC made up of local musicians Michael McDiarmid, Rick Clark &
 interdisciplinary artist, Elizabeth Milton. Fueled by a shared interest in
 melodrama, glam and disaster, The Icicles are a sonic carnival of complex
@@ -328,7 +328,7 @@ SFU and Emily Carr. http://stevehubert.com/
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-06-25-06-the-blank-tank-gallery-because-we-are-human-majid-sheikhakba">06. OPENING | The Blank Tank Gallery | BECAUSE WE ARE HUMAN - Majid Sheikhakbari | JUN 26</a>
 ------------------------------------------------------------------------
-"Let the beauty of what you love be what you do.â€  (Rumi)
+"Let the beauty of what you love be what you do.”  (Rumi)
 
 BECAUSE WE ARE HUMAN
 Majid Sheikhakbari
@@ -565,7 +565,7 @@ http://modercatalyst.ca/
 Ronan K. Nanning-Watson is a filmmaker, writer and artist from British
 Columbia. His work ranges in scope, medium, and aesthetic, but is
 consistently uncompromising. Recently he finished his first feature film
-â€œCrusadeâ€  about a group of young hipsters who start a holy war. The next
+“Crusade”  about a group of young hipsters who start a holy war. The next
 two parts in the trilogy are in preproduction.
 
 Ingrid Olauson is a writer and trawler of people’s lives. She recently
@@ -578,11 +578,11 @@ The Somewhat Urgent Series is a series of chapbooks which document select
 texts from previous LIT LIT LIT LIT readings.The following texts will be
 available for the official launch:
 
-â€œIâ€™D HURT A FLY, I DONâ€™T CARE IF I KILL A FLY, Iâ€™D KILL A FLYâ€  by Kara Hansen
+“I’D HURT A FLY, I DON’T CARE IF I KILL A FLY, I’D KILL A FLY”  by Kara Hansen
 
 &
 
-â€œClean Indoor Air Act 1, 2 of 3â€  by Steffanie Ling
+“Clean Indoor Air Act 1, 2 of 3”  by Steffanie Ling
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-06-25-13-deluge-contemporary-art-victoria-coupling-michael-doerksen-j">13. OPENING | Deluge Contemporary Art Victoria | Coupling - Michael Doerksen | JUL 3</a>
@@ -656,7 +656,7 @@ visual arts. There is no clear or one path in becoming an artist, but there
 are steps involved in maintaining an exciting and enriching career. As
 emerging artists you have to be creative, not just in your work, but in
 practical life. The workshop is designed to be both formal and informal.
-You will have a solid artist â€œpackageâ€  (statement, proposal, and portfolio)
+You will have a solid artist “package”  (statement, proposal, and portfolio)
 that you can modify for funding, exhibition submissions, residencies, and
 maybe even getting into other programs. And you will have an intimate
 conversation with a working artist in how to maintain a practice, be
@@ -776,10 +776,10 @@ Berlin’s film scene since the 1980s, Aurand records life’s small,
 ephemeral details on a handheld Bolex camera, later reworking them in a
 style that is at once energetic, rhythmic, playful and — unusually for
 experimental cinema — tender. She has described her approach as “a brief
-touchâ€  â€” â€œlike a swing, to go away and come back and go away and come back
-again.â€  Her films explore the lives of friends and strangers, the
+touch”  — “like a swing, to go away and come back and go away and come back
+again.”  Her films explore the lives of friends and strangers, the
 atmosphere of local and foreign places, and “the absolutely singular,
-exquisite textures of daily life around herâ€  (Michael Sicinski).
+exquisite textures of daily life around her”  (Michael Sicinski).
 
 PROGRAM
 

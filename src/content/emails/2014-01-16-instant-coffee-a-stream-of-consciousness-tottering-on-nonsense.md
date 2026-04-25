@@ -57,7 +57,7 @@ Gallery Hours: Tuesday-Saturday 12-5pm
 Western Front is pleased to present Escape Scenes, a solo exhibition
 by Vancouver based artist Julia Feyrer. In a new body of work
 including 16mm film and cyanotype photograms, the artist explores
-mediated perception as an imprecise form of measurement. Feyrerâ€™s
+mediated perception as an imprecise form of measurement. Feyrer’s
 works inhabit the space between static and moving images, where
 makeshift narratives reveal the fantasy logic of their own construction.
 The exhibition will also include a new artist book by Feyrer, published
@@ -66,7 +66,7 @@ by Perro Verlag.
 Biography
 
 Julia Feyrer (b. 1982 Victoria, BC) currently lives and works in VanÂ­couÂ­
-ver. She received her MeisÂ­terÂ­schÃ¼Â­lerin from the StÃ¤delschule in 
+ver. She received her MeisÂ­terÂ­schüÂ­lerin from the StÃ¤delschule in 
 FrankÂ­
 furt, GerÂ­many in 2010, and her Bachelor of Fine Arts from the Emily
 Carr InstiÂ­tute of Art and Design in VanÂ­couÂ­ver in 2004. Recent solo and
@@ -99,7 +99,7 @@ UNIT/PITT, 236 East Pender Street, Vancouver BC
 
 crawling, weeping - battery opera performance
 
-Walking Projects : â€œVancouver, crawling, weeping, bettingâ€  is a co-
+Walking Projects : “Vancouver, crawling, weeping, betting”  is a co-
 presentation with battery opera performance, comprising six weeks of public 
 actions, clandestine screenings, chance meetings, and intoxicated 
 psychogeographies.
@@ -455,8 +455,8 @@ the founder of theatre company Forced Entertainment, Etchells has a diverse
 practice encompassing performance, art and fiction. 
 Illuminating our building until June, Who Knows reveals a fascination with 
 rules and systems in language and culture. Presented in multi colour and 
-various combinations four phrases of â€œI Knowâ€ , â€œYou Knowâ€ , â€œWe Knowâ€ , 
-â€œThey Knowâ€ , evoke a playfully paranoid suggestion. The overall tone 
+various combinations four phrases of “I Know” , “You Know” , “We Know” , 
+“They Know” , evoke a playfully paranoid suggestion. The overall tone 
 however takes on something of the surveillance topic even more on our 
 minds since the information leaked by former intelligence contractor Edward 
 Snowden in May of last year.
@@ -790,17 +790,17 @@ dense and populated with tools, materials, artworks in process, and
 referents from Peter Paul Rubens, Auguste Rodin and Anthony Caro to Mike 
 Kelley and Luke Lindoe.
 
-For his exhibition â€œThe Bellsâ€  at SFU Gallery, Moppettâ€™s new video engages 
+For his exhibition “The Bells”  at SFU Gallery, Moppett’s new video engages 
 directly with photographs of his studio and its contents. These images are 
 presented to the video camera as stills and are accompanied by a soundtrack 
 of the artist responding to the images. The distance provided by the multiple 
 cameras provokes the consideration of a material practice over time. 
-Referencing Hollis Framptonâ€™s work, specifically the 1971 film â€œ(nostalgia)â€ , 
+Referencing Hollis Frampton’s work, specifically the 1971 film “(nostalgia)” , 
 which depicts the slow burning of photographs from Frampton’s early artistic 
 explorations with a soundtrack of comments, Moppett similarly asks viewers 
 to engage with past and present temporalities within the work.
 
-â€œThe Bellsâ€  announces a located moment in Moppettâ€™s practice, and in doing 
+“The Bells”  announces a located moment in Moppett’s practice, and in doing 
 so locates his practice within a broader historical context. Bells themselves 
 mark time, are a call to worship, signal alarm and mark the beginning and end 
 of work. They are a form of mass communication to call people together or to 
@@ -811,13 +811,13 @@ studies that relate to the process of the work.
 
 Connected to the permutations of the studio is the forthcoming permanent 
 outdoor installation of a sculptural work by Moppett, “Large Painting and 
-Caryatid Maquette in Studio at Night (Sculpture Version)â€ , 2012 on SFUâ€™s 
+Caryatid Maquette in Studio at Night (Sculpture Version)” , 2012 on SFU’s 
 Burnaby campus as part of the SFU Art Collection. The sculpture presents 
 the studio as a kind of stage set. The artist transformed a painting of the 
 studio into a three-dimensional space, taking abstracted shapes and 
 reproducing them as large-scale cutouts in painted aluminum.
 
-The exhibition â€œThe Bellsâ€  will be accompanied by a publication. The first in a 
+The exhibition “The Bells”  will be accompanied by a publication. The first in a 
 new SFU Galleries publication series, the publication includes a commissioned 
 parallel text by Lisa Robertson and as well as critical source materials related 
 to the artist’s layered practice.
@@ -847,16 +847,16 @@ odyssey, one that is tapped directly into the hyper-mediated world in which
 we all live.
 
 “Paul Wong’s newest body of work is proof of his ubiquity. Through his 
-mastery of exploiting social media he is everywhere all the time.â€  says gallery 
+mastery of exploiting social media he is everywhere all the time.”  says gallery 
 owner Jennifer Winsor. “His work highlights how integrated society has 
 become using these new tools and leads one to question, are we controlling 
-these applications or do they control us?â€ 
+these applications or do they control us?” 
 
 #paulwong2014 explores the artist’s incessant image making through a 
 monumental installation entitled Looking, Looping & Listening. With over 300 
 loops created from animated .gif's and short video clips, this piece spans the 
 length of the major wall in Winsor’s West Gallery. It is made up of forty 10 x 
-12â€  video screens, each one providing direct access to Wongâ€™s life. The artist 
+12”  video screens, each one providing direct access to Wong’s life. The artist 
 is no stranger to image making as he has been documenting all aspects of his 
 life in the name of art for over 30 years.
 
@@ -1036,7 +1036,7 @@ a 2012 fellow of the Pierre Elliott Trudeau Foundation.
 What is the function of public art today? If art is the highest expression of our 
 culture, might it play a role in bringing citizens together in new and 
 unforeseen ways to recognize shared problems and devise common 
-purposes? Might the â€œnew urbanismâ€  proposed by the great architect Rem 
+purposes? Might the “new urbanism”  proposed by the great architect Rem 
 Koolhaas be found in new forms of participatory public art that are 
 temporarily transforming urban spaces around the world?
 The most enlightened urban planners and designers have always been 
@@ -1405,7 +1405,7 @@ filled with unforgettable, outstanding and boundary-pushing performances
 with local favourites and international guests, including:
 
 UK-based PuSh visiting artists duo Forest Fringe collaborate with the gallery 
-to create an â€œIncidental Festivalâ€  of works in unexpected places
+to create an “Incidental Festival”  of works in unexpected places
 Vancouver’s favourite Dusty Flowerpot Cabaret hosts a lavish costume-
 themed party in the heritage courtrooms.
 British artist and writer Tim Etchells presents a unique poster project.
@@ -1485,7 +1485,7 @@ portraits of New York City subway riders, originally published in Harper’s
 Bazaar magazine in 1962. This series signaled his forward-looking idea about 
 the future of photography as an art form. The title, Dream Location, refers to 
 his description of the subway as a “dream ‘location’ for any portrait 
-photographer weary of the studio and the horrors of vanity.â€ 
+photographer weary of the studio and the horrors of vanity.” 
 
 Filmmaker Runa Islam also reflects on how the conditions of image production 
 determines their meaning. Over the duration of her film projection, Emergence 

@@ -28,8 +28,8 @@ life at the military base situated in the vast Middle Eastern landscape.
 installations that explore the ambiguities of war by linking personal history 
 with wider cultural and political issues. Although this work reflects on the 
 complex situation in Afghanistan, Stimson deflects the focus away from the 
-truncated newsreel moments to daily life affirming moments.â€  â€“ excerpt from, 
-â€œHolding Our Breath: The Work of Adrian Stimsonâ€  by Elizabeth Matheson. 
+truncated newsreel moments to daily life affirming moments.”  – excerpt from, 
+“Holding Our Breath: The Work of Adrian Stimson”  by Elizabeth Matheson. 
 
 The work includes Stimson’s own personal perspective on serving in the 
 military as well as his family’s history serving in the Canadian military as 

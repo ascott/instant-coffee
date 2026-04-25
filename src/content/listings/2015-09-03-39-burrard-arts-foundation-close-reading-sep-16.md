@@ -20,11 +20,11 @@ This event will be cash only.)
 
 The Burrard Arts Foundation presents Close Reading, an event
 celebrating the launch of the artist book “I See Things In You (36
-Vancouver Galleries)â€ . Produced by Alexandra Bischoff during BAFâ€™s
+Vancouver Galleries)” . Produced by Alexandra Bischoff during BAF’s
 inaugural writing residency, this publication both personifies the art
 gallery and fetishizes the relationship between artist, viewer, and
 exhibition space. Serving as an alternative catalog for 36 of
-Vancouverâ€™s prominent galleries, â€œI See Things In Youâ€  demonstrates
+Vancouver’s prominent galleries, “I See Things In You”  demonstrates
 the voyeuristic capacities of an emerging artist in the city.
 
 Curated by Bischoff, Close Reading brings together two artists, two

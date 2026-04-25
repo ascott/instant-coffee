@@ -133,7 +133,7 @@ of sound lies. It is another dimension of assemblage, driven by desire.
 The use of sound in space exonerates the use of linear thinking and
 inherently links itself to a rhizomatic and affectual space.
 
-The rhizome is inherently connected to an artistâ€™s practice, as each 
+The rhizome is inherently connected to an artist’s practice, as each 
 series,each study, is connected through a thought process that seeks to 
 grasp onto a certain interconnectivity of existence.
 
@@ -166,12 +166,12 @@ Make Gallery
 257 East 7th Avenue
 
 VNB Photo is excited to announce the official photography exhibition of the 
-â€œVancouver Creativesâ€  portfolio this June in collaboration with Make, 
+“Vancouver Creatives”  portfolio this June in collaboration with Make, 
 Vancouver Is Awesome, Jukebox Print & Opus Art Supplies! Please join us 
 for the opening get an up-close view at this fine art celebratory work and 
 enjoy a free and public talk and Q&A with the artists!
 
-Launched last November, â€œVancouver Creativesâ€  is a collaborative 
+Launched last November, “Vancouver Creatives”  is a collaborative 
 Calotype photography project by VNB Photo aimed at showcasing some of 
 the best creative talent present today in the city both historically and 
 contemporarily. Midway between documentary and portraiture, the 
@@ -336,7 +336,7 @@ reflects a landscape that is socially and politically uneven. By considering
 the climate of queer citizens in Eastern Europe and Africa, the exhibition 
 poses the question, “How might art and culture help us to look again at the 
 way in which we understand the conditions of queer citizens in global 
-politics?â€  The artists in the exhibition engage with the term queer not only 
+politics?”  The artists in the exhibition engage with the term queer not only 
 as an identity that embraces different sexualities, genders, international 
 and transnational backgrounds, but as a verb: as in queering or rethinking 
 the familiar ways citizenship and belonging are defined.
@@ -702,20 +702,20 @@ August 16, 2014.
 
 In A Trip To The Moon the works of Groat, Limit and Pinheiro destabilize 
 the viewer by removing any recognizable horizon line. The fragmentary 
-aspect of Maggie Groatâ€™s sculptural wall work â€œ13 Moonlight 
+aspect of Maggie Groat’s sculptural wall work “13 Moonlight 
 Reflectors or A Proposal for Returning Moonlight Back to the Moon (August 
-3rd)â€ diffracts the exhibition in its reflection, dismantling the other works 
+3rd)” diffracts the exhibition in its reflection, dismantling the other works 
 in the show into an abstraction that challenges the surety of the spectator. 
-The leveler in Jimmy Limit photographic print â€œLevel with Ginger Root 
+The leveler in Jimmy Limit photographic print “Level with Ginger Root 
 on Grey (Accuracy, Agriculture, Conceal, Control, Even, Fluidity, Fresh, 
 Future, Healthy Eating, Herb, Isolation, Morality, Nobody, Progress, 
 Recovery, Success, Truth)belies its utilitarian value and becomes a foreign 
 object floating in negative space. His multiple slip cast ceramics hint at a 
 future archaeology, collection/archive of information that will eventually be 
 lost and rediscovered and examined or translated like the rediscovery of 
-Greek philosophy in the Middle Ages. [1] Andrea Pinheiroâ€™s scanned 
-and enlarged paintings on photographic prints, â€œLadderâ€ and â
-€œBridge,â€ hint at this eventual unearthing and interpretation, marks 
+Greek philosophy in the Middle Ages. [1] Andrea Pinheiro’s scanned 
+and enlarged paintings on photographic prints, “Ladder” and â
+€œBridge,” hint at this eventual unearthing and interpretation, marks 
 that contain a recognizable logic to be deciphered and a path to achieve it. 
 By exploring the assumption that what we know now will be identified in the 
 future, A Trip To The Moon stakes its claim on the skeptic and the optimist 
@@ -734,7 +734,7 @@ in his work include exotic fruit, hardware store goods and his own
 handmade ceramics. Drawing on industrial supply aesthetics, stock 
 imagery and his work as a commercial photographer, Limit addresses how 
 photography functions both as a tool of commerce and as a commodity. 
-Limitâ€™s work has recently appeared on the covers of C Magazine and 
+Limit’s work has recently appeared on the covers of C Magazine and 
 cura Magazine (Italy) and has been featured in Magenta Magazine and 
 Canadian Art. He has exhibited in Toronto, Rome and New York City. His 
 work is on view this spring in solo shows at Rodman Hall/Brock University 
@@ -772,7 +772,7 @@ seemingly ordinary and fleeting to the supernatural.
 
 Lucie Chan’s drawings are derived from her conversations with others, 
 often strangers, who share their stories with her in what she calls a 
-â€œcultural lesson.â€  Her method of gathering stories varies according to the 
+“cultural lesson.”  Her method of gathering stories varies according to the 
 situations she creates; in one she placed an ad calling for participants; in 
 another she interviewed taxi drivers as she was being driven to the airport; 
 more recently she lived and worked for a month in a small town in 
@@ -793,7 +793,7 @@ Marigold Santos’ large scale paintings are informed by both her immigrant
 experience and Filipino folklore she grew up with as a child. Notions of 
 attachment and separation, being grounded or uprooted relate to her 
 explorations of home, identity and place. Featured in some of Santos’ 
-paintings is a frightening creature known as the â€œasuangâ€  in Filipino 
+paintings is a frightening creature known as the “asuang”  in Filipino 
 folklore. This vampire-like creature, generally depicted as female, severs 
 her body from the waist up, hunting at night and returning to her lower half 
 before morning. The supernatural serves to address multiple ways of being 
@@ -839,7 +839,7 @@ Yee Fung Toy Society Singers' performance at the opening reception,
 
 Eight Ounces Half a Pound considers lost local histories of labour that 
 have been silenced or overwritten through time. Referring to an ancient 
-Chinese idiom, the phrase â€œhalf a pound, right ouncesâ€  was sung by â€˜70s 
+Chinese idiom, the phrase “half a pound, right ounces”  was sung by ‘70s 
 Canto-Pop star Samuel Hui — who gained notoriety for incorporating 
 working class colloquialisms into his lyrics — and suggests that no matter 
 what our efforts may be, we perpetually work to the same ends. 
@@ -850,7 +850,7 @@ experience and skill. Katherine Soucie works with pre-consumer waste
 from the textile industry, binding cast-off, discarded fabrics to create 
 uncanny forms that recall the absent bodies of the workers themselves. 
 Tommy Ting’s sculpture creates a facsimile of the dubiously dubbed “Iron 
-Chinkâ€  machine installed in Steveston canneries at the turn of the 
+Chink”  machine installed in Steveston canneries at the turn of the 
 twentieth century, which, as its name implies, was meant to replace the 
 (dreadfully underpaid) Chinese fish butchers. Guadalupe Martinez, 
 whose site-specific, research-based practice is concerned with ideas of 
@@ -1085,7 +1085,7 @@ Tait’s intimate Montreal interior to a publicly accessible Howe Sound drawn
 by B. C. Binning.
 
 Although the islands in one harbour may share wall space with the islands 
-in another, they are still divided by channels and time, and the â€œandâ€  of the 
+in another, they are still divided by channels and time, and the “and”  of the 
 land refers to their conjunction, implying both division and overlap. 
 Perspectives on the landscape expand and contract, to include interiors 
 and exteriors, observation and memory, imagination and intellect, 

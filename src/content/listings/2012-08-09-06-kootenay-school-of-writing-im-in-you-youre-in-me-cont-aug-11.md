@@ -60,7 +60,7 @@ a horse ride a cowgirl. The rocks shifted
 
 beneath his feet as he slowly made his way
 
-down Knox Mountain. â€œYee haw, is all!â€ 
+down Knox Mountain. “Yee haw, is all!” 
 
 Debra Jiggleigh Bitz rode her stallion off
 
@@ -68,7 +68,7 @@ into the sunset. We loves our oil bohy.
 
 “Welcome to Death Valley, no fucker gets
 
-in, no fucker gets out.â€  ...and the carcus
+in, no fucker gets out.”  ...and the carcus
 
 baked in the midday sun... She nervously
 
@@ -78,7 +78,7 @@ squealing finally subsided. “I met my
 
 husband here 46 years ago in the sheep
 
-barn.â€  Apple struddle. Horse with three
+barn.”  Apple struddle. Horse with three
 
 legs. She walked on the beach around the
 

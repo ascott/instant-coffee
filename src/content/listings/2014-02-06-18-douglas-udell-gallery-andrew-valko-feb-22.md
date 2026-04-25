@@ -26,7 +26,7 @@ Valko’s illustrative realist paintings take up themes from contemporary
 culture: static drive-in cinemas of a bygone era, extraterrestrial activity 
 and youth culture in the digital age. In this exhibition, Valko confronts 
 viewers with his signature voyeuristic impulse. The gaze is cast on the 
-â€œselfieâ€  generation and its penchant for self-imaging and yearning for 
+“selfie”  generation and its penchant for self-imaging and yearning for 
 meaningful social connection. Valko’s voyeuristic gaze acts as a mirror 
 of reflection that invites viewers to assess the meaning of privacy and 
 community, intimacy, and solitude in the digital age.

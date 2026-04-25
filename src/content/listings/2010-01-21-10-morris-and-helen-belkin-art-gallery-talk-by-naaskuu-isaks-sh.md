@@ -8,7 +8,7 @@ venue: "Morris and Helen Belkin Art Gallery"
 summary: "Morris and Helen Belkin Art Gallery | Talk by Naaskuu-isaks, Shaunee Casavant | JAN 23"
 ---
 
-â€œBackstory: Nuuchaanulth Ceremonial Curtains and the Work of Ki-ke-inâ€ 
+“Backstory: Nuuchaanulth Ceremonial Curtains and the Work of Ki-ke-in” 
 January 17 - March 28, 2010
 
 Gallery Talk by Naaskuu-isaks, Shaunee Casavant
@@ -21,7 +21,7 @@ ceremonial life.
 
 Curated by Professor Charlotte Townsend-Gault of the University of British
 Columbia, “Backstory: Nuuchaanulth Ceremonial Curtains and the Work of
-Ki-ke-inâ€™ brings together for the first time, â€œthliitsapilthimâ€  of
+Ki-ke-in’ brings together for the first time, “thliitsapilthim”  of
 ceremonial curtains by Nuuchaanulth artist Ron Hamilton (Ki-ke-in) and
 historical curtains from museum and private collections in Canada and the
 United States.
@@ -63,8 +63,8 @@ Valley. Hamilton is active internationally through his participation in
 public debates, symposia, and exhibitions concerning a trans-Pacific
 history for the cultures and art of the Northwest Coast. He has contributed
 to the publications, ‘Indian Residential Schools: the Nuuchahnulth
-Experienceâ€  (1996) and â€œListening to our Ancestors: The Art of Native Life
-Along the North Pacific Coast (2006)â€ . Ki-ke-in has made a vital
+Experience”  (1996) and “Listening to our Ancestors: The Art of Native Life
+Along the North Pacific Coast (2006)” . Ki-ke-in has made a vital
 contribution to Nuuchaanulth traditional art, ceremonial and ritual life.
 
 Charlotte Townsend-Gault is a Professor in the Department of Art History,
@@ -72,16 +72,16 @@ Visual Art and Theory at the University of British Columbia and Honorary
 Visiting Research Fellow in the Department of Anthropology at the
 University College London. Her interest is in contemporary indigenous
 cultures and arts. Townsend-Gaullt was a curator of “Land, Spirit, Power:
-First Nations at the National Gallery of Canadaâ€  (1992), "Lawrence Paul
+First Nations at the National Gallery of Canada”  (1992), "Lawrence Paul
 Yuxweluptun" (1995) and Rebecca Belmore (2002) for the Belkin Art Gallery.
 She has written about the work of Marianne Nicholson, James Luna, Stan
-Douglasâ€™ â€œNu.tkaâ€ . â€œMasked Relations: Display and Disguise on the Northwest
-Coastâ€ , and is at work on a book, â€œMasked Relations: Display and Disguise
-on the Northwest Coast.â€  â€œThe Idea of Northwest Coast Native Art: An
+Douglas’ “Nu.tka” . “Masked Relations: Display and Disguise on the Northwest
+Coast” , and is at work on a book, “Masked Relations: Display and Disguise
+on the Northwest Coast.”  “The Idea of Northwest Coast Native Art: An
 Anthology", co-edited with Jennifer Kramer and Ki-ke-in will be published
 in 2010.
 
-â€ Backstory: Nuuchaanulth Ceremonial Curtainsâ€  and the Work of Ki-ke-in is
+” Backstory: Nuuchaanulth Ceremonial Curtains”  and the Work of Ki-ke-in is
 generously sponsored by The Audain Foundation and presented with the 2010
 Vancouver Cultural Olympiad with support from the British Columbia Arts
 Council, the Canada Council for the Arts, and the UBC Museum of Anthropology.

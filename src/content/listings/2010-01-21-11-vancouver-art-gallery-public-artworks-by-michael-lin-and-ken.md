@@ -120,16 +120,16 @@ Lower Mainland.
 Ken Lum is a Vancouver artist whose work questions the relationship between
 modernism, mass culture and everyday experience, often blurring the
 boundaries separating high art and popular culture. Over the past twenty
-years, LumÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½s work has been presented in solo exhibitions throughout
+years, LumÃƒÂ¢ïÂ¿Â½ïÂ¿Â½s work has been presented in solo exhibitions throughout
 North
 America, Europe and Asia. He has also represented Canada at the Istanbul
 Biennial, SÃƒï¿½Ã‚Â£o Paulo Biennial, Shanghai Biennale, Gwangju Biennale and
-Documenta. The GalleryÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½s Offsite exhibition space near the
+Documenta. The GalleryÃƒÂ¢ïÂ¿Â½ïÂ¿Â½s Offsite exhibition space near the
 intersection of
-Georgia and Thurlow streets in VancouverÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½s downtown core offers a
+Georgia and Thurlow streets in VancouverÃƒÂ¢ïÂ¿Â½ïÂ¿Â½s downtown core offers a
 rotating
 program of innovative public art projects by local and international
-artists, which respond to the cityÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½s unique urban environment.
+artists, which respond to the cityÃƒÂ¢ïÂ¿Â½ïÂ¿Â½s unique urban environment.
 
 Vancouver Art Gallery Offsite: Ken Lum is organized by the Vancouver Art
 Gallery and curated by Audain Curator of British Columbia Art, Grant Arnold
@@ -141,16 +141,16 @@ During the 2010 Olympic and Paralympic Winter Games, the Vancouver Art
 Gallery will present the best of British Columbia to the world and the best
 of the world in British Columbia. From a landmark exhibition of drawings by
 Leonardo da Vinci and an arresting presentation of contemporary art based
-on the human form, to a massive two-floor survey of British ColumbiaÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½s
+on the human form, to a massive two-floor survey of British ColumbiaÃƒÂ¢ïÂ¿Â½ïÂ¿Â½s
 visual art, visitors will experience some of the most exciting programming
-in the GalleryÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½s history. Thanks to a partnership that will see the
-Province of British ColumbiaÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½s BC Canada Pavilion located on the fourth
+in the GalleryÃƒÂ¢ïÂ¿Â½ïÂ¿Â½s history. Thanks to a partnership that will see the
+Province of British ColumbiaÃƒÂ¢ïÂ¿Â½ïÂ¿Â½s BC Canada Pavilion located on the fourth
 floor of the Gallery, all exhibitions will be free to the public during the
 17 days of the Olympic Winter Games.
 
 Leonardo da Vinci: The Mechanics of Man -- February 6 to May 2, 2010
 
-Visceral Bodies ÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½ February 6 to May 16, 2010
+Visceral Bodies ÃƒÂ¢ïÂ¿Â½ïÂ¿Â½ February 6 to May 16, 2010
 
 Visions of British Columbia: A Landscape Manual -- January 23 to April 18, 2010
 

@@ -17,7 +17,7 @@ March 26th-April 6th, 2012
 OPENING RECEPTION: Thursday, March 29th, 2012, 6-9pm
 
 Emily Carr University of Art + Design’s first year masters cohort 
-presents â€œInventory of Language,â€  a group exhibition at the Concourse 
+presents “Inventory of Language,”  a group exhibition at the Concourse 
 Gallery offering a window into their studio explorations within the 
 graduate program.
 
@@ -26,7 +26,7 @@ students have come together to produce a wide-reaching
 interdisciplinary exhibition with the aims of sharing their critical arts-
 based research with Vancouver’s artists, curators, theoreticians, 
 educators and the public at large. The diverse bodies of work 
-presented in â€œInventory of Languageâ€  include painting and drawing, 
+presented in “Inventory of Language”  include painting and drawing, 
 printmaking, photography, sculpture,
 performance, sound art, interactive installation, video and design.
 
@@ -39,7 +39,7 @@ Carter, Zara Contractor, Jenny Cronin, Ashley Guindon , Allison Karow
 Stefánsson, Lloyd Stone, Carol Tsang, Tokio Webster and Laurence 
 Wong.
 
-â€œInventory of a Languageâ€  will run from March 26th to April 6th, 2012 at 
+“Inventory of a Language”  will run from March 26th to April 6th, 2012 at 
 Emily Carr University’s Concourse Gallery. The public is invited to meet 
 the artists, see the work and enjoy refreshments at the opening event.
 

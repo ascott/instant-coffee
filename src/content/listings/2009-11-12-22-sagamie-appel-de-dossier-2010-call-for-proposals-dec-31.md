@@ -133,8 +133,8 @@ Centre d'art contemporain / Contemporary Art Centre
 (418) 662-7280
 sagamie@cgocable.ca http://www.sagamie.com/
 
-Si vous souhaitez Ãªtre retirÃ© de notre liste d'envoi, vous n'avez qu'Ã 
-rÃ©pondre Ã	ce message en indiquant comme objet : "SVP RETIREZ-MOI DE LA
+Si vous souhaitez Ãªtre retiré de notre liste d'envoi, vous n'avez qu'Ã 
+répondre Ã	ce message en indiquant comme objet : "SVP RETIREZ-MOI DE LA
 LISTE D'ENVOI".
 
 If you wish to be removed from our mailing list, please reply to this

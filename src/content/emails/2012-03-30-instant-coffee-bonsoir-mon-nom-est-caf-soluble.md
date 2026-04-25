@@ -244,7 +244,7 @@ curator Daniel Zomparelli's personal chapbook collection along with
 additional 
 donated chapbooks from derek bealieau and Warren Dean Fulton.
 
-Arte Factum, the Latin phrase â€œto make,â€  acknowledges the chapbook 
+Arte Factum, the Latin phrase “to make,”  acknowledges the chapbook 
 as an
 object of literary and publishing craft that originated in the nineteenth 
 century as 
@@ -304,14 +304,14 @@ The University of British Columbia's Department of Art History and the
 Art History, Visual Art and Theory Graduate Symposium Committee 
 cordially invite you to attend the 35th annual University of British 
 Columbia Art History, Visual Art and Theory Graduate Symposium, 
-â€œThe Unseen,â€  which will attend to a critical reassessment of what 
+“The Unseen,”  which will attend to a critical reassessment of what 
 resists representation, description, articulation or documentation. The 
 event will take place on Friday, March 30 through to Saturday, March 
 31 in the Lillooet Room (301) located in the Chapman Learning 
 Commons of the Irving K. Barber Learning Centre, 1961 East Mall, 
 Vancouver, BC V6T 1Z1. Doors open at 10:30am with presentations 
 beginning at 10:45am. In conjunction with the symposium, “The 
-Unseenâ€  art exhibition will be opening Friday, March 30th at the AMS 
+Unseen”  art exhibition will be opening Friday, March 30th at the AMS 
 Art Gallery at 7:00pm (details below). The schedule is as follows:
 
 Friday, March 30th, 2012
@@ -323,7 +323,7 @@ Chris Jones (University of Florida), “'Walk into the View':
 Rephotography as Art Practice 1975-2010"
 11:30 – 12:15:
 Frances Cullen (University of Alberta), “Stillness in Motion: Alex 
-Pragerâ€™s Despair and the Reassessment of Cinematic Timeâ€ 
+Prager’s Despair and the Reassessment of Cinematic Time” 
 
 12:15 – 1:15: Lunch Break
 
@@ -337,7 +337,7 @@ Panel II:
 3:30 – 3:45: Exhibition Introduction
 3:45 – 4:30:
 Alexandra L. Simpson (Queen’s University), “Blindness and Site: Art 
-Illustrating the Invisible in Touch Tour Picturesâ€ 
+Illustrating the Invisible in Touch Tour Pictures” 
 
 5:00 – 7:00: The Unseen Opening Reception and Exhibition, AMS Art 
 Gallery
@@ -352,22 +352,22 @@ Saturday, March 31st, 2012
 Panel III
 10:45 – 11:30:
 Catherine Walsh (Boston University), “Displacement and Figuration in 
-Giambolognaâ€™s Appenninoâ€ 
+Giambologna’s Appennino” 
 11:30 – 12:15:
-Christina Gray (UCLA), â€œHumour and Adolf Loosâ€ 
+Christina Gray (UCLA), “Humour and Adolf Loos” 
 12:15 – 1:00:
 Alexey Golubev (UBC), “Unseen Materiality in Marginalia of Post-
-Stalinist Soviet Magazinesâ€ 
+Stalinist Soviet Magazines” 
 
 1:00 – 2:00: Lunch Break
 
 Panel IV
 2:00 – 2:45:
 Carley Hodgkinson (NSCAD), “Re-imagining the Temporary and Void 
-Spaces of the Cityâ€ 
+Spaces of the City” 
 2:45 – 3:30:
 Erica Zacharias (UBC), “Insight Out of Site: Staging Gordon Matta-
-Clarkâ€ 
+Clark” 
 
 3:30 – 4:00: Closing Remarks
 
@@ -719,7 +719,7 @@ entzaubert.blogsport.de
 Benvenut* Queers!
 
 Vi invitiamo a presentare i vostri film.
-Stiamo preparando il quinto â€ entzaubertâ€  D.I.Y .(do it yourself) 
+Stiamo preparando il quinto ” entzaubert”  D.I.Y .(do it yourself) 
 filmfestival, che avrà luogo a Berlino dal 2.- 5. agosto 2012.
 Siamo interessat* ai vostri film. Se volete paticipare, spedite il vostro 
 materiale, prima del 1 aprile 2012.
@@ -1163,7 +1163,7 @@ life on the periphery of society, travelling across Canada while living in
 various cities before settling in Vancouver. He is a self-taught artist 
 known for his woodcarvings and paintings as well as his poetry. Melvin 
 is listed in Kobayashi and Bird’s “A Compendium of Canadian Folk 
-Artistsâ€  and in on display in the Canadian Museum of Civilization. 
+Artists”  and in on display in the Canadian Museum of Civilization. 
 
 Accompanying some of Melvin’s carvings is work by emerging artists 
 Joey Haley, Jonathan Petersen and Barry Doupe.
@@ -1257,12 +1257,12 @@ Queensland’s inaugural poet-in-residence at the Judith Wright Centre
 of Contemporary Arts in Brisbane, Australia in 2005, a poet-in-
 residence in Tasmania in 2006, and a guest writer at the Queensland 
 Poetry Festival in 2007. She collaborated with artist Shima Iuchi on a 
-geographically installed interactive project called â€œReading Kamloopsâ€  
+geographically installed interactive project called “Reading Kamloops”  
 and read at the Bowery Poetry Club in New York. A new publication 
 called The Ends of the Earth is forthcoming from ECW Press. Her work 
-has appeared in anthologies â€” â€œselected poemsâ€  in How the Light Gets 
-In (2009), â€œAlmostâ€  in Companions and Horizons, (2005), and 
-â€œKamloopsâ€  in The Small Cities Anthology (2005). She has also 
+has appeared in anthologies — “selected poems”  in How the Light Gets 
+In (2009), “Almost”  in Companions and Horizons, (2005), and 
+“Kamloops”  in The Small Cities Anthology (2005). She has also 
 published in many journals in Canada and abroad. 
 
 ------------------------------------------------------------------------
@@ -1340,7 +1340,7 @@ TRENCH
 CONTEMPORARY ART
 
 Is pleased to present
-â€œComponentsâ€ 
+“Components” 
 New Sculpture and Drawings
 By Jen Aitken
 April 12 till May 12th, 2012.
@@ -1350,9 +1350,9 @@ full time on her sculpture practice. Now residing in Toronto Aitken is
 presenting 4 sculptures, a selection of drawings and a multiple for her 
 first solo show at Trench.
 
-Calling the sculptures â€œComponentsâ€  Aitken has created a series of 
+Calling the sculptures “Components”  Aitken has created a series of 
 modular, interrelated forms that can be either shown as singular 
-objects or fitted together to create a larger â€œhabitatâ€  of sculpture. Long 
+objects or fitted together to create a larger “habitat”  of sculpture. Long 
 inspired by Sol Lewitt and his self- generating systems Aitken was 
 looking for some arbitrary parameters to work within and came up with 
 a series of measurements based on the Fibonacci sequence to guide 
@@ -1363,7 +1363,7 @@ interpretation and playfully reference the body as well as a multitude of
 other forms and objects such as organs, furniture, machine parts or 
 sea life. Never letting the viewer to commit to any one of these 
 references as a starting point Aitkens desire is to “evoke brief in-body 
-experiences and visceral reactionsâ€  to the works. Aitkens sculpture 
+experiences and visceral reactions”  to the works. Aitkens sculpture 
 allows the viewer to wander in and out, sensually exploring the forms, 
 their playful nature, possible origins and her exquisite attention to 
 detail. That detail is found in how the artist handles her materials 
@@ -1395,8 +1395,8 @@ Victorian Neo-Gothic Khyber building. Selected videos will be shown as
 a looped projection. In conjunction, animated installations by local 
 artists will occupy the halls and stairwell of this inviting architecture.
 
-EXPLORATION: To â€œanimateâ€  is to breathe life and soul into the 
-inanimate. In near contradiction, to â€œautomateâ€  is to reduce the need for 
+EXPLORATION: To “animate”  is to breathe life and soul into the 
+inanimate. In near contradiction, to “automate”  is to reduce the need for 
 human work in the production process. This exhibition will invite the 
 viewer to ponder this digital problematic and consider the contribution 
 of the animator’s silent partner - automation. Subject matter is open. 
@@ -1507,7 +1507,7 @@ EXHIBITION: Interactive Installation
 HOW TO REGISTER
 
 To register for the workshop, please email 
-education@vivomediaarts.com with â€œSLAB 6: Registrationâ€  in the 
+education@vivomediaarts.com with “SLAB 6: Registration”  in the 
 subject line. We need your full name, your phone number, your email, 
 and your commitment to attending all or most workshop sessions. A 
 brief explanation why you want to take this workshop and what you wish 
@@ -1630,11 +1630,11 @@ to registration@arcpost.ca.
  
 • 20% of the fees will be retained if there is a cancellation up to 60 days 
 prior to the Conference. 
- â€¢ 50% of the fees will be retained if there is a cancellation 60 to 7 days 
+ • 50% of the fees will be retained if there is a cancellation 60 to 7 days 
 prior to the Conference.  
 • Last minute (less than 7 days) cancellation will not be refundable. 
- â€¢ Non-refundable in case of non-attendance. 
- â€¢ Conference participation is transferable to another person.
+ • Non-refundable in case of non-attendance. 
+ • Conference participation is transferable to another person.
 
 %%%%%% Accommodations %%%%%%
 

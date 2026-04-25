@@ -16,7 +16,7 @@ Vancouver, Canada - September 27th, 2010.
 The Waldorf Hotel, designed in 1947 by architects Mercer & Mercer, was
 remarkable from the beginning for its modernist style. In 1955,
 capitalizing on an emerging interest in Polynesian culture, the complex was
-transformed into one of North Americaâ€™s most renowned â€œtikiâ€  themed bars
+transformed into one of North America’s most renowned “tiki”  themed bars
 and hotels. A post-war phenomenon, tiki culture was rooted partially in the
 nostalgic tropical memories of returned soldiers but also in the erotic
 fantasies of a middle class fascinated by the exotic and forbidden. The

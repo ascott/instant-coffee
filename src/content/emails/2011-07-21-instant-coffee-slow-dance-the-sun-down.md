@@ -136,16 +136,16 @@ to Arts Funding in the Netherlands
 
 On June 10, 2011, Halbe Zijlstra, the Dutch State Secretary for Culture, 
 distributed a letter to arts and culture organizations throughout the Netherlands. 
-Entitled â€œMeer dan kwaliteit: een nieuwe visie op cultuurbeleidâ€  (â€œMore than 
-Quality: A New Vision on Cultural Policyâ€ ), the letter announced a â‚¬200 million 
+Entitled “Meer dan kwaliteit: een nieuwe visie op cultuurbeleid”  (“More than 
+Quality: A New Vision on Cultural Policy” ), the letter announced a â‚¬200 million 
 cut, which would slash state support for the operating and programming 
 activities of these organizations as early as January 2013.  
 
 In concrete terms, this new policy will lead to the following:
-â€“ A 50% cut in the budget for stipends and working grants for artists  
-â€“ A 50% cut in the budget of the Mondriaan Foundation, the body responsible  for 
+– A 50% cut in the budget for stipends and working grants for artists  
+– A 50% cut in the budget of the Mondriaan Foundation, the body responsible  for 
 supporting international projects  
-â€“ A total withdrawal of all support for art magazines  
+– A total withdrawal of all support for art magazines  
 
 Concerned citizens joined arts and culture organizations the weekend of June 
 25, 2011 to condemn the cutbacks in a series of protests known as the Mars der 
@@ -331,7 +331,7 @@ About Grow:
 
 Grow is a public art project that acts as a public forum, teaching tool and 
 creative laboratory for ecological and social sustainability practices in South East 
-False Creek (SEFC). Located in Vancouverâ€™s â€œgreenest developmentâ€ , the 
+False Creek (SEFC). Located in Vancouver’s “greenest development” , the 
 Olympic Village, Grow explores sustainability issues through a series of walks, 
 workshops and creative experiments in urban agriculture. 
 
@@ -846,7 +846,7 @@ In Japan, (2011) a sculptural, kinetic installation and collected ephemera by
 Vancouver-based artist Jeremy Isao Speier. On opening night in celebration of 
 the 35th Annual Powell Street Festival we are happy to have catering by Open 
 Sesame with a Japanese themed Made In Japan menu. Led by Deep Purple's, 
-Space Truckin', (1972) dj Darwin Meyers will spin a 1970's â€œstadiumâ€  Rock mix 
+Space Truckin', (1972) dj Darwin Meyers will spin a 1970's “stadium”  Rock mix 
 on classic vinyl.
 
 In Made In Japan, Artist Jeremy Isao Speier heralds consumer electronics of the 
@@ -966,7 +966,7 @@ spine, and Publication Studio will re-bind your book in your own homemade
 cover. Materials for a new cover will be provided, or you are welcome to bring 
 your own. A small service fee will apply.
 
-July 30 â€“ book launch: â€œNatural Progressâ€  by Kate Noble, a new edition of "A 
+July 30 – book launch: “Natural Progress”  by Kate Noble, a new edition of "A 
 User's Guide to Demanding the Impossible" by the Laboratory of Insurrectionary 
 Imagination and a new book by leannej (the first in a series of Rereading The 
 Riot Act books, co-published by Publication Studio and UNIT/PITT) from 2 to 4 
@@ -974,7 +974,7 @@ pm
 
 August 6 – Rebound Party from 12 to 5pm
 
-August 13 â€“ book launch: â€œI Look Up, Volume 2â€  by Mina Totino from 2 to 4 pm
+August 13 – book launch: “I Look Up, Volume 2”  by Mina Totino from 2 to 4 pm
 
 Please consult www.unitpitt.ca for complete details, and announcements of 
 additional events during the residency.
@@ -993,10 +993,10 @@ visit www.publicationstudio.biz for more detailed information.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 +++++
 
-â€œI Look Up, Volume 2â€  by Mina Totino
+“I Look Up, Volume 2”  by Mina Totino
 
 This book is the second in a series of three volumes that comprise Mina 
-Totinoâ€™s â€œI Look Upâ€ . Here Totinoâ€™s ongoing project of Polaroid cloud photographs 
+Totino’s “I Look Up” . Here Totino’s ongoing project of Polaroid cloud photographs 
 is presented as a conceptual artist book. Totino has long been drawn to clouds 
 as subject matter for their whimsical, sublime, and mundane character and for 
 their rich associations from cloud watching as an idle pursuit to transcendent 

@@ -12,7 +12,7 @@ when bored we reserve the right to do nothing by Instant Coffee
 
 We have nothing to say. Well, maybe that’s inaccurate. We have lots 
 to say, but nothing we say is meaningful, or better yet what we want 
-to say is â€œpurposefullyâ€  meaningless. There is no direct intent. Even 
+to say is “purposefully”  meaningless. There is no direct intent. Even 
 though that statement rings true it is an improbability, dubious 
 because we have proceeded with some aims. We have made a 
 plan and followed it, and before that we defined a goal. We wanted 

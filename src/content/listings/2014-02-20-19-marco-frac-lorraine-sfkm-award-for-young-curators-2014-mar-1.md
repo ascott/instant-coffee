@@ -49,7 +49,7 @@ Dossiers received after this date will not be accepted.
 Entries must be submitted in PDF format to the following three email 
 addresses: 
 info@marcovigo.com, coordination@fraclorraine.org and curator@misf.no 
-with the subject: â€œAward for Young Curators.â€ 
+with the subject: “Award for Young Curators.” 
 
 Projects must be preferably written in English, although French, Galician, 
 Norwegian, and Spanish languages are admitted. In any case, an abstract (2 

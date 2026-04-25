@@ -36,7 +36,7 @@ Saint Jesua
 Aaron Moran
 Henry Adam Svec
 Lindsay Dakin
-Sylvana Dâ��Angelo
+Sylvana D’Angelo
 
 darling is a quarterly publication.
 

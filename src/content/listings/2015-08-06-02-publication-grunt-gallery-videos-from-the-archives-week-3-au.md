@@ -29,7 +29,7 @@ feeding people. They were honoring the animal…and today we just shop for
 meat. We all had to be really quiet to keep it calm; that kind of hush was
 a really interesting addition to the installation and performance.'
 
-'We live atomized lives,â€  Helene continues. â€œWith technology, people become
+'We live atomized lives,”  Helene continues. “With technology, people become
 more and more isolated from each other. The same thing happens with food
 production. In many different aspects of our life…we are becoming more and
 more specialized.'

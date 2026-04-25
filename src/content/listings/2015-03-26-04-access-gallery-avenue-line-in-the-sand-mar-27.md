@@ -36,8 +36,8 @@ for the duration of the exhibition
 Establishments, institutions, public areas, domestic spaces, even ephemeral
 situations carry with them protocols with which we are asked to comply as
 we encounter, enter, or pass through them. Our contemporary understanding
-of â€œprotocolâ€  is as â€œan official procedure or system of rules governing
-affairs or behaviours.â€  However, early definitions of the termâ€”a
+of “protocol”  is as “an official procedure or system of rules governing
+affairs or behaviours.”  However, early definitions of the term—a
 provisional draft, a working manuscript—imply the opposite. This project is
 sited within a triangular space in Vancouver’s Chinatown: at Access
 Gallery, Avenue (a grass-roots artist-operated space engaged in cultivating
@@ -46,7 +46,7 @@ expanded space as a grey area (an interstice, a draft, a hybrid form), the
 works of Mallory Amirault, Loes van Bruinessen, Rikke Goldbech, Fernanda
 Gutierrez, Jennifer Juba, Anchi Lin, Candice Okada, Felix Rapp, Alina
 Senchenko, Christian Vistan and Jacobo Zambrano address, navigate through
-and reconfigure our assumptions of the term â€œprotocolâ€  in institutional,
+and reconfigure our assumptions of the term “protocol”  in institutional,
 domestic, urban, social and political spaces, as well as through those of
 the art world itself.
 

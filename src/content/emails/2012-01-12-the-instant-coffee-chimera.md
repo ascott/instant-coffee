@@ -71,7 +71,7 @@ theory. She is a member of the Kootenay School of Writing, and
 recently edited 
 a special issue of the journal Open Letter, entitled “Negotiating the 
 Social Bond 
-of Poetics,â€  forthcoming in 2012. She completed her Doctorate on The 
+of Poetics,”  forthcoming in 2012. She completed her Doctorate on The 
 Ecstatic 
 Woman and the Grotesque: A New Lacanian Subject in the work of 
 Djuna 
@@ -332,7 +332,7 @@ on the persistent desire to bridge the gap between self and other,
 which can only ever fall short. A second video, The Quiet Room, runs 
 on a continuous loop, without beginning or end. Located in an 
 undefined institutional space, the viewer is positioned in the room 
-across the hall from â€œThe Quiet Room,â€  which might be a place where 
+across the hall from “The Quiet Room,”  which might be a place where 
 terminal patients go to live their final days, a space for tranquil 
 reflection, or where unacceptable behaviors are tamed.
 
@@ -517,7 +517,7 @@ January 14 – February 25
 Opening reception Saturday January 14, 6-9pm
 
 Double Veronica, 2011
-Oil on canvas, 58x39â€ 
+Oil on canvas, 58x39” 
 
 Blanket is pleased to present Beige Infinity, a solo exhibition of new
 paintings by New York based artist Brian Kokoska. A palette all together
@@ -807,7 +807,7 @@ site-specific installation is made up of two major components that work together
 to investigate complex relationships between perception, space, architecture 
 and culture.
 
-Using Persian carpets as a foundation, Golkar literally â€œdraws upâ€  design 
+Using Persian carpets as a foundation, Golkar literally “draws up”  design 
 elements from the intricate patterns and transforms them into three-dimensional 
 scale models that resemble architectural mega-towers. Buildings recently 
 constructed in the Middle East, and elsewhere, such as the Burj Khalifa in Dubai 
@@ -856,7 +856,7 @@ Beil and author of Vancouver Special Charles Demers, will feature Vancouver’s
 quick-witted, irreverent, and surprisingly danceable accordion rock band Fang, 
 alongside the ethereal vocals and gorgeous harmonies of e.s.l. You’ll also have 
 the opportunity to take in DJ sets by Dubstep veteran Kuma, The Amigos and 
-Jenifer Papararo under the flickering â€œtwilight skyâ€  of the Waldorfâ€™s famous Tiki 
+Jenifer Papararo under the flickering “twilight sky”  of the Waldorf’s famous Tiki 
 bar, join in a spur-of-the-moment flamenco dance lesson, make silly faces with 
 your friends in the photo booth, or even take a guided tour of the hotel. See you 
 there!

@@ -8,11 +8,11 @@ venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | In an unusual place | JAN 24"
 ---
 
-DAA presents â€œIn an unusual placeâ€ 
+DAA presents “In an unusual place” 
 Opening Reception on January 24th, 2015 at 7:00 - 10:00 pm
 ALINA SENCHENKO, HEI LAM NG, RAY CHEN, LUKE MADDAFORD
 
-â€œIn an unusual placeâ€  is a gathering of works of photography, print,
+“In an unusual place”  is a gathering of works of photography, print,
 installation, and collage by artists whose pieces engage with the
 relationship between identity, physical space, and the social tensions
 unleashed by the intersection of these two forces.

@@ -28,8 +28,8 @@ STEVE HUBERT
 
 WAVES & FLICKERS is a one evening live event within the Planetarium
 presenting collaborations between local contemporary artists and musicians.
-The earth is fully tilted towards the sun, itâ€™s late June in Vancouver and
-there is a wild stirring beneath the Planetariumâ€™s dome. The projected sky
+The earth is fully tilted towards the sun, it’s late June in Vancouver and
+there is a wild stirring beneath the Planetarium’s dome. The projected sky
 is blushed with the ghosts of hazy teenage laser shows and childhood
 curiosity as collaborations between local musicians and artists respond to
 and re-activate this long established site of wonder. WAVES & FLICKERS
@@ -82,7 +82,7 @@ Over the past 15 years, Andrew Lee has toured extensively across North
 America and Europe with In Medias Res (File Under: Music) and Siskiyou
 (Constellation Records). He has shared the stage with Kurt Vile, Julianna
 Barwick, Damien Jurado, Frog Eyes, Porcelain Raft and many more and has
-performed at notable festivals such as All Tomorrowâ€™s Parties, Primavera
+performed at notable festivals such as All Tomorrow’s Parties, Primavera
 Sound, and Sled Island. He has also presented special artistic works at the
 Vancouver Art Gallery, The Centre for Performance Research in New York City
 and Kunstradio in Vienna. ​http://www.holyhum.com/
@@ -93,13 +93,13 @@ Institute of Art and Design. He works in performance, media, sculpture and
 drawing. His practice involves experimentation with form and process in
 order to express inherent relationships between material and immaterial
 content. He is a founding member of the Vancouver-based artist collective
-â€˜Intermissionâ€™ and is presently a member of â€˜Instant Coffeeâ€™ artist
+‘Intermission’ and is presently a member of ‘Instant Coffee’ artist
 collective. His work has been exhibited nationally, and internationally.
 Lee lives and works in Vancouver BC. http://khanlee.com/
 
 THE RED HOT ICICLES BURNING ON FIRE in collaboration with STEVE HUBERT
 
-THE RED HOT ICICLES BURNING ON FIRE is a rock nâ€™ roll circus from
+THE RED HOT ICICLES BURNING ON FIRE is a rock n’ roll circus from
 Vancouver, BC made up of local musicians Michael McDiarmid, Rick Clark &
 interdisciplinary artist, Elizabeth Milton. Fueled by a shared interest in
 melodrama, glam and disaster, The Icicles are a sonic carnival of complex

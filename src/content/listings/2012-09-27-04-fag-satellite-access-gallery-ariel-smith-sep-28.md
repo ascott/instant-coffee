@@ -93,7 +93,7 @@ Transformational Politic
 1-3 pm Sunday September 30
 
 Coming to Feminism: A Performative Reading
-Shared reading of bell hooksâ€™ â€œFeminism as a Transformational Politicâ€ 
+Shared reading of bell hooks’ “Feminism as a Transformational Politic” 
 
 Other Upcoming events/installations for FAG @ Access include;
 

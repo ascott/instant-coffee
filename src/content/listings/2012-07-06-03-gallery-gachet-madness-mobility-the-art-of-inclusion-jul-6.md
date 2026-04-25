@@ -109,7 +109,7 @@ regard to public space, the Art institution and visual culture. He has
 conducted the Blind Field Shuttle as part of engagements in Portland
 OR, Beach Lake PA, Oakland CA, San Francisco CA and will be 
 presenting
-the project as part of the â€œWhat Can a Body Doâ€  exhibition at the
+the project as part of the “What Can a Body Do”  exhibition at the
 Canter Fitzgerald Gallery at Haverford College this Fall. Papalia has
 developed workshops on the topic of access for the Portland Art 
 Museum

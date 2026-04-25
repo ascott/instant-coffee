@@ -303,9 +303,9 @@ Darboven’s musical work.
 Ultimately I was designing a collection of four artistic worlds that spanned the 
 relation between sensation and intellection. A generic tension, but generic in 
 the sense that it could encourage us to say something like “art and human 
-experienceâ€ . Existential! I like being alive; experience is what we are made for. 
+experience” . Existential! I like being alive; experience is what we are made for. 
 How do we think about our sensations? How do we sense ourselves 
-thinking?...â€ 
+thinking?...” 
 
 You are subscribed to the Or Gallery e-mail event list as 
 vancouver@instantcoffee.org
@@ -437,13 +437,13 @@ because people can’t afford to lower their asking prices. We need to expand
 into new markets, and the only way to produce a lower tier of affordable entry-
 level properties is to create highly liquid, easily tradeable micro-spaces. This 
 is the only way to address the affordability crisis within our market-driven real-
-estate economy.â€ 
+estate economy.” 
 
 [1]RBC. “Vancouver’s housing market: moderation in store but vulnerable to a 
-harsher outcome.â€  April 2012. Page 6. 
+harsher outcome.”  April 2012. Page 6. 
 http://www.rbc.com/economics/market/pdf/vancouverhouse.pdf
 [2]Demographia. “9th Annual Demographia International Housing Affordability 
-Survery: 2013â€ . Page 2. http://www.demographia.com/dhi.pdf
+Survery: 2013” . Page 2. http://www.demographia.com/dhi.pdf
 Image Credit: Everybody works but the vacant lot, Henry George as quoted by 
 Fay Lewis.
 
@@ -513,7 +513,7 @@ Access invites you to an informal afternoon with the gallery’s curator-in-
 residence. Mohammad Salemy has been involved with a project titled 
 ENCYCLONOSPACE IRANICA, an extensive curatorial research initiative that 
 engages with diasporic Iranian artists and other knowledge producers. Instead 
-of exclusively looking at â€œIranian artâ€ , his research is an investigation into how 
+of exclusively looking at “Iranian art” , his research is an investigation into how 
 the dominant tele-computational paradigm-marked by the accelerated 
 deployment of computers, networked technologies, software, big data and 
 digital visuality-has transformed the way Iranian artists and other knowledge 
@@ -542,7 +542,7 @@ access@vaarc.ca
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2013-02-21-13-league-walkshopping-feb-24">13. League | walkshopping | FEB 24</a>
 ------------------------------------------------------------------------
-Upcoming League play: â€œwalkshoppingâ€ 
+Upcoming League play: “walkshopping” 
 24 February 2013, noon-4pm
 Elm Park (41 Ave @ Larch)
 
@@ -552,7 +552,7 @@ tactic that bends the city toward unplanned ends (Michel de Certeau). It’s
 done for political reasons, for pleasure, for meditation. “Walkers are 
 ‘practitioners of the city,’ for the city is made to be walked.[...] Just as 
 language limits what can be said, architecture limits where one can walk, but 
-the walker invents other ways to go,â€  wrote Rebecca Solnit in Wanderlust: A 
+the walker invents other ways to go,”  wrote Rebecca Solnit in Wanderlust: A 
 History of Walking.
 
 The next League play date turns on walking. How does the environment 
@@ -639,7 +639,7 @@ WANTED
 APPLY 
 INSIDE
 We’re all familiar with the challenge of making a resumé. The competing goals 
-surrounding resumÃ© building appear to be in fundamental conﬂict. On the one 
+surrounding resumé building appear to be in fundamental conﬂict. On the one 
 hand, job seekers are pressed to reduce their experiences into quantiﬁable, 
 coherent chunks. They also hope to manifest their speciﬁc personhood on the 
 page. In both content and form, the resumé or curriculum vitae becomes a 
@@ -659,7 +659,7 @@ exhibition opening in late March. Send physical submissions to:
 RECESS
 1426 SE Salmon St. 
 Portland, OR 97214
-For digital submissions, weâ€™re asking for a small donation of ﬁfty cents for 
+For digital submissions, we’re asking for a small donation of ﬁfty cents for 
 printing 
 charges which can be made via our Paypal accouont. Please e-mail pdfs to 
 info@recessart.com. For more information, visit www.recessart.com. 
@@ -693,7 +693,7 @@ Parataxis
 
 Charles Rea has been an important player in the Vancouver painting scene for 
 more than twenty years. Introduced in the Vancouver Art Gallery group show 
-â€œThe Young Romanticsâ€  in 1985, Reaâ€™s art practice has since followed many 
+“The Young Romantics”  in 1985, Rea’s art practice has since followed many 
 diverse paths, making use of varying, often unconventional materials. Over the 
 years, Rea’s artwork has assumed many different forms and subject matter, it 
 regularly explores the myriad of systems that have come to represent our 
@@ -822,7 +822,7 @@ by Labspace Studio
 
 Jakob Jakobsen – Artist Talk
 “Self-institutionalization can be viewed as a kind of exorcism, a kind of 
-externalization of this internalized control.â€ 
+externalization of this internalized control.” 
 Wednesday, March 6, 2013 6:00 PM
 Jakob Jakobsen is a politically engaged visual artist, educator and activist. He 
 was part of the Copenhagen Free University from 2001 to 2007, was co-

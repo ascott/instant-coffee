@@ -19,7 +19,7 @@ Back Alley Entrance
 info@gallery295.com
 www.gallery295.com
 
-Gallery 295 proudly presents Dan Sineyâ€™s new photographic diptychs 
+Gallery 295 proudly presents Dan Siney’s new photographic diptychs 
 opening
 September 5th at Gallery 295. This exhibition will also be on display during
 SWARM.
@@ -49,5 +49,5 @@ Jennilee Marigomen and Chris Taylor. Sineys work has been exhibited in
 group shows throughout North America, Europe and Japan, with solo and two-
 person exhibitions in Canada. Most recently his work was exhibited in
 Phantasmagoria at the Presentation House Gallery, and in a collaborative
-exhibition with Andrea Pinheiro, â€œStrange Weather,â€ at The University of
+exhibition with Andrea Pinheiro, “Strange Weather,” at The University of
 Algoma.

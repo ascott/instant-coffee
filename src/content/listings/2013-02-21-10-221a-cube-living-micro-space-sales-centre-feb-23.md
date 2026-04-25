@@ -51,13 +51,13 @@ because people can’t afford to lower their asking prices. We need to expand
 into new markets, and the only way to produce a lower tier of affordable entry-
 level properties is to create highly liquid, easily tradeable micro-spaces. This 
 is the only way to address the affordability crisis within our market-driven real-
-estate economy.â€ 
+estate economy.” 
 
 [1]RBC. “Vancouver’s housing market: moderation in store but vulnerable to a 
-harsher outcome.â€  April 2012. Page 6. 
+harsher outcome.”  April 2012. Page 6. 
 http://www.rbc.com/economics/market/pdf/vancouverhouse.pdf
 [2]Demographia. “9th Annual Demographia International Housing Affordability 
-Survery: 2013â€ . Page 2. http://www.demographia.com/dhi.pdf
+Survery: 2013” . Page 2. http://www.demographia.com/dhi.pdf
 Image Credit: Everybody works but the vacant lot, Henry George as quoted by 
 Fay Lewis.
 

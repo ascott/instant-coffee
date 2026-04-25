@@ -20,12 +20,12 @@ place from October 16 to November 14, 2015. Artists are encouraged
 to consider the following prompt when they apply:
 
 With the passing of Bill C-51 life in Canada no longer toes the line of a
-Big Brother state â€“ it is a reality presently actualizing. Surveillance 
+Big Brother state – it is a reality presently actualizing. Surveillance 
 has been an increasingly omnipresent force in North American culture. 
 A social expectancy and understanding that we will be watched in 
-some capacity has formed. Physically and digitally, a personâ€™s 
+some capacity has formed. Physically and digitally, a person’s 
 actions are monitored, and the question of whether or not that is 
-harmful to oneâ€™s existence arises.
+harmful to one’s existence arises.
 
 Applicants are also urged to consider the mechanisms and structures â
 €“ including but not limited to the social, political, and physical means â
@@ -74,5 +74,5 @@ group exhibitions. Additionally, we will provide limited financial
 resources to aid artists in managing shipping and travel costs.
 
 Please send completed submission packages to:
-ATTN: Programming Committee â€“ Thematic
+ATTN: Programming Committee – Thematic
 info@thenewgallery.org

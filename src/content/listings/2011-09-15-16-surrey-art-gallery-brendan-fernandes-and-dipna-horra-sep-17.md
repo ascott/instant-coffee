@@ -39,25 +39,25 @@ artist’s immersive installations.
 
 “I am interested in how language becomes codified, where it creates
 barriers that allow for understanding within specific groups and
-communities,â€  says Fernandes. â€œIn particular, I am investigating how
+communities,”  says Fernandes. “In particular, I am investigating how
 language can be altered and forgotten through the process of migration. It
 defines identity via one’s transformation of becoming something else
-through processes of loss and gain, forgetfulness and remembrance.â€  The
+through processes of loss and gain, forgetfulness and remembrance.”  The
 title for this exhibition refers to the discontinuities of identity and
 language, and the increasingly common migratory patterns of individuals and
 groups across continents.
 
 Disscontinent is anchored by two large-scale media art installations. Voo
 Doo You Doo Speak surrounds the viewer with a series of video animated
-â€œZulu headâ€  totems that speak Dada-ist poetry. In the work titled Current
+“Zulu head”  totems that speak Dada-ist poetry. In the work titled Current
 Location (Possibly), the interpretive language of the museum swells to a
 crescendo with a 12-foot wide mural accompanied by video-mask sculptures
 that erupt in Morse Code-like messages. In the earliest made work in the
 exhibition, the artist recites a text related to the story of Robinson
 Crusoe, but does so after hiring an acting coach to teach him to speak
 English with Swahili, Indian and Canadian accents – accents representing
-each of the artistâ€™s own cultural backgrounds. The â€œdissâ€  in
-â€œdisscontinentâ€  refers to the pronunciation of the word â€œthisâ€  in
+each of the artist’s own cultural backgrounds. The “diss”  in
+“disscontinent”  refers to the pronunciation of the word “this”  in
 Afro-Caribbean English.
 
 About the artist

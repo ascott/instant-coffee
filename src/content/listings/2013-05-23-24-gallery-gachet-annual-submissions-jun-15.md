@@ -59,5 +59,5 @@ accepted submissions until the exhibition.
 
 Please e-mail submissions to Lara Fitzgerald, 
 programming@gachet.org, or drop off clearly labelled packages to 
-â€œGallery Gachet Annual Submissionsâ€  during gallery open hours, Weds 
+“Gallery Gachet Annual Submissions”  during gallery open hours, Weds 
 – Sun 12 – 6pm.

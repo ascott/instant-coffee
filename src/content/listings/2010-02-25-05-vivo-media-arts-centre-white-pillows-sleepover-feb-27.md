@@ -27,7 +27,7 @@ the evening. There will be pillow fights, masks for disappearing, gigantic
 smoke rings, and pancakes in the morning made by Heidi Nagtegaal.
 
 Ikbal Singh, will be silk-screening the logo of the collective, Albrecht
-Durerâ��s Sechs Kissen (6 Pillows), made in 1493. Please bring a t-shirt,
+Durer’s Sechs Kissen (6 Pillows), made in 1493. Please bring a t-shirt,
 paper, cloth or surface that you want the design to be silk-screened on.
 
 Covering Up, a project by Lois Klassen and Pierre-André Sonolet will also

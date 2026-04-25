@@ -23,7 +23,7 @@ project “seek(s) to express emotional experiences in their most raw form,
 without a literal or narrative setting. Like a collage of different perceptions that 
 eventually forms a whole picture, I attempt to create a world from "real time" 
 experience: reconstructing an imagined emotional event that unfolds in a 
-compressed time frame.â€  This is the second in series of solo performances 
+compressed time frame.”  This is the second in series of solo performances 
 organized by François Houle. 
 
 Linda Bouchard will present four recent works, all Canadian Premiers. In 
@@ -48,7 +48,7 @@ the Princeton Composition Contest, the Indiana State Competition, the
 National Association of Composers USA Contest and a Fromm Foundation 
 Award from Harvard University. Linda was a Fellow at the Rockefeller 
 Foundation in Bellagio and at the Civitella Ranieri in Italy. In June 2001, she 
-was invited to participate at IRCAMâ€™s â€œStage dâ€™Informatique Musicaleâ€  in Paris 
+was invited to participate at IRCAM’s “Stage d’Informatique Musicale”  in Paris 
 and became very interested in pursuing exploration with new technologies. In 
 the fall 2005, she founded NEXMAP: New Experimental Music and 
 Performance, a non-profit arts organization of which she is Artistic Director.

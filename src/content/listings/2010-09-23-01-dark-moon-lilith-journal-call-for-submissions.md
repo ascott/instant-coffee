@@ -23,4 +23,4 @@ Dark Moon Lilith Productions
 www.darkmoonlilith.com
 www.darkmoonliliththejournal.com
 
-Ã¢â‚¬Å“The creative process is a process of surrender, not control.Ã¢â‚¬Â  ~ Julia Cameron
+ââ‚¬Å“The creative process is a process of surrender, not control.ââ‚¬Â  ~ Julia Cameron

@@ -37,7 +37,7 @@ John’s work, through photography.
 Paul Lang is a local artist who has been working in and with artists groups for 
 25 years. He has been the silent observer of this unique friendship for many 
 years. Paul will be compiling a series of video clips that documents John’s 
-process and will be contributing to this collaboration through as a â€œwitnessâ€  to 
+process and will be contributing to this collaboration through as a “witness”  to 
 John and Skylar’s photo conversation.
 
 Before I'm Done is the first in a series of new works commissioned by 

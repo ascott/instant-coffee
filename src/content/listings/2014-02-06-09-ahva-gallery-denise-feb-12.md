@@ -5,12 +5,12 @@ emailDate: "Thu, 06 Feb 2014 15:55:10 -0800"
 number: 9
 type: ""
 venue: "AHVA Gallery"
-summary: "AHVA Gallery | â€œDeniseâ€  | FEB 12"
+summary: "AHVA Gallery | “Denise”  | FEB 12"
 ---
 
 UBC Department of Art History, Visual Art and Theory presents:
 
-â€œDeniseâ€  - a new exhibition at the AHVA Gallery 
+“Denise”  - a new exhibition at the AHVA Gallery 
 
 Exhibition Dates: February 12 – March 1, 2014
 Opening Reception: Wednesday, February 12, 5 – 7pm

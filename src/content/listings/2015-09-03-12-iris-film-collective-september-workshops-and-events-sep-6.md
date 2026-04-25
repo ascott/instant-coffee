@@ -45,7 +45,7 @@ September 19 - Windows Collective film installation under North end
 Cambie Bridge
 September 20 - Cameraless Filmmaking Workshop
 Iris Film Collective presents the second part in its “Collective
-Unconsciousâ€  Series, which focusses in on other film collectives from
+Unconscious”  Series, which focusses in on other film collectives from
 across the country. We are pleased to host the Windows Collective as
 they drop by on their cross-Canada tour to present an astounding
 collection of film installations under the Cambie Bridge AND a free

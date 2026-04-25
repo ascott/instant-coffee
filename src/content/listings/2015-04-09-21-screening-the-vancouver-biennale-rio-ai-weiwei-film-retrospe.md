@@ -44,7 +44,7 @@ CineFest LIVE Director Ammar Mahimwalla says, “You can’t stop people from
 expressing themselves, no matter how oppressive the government control. F
 Grass and the CineFest LIVE Ai Weiwei screenings are a clear demonstration
 of that, with Ai Weiwei getting his message out to the world despite his
-continued physical detainment in a country that seems so eager to shut him up.â€ 
+continued physical detainment in a country that seems so eager to shut him up.” 
 
 As a follow up to the premiere of the Biennale’s CineFest LIVE Documentary
 Film Festival, launched in June 2014 with Academy Award winner Oliver Stone

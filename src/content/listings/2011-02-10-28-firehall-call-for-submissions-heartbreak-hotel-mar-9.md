@@ -49,4 +49,4 @@ selected. The FAC retains 25% commission on sales of work.
 
 Exhibition dates: April 13- May 15, 2011
 
-Gallery hours: Wed.- Sat. 1:00 p.m. â�� 5:00p.m.
+Gallery hours: Wed.- Sat. 1:00 p.m. ’ 5:00p.m.

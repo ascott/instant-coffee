@@ -8,7 +8,7 @@ venue: "Avenue"
 summary: "Avenue | Beyond the walls of intelligence, life is defined | MAR 6"
 ---
 
-â€œBeyond the walls of intelligence, life is defined.â€  
+“Beyond the walls of intelligence, life is defined.”  
 -Nasir bin Olu Dara Jones
 
 Olivia Qiu	

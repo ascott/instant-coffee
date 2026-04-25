@@ -37,12 +37,12 @@ obfuscating the image and emptying them of colour.
 For Wedman, rendering the work in grey tones “draws your attention away 
 from subject matter and turns it to a consideration of a flat picture plane, and 
 the consideration of subjecthood and why the subject is interesting. It 
-transforms the subject, sometimes in ways that are unexpectedâ€ . An 
+transforms the subject, sometimes in ways that are unexpected” . An 
 example of this is a series of twelve watercolours of newspaper pages where 
 the content is made indistinguishable with only the familiar structural form 
 remaining recognizable. They play with notions of the familiar, and he as he 
 puts it, “you take something from one place and open up its potential 
-meaning. Itâ€™s not really anything remarkableâ€ .
+meaning. It’s not really anything remarkable” .
 
 Neil Wedman has exhibited extensively and is represented by the Equinox 
 Gallery. He teaches at both Emily Carr University and Simon Fraser 

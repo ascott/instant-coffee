@@ -8,7 +8,7 @@ venue: "Artspeak"
 summary: "Artspeak | Back to the Door | NOV 15"
 ---
 
-â€œBack to the Doorâ€ 
+“Back to the Door” 
 
 BECKY KOLSRUD, KALUP LINZY, 
 ELIZABETH MILTON

@@ -17,7 +17,7 @@ Yee Fung Toy Society Singers' performance at the opening reception,
 
 Eight Ounces Half a Pound considers lost local histories of labour that 
 have been silenced or overwritten through time. Referring to an ancient 
-Chinese idiom, the phrase â€œhalf a pound, right ouncesâ€  was sung by â€˜70s 
+Chinese idiom, the phrase “half a pound, right ounces”  was sung by ‘70s 
 Canto-Pop star Samuel Hui — who gained notoriety for incorporating 
 working class colloquialisms into his lyrics — and suggests that no matter 
 what our efforts may be, we perpetually work to the same ends. 
@@ -28,7 +28,7 @@ experience and skill. Katherine Soucie works with pre-consumer waste
 from the textile industry, binding cast-off, discarded fabrics to create 
 uncanny forms that recall the absent bodies of the workers themselves. 
 Tommy Ting’s sculpture creates a facsimile of the dubiously dubbed “Iron 
-Chinkâ€  machine installed in Steveston canneries at the turn of the 
+Chink”  machine installed in Steveston canneries at the turn of the 
 twentieth century, which, as its name implies, was meant to replace the 
 (dreadfully underpaid) Chinese fish butchers. Guadalupe Martinez, 
 whose site-specific, research-based practice is concerned with ideas of 

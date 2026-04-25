@@ -16,8 +16,8 @@ turns the world upside down. The viewer looks through a telescope at a
 location two kilometres away, at a rapidly changing East Vancouver,
 optically inverted. Centred in the telescope image is a large led display,
 placed upside down but appearing right side up to the viewer. Across the
-display scroll phrases of valediction: â€œFarewell Libido;â€  â€œFarewell
-Hollywood;â€  â€œFarewell to the Idea of Infinite Growth.â€ 
+display scroll phrases of valediction: “Farewell Libido;”  “Farewell
+Hollywood;”  “Farewell to the Idea of Infinite Growth.” 
 
 It’s like a funeral procession in words, evoking loss on a massive scale
 and reminding us of the things we may have taken for granted. Rounding out

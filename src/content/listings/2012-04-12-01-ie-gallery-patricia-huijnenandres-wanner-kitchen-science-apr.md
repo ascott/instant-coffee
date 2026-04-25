@@ -17,7 +17,7 @@ Patricia Huijnen/Andres Wanner
 Kitchen Science
 April 12, 2012 - April 22, 2012
 
-In â€œKitchen Scienceâ€ , sculptor Patricia Huijnen and machine artist Andres 
+In “Kitchen Science” , sculptor Patricia Huijnen and machine artist Andres 
 Wanner examine moments of instability in relation to the body and technology.
 
 Patricia Huijnen explores the bite and the mouthful as measuring units, relating 

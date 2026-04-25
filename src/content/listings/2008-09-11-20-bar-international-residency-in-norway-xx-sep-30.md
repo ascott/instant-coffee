@@ -65,4 +65,4 @@ Kirkenes has become a real bordertown, with trade and movement across the
 borders. Kirkenes has become a laboratory for a new time. It used to be a
 physical and psychological disadvantage. But not any more. Now it´s an
 interesting place at the forefront of exploding the closed and controlled
-national borders.â&#65533;&#65533; (Morten StrÃ¸ksnes, writer and historian, 2003)
+national borders.â&#65533;&#65533; (Morten Strøksnes, writer and historian, 2003)

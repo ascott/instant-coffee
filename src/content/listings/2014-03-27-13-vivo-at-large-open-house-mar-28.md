@@ -40,7 +40,7 @@ Meet with staff, interns, volunteers, legacy members, new artist
 members, collaborative partners, and the Board of Directors. Enjoy 
 live performances by the Vancouver Experimental Theremin 
 Orchestra, local favourites from VIVO’s critically-acclaimed music 
-improvisational series â€œDestroy Vancouver,â€  and take in a rare 
+improvisational series “Destroy Vancouver,”  and take in a rare 
 selection of media arts produced and presented at VIVO over the 
 years.
 

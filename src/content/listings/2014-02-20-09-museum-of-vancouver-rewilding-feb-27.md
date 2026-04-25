@@ -37,9 +37,9 @@ co-author of 100-Mile Diet and author of the recently released The Once and
 Future World, which served as inspiration for the exhibition.
 
 “Almost everyone has experienced the loss of some treasured natural space 
-â€” whether an entire forest or a simple vacant lot,â€  says MacKinnon. â€œThis 
+— whether an entire forest or a simple vacant lot,”  says MacKinnon. “This 
 exhibition is a way to connect with that feeling, and also explore the unlimited 
-possibilities of melding the urban and wild.â€ 
+possibilities of melding the urban and wild.” 
 
 In 2010, Vancouverites were mesmerized when a grey whale came for a 
 swim in False Creek, and in 2013 we were equally awe-struck by a beaver 
@@ -48,9 +48,9 @@ Vancouver seeks to encourage people to discover what nature was like in
 Vancouver’s past, reconnect with nature as meaningful to their lives, and 
 engage with efforts to make the city a wilder place.
 
-â€œRewilding Vancouver is an exhibition of remembering,â€  explains J.B. 
+“Rewilding Vancouver is an exhibition of remembering,”  explains J.B. 
 MacKinnon. “It allows the public to reconnect with a forgotten history in order 
-to look at the present and the possible future with new eyes.â€ 
+to look at the present and the possible future with new eyes.” 
 
 Location: Museum of Vancouver: 1100 Chestnut Street, Vancouver, BC
 

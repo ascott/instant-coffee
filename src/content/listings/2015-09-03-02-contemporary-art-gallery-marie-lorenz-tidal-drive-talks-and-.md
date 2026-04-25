@@ -59,7 +59,7 @@ describes:
 viewer maintains an awareness of their balance and form as they
 absorb the details in their surroundings. This kind of observation
 creates something new out of something familiar. My boat projects are
-an attempt to un-know the metropolis by continually exploring itâ€ 
+an attempt to un-know the metropolis by continually exploring it” 
 
 Launching from Hope, BC on September 1 and arriving in Richmond
 on September 3, the voyage uses tidal currents and historic canoe

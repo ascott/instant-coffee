@@ -18,7 +18,7 @@ Access invites you to an informal afternoon with the gallery’s curator-in-
 residence. Mohammad Salemy has been involved with a project titled 
 ENCYCLONOSPACE IRANICA, an extensive curatorial research initiative that 
 engages with diasporic Iranian artists and other knowledge producers. Instead 
-of exclusively looking at â€œIranian artâ€ , his research is an investigation into how 
+of exclusively looking at “Iranian art” , his research is an investigation into how 
 the dominant tele-computational paradigm-marked by the accelerated 
 deployment of computers, networked technologies, software, big data and 
 digital visuality-has transformed the way Iranian artists and other knowledge 

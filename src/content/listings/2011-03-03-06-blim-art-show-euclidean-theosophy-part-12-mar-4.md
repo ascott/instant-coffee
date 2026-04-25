@@ -32,7 +32,7 @@ he will embark on a musical pilgrimage to the Far East. Before he departs,
 Mr. Hastings, in his kindly way, entrusted this exhibition with a
 thoughtfully selected collection of drawings.
 The Star Gods: Channeling ancient truths by way of ink, paint and audio
-recording, members of â€œThe Star Godsâ€ , Nathan Jones and Daniel Gianto- maso
+recording, members of “The Star Gods” , Nathan Jones and Daniel Gianto- maso
 seek to unveil a new consciousness of Euclidean Theosophy. The Star Gods
 possess certification from esteemed academic institutions as well as the
 Canadian government.

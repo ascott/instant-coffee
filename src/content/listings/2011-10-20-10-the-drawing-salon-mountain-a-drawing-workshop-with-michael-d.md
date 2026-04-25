@@ -13,7 +13,7 @@ THE DRAWING SALON is pleased to present
 MOUNTAIN: A drawing workshop with artist Michael Drebert.
 
 “Approach the mountain freely and openly.
-What is going on in your mind as you stand still?â€ 
+What is going on in your mind as you stand still?” 
 
 Swami Sivandanda Radha, Hatha Yoga: The Hidden Language: symbols, 
 secrets and metaphor, from the chapter: Tadasana: The Mountain.
@@ -53,8 +53,8 @@ For more information on THE DRAWING SALON go to www.thedrawingsalon.org
 MICHAEL DREBERT is currently an artist in residence at Malaspina Printmakers 
 where he is working on a new series of prints. Drebert describes his work as “a 
 research into the radical potential for performative gestures to be an agent for 
-cultural investigation, and a catalyst for meaningful dialogueâ€  adding that, â€œthe 
-answer to a situation is to begin.â€ 
+cultural investigation, and a catalyst for meaningful dialogue”  adding that, “the 
+answer to a situation is to begin.” 
 
 Using an economy of means, black ink on white paper, his seemingly simple 
 graphic or text-based ‘signs or posters’, placed in public or private spaces, are 

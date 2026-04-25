@@ -33,7 +33,7 @@ orbit of the galaxy. The image of the sun floating quietly in space with
 the planets moving around it in circles was true for a time, but is now a 
 fiction of convenience. Likely topics include- the Copernican revolution, 
 the ego, the site of art, Agniezka Kurant, maybe Stephen Kaltenbach, 
-the infinite, probably Borges on Xeno, and hopefully dancing.â€ 
+the infinite, probably Borges on Xeno, and hopefully dancing.” 
 
 Jen Weih is a Vancouver-based artist whose practice includes video, 
 print, sculpture, installation, and sound performance. Her work has 

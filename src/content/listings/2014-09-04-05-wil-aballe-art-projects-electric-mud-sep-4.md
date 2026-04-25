@@ -28,13 +28,13 @@ This previous series of monochromatic grey dipped works were installed in
 tense relation to the architecture while considering the domestic aspect of
 the gallery as apartment.
 
-In Electric Mud, six new works showcase Weisgerberâ€™s continued engagement
+In Electric Mud, six new works showcase Weisgerber’s continued engagement
 in this process-driven direction while introducing new elements, such as
 colour, that bring the paintings to the realm of a broader discussion of
 contemporary abstract painting. His work still explores materiality as
 subject, driven from an interest in dissecting things to explore their
 structure and skin, and how they intersect. Situated at the axis of
-painting, sculpture, and installation, Weisgerberâ€™s work seamlessly
+painting, sculpture, and installation, Weisgerber’s work seamlessly
 crosses disciplines. It culls through histories and collects fragments
 along the way. These specters flutter in and out, and collide to create
 works that are imprinted with the past and the personal.

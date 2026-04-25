@@ -316,7 +316,7 @@ Victoria. His work has been included in exhibitions at Artspeak,
 Contemporary Art Gallery, Ministry of Casual Living, Helen Pitt
 Gallery, the Western Front, Lobby Gallery and Blanket Gallery among
 others.
-Edgar Heap of BirdsÃ¢ï¿½ï¿½ exhibition record includes The Museum of Modern
+Edgar Heap of Birdsâï¿½ï¿½ exhibition record includes The Museum of Modern
 Art, Whitney Museum of American Art, The National Museum of the
 American Indian, Smithsonian Institute, The National Gallery of
 Canada, Documenta 8, and the Venice Biennale. He was awarded an
@@ -429,10 +429,10 @@ Miwon Kwon, in One Place After Another: site-specific art and locational
 identity, makes a strong link between public art and the production of
 urban identities: "Despite the discussions of ‘placelessness and crisis’
 and the ‘death of cities’, ‘place-making’ remains a central imperative in
-public arts programming today.â€ 
+public arts programming today.” 
 
 Building from this concept of art as a place-making activity, “Coming
-Soonâ€  is the first public symposium of the new Audain Gallery at SFU
+Soon”  is the first public symposium of the new Audain Gallery at SFU
 Woodward's: the symposium aims to address questions regarding the
 different, and often competing, public and artistic expectations of art in
 the public sphere and art as a public discourse.
@@ -455,7 +455,7 @@ Organized by Sabine Bitter, Audain Gallery.
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2010-01-21-10-morris-and-helen-belkin-art-gallery-talk-by-naaskuu-isaks-sh">10. Morris and Helen Belkin Art Gallery | Talk by Naaskuu-isaks, Shaunee Casavant | JAN 23</a>
 ------------------------------------------------------------------------
-â€œBackstory: Nuuchaanulth Ceremonial Curtains and the Work of Ki-ke-inâ€ 
+“Backstory: Nuuchaanulth Ceremonial Curtains and the Work of Ki-ke-in” 
 January 17 - March 28, 2010
 
 Gallery Talk by Naaskuu-isaks, Shaunee Casavant
@@ -468,7 +468,7 @@ ceremonial life.
 
 Curated by Professor Charlotte Townsend-Gault of the University of British
 Columbia, “Backstory: Nuuchaanulth Ceremonial Curtains and the Work of
-Ki-ke-inâ€™ brings together for the first time, â€œthliitsapilthimâ€  of
+Ki-ke-in’ brings together for the first time, “thliitsapilthim”  of
 ceremonial curtains by Nuuchaanulth artist Ron Hamilton (Ki-ke-in) and
 historical curtains from museum and private collections in Canada and the
 United States.
@@ -510,8 +510,8 @@ Valley. Hamilton is active internationally through his participation in
 public debates, symposia, and exhibitions concerning a trans-Pacific
 history for the cultures and art of the Northwest Coast. He has contributed
 to the publications, ‘Indian Residential Schools: the Nuuchahnulth
-Experienceâ€  (1996) and â€œListening to our Ancestors: The Art of Native Life
-Along the North Pacific Coast (2006)â€ . Ki-ke-in has made a vital
+Experience”  (1996) and “Listening to our Ancestors: The Art of Native Life
+Along the North Pacific Coast (2006)” . Ki-ke-in has made a vital
 contribution to Nuuchaanulth traditional art, ceremonial and ritual life.
 
 Charlotte Townsend-Gault is a Professor in the Department of Art History,
@@ -519,16 +519,16 @@ Visual Art and Theory at the University of British Columbia and Honorary
 Visiting Research Fellow in the Department of Anthropology at the
 University College London. Her interest is in contemporary indigenous
 cultures and arts. Townsend-Gaullt was a curator of “Land, Spirit, Power:
-First Nations at the National Gallery of Canadaâ€  (1992), "Lawrence Paul
+First Nations at the National Gallery of Canada”  (1992), "Lawrence Paul
 Yuxweluptun" (1995) and Rebecca Belmore (2002) for the Belkin Art Gallery.
 She has written about the work of Marianne Nicholson, James Luna, Stan
-Douglasâ€™ â€œNu.tkaâ€ . â€œMasked Relations: Display and Disguise on the Northwest
-Coastâ€ , and is at work on a book, â€œMasked Relations: Display and Disguise
-on the Northwest Coast.â€  â€œThe Idea of Northwest Coast Native Art: An
+Douglas’ “Nu.tka” . “Masked Relations: Display and Disguise on the Northwest
+Coast” , and is at work on a book, “Masked Relations: Display and Disguise
+on the Northwest Coast.”  “The Idea of Northwest Coast Native Art: An
 Anthology", co-edited with Jennifer Kramer and Ki-ke-in will be published
 in 2010.
 
-â€ Backstory: Nuuchaanulth Ceremonial Curtainsâ€  and the Work of Ki-ke-in is
+” Backstory: Nuuchaanulth Ceremonial Curtains”  and the Work of Ki-ke-in is
 generously sponsored by The Audain Foundation and presented with the 2010
 Vancouver Cultural Olympiad with support from the British Columbia Arts
 Council, the Canada Council for the Arts, and the UBC Museum of Anthropology.
@@ -655,16 +655,16 @@ Lower Mainland.
 Ken Lum is a Vancouver artist whose work questions the relationship between
 modernism, mass culture and everyday experience, often blurring the
 boundaries separating high art and popular culture. Over the past twenty
-years, LumÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½s work has been presented in solo exhibitions throughout
+years, LumÃƒÂ¢ïÂ¿Â½ïÂ¿Â½s work has been presented in solo exhibitions throughout
 North
 America, Europe and Asia. He has also represented Canada at the Istanbul
 Biennial, SÃƒï¿½Ã‚Â£o Paulo Biennial, Shanghai Biennale, Gwangju Biennale and
-Documenta. The GalleryÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½s Offsite exhibition space near the
+Documenta. The GalleryÃƒÂ¢ïÂ¿Â½ïÂ¿Â½s Offsite exhibition space near the
 intersection of
-Georgia and Thurlow streets in VancouverÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½s downtown core offers a
+Georgia and Thurlow streets in VancouverÃƒÂ¢ïÂ¿Â½ïÂ¿Â½s downtown core offers a
 rotating
 program of innovative public art projects by local and international
-artists, which respond to the cityÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½s unique urban environment.
+artists, which respond to the cityÃƒÂ¢ïÂ¿Â½ïÂ¿Â½s unique urban environment.
 
 Vancouver Art Gallery Offsite: Ken Lum is organized by the Vancouver Art
 Gallery and curated by Audain Curator of British Columbia Art, Grant Arnold
@@ -676,16 +676,16 @@ During the 2010 Olympic and Paralympic Winter Games, the Vancouver Art
 Gallery will present the best of British Columbia to the world and the best
 of the world in British Columbia. From a landmark exhibition of drawings by
 Leonardo da Vinci and an arresting presentation of contemporary art based
-on the human form, to a massive two-floor survey of British ColumbiaÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½s
+on the human form, to a massive two-floor survey of British ColumbiaÃƒÂ¢ïÂ¿Â½ïÂ¿Â½s
 visual art, visitors will experience some of the most exciting programming
-in the GalleryÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½s history. Thanks to a partnership that will see the
-Province of British ColumbiaÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½s BC Canada Pavilion located on the fourth
+in the GalleryÃƒÂ¢ïÂ¿Â½ïÂ¿Â½s history. Thanks to a partnership that will see the
+Province of British ColumbiaÃƒÂ¢ïÂ¿Â½ïÂ¿Â½s BC Canada Pavilion located on the fourth
 floor of the Gallery, all exhibitions will be free to the public during the
 17 days of the Olympic Winter Games.
 
 Leonardo da Vinci: The Mechanics of Man -- February 6 to May 2, 2010
 
-Visceral Bodies ÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½ February 6 to May 16, 2010
+Visceral Bodies ÃƒÂ¢ïÂ¿Â½ïÂ¿Â½ February 6 to May 16, 2010
 
 Visions of British Columbia: A Landscape Manual -- January 23 to April 18, 2010
 
@@ -767,7 +767,7 @@ READ Books at the Charles H. Scott Gallery
 The Western Front, REV, and READ Books at the Charles H. Scott Gallery are
 pleased to present the launch of "Recipes for an Encounter". The book takes
 its impetus from "Kits for an Encounter", an earlier exhibition co-curated
-by Candice Hopkins and Marisa Jahn that explored artist-made â€œkitsâ€ 
+by Candice Hopkins and Marisa Jahn that explored artist-made “kits” 
 designed to instigate an encounter. Recipes for an Encounter functions as
 both a curatorial extension of the exhibition and a catalyst for other
 encounters.
@@ -879,11 +879,11 @@ Reproduction in which the magician is compared to the painter and the
 surgeon is compared to the cameraman.
 
 “The magician heals a sick person by the laying on of hands; the surgeon
-cuts into the patientâ€™s body.â€  Benjamin goes on to state: â€œThe painter
+cuts into the patient’s body.”  Benjamin goes on to state: “The painter
 maintains in his work a natural distance from reality, the cameraman
 penetrates deeply into its web. There is a tremendous difference between
 the pictures they obtain. That of the painter is a total one, that of the
-cameraman consists of multiple fragments which are assembled under a new law.â€ 
+cameraman consists of multiple fragments which are assembled under a new law.” 
 
 Farmer’s presentation of the figures though seems to reveal a desire to
 maintain both positions simultaneously and it is into this inquiry and
@@ -973,7 +973,7 @@ Artists: Katie Brennan (Vernon, BC), Claire Hodge (Halifax), Eleanor King
 
 The Department of Art History, Visual Art and Theory (AHVA) at the
 University of British Columbia is pleased to present the 29th Annual Art
-History Graduate Symposium and Exhibition: â€œSights/Sites of Spectacle.â€ 
+History Graduate Symposium and Exhibition: “Sights/Sites of Spectacle.” 
 This year’s Symposium and Exhibition will engage with spectacle as
 theoretical concept, historical phenomenon, and artistic theme. Highlights
 include: a keynote address by the highly influential and well respected
@@ -1004,7 +1004,7 @@ spectacular culture.
 The Exhibition is a new addition to the annual Symposium, and will be held
 in various buildings on the UBC campus: the gallery, located in rm. 112,
 Koerner Library, the I.K. Barber Learning Centre, and the Lasserre
-Building. â€œSights/Sites of Spectacleâ€  brings together the work of eleven
+Building. “Sights/Sites of Spectacle”  brings together the work of eleven
 artists from across North America. Together, these artists ponder the
 ubiquitous nature of spectacle within our everyday lives. Spanning broad
 conceptual ground, each artist offers a different entry point into how our
@@ -1055,8 +1055,8 @@ makes these objects what they are, within a mapping strategy that could be
 best described as obscure.
 
 Further reading
-George Baker. â€œPhotographyâ€™s Expanded Field,â€  October 114, (Fall 2005): 120-140
-Rosalind Krauss. â€œSculpture in the Expanded Field.â€  In The Anti-Aesthetic:
+George Baker. “Photography’s Expanded Field,”  October 114, (Fall 2005): 120-140
+Rosalind Krauss. “Sculpture in the Expanded Field.”  In The Anti-Aesthetic:
 Essays on Post-Modern Culture. Ed. Hal Foster. New York: The New Press, 1998.
 
 Curated by Francesca Bennett.

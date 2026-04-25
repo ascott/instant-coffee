@@ -25,7 +25,7 @@ aim is to distribute a set of research and findings to Vancouver citizens
 engaged in the (onerous) search for affordable housing. As meetings with
 participating designers, planners, developers, financiers, architects, and
 experts in construction, insurance, and governance take place in her living
-room, Pulkinghornâ€™s process recalls â€œkitchen partiesâ€  or grassroots
+room, Pulkinghorn’s process recalls “kitchen parties”  or grassroots
 activism which begins in the home.
 
 In the Round: A Drawing Party with Catherine Pulkinghorn
@@ -35,9 +35,9 @@ Saturday, November 29, 2014, 2:00pm
 Do you have an interest in or talent for home architecture or interior
 design? Join artist Catherine Pulkinghorn for an informal drawing party
 within the exhibition Home Dream Home. Using the existing floorplan of her
-apartment and a list of her â€œDream Homeâ€  wishes, participants will
+apartment and a list of her “Dream Home”  wishes, participants will
 collaboratively or individually re-design her existing domestic space for
-beauty and efficiency, to materialize Catherineâ€™s â€œHome Dream Home.â€  All
+beauty and efficiency, to materialize Catherine’s “Home Dream Home.”  All
 ages welcome! Come as you are, no drawing experience necessary; all
 materials provided (extra rulers appreciated!).
 

@@ -29,7 +29,7 @@ to overcome poverty, homelessness, or addiction.
 Please submit your proposal to artcommittee@ugm.ca by May 8, 2015. Please
 include a photo of your piece along with the following information: artist
 name, title of piece, medium, and size of piece (note: we cannot accept
-pieces that are smaller than 16â€ x20â€  or larger than 48â€ x48â€ ).
+pieces that are smaller than 16” x20”  or larger than 48” x48” ).
 
 If you have any questions, please contact UGM’s Art Committee at
 604.215.5445 ext 594 or artcommittee@ugm.ca. We look forward to reviewing

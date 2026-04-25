@@ -17,7 +17,7 @@ READ Books at the Charles H. Scott Gallery
 The Western Front, REV, and READ Books at the Charles H. Scott Gallery are
 pleased to present the launch of "Recipes for an Encounter". The book takes
 its impetus from "Kits for an Encounter", an earlier exhibition co-curated
-by Candice Hopkins and Marisa Jahn that explored artist-made â€œkitsâ€ 
+by Candice Hopkins and Marisa Jahn that explored artist-made “kits” 
 designed to instigate an encounter. Recipes for an Encounter functions as
 both a curatorial extension of the exhibition and a catalyst for other
 encounters.

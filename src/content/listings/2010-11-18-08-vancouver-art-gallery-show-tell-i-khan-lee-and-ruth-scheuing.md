@@ -62,7 +62,7 @@ quotidian life become a common subject in art.
 
 The works in the exhibition are in a diverse range of media and are drawn
 primarily from the Gallerys collection and augmented with loans from
-artistsâ�� and private collections. The exhibition is organized around three
+artists’ and private collections. The exhibition is organized around three
 themes: Everyday Actions, Everyday Objects and Everyday Encounters.
 Everyday Actions includes works that consider those simple, sometimes
 mindless tasks we perform regularly; works in Everyday Objects take

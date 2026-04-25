@@ -15,7 +15,7 @@ Christian Hänggi on Stockhausen and 9-11
 
 Five days after the World Trade Center attacks, German composer Karlheinz 
 Stockhausen held a press conference in Hamburg in which he claimed that the 
-attacks had been â€œgreatest work of art that has ever existed.â€  These remarks 
+attacks had been “greatest work of art that has ever existed.”  These remarks 
 were taken out of context and led to a caesura in his career.
 
 A decade after this exchange, writer Christian Hänggi argues that Stockhausen’s 

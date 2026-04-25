@@ -647,7 +647,7 @@ public embarrassment during the Olympics. Two years ago homelessness count
 identified 2,660 people who were homeless in the Metro Vancouver region,
 and the numbers keep growing. The performance/installation uses traditional
 forms of exhibition; a window display used in stores, and galleries to
-portray a faÃ§ade that can be then further explored inside. The inside
+portray a façade that can be then further explored inside. The inside
 will not be a physical space but the viewer's mind and their own inquiries.
 How do they relate to this issue within their own behavioral, emotional and
 physical parameters? How do they treat the homeless? and what do they do as
@@ -800,7 +800,7 @@ the Sydney Biennale, Venice Biennale, Documenta XI in Kassel, Germany, the
 Ken Lum was Head of the Graduate Program in Studio Art from 2000 to 2006 at
 the University of British Columbia, where he taught from 1990 until 2006.
 He also spent two years as a visiting professor at the ecole Nationale
-SuprÃ©rieure des Beaux-Arts in Paris. Lum guest-taught at the Akademie der
+Suprérieure des Beaux-Arts in Paris. Lum guest-taught at the Akademie der
 Bildenden Kunst in Munich, Germany, the China Art Academy in Hangzhou,
 China and the lâ Ecole da Arts Plastique in Fort de France, Martinique. He
 has been widely published and is the Founding Editor of Yishu: The Journal

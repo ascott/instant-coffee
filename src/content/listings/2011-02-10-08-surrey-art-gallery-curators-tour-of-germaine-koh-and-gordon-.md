@@ -23,7 +23,7 @@ February 10, 7:30-8:30pm
 Santhosh_Living with a Wound_RAG
 
 TV Santhosh, Living with a Wound (2009) fiberglass, metal, LED panels
-60â€ x84â€ x30â€ . photograph courtesy of Richmond Art Gallery
+60” x84” x30” . photograph courtesy of Richmond Art Gallery
 
 You’re invited to join us for an informal tour of the Surrey Art Gallery’s
 current exhibitions with gallery curator, Jordan Strom. Jordan will

@@ -16,7 +16,7 @@ Facilitated by Alex Muir
 1965 Main St. www.vivomediaarts.com
 
 No Reading returns in September with materials on early French avant-garde 
-film. Paul Willemenâ€™s article â€œPhotogÃ©nie and Epstein,â€  surveys the texts of Jean 
+film. Paul Willemen’s article “Photogénie and Epstein,”  surveys the texts of Jean 
 Epstein and his contemporaries (Louis Delluc, Riciotto Canudo). Willemen 
 characterizes their efforts as some of the earliest attempts to theorize film. As a 
 result or in addition, Willemen relates their development of the term, Photogénie, 

@@ -139,7 +139,7 @@ describes:
 viewer maintains an awareness of their balance and form as they
 absorb the details in their surroundings. This kind of observation
 creates something new out of something familiar. My boat projects are
-an attempt to un-know the metropolis by continually exploring itâ€ 
+an attempt to un-know the metropolis by continually exploring it” 
 
 Launching from Hope, BC on September 1 and arriving in Richmond
 on September 3, the voyage uses tidal currents and historic canoe
@@ -283,7 +283,7 @@ Emily Carr University of Art and Design
 1399 Johnson St
 Vancouver, unceded Coast Salish territories
 
-Eugene Boulanger is ShÃºhtagotâ€™ı̨nę from TulÃ­t'a, in
+Eugene Boulanger is Shúhtagot’ı̨nę from TulÃ­t'a, in
 the Sahtú Region of
 Treaty 11, in Denendeh.
 
@@ -509,7 +509,7 @@ Release Date: Oct 1st, 2015
 
 Fill out our online Submissions form on our website and email
 submission artwork to art.katalyst@gmail.com with the subject line:
-â€œAttn: Issue # Submission: First & Last Nameâ€ . Deadlines are the 5th
+“Attn: Issue # Submission: First & Last Name” . Deadlines are the 5th
 of every month.
 
 -Include 3-8 high resolution (300 dpi, high quality, non watermarked)
@@ -580,7 +580,7 @@ enactors and skateboarders. Examining the aesthetics of political
 protest and counterculture, and the processes by which radical
 impulses are subsumed within commodities and cultural consumption,
 Morrison’s work troubles notions of authenticity, particularly when the
-â€œauthenticâ€  is absorbed into the mainstream.
+“authentic”  is absorbed into the mainstream.
 
 Morrison’s analysis of architectural styles, the historical context of their
 development and the evolution of their use over time, informs his
@@ -639,7 +639,7 @@ September 19 - Windows Collective film installation under North end
 Cambie Bridge
 September 20 - Cameraless Filmmaking Workshop
 Iris Film Collective presents the second part in its “Collective
-Unconsciousâ€  Series, which focusses in on other film collectives from
+Unconscious”  Series, which focusses in on other film collectives from
 across the country. We are pleased to host the Windows Collective as
 they drop by on their cross-Canada tour to present an astounding
 collection of film installations under the Cambie Bridge AND a free
@@ -836,7 +836,7 @@ boundaries between mediums. Activated by formal abstraction and
 experimental printing methods, I construct paintings using staining,
 dying and sewing techniques. Employing deskilled labour through
 hands-on production, I seek to explore metaphysical concerns relating
-to material and causality.â€ 
+to material and causality.” 
 — Colleen Heslin
 
 Treading Buoylines is an exhibition of new work by Colleen Heslin. The
@@ -855,7 +855,7 @@ making that appears on the fabric in my work consists of traces of
 pigment from the process of water drying. The lines from this process
 influence my formal decisions and potentials, and that is the space
 where the experimental process and formal abstraction engage and
-produce outcomes.â€ 
+produce outcomes.” 
 
 Colleen Heslin completed her BFA at Emily Carr University in 2003 and
 her MFA at Concordia University in 2014. She won the RBC Painting
@@ -908,7 +908,7 @@ acclaimed groups- from the Peter Brötzmann Chicago Tentet, Lean Left
 (with Terrie Hessels and Andy Moor of The Ex) to Double Tandem (with Dutch
 saxophonist, Ab Baars)- they have continued to return to their duo for
 more than a dozen years because it remains crucial to their creative
-output. â€  â€“ Billions.com
+output. ”  – Billions.com
 
 “Von Bingen began life when husband and wife duo Jenni Pace and Daniel
 Presnell (Astral Blessing) temporarily suspended Hildegard (their east
@@ -918,7 +918,7 @@ and Richard Smith. Influenced by histories of conceptual art practices and
 electronic and outsider music native to the west coast, Von Bingen’s sound
 is at once reminiscent of distant sonics, such as those found in the labs
 of 60’s SF pioneers, or overheard in Berlin’s Zodiac Club in the early
-70â€™s, while also anticipating the drone of future decades...â€  â€“F.O.L.
+70’s, while also anticipating the drone of future decades...”  –F.O.L.
 Ministries
 
 “JP Carter is a Juno award-winning trumpet player and composer from
@@ -927,12 +927,12 @@ approach to the trumpet and versatility as an improvisor and composer make
 him a vital contributor to the Vancouver music community. JP incorporates
 a variety of techniques into his trumpet playing, utilizing and
 experimenting with acoustic (traditional, extended) and electronic
-(effected, amplified) methods to create a wide spectrum of sound.â€  â€“
+(effected, amplified) methods to create a wide spectrum of sound.”  –
 jpcarter.ca
 
 John Brennan is a Canadian drummer, sound artist and curator based out of
 Vancouver. Best known for curating his renowned concert series “Destroy
-Vancouverâ€ , Brennan has also been very active on the world stage as an
+Vancouver” , Brennan has also been very active on the world stage as an
 accomplished improviser collaborating with the likes of William Hooker,
 Wally Shoup, Chris Cogburn, Nate Wooley, DJ Olive, Josh Zubot, Ellwood
 Epps and many others."
@@ -988,14 +988,14 @@ International Surrealist Movement in the 1930s, and the Kinetic Art
 Movement in the 1960s, Lye is best remembered for his contributions to the
 development of hand-crafted abstract cinema. In the early 1930s he
 experimented with new colour processes such as Dufaycolor and Gasparcolor
-while pioneering â€œdirect animationâ€ , a method of painting, scratching and
+while pioneering “direct animation” , a method of painting, scratching and
 stencilling directly onto motion picture celluloid. Aided by commissions
 from the British General Post Office (GPO), the Imperial Tobacco Company,
 Shell Motor Oil and Imperial Airways, his whimsical animated films of the
 mid- to late-1930s included original camera-less techniques, advertising
 slogans and dynamic musical rhythms. A fierce individualist and anarchistic
 thinker, Lye claimed that, “There has never been a great film unless it was
-created in the spirit of the experimental filmmaker.â€  When applied to his
+created in the spirit of the experimental filmmaker.”  When applied to his
 seldom seen but formally inventive war effort films, this statement
 illuminates Lye’s under-recognised contribution to the British documentary
 movement.
@@ -1370,7 +1370,7 @@ globe. Part III of Far Away So Close turns its attention to our always
 ultimately inadequate representation of landscape or, more properly, to
 three artists – Alana Bartol, Mike Bourscheid, and David Semeniuk – who
 examine the elaborate proxies we invent in our attempt to capture,
-represent or claim an â€œauthenticâ€  natural experience.
+represent or claim an “authentic”  natural experience.
 *
 
 Alana Bartol an interdisciplinary artist, curator, and educator from
@@ -1516,9 +1516,9 @@ Oppenheimer Park and Gallery Gachet are pleased to present In
 Between! this year’s annual exhibition showcasing artworks from the
 Oppenheimer Park community. Included are painting, drawing, print,
 sculpture, carving, textile, mixed media and video works. This year, the
-exhibition takes on â€œin betweenâ€  as its focus. In Between! represents a
+exhibition takes on “in between”  as its focus. In Between! represents a
 variety of perspectives (between languages, places, nations, cultures,
-life etc.). 35 artistsâ€™ diverse interpretations of inâ€“betweenness will be
+life etc.). 35 artists’ diverse interpretations of in–betweenness will be
 featured in the show.
 
 Salon Shop I Featuring artwork created during OPPEN–Arts Studio
@@ -1542,13 +1542,13 @@ has taken this opportunity to restore a remarkable work of public art, by
 artist Thunder Larry Parenteau.
 
 ADDITIONAL PROGRAMMING:
-Friday, September 11th, 5pmâ€”Opening Day Procession  Join the
+Friday, September 11th, 5pm—Opening Day Procession  Join the
 opening day procession from Oppenheimer Park to Gallery Gachet led
 by the Vancouver  Fire & Rescue Services Band.
-Saturday, October 10thâ€”ScavARTger Huntâ€“Art in the City III 
+Saturday, October 10th—ScavARTger Hunt–Art in the City III 
 ScavARTger Hunt is back! Scour the city of Vancouver to complete
 questions about artworks.  Win prizes for right answers!
-Thursday, October 15thâ€”Joy to the Park!  After the unveiling of
+Thursday, October 15th—Joy to the Park!  After the unveiling of
 Paintings to Adorn join us for an afternoon of music, food and art
 making.  This celebration will also include music and an art making
 workshop.
@@ -1781,7 +1781,7 @@ narrative story-telling in the cinema.
 A man (played by avant garde filmmaker James Benning), father of two sons
 by two wives, calls his fractured family to his disheveled home. He informs
 them of his state of health, and requests their help in committing suicide.
-The film â€“ rendered minimally as a â€œnarrativeâ€ - reveals the impact on the
+The film – rendered minimally as a “narrative” - reveals the impact on the
 family as they confront their father/husband. The means by which this
 evoked is visual and poetic, expressed tonally rather than as plot.
 
@@ -1876,7 +1876,7 @@ or by appointment.
 
 “Equally, we require a collective past - hence the endless
 reinterpretations of history, frequently to suit the perceptions of the
-present.â€ 
+present.” 
 -Penelope Lively
 
 Dreamy Returns features a backdated collection of videos that re-situate
@@ -1971,7 +1971,7 @@ critical writing, etc.); and
 6. An accompanying image list
 
 Please send applications to gallery@easternedge.ca, and indicate
-â€œMain Gallery Submissionâ€  in your subject line.
+“Main Gallery Submission”  in your subject line.
 
 For more information on the gallery's, history, mandate and call for
 submissions, please visit our website at www.easternedge.ca.
@@ -1992,11 +1992,11 @@ This event will be cash only.)
 
 The Burrard Arts Foundation presents Close Reading, an event
 celebrating the launch of the artist book “I See Things In You (36
-Vancouver Galleries)â€ . Produced by Alexandra Bischoff during BAFâ€™s
+Vancouver Galleries)” . Produced by Alexandra Bischoff during BAF’s
 inaugural writing residency, this publication both personifies the art
 gallery and fetishizes the relationship between artist, viewer, and
 exhibition space. Serving as an alternative catalog for 36 of
-Vancouverâ€™s prominent galleries, â€œI See Things In Youâ€  demonstrates
+Vancouver’s prominent galleries, “I See Things In You”  demonstrates
 the voyeuristic capacities of an emerging artist in the city.
 
 Curated by Bischoff, Close Reading brings together two artists, two

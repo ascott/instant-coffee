@@ -35,7 +35,7 @@ of intense and nonchalant energy, the soundtrack to a pimp on an
 interstellar journey.
 Joker's musical peers include Rustie, Gemmy and Kode 9, the recognised
 tastemaker and man behind Hyperdub who identified Joker as one to watch
-when he named him as his protÃ�Â©gÃ�Â©e for Mary Anne Hobbs hugely seminal
+when he named him as his protÂ©gÂ©e for Mary Anne Hobbs hugely seminal
 follow-up to Dubstep Wars, Generation Bass; broadcast worldwide on BBC
 Radio 1.
 Joker's video can be viewed on Youtube and in testament to the level of

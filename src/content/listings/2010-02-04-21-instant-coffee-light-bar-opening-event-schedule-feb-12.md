@@ -92,7 +92,7 @@ vox, knobs and tubes, buttons, various utensils and sliders), 10pm
 
 Thursday, March 18: Danish Artist Ditte Lyngkær Pedersen will host a
 screening event based on her video works and give a short presentation on
-the artists-run exhibition space rum46 in Ã�rhus, Denmark, 8pm
+the artists-run exhibition space rum46 in rhus, Denmark, 8pm
 
 Friday, March 19: CAM DALES of the ice cream social playing 50's and 60's hits.
 

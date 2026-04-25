@@ -28,7 +28,7 @@ Photography Festival.
 A singular Hong Kong phenomenon, the Walled City housed up to 35,000 people
 living in over 300 interconnected high-rise buildings covering one square
 city block in a densely populated neighbourhood forming a “city within a
-cityâ€ . Though demolished 20 years ago in 1993, interest in the Kowloon
+city” . Though demolished 20 years ago in 1993, interest in the Kowloon
 Walled City continues, fuelled in part by urban legends that persist about
 this extraordinary community. The Kowloon images, published in book form,
 have never before been exhibited.

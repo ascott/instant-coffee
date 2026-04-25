@@ -27,7 +27,7 @@ interaction; offering an accessible and educational approach to art and
 process that may inspire people and communities to engage creatively. 
 We are interested and respect art and craft tradition and we are 
 concerned with art education as a way to foster critical and creative 
-thinking as well as a relationship with materiality and â€œmakingâ€ , some 
+thinking as well as a relationship with materiality and “making” , some 
 values that are slowly lost in this particular time. We are: Patrick 
 Blaeser, Kaytee Kilgour, Garland Lam and Guadalupe Martinez. 
 www.manomanocollective.com

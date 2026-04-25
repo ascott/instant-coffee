@@ -31,7 +31,7 @@ expanded her creative work to include writing and painting.
 
 This commission is curated by Cease Wyss, a Skwxumesh media artist from
 the village of Sla7an in North Vancouver, and a past recipient of the Vancouver
-Mayorâ€™s Arts Award for media art.
+Mayor’s Arts Award for media art.
 
 UNIT/PITT Projects | 15 East Pender Street, Vancouver BC Canada V6A 1S9
 | +1 604 681 6740 | www.unitpitt.ca

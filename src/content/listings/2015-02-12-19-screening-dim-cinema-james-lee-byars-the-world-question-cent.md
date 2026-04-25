@@ -18,11 +18,11 @@ James Lee Byars: The World Question Center
 Programmed by Michèle Smith
 
 "Could you offer us a question that you feel is pertinent in regards to
-your own evolution of knowledge?â€  asks the voice at the end of the line.
+your own evolution of knowledge?”  asks the voice at the end of the line.
 It’s James Lee Byars calling, the American performance and installation
 artist “whose idiosyncratic, Zen-influenced blendings of Minimal and
 Conceptual art stressed questions over answers, absence over presence, and
-a lush momentary experience of beauty over permanenceâ€  (Roberta Smith, New
+a lush momentary experience of beauty over permanence”  (Roberta Smith, New
 York Times). Byars's initial idea for this project was to lock 100
 brilliant minds together behind closed doors and invite them to ask each
 other the questions they had been asking themselves. It evolved into The
@@ -32,7 +32,7 @@ a ring of university students (the entire cast dressed in pink robes, but,
 alas, filmed in B&W) telephoned thinkers, scientists, and artists with his
 question. Filmmaker Jef Cornelis documented the proceedings: “That the
 network even broadcast this adventure, let alone at 10 o’clock on a Friday
-evening, is still a puzzle to me.â€ 
+evening, is still a puzzle to me.” 
 
 PROGRAM
 

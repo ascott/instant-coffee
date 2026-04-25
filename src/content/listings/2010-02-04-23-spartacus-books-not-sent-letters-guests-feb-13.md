@@ -43,7 +43,7 @@ Guests, Margaret will present VERB WOMAN: unraveling (romance and the
 anthemic).
 
 DONATO MANCINI is the author of two books of procedural and visual poetry,
-Ligatures (2005) and Ã�thel (2007), both from New Star books, both nominated
+Ligatures (2005) and thel (2007), both from New Star books, both nominated
 for the ReLit Award. He also co-directed the world's first genuine in-world
 avatar documentary AVATARA (2003), now part of the Ubu Web international
 archive of experimental film and video. Long time member of the Kootenay

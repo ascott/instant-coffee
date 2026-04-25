@@ -9,7 +9,7 @@ summary: "Dpt. Art History Visual Art & Theory, UBC | Artist’s talk Emily Ward
 ---
 
 An Artist’s talk by Emily Wardill
-â€œand they lay them before you like reasonsâ€ 
+“and they lay them before you like reasons” 
 Distinguished Visiting Artist Program
 Department of Art History, Visual Art & Theory, University of British Columbia
 

@@ -14,7 +14,7 @@ Feb, 19, 2015 | 7pm – 9:30pm
 Tickets: $55/individual; $100/couple
 
 Limited to ONE EVENING ONLY and 48 seats, “Light and Shadows: an evening
-with Beijingâ€™s Shadow Puppeteersâ€  is a rare opportunity to touch the magic,
+with Beijing’s Shadow Puppeteers”  is a rare opportunity to touch the magic,
 literally. A 40-minute performance by the world-renowned Beijing Shadow
 Play Art Troupe is followed by a hands-on workshop teaching the guests how
 to build and operate their own shadow puppet. All guests receive 1

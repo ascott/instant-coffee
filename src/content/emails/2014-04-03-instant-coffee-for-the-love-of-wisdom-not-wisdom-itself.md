@@ -186,7 +186,7 @@ the larger series 'Other-Frames' which looks to activate the questions
 of what the chip of the camera can reveal in a greater context. The 
 work itself is an activity of searching for unexploited qualities inherent 
 in exploitation; not a defiant negation as with the alternative media 
-originated in the â€™60s, but a manipulation of manipulation.
+originated in the ’60s, but a manipulation of manipulation.
 
 For more information visit www.gallery295.com
 
@@ -247,8 +247,8 @@ Redshift Music Society
 As a part of our ongoing music series organized by Francois Houle we are 
 thrilled to present new music virtuoso Mark Takeshi McGregor. 
 
-Described as a â€œnational treasureâ€  (WholeNote Magazine) and as a musician 
-of â€œtremendous flair and intensityâ€  (Globe and Mail), Mark Takeshi McGregor 
+Described as a “national treasure”  (WholeNote Magazine) and as a musician 
+of “tremendous flair and intensity”  (Globe and Mail), Mark Takeshi McGregor 
 has firmly established himself as one of Canada’s premiere flutists and a 
 respected interpreter of the music of our time. On Friday, April 4th, 2014, 
 McGregor will present the CD release concert of his sophomore solo album 
@@ -434,7 +434,7 @@ previous Not Sent Letters & Guests events here:
 http://notsentlettersproject.com/category/events
 
 For Notifications
-and news â€œlikeâ€  the Not Sent Letters Project facebook page:
+and news “like”  the Not Sent Letters Project facebook page:
 https://www.facebook.com/pages/Not-Sent-Letters-
 Project/147882091946917
 
@@ -500,7 +500,7 @@ since 1974. The Importance of Being Iceland/travel essays in art was
 awarded the Warhol/creative capital art writers’ grant in 2007. The
 Foundation for Contemporary Art awarded her a grant for poetry in 2014;
 Her Inferno (a poet’s novel) is now available (in her own voice) on
-ITunes; in 2012 she received a Guggenheim fellowship. â€œStreet Retreat,â€ 
+ITunes; in 2012 she received a Guggenheim fellowship. “Street Retreat,” 
 her essay about living on the streets of New York City with a group of
 Buddhists and homeless activists will be included in this year’s Whitney
 Biennial.
@@ -729,7 +729,7 @@ See a map of the main space here: http://thetoast.org/about/
 
 About the Toast Collective:
 
-The Toast Collective is a collection of collectives that operate â€œThe Toastâ€  an 
+The Toast Collective is a collection of collectives that operate “The Toast”  an 
 art, event and food-centric space @ 648 Kingsway in East Vancouver (Riley 
 Park/Little Mountain). Toast is a D.I.Y., flexible and community-located space 
 for artists, events and workshops.
@@ -737,7 +737,7 @@ for artists, events and workshops.
 Currently, we are the following collectives/projects:
 Beer Cat Brewing Collective: brew, drink, share, dance; Junktion Kickball: 
 Drop-in Kickball (May-September) & Monday Events in EastVan; General 
-Assembly and Side Project: â€ make it niceâ€  community | arts | events | 
+Assembly and Side Project: ” make it nice”  community | arts | events | 
 workshops.
 
 Some things we value are: inclusivity, community, shared/pooled resources, 
@@ -1039,12 +1039,12 @@ photographic paper and chlorophyll assumes the role of silver halide. For his
 Double Invasive series, the artist took samples of English ivy and Norway 
 maple, plants considered by local ecologists to be invasive, and used their 
 leafy surfaces to "photograph" indigenous ferns such as lady fern and 
-Athyrium filix-femina. The leaf prints are then scanned as a way of â€œfixingâ€  
+Athyrium filix-femina. The leaf prints are then scanned as a way of “fixing”  
 the fugitive images from the leaves.
 
 In a second series, Salal, Alward made a photo emulsion of extracted plant 
 chlorophyll applied to sheets of paper. On these surfaces he made solar 
-contact prints, then scanned the results to â€œfixâ€  the fugitive images, and 
+contact prints, then scanned the results to “fix”  the fugitive images, and 
 printed them again on paper. This project originated while reading a diary 
 entry made by the Scottish botanist David Douglas, who wrote that the first 
 thing he saw and touched when he landed on the coast near the mouth of 
@@ -1124,9 +1124,9 @@ For further info, contact:
 wil@waapart.com
 +1 778 229 3458
 
-Post rem, a Latin phrase, literally means â€œafter the thingâ€  and is defined in 
-Merriam-Webster as â€œlogically subsequent to the existence of particularsâ€ . 
-The word â€œpostâ€  in art typically connotes a reference of a work to a 
+Post rem, a Latin phrase, literally means “after the thing”  and is defined in 
+Merriam-Webster as “logically subsequent to the existence of particulars” . 
+The word “post”  in art typically connotes a reference of a work to a 
 movement; not here. Post Rem, the exhibition, will look at moments when 
 chance occurrences become the source of inspiration from which 
 contemporary artists derive to make work.
@@ -1523,7 +1523,7 @@ the home-base for VIVO Media Arts, Alderbridge Mini-Storage, Gallery 1965,
 and many other organizations and artists.
 On Main Gallery has occupied one of the storefronts since 2007. In 2011, it 
 was completely renovated and expanded by Rick Erickson who put in a 
-â€œsecret trap doorâ€  in the gallery that leads down to the 6500 sq. ft. of mini-
+“secret trap door”  in the gallery that leads down to the 6500 sq. ft. of mini-
 storage lockers. It is a labyrinth of hallways with 70 spaces in all sizes and 
 shapes.
 We have invited several dozen artists who will transform this unique 

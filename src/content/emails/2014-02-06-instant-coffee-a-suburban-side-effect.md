@@ -20,7 +20,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2014-02-06-06-catriona-jeffries-geoffrey-farmer-feb-7">06. Catriona Jeffries | Geoffrey Farmer | FEB 7</a>
 <a href="/instant-coffee/listings/2014-02-06-07-chernoff-fine-art-kim-kennedy-austin-boy-band-buddha-feb-7">07. Chernoff Fine Art | Kim Kennedy Austin: Boy Band Buddha | FEB 7</a>
 <a href="/instant-coffee/listings/2014-02-06-08-contemporary-art-gallery-special-feedback-talk-luis-jacob-fe">08. Contemporary Art Gallery | Special Feedback Talk: Luis Jacob | FEB 11</a>
-<a href="/instant-coffee/listings/2014-02-06-09-ahva-gallery-denise-feb-12">09. AHVA Gallery | â€œDeniseâ€  | FEB 12</a>
+<a href="/instant-coffee/listings/2014-02-06-09-ahva-gallery-denise-feb-12">09. AHVA Gallery | “Denise”  | FEB 12</a>
 <a href="/instant-coffee/listings/2014-02-06-10-west-vancouver-museum-ukiyoe-spectacular-japanese-woodblock-">10. West Vancouver Museum | Ukiyoe Spectacular: Japanese woodblock prints | FEB 12</a>
 <a href="/instant-coffee/listings/2014-02-06-11-centre-a-kotama-bouabane-and-henry-tsang-feb-13">11. Centre A | Kotama Bouabane and Henry Tsang | FEB 13</a>
 <a href="/instant-coffee/listings/2014-02-06-12-index-gallery-pulling-feathers-from-a-broken-tooth-feb-13">12. Index Gallery | Pulling Feathers from a Broken Tooth | FEB 13</a>
@@ -219,7 +219,7 @@ Canada.
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2014-02-06-05-artspeak-barn-swallows-feb-7">05. Artspeak | Barn Swallows | FEB 7</a>
 ------------------------------------------------------------------------
-â€œBarn Swallowsâ€ 
+“Barn Swallows” 
 
 CAROLINE MONNET, DEVIN TROY STROTHER, LAWRENCE PAUL 
 YUXWELUPTUN
@@ -357,11 +357,11 @@ www.contemporaryartgallery.ca
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2014-02-06-09-ahva-gallery-denise-feb-12">09. AHVA Gallery | â€œDeniseâ€  | FEB 12</a>
+<a href="/instant-coffee/listings/2014-02-06-09-ahva-gallery-denise-feb-12">09. AHVA Gallery | “Denise”  | FEB 12</a>
 ------------------------------------------------------------------------
 UBC Department of Art History, Visual Art and Theory presents:
 
-â€œDeniseâ€  - a new exhibition at the AHVA Gallery 
+“Denise”  - a new exhibition at the AHVA Gallery 
 
 Exhibition Dates: February 12 – March 1, 2014
 Opening Reception: Wednesday, February 12, 5 – 7pm
@@ -582,10 +582,10 @@ paintings and sculptures to ceremonial regalia and conceptual
 photography. It emphasizes regional art from the postwar era to the 
 present day, revealing the collectors’ special interest in local and 
 emerging artists, many of whom have become personal friends. “My 
-passion for the visual arts is not just about owning and collecting art,â€  
+passion for the visual arts is not just about owning and collecting art,”  
 says Michael O’Brian; “The work must create within me a desire to feel 
 and understand what was in the artist’s mind at the time of its 
-creation.â€ 
+creation.” 
 
 Taking an experimental approach to the exhibition, the curators—
 Karen Duffek (Museum of Anthropology, UBC), Helga Pakasaar 
@@ -600,10 +600,10 @@ artworks in the exhibition are presented as a series of conversations,
 from intimate to confrontational. 
 
 “We have each brought different perspectives into the process of 
-assembling the exhibit,â€  says Duffek, â€œand want to honour the vision of 
+assembling the exhibit,”  says Duffek, “and want to honour the vision of 
 the Michael O’Brian Family Foundation, which founded Satellite Gallery 
 as a space for new and temporary projects, collaborations, and 
-experiments in the arts.â€ 
+experiments in the arts.” 
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2014-02-06-14-trench-contemporary-art-glenn-lewis-feb-13">14. TRENCH Contemporary Art | Glenn Lewis | FEB 13</a>
@@ -621,7 +621,7 @@ Pottery Studio at St. Ives in 1962, Glenn Lewis was invited back to the
 studio to attend the Master Potter residency. Lewis’s return to ceramics 
 exemplifies his patient mastering of material and form. Exhibited with 
 playful photographs and early ceramics, Lewis’ work pushes the 
-boundaries of art, craft and the unexpected, all with perfect â€œflakeyâ€  
+boundaries of art, craft and the unexpected, all with perfect “flakey”  
 flair.
 
 Seventeen pieces of pottery, bowls and covered pots, are each 
@@ -629,7 +629,7 @@ accompanied by a photograph. The corresponding photograph, some
 from his 1962 visit and other taken recently in 2013, relate to a specific 
 site and memory of the artist’s. Their correlation with the pot and the 
 photograph is built from a process that Lewis has termed “poetical 
-thinkingâ€  where everyday encounters and relationships between 
+thinking”  where everyday encounters and relationships between 
 objects are constructed into formal arrangements. The village of St. 
 Ives, and the artist’s own memories and connotations become 
 essential in our experience of viewing. 
@@ -752,7 +752,7 @@ Valko’s illustrative realist paintings take up themes from contemporary
 culture: static drive-in cinemas of a bygone era, extraterrestrial activity 
 and youth culture in the digital age. In this exhibition, Valko confronts 
 viewers with his signature voyeuristic impulse. The gaze is cast on the 
-â€œselfieâ€  generation and its penchant for self-imaging and yearning for 
+“selfie”  generation and its penchant for self-imaging and yearning for 
 meaningful social connection. Valko’s voyeuristic gaze acts as a mirror 
 of reflection that invites viewers to assess the meaning of privacy and 
 community, intimacy, and solitude in the digital age.
@@ -800,7 +800,7 @@ cultural silencing and erasure of radical feminism. We want to
 challenge and reject this erasure by exhibiting art that reworks themes 
 of the ghostly, the supernatural, and the spiritual to serve a female-
 positive and egalitarian agenda. We also invite audience participation 
-in that we invite people to attend costumed as their â€œmagical selvesâ€ .
+in that we invite people to attend costumed as their “magical selves” .
 
 We noticed the lack of radical, socially conscious art in Vancouver and 
 created Radical Spirits to work toward changing that. We are an 
@@ -843,7 +843,7 @@ Kellman writes: “In her practice, using advanced design and fabricating
 techniques and contemporary industrial materials, Jeannie Thib offers 
 a critique of the Modernist, rectilinear, standardized space and design 
 that prizes efficiency. She asks, what if our built environment were 
-based on ornamental floral patterns?â€ 
+based on ornamental floral patterns?” 
 
 Jeannie received a BFA from York University, Toronto, in 1979. She 
 has exhibited in Europe, the USA, Mexico, Cuba and widely across 
@@ -860,7 +860,7 @@ Convention Center, USA.
 On Jeannie Thib’s recent passing, Joy Walker, a Toronto-based artist 
 and a collaborator of Thib’s, Joy Walker writes, “Jeannie has made us 
 all look a little more closely at quiet details, bringing them into sharp 
-focus. She has definitely done that for me. She will be deeply missed.â€ 
+focus. She has definitely done that for me. She will be deeply missed.” 
 
 Jeannie Thib: Hyperflat is curated by Tila Kellman and organized by 
 Saint Mary’s University Art Gallery in Halifax.

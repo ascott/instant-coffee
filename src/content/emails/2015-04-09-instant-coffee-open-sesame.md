@@ -126,7 +126,7 @@ experienced in these images. Robideau's narrative embraces a lament for
 what has been lost, a celebration for what has survived, and an admonition
 for the future of a city still in its infancy.
 
-Join us on Thursday April 9 from 7pm â€“ 10pm for the opening reception of
+Join us on Thursday April 9 from 7pm – 10pm for the opening reception of
 Eraser Street. There will be a forthcoming publication with an essay
 written by Clint Burnham. The exhibition runs from April 9 to May 16, 2015.
 
@@ -175,7 +175,7 @@ Opening Thursday, April 9, 8pm
 In Cultivating Equilibrium, Madison Killo and Patrick Campbell transform
 the UNIT/PITT gallery space into an immersive, non-site recontextualization
 of what is known in the rhetoric of its community of supporters as “Our
-Green Jewel.â€ 
+Green Jewel.” 
 
 Built on an extremely valuable piece of land, Bloedel Conservatory was
 nearly closed in 2009 due to poor attendance, The fact that it remains as a
@@ -504,7 +504,7 @@ bit of a journey into town where all the shops and pubs are (if that’s what
 you like), some local restaurants are within walking distance. The wood
 that is everywhere makes it feel like it’s something out of the old time
 travel writers like Maugham or Greene, although I’m not too sure if either
-of them had ever travelled here.â€ 
+of them had ever travelled here.” 
 
 - excerpt from a review on TripAdvisor
 
@@ -735,7 +735,7 @@ Rather than presenting her photographs as traditional two dimensional
 prints, Bubas began printing multiple images from her negatives to
 laser cut and reconstruct the scenes into three-dimensional tableaux,
 building up layers and layers of intricate details. The final result
-is a selection of three-dimensional photographs or paper â€œtolesâ€
+is a selection of three-dimensional photographs or paper “toles”
 housed in Plexiglas cases. The scenes are lush and mesmerizing, but
 also suggest a tone of isolation; Bubas' unique perceptiveness and
 skill for conveying narrative is readily apparent.
@@ -876,17 +876,17 @@ Surrey Art Gallery
 Kick off spring by joining us for the opening reception of:
 
 Views from the Southbank II: Moments, Reflections, Intervals, second of
-three exhibitions celebrating the Galleryâ€™s 40th anniversary and featuring
+three exhibitions celebrating the Gallery’s 40th anniversary and featuring
 portraits of people and places in Surrey and the surrounding area by 29
 different artists: Matilda Aslizadeh, Richard Bond, Randy Bradley, Claude
 Breeze, Edward Burtynsky, Lisa Chen, Jennifer Clark, Barbara Cole, Gregory
 W. Dawe, Brandon Gabriel, Gabor Gasztonyi, Alex Grewal, Elizabeth Hollick,
 Evan Lee, Ken Lum, Michael Markowsky, Scott Massey, Sean Mills, Jef Morlan,
-Ann Nelson, James Nizam, ZoÃ« Pawlak, Barbara Pratezina, Helma Sawatzky,
+Ann Nelson, James Nizam, Zoë Pawlak, Barbara Pratezina, Helma Sawatzky,
 Ikbal Singh, Jeannette Sirois, Ken Wallace, Stella Weinert, and Kira Wu.
 
-Re:Sourceâ€“A Living Archive Part 2 where Jim Adams, Polly Gibbons, Cora
-Li-Leger, Haruko Okano, and Mandeep Wirk bring the Galleryâ€™s four decades
+Re:Source–A Living Archive Part 2 where Jim Adams, Polly Gibbons, Cora
+Li-Leger, Haruko Okano, and Mandeep Wirk bring the Gallery’s four decades
 of archives to life through an ever-revolving installation in celebration
 of our 40th anniversary;
 
@@ -900,7 +900,7 @@ John Wynne: Anspayaxw, an installation for voice, image, and sound that
 features the endangered language of Gitxsanimax of the Gitxsan people based
 near Hazelton, BC, part of Open Sound 2015: Polyphonic Cartograph; and
 Orijit Sen: From Punjab, with Love. Based on his famous 75 metre long mural
-at the Virasat-e-Khalsa Museum in Anandpur Sahib, India, Senâ€™s From Punjab
+at the Virasat-e-Khalsa Museum in Anandpur Sahib, India, Sen’s From Punjab
 with Love chronicles the daily life, myths, and festivities of the Punjab
 region through the centuries. This 9 metre-long printed mural is presented
 in partnership with Indian Summer Arts Society.
@@ -936,17 +936,17 @@ its second year this April.
 
 Annie Briard is a Vancouver-based artist from Montréal challenging visual
 perception through moving image and lens focused work. Her billboard
-project â€œAny Day Nowâ€  is an in-situ photographic installation on East
+project “Any Day Now”  is an in-situ photographic installation on East
 Hastings Street. It offers a momentary break in a passerby’s field of
 vision to question how we see and make sense of the world around us. Using
-optical recursion and a 3D viewing potential, â€œAny Day Nowâ€  underlines
+optical recursion and a 3D viewing potential, “Any Day Now”  underlines
 connections between visual attention, wonder, and possibility. Billboards
 catch our eyes through bright colors, bold fonts and rapid messages. “Any
-Day Nowâ€  rather than showing or telling, provides a mirroring of its
+Day Now”  rather than showing or telling, provides a mirroring of its
 surrounding space for contemplation. Any day now, a new sight; a moment of
 wonder; any day now, an escape.
 
-Back Gallery Project will present associated programing for â€œAny Day Nowâ€ 
+Back Gallery Project will present associated programing for “Any Day Now” 
 including a 3D viewing and artist talk. More information:
 http://capturephotofest.com/public-installations/any-day-now/
 
@@ -1004,14 +1004,14 @@ Digital Collection gives worldwide access to scholars, teachers, students,
 and art-lovers.
 
 “Video pioneer Nam June Paik organized the first art exhibition on the
-World Wide Web in 1994,â€  explains Fluxus artist and collection donor Ken
+World Wide Web in 1994,”  explains Fluxus artist and collection donor Ken
 Friedman. “Since then, Fluxus artists and composers have had a durable
 presence of event scores, images, documents, web sites, exhibitions,
 publications, and more. Some vanished when links broke and web sites
 disappeared. Others continue to overcome the limits of fragile artifacts
 that museums preserve by protecting them from people. The Fluxus Digital
 Collection brings works back to life, returning them to the world where
-they belong with a future as lively as the past.â€ 
+they belong with a future as lively as the past.” 
 
 The University of Iowa Special Collections houses a trove of yet-to-be
 processed Fluxus art, writing, and correspondence. The Fluxus Digital
@@ -1077,7 +1077,7 @@ CineFest LIVE Director Ammar Mahimwalla says, “You can’t stop people from
 expressing themselves, no matter how oppressive the government control. F
 Grass and the CineFest LIVE Ai Weiwei screenings are a clear demonstration
 of that, with Ai Weiwei getting his message out to the world despite his
-continued physical detainment in a country that seems so eager to shut him up.â€ 
+continued physical detainment in a country that seems so eager to shut him up.” 
 
 As a follow up to the premiere of the Biennale’s CineFest LIVE Documentary
 Film Festival, launched in June 2014 with Academy Award winner Oliver Stone
@@ -1207,7 +1207,7 @@ meteoric rise from small town to surging metropolis. Through his gorgeous
 portraiture, he grants us a unique look at political figures, local and
 visiting celebrities, and royal dignitaries. Although his own humble nature
 denied any such flattering titles, he was hailed as the “Karsh of
-Vancouverâ€  by Malcolm Parry of The Vancouver Sun. Self-taught, he believed
+Vancouver”  by Malcolm Parry of The Vancouver Sun. Self-taught, he believed
 in a formal education for photographers, and was instrumental in setting up
 the first professional photography diploma program at Langara College.
 
@@ -1258,7 +1258,7 @@ June 4-7, 2015. We are currently accepting submissions from artists for the
 Group Show to take place at Astro Turf Gallery on June 4th. Submissions
 close April 17, 2015.
 
-This yearâ€™s Group Show theme is â€œIN DREAMSâ€ : explore your own alternate
+This year’s Group Show theme is “IN DREAMS” : explore your own alternate
 reality, reinterpret a subconscious landscape or recreate a nightmare. We
 are looking for submissions that are drawn from your other waking life –
 the impossible or the mundane, the hoped or the feared, the meaningful or
@@ -1354,7 +1354,7 @@ she bribes the karaoke guy with flowers for two songs instead of one.
 
 Steffanie Ling is a writer, curator and editor. She will have red wine and
 turtlenecks all year long. For LIT LIT LIT LIT she will be reading from
-work in process, tentatively titled â€œYouâ€™re a liar and a smokerâ€  a book of
+work in process, tentatively titled “You’re a liar and a smoker”  a book of
 twenty chapters for twenty cigarettes.
 
 Zebulon Zang is a filmmaker and writer from Maillardville, British
@@ -1564,7 +1564,7 @@ should we make any?
 
 To begin our third volume, KAPSULA wipes the chalkboard clean. We don’t
 have a lesson plan for you, so think of this call as “self-directed
-learning.â€  There are no suggested subject matters or formats. We're handing
+learning.”  There are no suggested subject matters or formats. We're handing
 over carte blanche, though we’re not retiring our red pen completely. The
 only stipulation is that we ask all submissions to somehow reflect on our
 publishing history and call upon themes explored in the early days of the

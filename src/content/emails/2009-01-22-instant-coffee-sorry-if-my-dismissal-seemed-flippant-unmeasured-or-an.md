@@ -114,7 +114,7 @@ call 1-888-434-7834
 
 The Art of the Short Review
 
-A hands-on workshop for anyone who wants to write what they thinkâ��in
+A hands-on workshop for anyone who wants to write what they think’in
 as few words as possible. Patty Osborne, a regular contributor to
 Endnotes, will lead participants through the process of honing in on
 what needs to be said in a short review and what is the best way to
@@ -125,7 +125,7 @@ paper. By the end of the workshop you will have written a short
 review!
 
 Saturday February 21, 2009
-1:00â��4:00 p.m.
+1:00’4:00 p.m.
 Listel Hotel - 1300 Robson St.
 
 To register: Online - http://www.geist.com/events/review-workshop or
@@ -304,7 +304,7 @@ skateboarding on the concrete pilings, caught in that moment of heightened
 energy just before the storm breaks. Gladwell's skateboarder depicts a
 romantic figure of the beauty and self-absorption of youth, and slowing the
 speed of the image emphasizes the agility and grace of his movement.
-Gladwellâ��s work typically explores youth subcultures as a manifestation of
+Gladwell’s work typically explores youth subcultures as a manifestation of
 physical prowess in relation to commerce and architectural space. He
 positions his work within a tradition of artistic gestures that respond to
 the city.
@@ -319,14 +319,14 @@ artists, Contemporary Art Centre Vilnius (CAC), Lithuania. He is a founding
 member of the Sydney-based artist collective Imperial Slacks and his work
 is represented by the Anna Schwartz Gallery, Sydney.
 
-OTHER SIGHTS FOR ARTISTSâ�� PROJECTS seeks to create a presence for art in
+OTHER SIGHTS FOR ARTISTS’ PROJECTS seeks to create a presence for art in
 spaces and sites that are accessible to a broad public, such as the built
 environment, communications technologies, the media, and the street. Other
 Sights presents projects that consider the aesthetic, economic and
 regulatory conditions of public places and public life.
 
-Storm Sequence is the second project of Other Sightâ��s Looking Up program, a
-curated series of artistsâ�� works displayed on the Granville/Robson LED
+Storm Sequence is the second project of Other Sight’s Looking Up program, a
+curated series of artists’ works displayed on the Granville/Robson LED
 screens.
 
 Other Sights gratefully acknowledges the support of the Canada Council for
@@ -409,7 +409,7 @@ sound and movement.
 
 Jeppe Hein is emerging as an influential artist within international art
 circles. In 2007 he exhibited Objects in the Mirror are Closer than They
-Appear, CarrÃ&#65533;Â© dÃ¢ï¿½ï¿½Art, MusÃ&#65533;Â©e dÃ¢ï¿½ï¿½art contemporain, Nimes, France; In-between,
+Appear, CarrÃ&#65533;Â© dâï¿½ï¿½Art, MusÃ&#65533;Â©e dâï¿½ï¿½art contemporain, Nimes, France; In-between,
 SCAI, The Bathhouse, Tokyo and Distance and The Curve, Barbican Art Centre,
 London, UK. He has most recently presented From Seriousness to Silliness a
 collaborative exhibition with Dan Graham at Galerie RÃ&#65533;Â¼diger SchÃ&#65533;Â¶ttle,
@@ -767,8 +767,8 @@ Photographer"
 
 Sarah Kowalski, MA Candidate, University of Alberta
 
-Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½Materia medica: (re)fabricating the body in Deborah Hall's Medical
-Histories and Pam Hall's New Readings in Female AnatomyÃ&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½
+Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½Materia medica: (re)fabricating the body in Deborah Hall's Medical
+Histories and Pam Hall's New Readings in Female AnatomyÃ&#65533;Â¢ïÂ¿Â½ïÂ¿Â½
 
 Eric Hoff, PhD Candidate, UBC (Interdisciplinary Studies: Philosophy and
 Bioscience)
@@ -811,8 +811,8 @@ Vancouver Art Gallery"
 
 Christina Smylitopolous, PhD Candidate, McGill University
 
-"Im-Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½materialÃ&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½ or Material: Replacing the Queen? Pierre Henri
-RÃ&#65533;ï¿½Ã&#65533;Â©voilÃ&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½s Mary
+"Im-Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½materialÃ&#65533;Â¢ïÂ¿Â½ïÂ¿Â½ or Material: Replacing the Queen? Pierre Henri
+RÃ&#65533;ï¿½Ã&#65533;Â©voilÃ&#65533;Â¢ïÂ¿Â½ïÂ¿Â½s Mary
 Queen of Scots Separated from her Faithful Servants, 1822"
 
 Heather Muckart, MA 2008, UBC
@@ -822,15 +822,15 @@ Symbolic Violence"
 
 Birga U. Meyer, PhD Candidate UBC (History)
 
-Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½Message bearing entities Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½ historic objects on displayÃ&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½
+Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½Message bearing entities Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½ historic objects on displayÃ&#65533;Â¢ïÂ¿Â½ïÂ¿Â½
 
 Joshua Hite, MFA 2008;
 
-Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½In RowsÃ&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½
+Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½In RowsÃ&#65533;Â¢ïÂ¿Â½ïÂ¿Â½
 
 Manjinder Kaur Sidhu, MA Candidate, Asian Studies
 
-Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½Sundari: The book as object/tool of empowerment.Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½
+Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½Sundari: The book as object/tool of empowerment.Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½
 
 
 

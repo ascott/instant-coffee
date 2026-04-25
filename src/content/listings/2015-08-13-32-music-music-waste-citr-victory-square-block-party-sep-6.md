@@ -17,12 +17,12 @@ Mainland to Victory Square Park (Cambie St and W Hastings St) to celebrate
 the end of summer and support non-profit media organizations with a splurge
 of local bands. 
 
-"Everything is set for us to have an unforgettable festival this year,â€ 
+"Everything is set for us to have an unforgettable festival this year,” 
 says Victory Square Block Party and Music Waste organizer Mark Richardson.
 “The line-up is really musically diverse and shows the variety of different
 sounds you can find in Vancouver’s independent music scene right now. It’s
 a great way for people to support Vancouver musicians as well as CiTR and
-Megaphone Magazine, all for free.â€ 
+Megaphone Magazine, all for free.” 
 
 With performances from Woolworm, Ramzi, Other Jesus, Cave Girl, Gal Gracen,
 Fake Tears, Whitney K, and Twin River, the line‐up features a set of
@@ -42,9 +42,9 @@ vendors, and CiTR 101.9FM, Vancouver’s independent community and
 campus-based broadcaster.
 
 “The Block Party exists to support awesome community-based organizations
-and exciting new music coming out of Vancouver,â€  says Sarah Cordingley,
+and exciting new music coming out of Vancouver,”  says Sarah Cordingley,
 Music Director at CiTR. “CiTR is always happy to be a part of it, and
-Vancouver wouldnâ€™t be the same without it.â€ 
+Vancouver wouldn’t be the same without it.” 
 
 Since 2004, the Block Party has become a staple of Vancouver’s independent
 music scene, and of the Labour Day weekend. Remaining committed to local

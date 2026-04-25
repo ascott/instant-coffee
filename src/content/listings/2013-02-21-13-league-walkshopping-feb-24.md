@@ -8,7 +8,7 @@ venue: "League"
 summary: "League | walkshopping | FEB 24"
 ---
 
-Upcoming League play: â€œwalkshoppingâ€ 
+Upcoming League play: “walkshopping” 
 24 February 2013, noon-4pm
 Elm Park (41 Ave @ Larch)
 
@@ -18,7 +18,7 @@ tactic that bends the city toward unplanned ends (Michel de Certeau). It’s
 done for political reasons, for pleasure, for meditation. “Walkers are 
 ‘practitioners of the city,’ for the city is made to be walked.[...] Just as 
 language limits what can be said, architecture limits where one can walk, but 
-the walker invents other ways to go,â€  wrote Rebecca Solnit in Wanderlust: A 
+the walker invents other ways to go,”  wrote Rebecca Solnit in Wanderlust: A 
 History of Walking.
 
 The next League play date turns on walking. How does the environment 

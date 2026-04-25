@@ -37,6 +37,6 @@ His books include Hard Core Logo, The Pornographer¹s Poem and most recently
 
 Thursdays Writing Collective, directed by Elee Kraljii Gardiner, has been
 called, “the biggest, boldest, and by far the most vital conspiracy of
-writers operating in Vancouver at present,â€  by Geist magazine. TWC meets at
+writers operating in Vancouver at present,”  by Geist magazine. TWC meets at
 Carnegie Community Centre every Thursday for drop-in creative writing
 sessions. More info at www.thursdayspoemsandprose.ca

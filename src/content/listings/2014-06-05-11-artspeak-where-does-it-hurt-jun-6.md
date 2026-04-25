@@ -8,7 +8,7 @@ venue: "Artspeak"
 summary: "Artspeak | Where Does it Hurt? | JUN 6"
 ---
 
-â€œWhere Does it Hurt?â€ 
+“Where Does it Hurt?” 
 
 CATHY BUSBY, DAVID MACWILLIAM, RACHELLE SAWATSKY,
 KRISTA BELLE STEWART 

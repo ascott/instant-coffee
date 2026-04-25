@@ -16,9 +16,9 @@ Presentation House Gallery is pleased to present an exhibition of rare vintage
 photographs by Karlheinz Weinberger (1921-2006), that together with 
 magazines and samples of vintage D.I.Y. clothing, document a youth subculture 
 in Zurich that emerged in the aftermath of the Second World War and was “bent 
-on subverting Swiss propriety.â€ 
+on subverting Swiss propriety.” 
 
-Living in Zurich, Switzerland, Weinberger was a self-taught â€œamateurâ€  
+Living in Zurich, Switzerland, Weinberger was a self-taught “amateur”  
 photographer whose day job working in a factory warehouse allowed him to 
 pursue photography seriously in his free time. In the late 1940s Weinberger 
 began to publish his pictures for a gay magazine using the pseudonym of Jim, 
@@ -27,8 +27,8 @@ cult following. Weinberger produced all the prints featured in this exhibition i
 home darkroom, which have remained until now, in relative obscurity.
 
 In 1958, Weinberger met and began photographing members of a small band of 
-teenagers. In post-war Switzerland, these self-named â€œrebelsâ€  (referred to by the 
-Swiss as â€œHalbstarkâ€  or â€œhalf strongâ€ ) were comprised of working class boys and 
+teenagers. In post-war Switzerland, these self-named “rebels”  (referred to by the 
+Swiss as “Halbstark”  or “half strong” ) were comprised of working class boys and 
 girls dissatisfied by the conservative climate of the day. They adopted a gang 
 identity modeled on American pop icons—with exaggerated hairdos and 
 homemade clothing—in the manner of James Dean and Elvis Presley. Through 

@@ -20,16 +20,16 @@ cornerstone. The day’s events will conclude with a party at newly-opened
 Red Truck Brewery featuring The Trews, No Sinner, Rich Hope, and the Ice
 Cream Social DJs.
 
-+ Burrard Arts Foundation presents â€œTowards a Fictional History of Colour,â€ 
++ Burrard Arts Foundation presents “Towards a Fictional History of Colour,” 
 a group exhibition featuring works by Ben Marvin, Eddy Hofbauer, Jacobo
 Zambrano, Jeff Hallbauer, Simone Jarvis, and Zoe Hodgson.
 
-+ Equinox Gallery presents â€œDay School,â€  an exhibition of new works by
++ Equinox Gallery presents “Day School,”  an exhibition of new works by
 multidisciplinary artist Sonny Assu. Assu will speak about his work at 1:00pm.
 
 + Monte Clark Gallery opens a two-person exhibition by Garry Winogrand with
 Larry Clark, titled “Women are better than men. Not only have they
-survived, they do prevail.â€ 
+survived, they do prevail.” 
 
 + Macaulay Fine Art exhibits paintings by Attila Richard Lukacs and
 Lawrence Paul Yuxweluptun.

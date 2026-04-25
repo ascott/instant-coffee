@@ -80,40 +80,40 @@ visible minorities, Aboriginal peoples and persons with disabilities.
 
 ￼Chef, Services aux arts
 
-Concours no :Â Â  4600 (Interne/Externe)Â Â Â Â Â Â Â Â  Statut : RÃ©gulier Ã  plein temps
-Ã�chelle salariale : 83 600 $ Ã Â	105 000 $Â Â Â Â Â Â Â Â Â  Date de clÃ´ture : 19
+Concours no :Â Â  4600 (Interne/Externe)Â Â Â Â Â Â Â Â  Statut : Régulier Ã  plein temps
+chelle salariale : 83 600 $ Ã Â	105 000 $Â Â Â Â Â Â Â Â Â  Date de clôture : 19
 mars 2010
 
 Au sujet du Conseil des Arts du Canada
-Joignez-vous Ã  notre Ã©quipe et participez au soutien de la crÃ©ativitÃ©
+Joignez-vous Ã  notre équipe et participez au soutien de la créativité
 canadienne! Le Conseil des Arts du Canada est un organisme national
 dynamique et tenu en très haute estime qui a pour mandat de promouvoir
-lâ��Ã©tude, la diffusion des arts, ainsi que la production dâ��Å�uvres dâ��art.Â 
-Nos salaires et avantages sociaux sont trÃ¨s concurrentiels.Â  Pour plus
-dâ��information au sujet du Conseil des Arts du Canada, veuillez visiter
+l’étude, la diffusion des arts, ainsi que la production d’Å�uvres d’art.Â 
+Nos salaires et avantages sociaux sont très concurrentiels.Â  Pour plus
+d’information au sujet du Conseil des Arts du Canada, veuillez visiter
 notre site Internet au www.conseildesarts.ca <http://www.conseildesarts.ca/>
 
 Au sujet du poste
 Sous la supervision directe du directeur de la Division des disciplines
-artistiques, contribuer Ã  la planification stratÃ©gique et au dÃ©veloppement
+artistiques, contribuer Ã  la planification stratégique et au développement
 global de la Division des disciplines artistiques, faciliter la gestion
 continue des programmes de la Division des disciplines artistiques, gérer
-la production de documents sur lâ��architecture de programmes et fournir des
+la production de documents sur l’architecture de programmes et fournir des
 informations sur le Conseil des Arts du Canada et ses programmes; mettre en
-Å�uvre des politiques et procÃ©dures administratives relatives aux
-subventions de faÃ§on efficace et efficiente;Â  gÃ©rer les activitÃ©s de
-gestion du Centre dâ��inscription du Conseil; diriger le dÃ©veloppement
-dâ��outils clÃ©s, gÃ©rer les activitÃ©s, le budget et onze (11) employÃ©s des
+Å�uvre des politiques et procédures administratives relatives aux
+subventions de façon efficace et efficiente;Â  gérer les activités de
+gestion du Centre d’inscription du Conseil; diriger le développement
+d’outils clés, gérer les activités, le budget et onze (11) employés des
 Services aux arts; accomplir d'autres tâches connexes.
 
 Exigences du poste
 
 · un diplôme universitaire en art, en administration des affaires ou
-en administration publique ou une combinaison dâ��Ã©tudes et 10 annÃ©es
-dâ��expÃ©rience professionnelle et pratique.
+en administration publique ou une combinaison d’études et 10 années
+d’expérience professionnelle et pratique.
 
-Â· cinq annÃ©es dâ��expÃ©rience dans des postes de gestion et
-dâ��administration comportant des responsabilitÃ©s croissantes, de prÃ©fÃ©rence
+Â· cinq années d’expérience dans des postes de gestion et
+d’administration comportant des responsabilités croissantes, de préférence
 dans le milieu des arts;
 
 · beaucoup d'entregent et d'excellentes habiletés pour la
@@ -126,15 +126,15 @@ conflictuelles et les points de vue divergents; et
 gestion de risques et d'élaboration de
 
 · Les fonctions du poste requièrent l'utilisation des deux langues
-officielles.Â	Les exigences relatives Ã  la deuxiÃ¨me langue officielle sont
+officielles.Â	Les exigences relatives Ã  la deuxième langue officielle sont
 les suivantes: parler : niveau avancé; lire : niveau avancé; écrire :
 niveau intremédiaire.
 
-Ce poste est situÃ© Ã  Ottawa et peut exiger jusqu'Ã  10 jours de dÃ©placements
+Ce poste est situé Ã  Ottawa et peut exiger jusqu'Ã  10 jours de déplacements
 par année.
 
 Comment soumettre votre candidature politiques;
-Remplissez le formulaire de demande dâ��emploi
+Remplissez le formulaire de demande d’emploi
 <http://www.canadacouncil.ca/aboutus/employment/rr127237563301718750.htm> ,
 y indiquant le numéro du concours, joignez-y une copie de votre curriculum
 vitÃ¦ et faites parvenir le tout Ã  Roch Brunelle, Ressources humaines, avant
@@ -144,18 +144,18 @@ la date de fermeture, soit par :
 · courrier postal : 350, rue Albert, C.P. 1047, Ottawa (Ontario)
 K1P 5V8
 
-Pour plus dâ��informations ou pour un profil dâ��emploi plus dÃ©taillÃ©, veuillez
+Pour plus d’informations ou pour un profil d’emploi plus détaillé, veuillez
 communiquer avec Roch Brunelle au (613) 566-4414, poste 4124 ou par
 courriel Ã  competition1@canadacouncil.ca
 <mailto:competition1@canadacouncil.ca> .Â  Nous remercions tous les
 candidats et les candidates de leur intérêt; cependant, nous ne
-communiquerons quâ��avec les personnes sÃ©lectionnÃ©es pour une entrevue.
+communiquerons qu’avec les personnes sélectionnées pour une entrevue.
 
-Nous valorisons lâ��Ã©quitÃ© et la diversitÃ© dans notre effectif, et nous
-encourageons les candidats Ã  sâ��identifier selon les groupes dÃ©signÃ©s
+Nous valorisons l’équité et la diversité dans notre effectif, et nous
+encourageons les candidats Ã  s’identifier selon les groupes désignés
 suivants : femmes, minorités visibles, Autochtones, personnes handicapées.
 
-P Think green; read on screen /Pensons Ã  l'environnement; lisons Ã  l'Ã©cran
+P Think green; read on screen /Pensons Ã  l'environnement; lisons Ã  l'écran
 
 Roch Brunelle
 Human Ressources Administrative Assistant/

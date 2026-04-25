@@ -18,8 +18,8 @@ Time. Open from Wed-Sat, 12-6, opportunities to sit with the works are
 quickly passing. The final week is packed full of public events.   
 Wednesday at 7pm is an interactive community based event with 
 Michael Turner, one of the contributing writings for the Long Time 
-publication. The event, â€œOn Becomingâ€ , part of VIVO Media Artsâ€™ 
-monthly series â€œNo Reading After the Internetâ€ , is an in-depth 
+publication. The event, “On Becoming” , part of VIVO Media Arts’ 
+monthly series “No Reading After the Internet” , is an in-depth 
 audience-led discussion and reading with the author. Attendees will be 
 led through the reading from within the work it comments upon. This 
 event promises to be thought-provoking, cerebral and a very good 
@@ -39,7 +39,7 @@ to context the many layers of qualities and circumstance that
 interconnect in such inert ways to form a concerted thesis, a creative 
 partnership, an exhibition and publication.
 
-   Originally, the exhibitionâ€™s working title was Hypnotic. Not only a 
+   Originally, the exhibition’s working title was Hypnotic. Not only a 
 reference to the work which would complete a decade long trilogy of 
 collaboration commissioned by On Main, but also, a reminder of the 
 intense phycological journey undertaken by the artists to complete this 
@@ -77,9 +77,9 @@ representations are death. In Roland Barthes’ Camera Lucida, Barthes
 considers a picture of his mother: “the photograph tells me death in the 
 future. What pricks me is the discovery of this equivalence. In front of 
 the photograph of my mother as a child, I tell myself: she is going to 
-die: I shudder ... over a catastrophe which has already occurredâ€ . Like 
+die: I shudder ... over a catastrophe which has already occurred” . Like 
 this picture of Barthes mother in the garden, the video works of 
-â€œ...before I wakeâ€  portray the future death of their subjects. It is a 
+“...before I wake”  portray the future death of their subjects. It is a 
 haunting work, marking a milestone yet to be fully understood.
 
   Secondly, this exhibition marks an important milestone in the artist 

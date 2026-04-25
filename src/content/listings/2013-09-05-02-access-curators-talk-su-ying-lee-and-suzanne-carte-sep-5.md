@@ -20,7 +20,7 @@ The project assumes the characteristics of the retail environment to connect
 to the local community while challenging the gallery’s role as an intermediary 
 that delimits the viewer’s direct access to art. Video titles in stock are artists’ 
 works procured through an international open call for submissions. 
-â€œCustomersâ€  are asked to pay what they wish, which can be interpreted as 
+“Customers”  are asked to pay what they wish, which can be interpreted as 
 cash, a non-monetary exchange, critique or no remuneration. This facet is in 
 place as an experimental form of engagement, where artists have the 
 opportunity to receive responses directly from viewers. In addition to payment, 

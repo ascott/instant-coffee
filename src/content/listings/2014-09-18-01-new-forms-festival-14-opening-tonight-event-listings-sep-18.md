@@ -107,7 +107,7 @@ http://www.mortonsubotnick.com/
 
 Murcof + Simon Geilfus [Antivj]
 www.antivj.com/murcof
-*This performance is sponsored by the Consulat gÃ©nÃ©ral de France Ã
+*This performance is sponsored by the Consulat général de France Ã
 Vancouver - We wish to acknowledge and thank them for their support of this
 performance. *
 
@@ -129,7 +129,7 @@ https://soundcloud.com/visionist
 Wen -DJ- (Keysound Recordings)
 http://staypaidbookings.com/artists/wen
 
-Young Braised & Soledad MuÃ±oz -Live- (1080p)
+Young Braised & Soledad Muñoz -Live- (1080p)
 http://youngbraised.com/
 http://soledadmunoz.com/
 
@@ -168,7 +168,7 @@ http://www.nateboyce.net/
 Nicolas Sassoon
 http://nicolassassoon.com/
 
-PepÃ©
+Pepé
 
 Rick Silva
 http://ricksilva.net/

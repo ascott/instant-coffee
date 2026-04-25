@@ -24,7 +24,7 @@ Get tickets Here
 
 Sure to be the most unique and memorable live event of the year, 
 famed Canadian turntabalist/multi-instrumentalist Kid Koala brings his 
-graphic novel â€œSpace Cadetâ€  to vibrant life using cinematic 
+graphic novel “Space Cadet”  to vibrant life using cinematic 
 soundscapes, mixed-media installations, and headphones for 
 everyone! In this “beautiful mélange of post-pop, contemporary 
 classical and whispered electronics" (Nightlife Magazine), Kid Koala’s 

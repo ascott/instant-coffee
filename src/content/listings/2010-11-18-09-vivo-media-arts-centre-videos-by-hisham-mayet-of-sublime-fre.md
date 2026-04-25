@@ -51,11 +51,11 @@ encouraged.
 
 Based out of Portland, Oregon, Hisham Mayet is co-founder and co-operator,
 with Alan Bishop, of the Seattle based CD and DVD label Sublime
-Frequencies, which is dedicated to â��acquiring and exposing obscure sights
-and sounds from modern and traditional urban and rural frontiersâ��. An avid
+Frequencies, which is dedicated to ’acquiring and exposing obscure sights
+and sounds from modern and traditional urban and rural frontiers’. An avid
 traveler and archivist, Mayet is also a documentary filmmaker working with
-digital video to produce a kind of â��folk cinemaâ�� which seeks to â��manifest
-into the realm of poetic and ecstatic truthâ��. His films include Jemaa El
+digital video to produce a kind of ’folk cinema’ which seeks to ’manifest
+into the realm of poetic and ecstatic truth’. His films include Jemaa El
 Fna: Morocco's Rendezvous of the Dead, Folk Music of the Sahara: Among the
 Tuareg of Libya, ISAN: Folk and Pop Music of Northeast Thailand, NIGER:
 Magic and Ecstasy in the Sahel, and Morocco: Musical Brotherhoods from the

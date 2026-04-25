@@ -15,7 +15,7 @@ Thursday, October 30, 7-10pm
 
 Free at the Burnaby Art Gallery
 Get ready for a spooky surrealist evening out! The collaborative, chance-
-based drawing game known as â€œExquisite Corpseâ€  puts your imagination to 
+based drawing game known as “Exquisite Corpse”  puts your imagination to 
 the test as you create non-sensical and often hilarious drawings. 
 Addmission is free, but seating is limited; call 604-297-4422 to reserve 
 your spot. 19 years and up. Event is facilitated by artist, Ben Frey.

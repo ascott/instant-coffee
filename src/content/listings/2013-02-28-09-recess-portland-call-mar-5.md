@@ -49,7 +49,7 @@ RECESS
 1426 SE Salmon St.
 Portland, OR 97214
 
-For digital submissions, weâ€™re asking for a small donation of ﬁfty
+For digital submissions, we’re asking for a small donation of ﬁfty
 cents for printing charges which can be made via our Paypal account.
 Please e-mail PDFs to info@recessart.com. We’ll also be accepting
 video resumés, contact us for further details. For more information,

@@ -237,7 +237,7 @@ w/ actions taking place throughout the evening.
 “My hand which touches the things is itself subject to being touched.
 “Through this crisscrossing within it of the touching and the tangible, its
 own movements incorporate themselves in the universe that they interrogate,
-are recorded on the same map as itâ€  - Bernard Flynn In a discussion of
+are recorded on the same map as it”  - Bernard Flynn In a discussion of
 Maurice Merleau-Ponty’s thought.
 
 Eschaton: final event in the devine plan: the end of the world.
@@ -417,7 +417,7 @@ Valley, Desert Elm.
 Scrivener’s Monthly is a series of public presentations that explore the
 space between material practices and spoken words: a periodical that talks.
 Set alongside the exhibitions program at Western Front, this experiment in
-â€œnot publishingâ€  involves readings, performances, and other articulations.
+“not publishing”  involves readings, performances, and other articulations.
 
 For more information, please visit front.bc.ca.
 
@@ -451,7 +451,7 @@ Smith, George Tzanetakis, Paul Walde
 
 Conveners: Gabriel Mindel Saloman and Jordan Strom
 
-Musicians and artists have long incorporated â€œfield recordingsâ€  of the
+Musicians and artists have long incorporated “field recordings”  of the
 natural and human world into their compositions and performances. Likewise,
 researchers like biologists and anthropologists have long relied on sound
 recordings to preserve knowledge of the natural and human worlds for future
@@ -462,7 +462,7 @@ reproduce systems of power and control through preservation and
 presentation that has deep roots in the colonial projects of centuries past.
 
 The Sound Thinking 2014 symposium will feature musicians, sound artists,
-and researchers who use sound to actively participate in a â€œconversationâ€ 
+and researchers who use sound to actively participate in a “conversation” 
 with their areas of interest. The symposium discussions will examine this
 more multidirectional approach as it is situated within a number of new
 sound practices including: artists whose work is created collaboratively
@@ -577,7 +577,7 @@ artists. Proceeds from this fundraiser will in part go towards the
 development of Access’ new Traveling Artist Residency, 23 Days at Sea,
 which will enable selected artists to book passage aboard a cargo ship and
 sail across the Pacific Ocean from Vancouver to Busan, Korea and Shanghai,
-China. Artists will be considered â€œin residenceâ€  for the twenty-three days
+China. Artists will be considered “in residence”  for the twenty-three days
 aboard the vessel.
 
 Participating artists are:
@@ -787,7 +787,7 @@ gain from their mentors and communities, they are also influenced by other
 modes of education, decolonization and globalization. Curator, Nan Capogna
 says, “The senior artists’ commitment to mentoring a younger of generation
 of artists is humbling and inspiring and the works of the younger artists
-are of extraordinary qualityâ€ .
+are of extraordinary quality” .
 
 The YVR Art Foundation is a nonprofit organization that supports BC First
 Nations art and artists through scholarships, awards and exhibitions. The
@@ -805,10 +805,10 @@ and the compelling photographic images of Tamara Skubovius. A publication
 for the exhibition is being produced.
 
 “We are pleased to partner with the Richmond Art Gallery to present
-Interweavings,â€  said Susan Jackson, Executive Director, YVR Art Foundation.
+Interweavings,”  said Susan Jackson, Executive Director, YVR Art Foundation.
 “This exhibition provides a unique opportunity for past YVR Art Foundation
 scholarship recipients to showcase their stories and accomplishments as BC
-First Nations artists.â€  The Opening Reception is Saturday, November 15,
+First Nations artists.”  The Opening Reception is Saturday, November 15,
 1:00-4:00pm and members of the public are invited to attend. The artists
 and curators will provide an introduction to the exhibition at 1:30pm.
 Admission to the opening reception is free and light refreshments will be
@@ -1093,7 +1093,7 @@ compared to nothingness macrocosm; Center in between nothing and
 everything. Endlessly far from understanding extremes – both, end and
 beginning of things are unobtainable, hidden with impermeable secret;
 equally powerless to see the essence, where its been torn out and the
-infinity where its going to be swallowedâ€  - Blaise Pascal
+infinity where its going to be swallowed”  - Blaise Pascal
 _____________________________
 
 Artists in the Visitor Vegetable show are wanderers and observers, the most
@@ -1134,7 +1134,7 @@ http://www.contemporaryartgallery.ca
 Professor Tyrus Miller, University of California, Santa Cruz
 
 “Walter Benjamin’s Psychogeography: Space, Affect, and Movement from
-One-way Street to Central Parkâ€ 
+One-way Street to Central Park” 
 
 Department of Art History, Visual Art & Theory, University of British Columbia
 Friday, November 21st, 2014
@@ -1347,7 +1347,7 @@ Monday 24, November; 1.30pm–5.30pm, (please arrive early)
 Cineworks Studio, 1131 Howe Street, Vancouver (lane entrance)
 Advance booking required: http://goo.gl/3rr3I9
 
-Taking its title from the 1990 play by Fiona Templeton, in which the â€œyouâ€ 
+Taking its title from the 1990 play by Fiona Templeton, in which the “you” 
 slowly shifts from audience member to cityscape, this 4-hour workshop takes
 a decidedly subjective approach towards understanding how filming a place
 turns it into a character, a body, and a speaking subject – one that is
@@ -1431,7 +1431,7 @@ Vancouver, British Columbia V5T 1J5
 SPARK BOX NATIONAL RESIDENCY AWARD
 
 So many artists are trying to fit their practice into the hours outside of
-their day job. Many are setting up â€œstudiosâ€  on their living room floors or
+their day job. Many are setting up “studios”  on their living room floors or
 dining room tables. At Spark Box we offer artists time and space to focus
 on their work in an encouraging and supportive environment. Imagine one
 full month to get a new project off the ground. One full month to think

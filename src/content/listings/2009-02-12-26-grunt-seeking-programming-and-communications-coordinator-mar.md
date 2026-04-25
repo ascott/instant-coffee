@@ -48,7 +48,7 @@ and social network sites.
 We are looking for an individual with good people skills, able to negotiate
 delicate and competing interests, has experience working within a budget
 and can offer creative and innovative solutions to challenges. This
-individual should work well in an artistâ��s environment and be able to
+individual should work well in an artist’s environment and be able to
 coordinating a dynamic group of contractors to deliver and promote our
 programming. Ideally the candidate should enjoy working as part of a team,
 but be able to initiate and complete projects independently as required.
@@ -67,5 +67,5 @@ Qualified applicants please apply by March 1st 2009 with
 Resume and Cover Letter in confidence to:
 gruntHR@yahoo.com
 
-Please label: Search Committee â�� Programming and Communications
+Please label: Search Committee ’ Programming and Communications
 Coordinator, grunt gallery

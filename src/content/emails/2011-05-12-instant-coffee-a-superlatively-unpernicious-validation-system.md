@@ -192,17 +192,17 @@ dating back to Plato. Often, something that is described as a simulacrum is
 thought of as being inferior to its original. Theorist Jean Baudrillard
 argues that a simulacrum is not a copy but is a thing that becomes truth in
 its own right. Martins asserts that this idea of simulacrum can be
-transposed onto the mental health community; wherein the â€œmentally illâ€ 
+transposed onto the mental health community; wherein the “mentally ill” 
 person in society is seen through the simulacra lens as a lesser version of
-a â€œnormalâ€  person; so that the entrenched stigmatization of the â€œmentally
-illâ€  person is reified.
+a “normal”  person; so that the entrenched stigmatization of the “mentally
+ill”  person is reified.
 
 Martins states: “There are symptoms of certain mental illnesses that even
 give a person the sensation of being a living simulacrum. A person can
 feel as if they are an actor and that their life is some sort of film or TV
 show. A person can also have the sensation that they are somehow not a
-â€œwholeâ€  person again reinforcing the nightmarish idea of the mentally ill
-as simulacra.â€ 
+“whole”  person again reinforcing the nightmarish idea of the mentally ill
+as simulacra.” 
 
 This exhibit of Martins’ explores these fascinating ideas around mental
 illness and stigmatization through his video and installation works.
@@ -336,9 +336,9 @@ Centre A presents CO-LAB, a cross-disciplinary project that marks
 the first collaboration between Centre A and Vancouver New Music. 
 CO-LAB brings together a group of artists from diverse backgrounds 
 to produce four exciting workshops and an exhibition. These four 
-workshops are â€œNoise/De-noiseâ€  with Giorgio Magnanensi, â€œSound 
-Experimentâ€  with Giorgio Magnanensi & Daniel Tones, â€œMap Senseâ€  
-with Germaine Koh & Gilliam Jerome, and â€œVertical Cityâ€  with 
+workshops are “Noise/De-noise”  with Giorgio Magnanensi, “Sound 
+Experiment”  with Giorgio Magnanensi & Daniel Tones, “Map Sense”  
+with Germaine Koh & Gilliam Jerome, and “Vertical City”  with 
 Andrew Lee & Jennifer Schine. Through facilitating a portal of 
 exchange between visual art and new music, CO-LAB is designed 
 to develop experimental models of cross-disciplinary collaboration 
@@ -350,7 +350,7 @@ perceiving the world; a tool of understanding… [it is] thus necessary
 to imagine radically new theoretical forms, in order to speak to new 
 realities. Sound, the organization of noise, is one such form. It 
 reflects the manufacture of society; it constitutes the audible 
-waveband of the vibrations and signs that make up society.â€  - 
+waveband of the vibrations and signs that make up society.”  - 
 Jacques Attali from Noise: The Political Economy of Music
 
 NOISE/DE-NOISE with Giorgio Magnanensi
@@ -493,7 +493,7 @@ Badlands National Park is suspended between the gullies and horizons of the
 desert landscape. “Concerned with notions of the romantic sublime,
 phenomenological experience, and secular spiritualism, the work continues
 Russell’s unique investigation into the possibilities of cinema as a site
-for transcendenceâ€  (Museum of Contemporary Art Chicago). Ben Russell:
+for transcendence”  (Museum of Contemporary Art Chicago). Ben Russell:
 www.dimeshow.com
 
 Black and White Trypps Number One (USA 2005. B&W, 16mm, silent. 6 mins.)
@@ -537,7 +537,7 @@ The internet has changed not only the way we experience the world but the
 way its script is written. The forward-slash is part of that script, and a
 means of navigation. For Turner, a writer who values means over ends, the
 doorway these forward-slashes stand in for has become a recurring motif in
-his work, one that reminds us to always â€œmind the gap.â€ 
+his work, one that reminds us to always “mind the gap.” 
 
 Michael Turner is an award-winning writer of fiction, criticism and song.
 His books include Hard Core Logo, The Pornographer’s Poem and 8x10. He is
@@ -1368,7 +1368,7 @@ Call for Animation Proposals
 
 Deadline: 5PM Friday June 3, 2011
 Program Dates: July 4 -Sept 23, 2011
-Theme: â€œAnimated Cityâ€ 
+Theme: “Animated City” 
 
 Ever wanted to see your animation on a building? Quickdraw Animation Society
 seeks submissions from emerging to mid-career animators for our QuickTrack
@@ -1428,7 +1428,7 @@ nervous, as many of my heroes were in that screening room that night); and,
 3) The Ottawa Gay and Lesbian Film Festival invited me to do a fundraiser
 for them, and I agreed. The organizers of the screening made the screening
 an OUTDOOR screening at a common mall area. So that was amazing to
-witness, the shorts playing for everyone passing by to see.â€ 
+witness, the shorts playing for everyone passing by to see.” 
 
 The time has come experience the hilarity again. 
 

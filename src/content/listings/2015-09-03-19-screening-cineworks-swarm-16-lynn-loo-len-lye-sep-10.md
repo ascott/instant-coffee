@@ -52,14 +52,14 @@ International Surrealist Movement in the 1930s, and the Kinetic Art
 Movement in the 1960s, Lye is best remembered for his contributions to the
 development of hand-crafted abstract cinema. In the early 1930s he
 experimented with new colour processes such as Dufaycolor and Gasparcolor
-while pioneering â€œdirect animationâ€ , a method of painting, scratching and
+while pioneering “direct animation” , a method of painting, scratching and
 stencilling directly onto motion picture celluloid. Aided by commissions
 from the British General Post Office (GPO), the Imperial Tobacco Company,
 Shell Motor Oil and Imperial Airways, his whimsical animated films of the
 mid- to late-1930s included original camera-less techniques, advertising
 slogans and dynamic musical rhythms. A fierce individualist and anarchistic
 thinker, Lye claimed that, “There has never been a great film unless it was
-created in the spirit of the experimental filmmaker.â€  When applied to his
+created in the spirit of the experimental filmmaker.”  When applied to his
 seldom seen but formally inventive war effort films, this statement
 illuminates Lye’s under-recognised contribution to the British documentary
 movement.

@@ -20,7 +20,7 @@ November 15, 2013 to January 12, 2014
 Opening Thursday November 14, 7-10 pm
 The Contemporary Art Gallery presents a major solo exhibition of early work 
 by American artist James Welling. 
-Welling emerged as a seminal figure in the â€œPictures Generationâ€ , an 
+Welling emerged as a seminal figure in the “Pictures Generation” , an 
 influential group of artists including Sherrie Levine, Cindy Sherman and 
 Richard Prince. Working in New York in the late 1970s and early 1980s, they 
 were acclaimed for their pioneering use of photography and for opening up a 
@@ -39,9 +39,9 @@ snow-capped mountain ridges. By focusing on simple, repetitive motifs
 Welling sought to remove photography from its subject, in order to trigger 
 personal associations in the viewer and to explore how we see, rather than 
 what we see. These works were frequently contact-printed to gain what 
-Welling described as â€œa facsimile effect,â€  involving no enlargement from the 
+Welling described as “a facsimile effect,”  involving no enlargement from the 
 negative. As Welling stated at the time, “the (small) image convinces me of 
-its truth in a way larger images cannot.â€ 
+its truth in a way larger images cannot.” 
 The exhibition and publication, Mind on Fire, brings together around one 
 hundred of Welling’s early, experimental and abstract works from this period, 
 statements which surround the mechanical and philosophical parameters of 

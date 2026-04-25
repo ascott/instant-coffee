@@ -30,7 +30,7 @@ and has exhibited her work internationally. Her video, Hero of Our Time, is
 currently on tour through Canada in a group exhibition titled Diabolique
 that explores various responses to, and representations of, war and
 violence. For her contribution to Not Sent Letters & Guests, Matilda will
-try to extract nuance and novelty from that most clichÃ�Â©d and ubiquitous
+try to extract nuance and novelty from that most clichÂ©d and ubiquitous
 image: the Hollywood celebrity promo shot.
 
 MARGARET DRAGU is an interdisciplinary artist with a multi-personae disorder.

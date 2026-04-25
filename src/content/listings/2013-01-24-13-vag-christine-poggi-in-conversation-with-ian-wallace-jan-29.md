@@ -15,7 +15,7 @@ Time: 7 pm
 Location: Vancouver Art Gallery, 750 Hornby Street, Vancouver, BC, V6Z 2H7
 
 Created in conjunction with the landmark exhibition “Ian Wallace: At the 
-Intersection of Painting and Photography,â€  the talks series Reading Ian 
+Intersection of Painting and Photography,”  the talks series Reading Ian 
 Wallace: An International Perspective consists of conversations that provide a 
 rare opportunity for first-hand insight into Wallace’s expansive career.
 
@@ -38,7 +38,7 @@ For more information on other talks in this series featuring Stan Douglas and
 Victor Burgin, please visit 
 http://vanartgallery.bc.ca/events_and_programs/lectures_talks.html
 
-The exhibition â€œIan Wallace: At the Intersection of Painting and Photographyâ€  
+The exhibition “Ian Wallace: At the Intersection of Painting and Photography”  
 continues at the Vancouver Art Gallery until February 24. 
 
 Vancouver Art Gallery

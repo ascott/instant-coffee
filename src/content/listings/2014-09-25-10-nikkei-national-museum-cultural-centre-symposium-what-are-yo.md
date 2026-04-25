@@ -21,7 +21,7 @@ Exhibition continues to January 4, 2015
 
 Through colour portraits of multiracial individuals of all ages and walks
 of life, award-winning filmmaker and artist Kip Fulbeck raises the
-question, â€œWhat are you?â€  Originally used as a derogatory label derived
+question, “What are you?”  Originally used as a derogatory label derived
 from the Hawaiian word for "half," hapa is now a term of pride by many
 whose mixed-race heritage includes Asian ancestry. These powerful yet
 intimate expressions of identity offers a complex perspective on an

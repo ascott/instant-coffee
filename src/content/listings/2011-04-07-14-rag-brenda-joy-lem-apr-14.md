@@ -18,8 +18,8 @@ April 15 – June 12, 2011
 
 Opening: Thursday April 14 at 7pm
 
-â€œHomage to the Heartâ€  addresses themes of memory, oral history, 
-spirituality and â€œthe enduring heartâ€  as artist Brenda Joy Lem 
+“Homage to the Heart”  addresses themes of memory, oral history, 
+spirituality and “the enduring heart”  as artist Brenda Joy Lem 
 explores her family history and the threads that connect 
 generations. Working from family and archival images and stories 
 told to her by relatives, she recounts fragments from the history of 

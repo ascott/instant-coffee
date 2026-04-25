@@ -337,9 +337,9 @@ in conversation: SUNDAY AUGUST 23, 2PM
 Reception: SUNDAY AUGUST 23, 3PM
 
 Kinder Morgen in the German language directly translates as
-Ã¢€˜Children TomorrowÃ¢€™, and artist Nancy
-Bleck calls up this meaning alongside the name Ã¢€˜Kinder
-MorganÃ¢€™ as an energy corporation, as a way to align
+â€˜Children Tomorrowâ€™, and artist Nancy
+Bleck calls up this meaning alongside the name â€˜Kinder
+Morganâ€™ as an energy corporation, as a way to align
 with the Tsleil Waututh cultural world-view of how things get done,
 always with an eye toward the seven generations yet unborn, or
 tomorrow's children.
@@ -363,7 +363,7 @@ Admission is free of charge.
 
 4360 Gallant Ave, North Vancouver BC (in the heart of Deep Cove)
 
-Open 7 days a week, 10 a.m. Ã¢€“ 5 p.m. except stat
+Open 7 days a week, 10 a.m. â€“ 5 p.m. except stat
 holidays
 www.seymourartgallery.com
 
@@ -502,7 +502,7 @@ the energetic draw embodied in a metaphysical relationship to space,
 perception, and consciousness. Coming from a background in documentary
 photography, Shapiro moves beyond representational convention to express an
 internalized sensation of the world as a rhizomatic negotiation of image
-space. In doing so she asks, â€œHow does one photograph the invisible?â€  and
+space. In doing so she asks, “How does one photograph the invisible?”  and
 finds the answer in an expression of experience that is an internalized
 interpretation of photographic time. In this exhibition, Shapiro provides
 her own visualization of the invisible experience. To photograph the
@@ -724,7 +724,7 @@ begin at 2, 2:30, 3 and 3:30pm. All ages. Free.
 Victory Square Block Party Returns with Irreplaceable Line-up of Local
 Artists
 
-(VancouverÃ¢€”August 11) Music Waste and CiTR 101.9FM
+(Vancouverâ€”August 11) Music Waste and CiTR 101.9FM
 are pleased to present the 11th annual Victory Square Block Party on
 Sunday, September 6, 2015 from 2-9p.m. This free event invites music
 fans from across the Lower Mainland to Victory Square Park (Cambie
@@ -741,37 +741,37 @@ Megaphone Magazine, all for free.
 
 With performances from Woolworm, Ramzi, Other Jesus, Cave Girl,
 Gal Gracen, Fake Tears, Whitney K, and Twin River, the line‐up
-features a set of artists from VancouverÃ¢€™s current
+features a set of artists from Vancouverâ€™s current
 independent music scene that would not be found at any other event.
 DJs Owen Ellis and bb.yu will spin music throughout the day, filling the
 space between bands and Miss Christie Lee from Musqueam will be
 doing an opening celebration for the event. On-air personalities from
 CiTR will be on-site to emcee and interview bands as part of an all-day
 live broadcast on 101.9 FM and streaming at www.citr.ca. Local
-business WhatÃ¢€™s up? Hot Dog! will be selling hot dogs
+business Whatâ€™s up? Hot Dog! will be selling hot dogs
 created especially for the event.
 
 Continuing its tradition of supporting community media in Vancouver,
 partial sponsorship and raffle proceeds will be donated to Megaphone,
 a magazine sold on the streets of Vancouver by homeless and low
-income vendors, and CiTR 101.9FM, VancouverÃ¢€™s
+income vendors, and CiTR 101.9FM, Vancouverâ€™s
 independent community and campus-based broadcaster.
 
 The Block Party exists to support awesome community-based
 organizations and exciting new music coming out of Vancouver says
-Sarah Cordingley, Music Director at CiTR. Ã¢€œCiTR is
-always happy to be a part of it, and Vancouver wouldnÃ¢€™t
-be the same without it.Ã¢€Â 
+Sarah Cordingley, Music Director at CiTR. â€œCiTR is
+always happy to be a part of it, and Vancouver wouldnâ€™t
+be the same without it.â€Â 
 
 Since 2004, the Block Party has become a staple of
-VancouverÃ¢€™s independent music scene, and of the
+Vancouverâ€™s independent music scene, and of the
 Labour Day weekend. Remaining committed to local talent, the Block
 Party counts bands such as Pink Mountaintops, The Unicorns, White
 Lung, Slam Dunk, and The Pack A.D. among its alumni.
 
 The 2015 Victory Square Block Party promises to be an unforgettable
 event. We would like to thank our sponsors for helping to make this
-event possible: Champion Sponsor WhatÃ¢€™s Up? Hot
+event possible: Champion Sponsor Whatâ€™s Up? Hot
 Dog! Gold Sponsors Hastings Crossing BIA, SFU Woodwards Centre
 for Community Engagement, FACTOR Silver Sponsor Print Print
 Bronze Sponsors Audiopile Records, Neptoon Records, Girls Rock
@@ -890,7 +890,7 @@ videodrunkfest@gmail.com
 The Aboriginal Art Park Public Art Call is open to all Aboriginal artists
 and artist teams residing in Canada, and is held in accordance with the
 City of Edmonton policy “Percent for Art to Provide and Encourage Art in
-Public Areasâ€  (C458C). Artworks will in some way â€˜tell the stories of this
+Public Areas”  (C458C). Artworks will in some way ‘tell the stories of this
 place’ and respond to the land within the Aboriginal Art Park and/or the
 land in the Region through an engaged process with Edmonton’s urban
 Aboriginal communities, Treaty No. 6 First Nations, Métis and local Elders

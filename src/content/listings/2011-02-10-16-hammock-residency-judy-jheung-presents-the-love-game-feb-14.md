@@ -10,7 +10,7 @@ summary: "Hammock Residency | Judy Jheung presents The Love Game | FEB 14"
 
 Judy Jheung 
 
-â€œComposing You : the love gameâ€  
+“Composing You : the love game”  
 
 special performance by Karen and Peggy Ngan 
 
@@ -26,7 +26,7 @@ Feb 14, 2011 8:00pm
 
 Vancouver (between Victoria and Graveley) 
 
-Judy Jheung presents â€œComposing You: the love gameâ€  for Hammock Residency
+Judy Jheung presents “Composing You: the love game”  for Hammock Residency
 on the 
 
 eve of Valentine’s Day. Designed to engage with communities, the residency
@@ -44,7 +44,7 @@ a love fest, a
 love wander, ready be divulged, contemplated, maneuvered, conceptualized. 
 Bath 
 
-yourself in the â€œgameâ€  of love. At the end of the journey, participants
+yourself in the “game”  of love. At the end of the journey, participants
 may create an 
 
 unexpected composition according to his/her navigation routes. Consistent

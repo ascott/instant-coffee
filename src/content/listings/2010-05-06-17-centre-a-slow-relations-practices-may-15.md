@@ -54,7 +54,7 @@ pot-luck meal and open space discussion at the closing reception.
 
 During these events the SLOW working group invites participants to
 investigate questions about the present conditions of artistic practice:
-How do you locate â��the studio' in time and space? Where does it begin and
+How do you locate ’the studio' in time and space? Where does it begin and
 end? How does it relate to others? Is it necessary to become unavailable to
 others in order to have a practice?
 

@@ -17,7 +17,7 @@ level of the EasyPark parkade on Water Street will be transformed into a
 drive-in that welcomes drive-in, bike-in and walk-in audiences for a
 celebration of BC film.
 
-The theme of the film series is â��Vancouver Stars as Itself.â�� Featuring
+The theme of the film series is ’Vancouver Stars as Itself.’ Featuring
 shorts and feature films that have been shot in part or wholly within the
 Metro Vancouver area, the drive-in will showcase the talents of BC
 filmmakers. The provocative venue for the film series is an enticement to
@@ -58,9 +58,9 @@ Alice and Martha is the tale of two women who earn their living at a
 tedious delivery job. The film follows the protagonists through their daily
 routine; against the backdrop of Vancouver, Martha monopolizes the
 conversation with her nostalgic memories of the old country, her
-disenchantment of modern-day life, and her dreams of escape. Aliceâ��s
+disenchantment of modern-day life, and her dreams of escape. Alice’s
 pent-up anxieties and emotions translate into anger as she is forced to
-respond to Marthaâ��s antics. She wonders if sheâ��ll be able to keep it
+respond to Martha’s antics. She wonders if she’ll be able to keep it
 together in the presence of her overbearing companion whose observations
 force her to question such a mundane existence. To what lengths will they
 go to escape their repetitive daily lives?
@@ -77,9 +77,9 @@ Fetching Cody is an edgy yet sweet romantic comedy set in the Downtown
 Eastside. Art Frankel (Baruchel) is a hustler and general lay-about who is
 head over heels in love with the luminous Cody (Lind). When she falls into
 a coma from an apparent overdose, it is up to Art to seek out the one
-person who offers him any kind of hope: his homeless friend Harveyâ��and the
+person who offers him any kind of hope: his homeless friend Harvey’and the
 time machine he found in a dumpster. Desperate to reach her, Art suspends
-disbelief and embarks on a quest through time and space, deep into Codyâ��s
+disbelief and embarks on a quest through time and space, deep into Cody’s
 past. A thought provoking and funny movie about the sacrifices people will
 make for love.
 
@@ -118,9 +118,9 @@ preceded by The Reincarnation of W (2008)
 Director: Yun Lam Li
 
 The Reincarnation of W is a metaphorical journey of W. It is set in the
-background of the re-construction of Vancouverâ��s controversial Woodwardâ��s
+background of the re-construction of Vancouver’s controversial Woodward’s
 building. Chapter One: As 8:30am approaches, clouds gather strength over
-Vancouverâ��s Downtown Eastside. As water mist sprays over his hollow body, W
+Vancouver’s Downtown Eastside. As water mist sprays over his hollow body, W
 faces the moment he hopes will lead to enlightenment. Chapter Two: The
 journey of W is now complete. He waits for his turn to reincarnate while
 solemnly watching the world he left behind.

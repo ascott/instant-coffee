@@ -65,7 +65,7 @@ legacy and succession planning
 reimagining funding models
 
 Please submit up to a 500 word proposal outlining your presentation topic
-with the subject heading â€œARCCO 2015 Conference Submissionâ€ .
+with the subject heading “ARCCO 2015 Conference Submission” .
 
 Please note that submissions will be accepted by email only. Any hardcopy
 submissions received will not be returned.

@@ -27,9 +27,9 @@ of origami designs, each made from pages of a Playboy magazine in
 which Vancouver-born playmate, Dorothy Stratten, appears as a 
 centerfold. Through a process of folding and unfolding, the works fulfill 
 Hugh Hefner’s criteria for the ideal centerfold—namely, that “a situation 
-is suggested: the presence of someone not in the picture.â€ 
+is suggested: the presence of someone not in the picture.” 
 
-Dorothy Stratten (1960â€“1980) was â€œdiscoveredâ€  by her future husband 
+Dorothy Stratten (1960–1980) was “discovered”  by her future husband 
 and manager Paul Snider while working at a Dairy Queen on East 
 Hastings Street. After Snider sent photos of her to Playboy, Stratten 
 was invited to Los Angeles, where she became Playmate of the Month 

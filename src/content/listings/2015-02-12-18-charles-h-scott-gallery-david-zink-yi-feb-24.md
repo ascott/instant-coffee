@@ -25,7 +25,7 @@ the road crew moves from west to east, bottom to top, patching and
 re-patching. As Miguel López writes, “The markings not only function as
 odd, abstract images, but also as traces of one of the most active routes
 of the mining trade, whose repairs allegorize the fragility of an economy
-burdened by social conflicts only partially and superficially solvedâ€ .
+burdened by social conflicts only partially and superficially solved” .
 
 David Zink Yi’s multi-faceted art practice comprises sculpture, film and
 photography. His investigations, often centred on the body, explore

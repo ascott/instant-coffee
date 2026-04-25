@@ -16,7 +16,7 @@ or by appointment.
 
 “Equally, we require a collective past - hence the endless
 reinterpretations of history, frequently to suit the perceptions of the
-present.â€ 
+present.” 
 -Penelope Lively
 
 Dreamy Returns features a backdated collection of videos that re-situate

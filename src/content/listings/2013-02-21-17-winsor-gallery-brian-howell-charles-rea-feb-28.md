@@ -33,7 +33,7 @@ Parataxis
 
 Charles Rea has been an important player in the Vancouver painting scene for 
 more than twenty years. Introduced in the Vancouver Art Gallery group show 
-â€œThe Young Romanticsâ€  in 1985, Reaâ€™s art practice has since followed many 
+“The Young Romantics”  in 1985, Rea’s art practice has since followed many 
 diverse paths, making use of varying, often unconventional materials. Over the 
 years, Rea’s artwork has assumed many different forms and subject matter, it 
 regularly explores the myriad of systems that have come to represent our 

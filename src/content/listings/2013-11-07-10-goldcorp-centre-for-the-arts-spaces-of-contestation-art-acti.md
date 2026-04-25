@@ -89,7 +89,7 @@ from Mega-events (2011) and Autogestion, or Henri Lefebvre in New Belgrade
 
 Stephen Collis is an Associate Professor in the Department of English at 
 SFU. A poet and activist and social critic, he is the author of three parts of the 
-on-going â€œBarricades Projectâ€ : Anarchive (2005), The Commons (2008), and 
+on-going “Barricades Project” : Anarchive (2005), The Commons (2008), and 
 the forthcoming To the Barricades (2013). His writing on the Occupy 
 movement is collected in Dispatches from the Occupation (2012).
 
@@ -101,8 +101,8 @@ Canada (upcoming). Her research focuses on activism, visual culture and
 changing economies. Using Canada as main case study, her work looks at 
 the relationship between the parallel appearance in the mid-1990s of global 
 anti-capitalist protest movements and a growing discourse around “creative 
-industriesâ€  as a sector of great economic potential. Focusing on the 
-international art world, the designation of urban spaces as â€œcreative cities,â€  
+industries”  as a sector of great economic potential. Focusing on the 
+international art world, the designation of urban spaces as “creative cities,”  
 and an increasing economic precarity amongst creative workers, her research 
 examines specific moments where protest collides with an escalating 
 economization of culture.

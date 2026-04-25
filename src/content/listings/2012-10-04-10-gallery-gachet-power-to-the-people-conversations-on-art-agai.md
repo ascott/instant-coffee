@@ -96,14 +96,14 @@ workers. Empower is also engaged in raising consciousness about the spread
 of AIDS/HIV in Thailand. Empower uses art and cultural performances as 
 expression; inspiring a process of reflection and questioning, where people 
 challenge the traditional beliefs they hold. Noi has received a number of 
-honors in recognition of her work, including the â€œIt Worksâ€  award from the 
+honors in recognition of her work, including the “It Works”  award from the 
 Norwegian government in 1990, a scholarship from Harvard Law School for 
 International Human Rights training in 1997, and the “Outstanding Social 
-Workerâ€  award, in 2000, from the Social Welfare Department of Thailandâ€™s 
+Worker”  award, in 2000, from the Social Welfare Department of Thailand’s 
 Ministry of Social and Labour Affairs. Recently, Empower received the 
-â€œHuman Rights Awardâ€  in 2006 as an outstanding organization committed to 
+“Human Rights Award”  in 2006 as an outstanding organization committed to 
 fighting for sex workers rights, from the commission on Human Rights in 
-Thailand. EMPOWER won a United Nationâ€™s â€œRed Ribbon Award 2008â€ , for 
+Thailand. EMPOWER won a United Nation’s “Red Ribbon Award 2008” , for 
 being an outstanding HIV/AIDS work and community rights organization. 
 www.empowerfoundation.org.
 
@@ -125,7 +125,7 @@ extensively with migrant and refugee women in areas of labour and mobility
 rights, poverty alleviation and legislative reform.
 
 5.30 - 6.30pm – screening of Empower Foundation’s movie, “Last Rescue in 
-Siamâ€ ,
+Siam” ,
 followed by informal reception with turkey fare and drinks!
 
 Special thanks to Institutions by Artists for their generous support:

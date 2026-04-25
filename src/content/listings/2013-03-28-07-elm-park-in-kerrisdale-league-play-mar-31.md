@@ -20,7 +20,7 @@ Kerrisdale.
 This gathering will turn around hiding and finding, one of the most basic game 
 mechanisms. As League regular and electronic game designer Ian Verchere 
 says, “The #1 rule of games is this: good things are always found inside other 
-things.â€ 
+things.” 
 
 Possibilities
 

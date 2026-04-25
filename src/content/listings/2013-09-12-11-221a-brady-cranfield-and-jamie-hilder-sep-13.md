@@ -41,7 +41,7 @@ culture, and is free and open to the public and will run until October 19.
 Public Lecture & Programs
 The exhibition is accompanied by a free public lecture, co-presented with the 
 Vancity Office for Community Engagement, by Italian Marxist theorist Franco 
-â€œBifoâ€  Berardi, to be held at the Djavad Mowafaghian Cinema, SFU campus in 
+“Bifo”  Berardi, to be held at the Djavad Mowafaghian Cinema, SFU campus in 
 the Woodward’s complex at 149 West Hastings St., Vancouver, on 
 September 14th, at 7pm (Seating is by first-come-first-serve and is limited). In 
 the weeks following the lecture, four respondents will deliver talks at 221A in 

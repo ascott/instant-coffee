@@ -41,7 +41,7 @@ light, and image... I am searching for a musical vocabulary that can
 represent the climate and environment in cities like Hong Kong, Beijing,
 and Vancouver. I believe this project will allow me to create a method
 of expression that speaks of the 21st Century and my experience as a
-Chinese-Canadian on the West Coast of Canada.â€ 
+Chinese-Canadian on the West Coast of Canada.” 
 
 The other highlight of the program will be the premiere of a piece by
 interdisciplinary media artist Sammy Chien who will perform (dance)
@@ -49,7 +49,7 @@ and lead the musicians through physical gestures: “With this piece I’d
 like to explore the notion of Wu Wei, which is a Taoist philosophy of the
 ‘non-doing’. I see it as an attitude, a way of life that is without much
 effort and intentions while naturally attaining harmony with the
-universe.â€ 
+universe.” 
 
 Alan Lau will contribute two pieces to the program: one, a premiere
 presenting a condensed chronology of the development of Chinese
@@ -59,7 +59,7 @@ the sound and texture of the Korean a-ak
 Confucian rituals introduced from China around the 12th century. The
 Ensemble will also present​ pieces by composers Jin Zhang
 and Xiao
-Peng​ that resemble the â€˜ancientâ€™ pieces that represent the less
+Peng​ that resemble the ‘ancient’ pieces that represent the less
 known,
 discordant and rebellious side of early Chinese music.
 

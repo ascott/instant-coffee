@@ -15,7 +15,7 @@ As the weather gets cold, there's nothing to do but eat people. Come enjoy
 two cult classics that combine music and cannibalism, Big Meat Eater and
 Eat the Rich. Big Meat eater is a locally made film set in "Burquitlam"
 the area between Burnaby and Coquitlam, which combines a human devouring
-alien and dazzling musical numbers. Eat the Rich, set in ThatcherÃ¢€™s
+alien and dazzling musical numbers. Eat the Rich, set in Thatcherâ€™s
 England, stars a disgruntled waiter who joins up with a terrorist cell
 after being fired and transforms an upscale restaurant into a haven for
 cannibalism.

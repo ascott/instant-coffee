@@ -10,12 +10,12 @@ summary: "Counterspin: Taking root and building a home | Conference: Filipino Ca
 
 Progressive Filipino Canadians in Vancouver to host national conference
 “Counterspin: Taking root and building a home: Deepening our understanding
-of genuine settlement and integrationâ€ 
+of genuine settlement and integration” 
 
 Vancouver, B.C. – June 18th and 19th will mark a momentous occasion for the
 Filipino Canadian community in Vancouver as it hosts “Counterspin: Taking
 root and building a home. Deepening our understanding of genuine settlement
-and integration.â€  This two-day national conference will, once again,
+and integration.”  This two-day national conference will, once again,
 heighten the unity of progressive Filipino Canadians to advance the
 struggle towards the community’s full participation and entitlement in Canada.
 
@@ -38,10 +38,10 @@ exploitative policies. The Kalayaan Centre, Kapit Bisig Centre, and
 Magkaisa Centre have been at the forefront of these struggles. “The
 Filipino Canadian community, especially the youth, looks forward to a
 future where they can fully participate, engage and exercise their full
-entitlement in all aspects of Canadian society,â€  states Krystle Alarcon,
+entitlement in all aspects of Canadian society,”  states Krystle Alarcon,
 conference organizer and member of the Philippine Women Centre of B.C.
 
-â€œCounterspinâ€  will focus on some key issues, including: the Filipino
+“Counterspin”  will focus on some key issues, including: the Filipino
 Canadian community as a transnational community; history of migration in
 Canada; community organizing and building a progressive movement; making
 the youth count; youth and alienation; and arts and culture as a form of
@@ -52,7 +52,7 @@ novelist, writer and feminist revolutionary Ninothcka Rosca will be a
 conference guest speaker.
 
 As we forge unity towards the community’s advancement and development,
-â€œCounterspinâ€  national conference will be another milestone in reclaiming
+“Counterspin”  national conference will be another milestone in reclaiming
 their rightful place in a multicultural and multi-ethnic Canada. All
 participation and involvement in this conference will be a testament of the
 community’s commitment in overcoming economic marginalization, combating

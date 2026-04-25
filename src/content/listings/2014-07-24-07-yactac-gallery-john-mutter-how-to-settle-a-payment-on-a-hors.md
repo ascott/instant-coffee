@@ -64,7 +64,7 @@ suffocate you, like everything else. That stream again, sparkling and
 swimming with fishes, so that I thought of my father and all the men buried
 at sea, now just barnacles left only to eat the sad flesh of the next.
 
-And all because of something so tame as a horse.â€ 
+And all because of something so tame as a horse.” 
 
 Presented on ipads and screens with headphones, the new works 
 seamlessly

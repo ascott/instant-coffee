@@ -29,7 +29,7 @@ game code. What they share is a compelling desire to fail: to explore the
 fallibility of materials or process, the foundering of language and 
 communication, or the point at which presumptions around assigned value 
 and viewership expectations collapse. Whether colossal or quiet, the 
-â€œfailuresâ€  that mark these works are not end-points but beginnings; assuming 
+“failures”  that mark these works are not end-points but beginnings; assuming 
 the role of provocateur, they playfully prompt us to question our assumptions 
 and offer new possibilities for connectivity and for thinking about our place in 
 the world. 

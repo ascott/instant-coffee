@@ -31,7 +31,7 @@ call 1-888-434-7834
 
 The Art of the Short Review
 
-A hands-on workshop for anyone who wants to write what they thinkâ��in
+A hands-on workshop for anyone who wants to write what they think’in
 as few words as possible. Patty Osborne, a regular contributor to
 Endnotes, will lead participants through the process of honing in on
 what needs to be said in a short review and what is the best way to
@@ -42,7 +42,7 @@ paper. By the end of the workshop you will have written a short
 review!
 
 Saturday February 21, 2009
-1:00â��4:00 p.m.
+1:00’4:00 p.m.
 Listel Hotel - 1300 Robson St.
 
 To register: Online - http://www.geist.com/events/review-workshop or

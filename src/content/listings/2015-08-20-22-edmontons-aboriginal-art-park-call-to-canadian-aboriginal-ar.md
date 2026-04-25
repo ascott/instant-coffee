@@ -11,7 +11,7 @@ summary: "Edmonton's Aboriginal Art Park | Call to Canadian Aboriginal artists |
 The Aboriginal Art Park Public Art Call is open to all Aboriginal artists
 and artist teams residing in Canada, and is held in accordance with the
 City of Edmonton policy “Percent for Art to Provide and Encourage Art in
-Public Areasâ€  (C458C). Artworks will in some way â€˜tell the stories of this
+Public Areas”  (C458C). Artworks will in some way ‘tell the stories of this
 place’ and respond to the land within the Aboriginal Art Park and/or the
 land in the Region through an engaged process with Edmonton’s urban
 Aboriginal communities, Treaty No. 6 First Nations, Métis and local Elders

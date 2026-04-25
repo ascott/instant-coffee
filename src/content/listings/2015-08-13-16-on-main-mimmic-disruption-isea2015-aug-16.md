@@ -13,8 +13,8 @@ ISEA2015
 press release
 
 On Main Gallery presents MIMMiC: Disruption at ISEA2015, a three-
-day exhibition and artistâ€™s demos that includes the premiere of Paul 
-Wongâ€™s Wave Cycle and three works-in-progress by Evann 
+day exhibition and artist’s demos that includes the premiere of Paul 
+Wong’s Wave Cycle and three works-in-progress by Evann 
 Siebens, Sammy Chien and Adam Myhill & Christine Wallace. All these 
 works have been commissioned using MIMMiC. Aug 16-18, Room 
 2345, Simon Fraser University, Goldcorp Centre for the Arts.
@@ -32,8 +32,8 @@ making.
 https://www.youtube.com/watch?v=PTuczx8LGJg
 
 MIMMiC: Disruption August 16-18, 2015
-On exhibit will be Paul Wongâ€™s Wave Cycle (2015), images and 
-sounds of crashing water recorded on BCâ€™s wild West Coast. 
+On exhibit will be Paul Wong’s Wave Cycle (2015), images and 
+sounds of crashing water recorded on BC’s wild West Coast. 
 Participants are encouraged to touch the screens using 1 to 4 finger 
 gestures: taps, strokes, and swipes to interact with the artwork. Daily 
 exhibition 2-5pm Wave Cycle.
@@ -49,7 +49,7 @@ Wallace with Wong/Daggitt.
 
 Evann Siebens work is a response to gesture, the point of contact 
 between the user and the interface of MIMMiC. The production 
-involves three generations of womenâ€™s hands communicating 
+involves three generations of women’s hands communicating 
 through touch.
 
 Sammy Chien will be directing a new media performance inspired from 
@@ -66,17 +66,17 @@ form. Cinematically composed shots of Wallace, an award-winning
 female bodybuilder, will test our conceptions of touch, consent, gender, 
 and strength.
 
-ISEA is one of the worldâ€™s most prominent international arts and 
+ISEA is one of the world’s most prominent international arts and 
 technology events, bringing together scholarly, artistic, and scientific 
 domains in an interdisciplinary discussion and showcase of creative 
 productions applying new technologies in art, interactivity, and 
 electronic and digital media. The event annually brings together artists, 
 designers, academics, technologists, scientists, and general audience 
 in the thousands. The symposium consists of a conference, exhibitions, 
-and eventsÃ¢â‚¬â€ from large scale interactive art to cutting edge electronic 
+and eventsââ‚¬” from large scale interactive art to cutting edge electronic 
 music performance.
 
-ISEA2015â€™s theme of DISRUPTION invites a conversation about 
+ISEA2015’s theme of DISRUPTION invites a conversation about 
 the aesthetics of change, renewal, and game-changing paradigms. We 
 look to raw bursts of energy, reconciliation, error, and the destructive 
 and creative forces of the new. Disruption contains both blue sky and 
@@ -88,8 +88,8 @@ technologists hack and subvert to rebuild.
 
 In the last four years ISEA in Istanbul, Albuquerque, New Mexico, 
 Sydney, Australia, and Dubai. ISEA2015 marks its return to Canada, 
-since the groundbreaking first Canadian ISEA1995 in MontrÃ©al. The 
-Symposium will be at the Woodwardâ€™s campus of Simon Fraser 
+since the groundbreaking first Canadian ISEA1995 in Montréal. The 
+Symposium will be at the Woodward’s campus of Simon Fraser 
 University, with events at Vancouver Art Gallery, Emily Carr University 
 and other sites. http://isea2015.org/
 

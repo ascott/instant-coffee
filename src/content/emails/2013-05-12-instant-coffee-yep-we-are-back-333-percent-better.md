@@ -171,7 +171,7 @@ gallery@burnaby.ca
 
 Attention: Jennifer Cane, Assistant Curator
 
-Please include â€œYCW Curatorial Assistantâ€  in the subject heading
+Please include “YCW Curatorial Assistant”  in the subject heading
 
 Jennifer Cane
 
@@ -223,7 +223,7 @@ our tendency to reminisce about past as fixed memories.
 The concept of success and how it is measured and referred to in our 
 recorded history is alluded to in some of Sherrin’s works, such as the 
 Corporate, where he gives a visual and written interpretation/definition 
-of the homonym â€œcorporationâ€ . Selected works from Impatience further 
+of the homonym “corporation” . Selected works from Impatience further 
 elaborate on this notion, where each banner sees an image of a baby 
 naively interacting with historical fragments of past successes and 
 failures spanning millennia. Together, these series of banners highlight 
@@ -459,7 +459,7 @@ away and are torn apart.
 I.O.U. is curated by Kalli Niedoba, bringing together works by Steven 
 Brekelmans, Colleen Heslin, Devon Knowles, Ben Raymer, Ian Robert 
 Sandilands and Frieda-raye Green. The exhibition happens in 
-conjunction with 2013′s Art Waste, part of Vancouverâ€™s annual Music 
+conjunction with 2013′s Art Waste, part of Vancouver’s annual Music 
 Waste festival.
 
 This is UNIT/PITT's inaugural event in our new location at 236 East 
@@ -655,7 +655,7 @@ material and labour to produce an ethereal form. Lee elaborates, "I
 wanted to create an all-inclusive magical moment when everything 
 happens to appear in unison, and also reflects all daily events, 
 localities, dramas, satisfactions, frustrations, and struggles as a person 
-and as an artist.â€  The mood of the piece is introspective, yet optimistic 
+and as an artist.”  The mood of the piece is introspective, yet optimistic 
 and celebratory.
 
 Khan Lee was born in Seoul, Korea where he studied architecture at 
@@ -1543,7 +1543,7 @@ acrylic, merging the surface and image. The titles of these new works
 are parallel
 texts rather than commentary, and as Victor Burgin has noted, the 
 space between
-the image and the text is where something â€œhappens.â€  It is this space 
+the image and the text is where something “happens.”  It is this space 
 that Boisjoly
 engages with.
 

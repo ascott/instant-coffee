@@ -26,8 +26,8 @@ Redshift Music Society
 As a part of our ongoing music series organized by Francois Houle we are 
 thrilled to present new music virtuoso Mark Takeshi McGregor. 
 
-Described as a â€œnational treasureâ€  (WholeNote Magazine) and as a musician 
-of â€œtremendous flair and intensityâ€  (Globe and Mail), Mark Takeshi McGregor 
+Described as a “national treasure”  (WholeNote Magazine) and as a musician 
+of “tremendous flair and intensity”  (Globe and Mail), Mark Takeshi McGregor 
 has firmly established himself as one of Canada’s premiere flutists and a 
 respected interpreter of the music of our time. On Friday, April 4th, 2014, 
 McGregor will present the CD release concert of his sophomore solo album 

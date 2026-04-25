@@ -8,7 +8,7 @@ venue: "The Powell Street Festival"
 summary: "The Powell Street Festival | seeking: GENERAL MANAGER & PROGRAMMING DIRECTOR | DEC 6"
 ---
 
-The Powell Street Festival Societyâ��s mission is to celebrate the arts and
+The Powell Street Festival Society’s mission is to celebrate the arts and
 culture of Japanese Canadians and Asian Canadians, to encourage Asian
 Canadians to take a leadership role in the development of the arts in
 Canada, and to foster community development through cultural events. The
@@ -51,9 +51,9 @@ forms to community participants and vendors
 ·facilitating work of the Board of Directors, the Fundraising Committee,
 Festival Committee and the Advocacy Committee
 ·researching artists on an ongoing basis
-Â·in cooperation with the Programming Committee, developing each yearâ��s theme
+Â·in cooperation with the Programming Committee, developing each year’s theme
 ·in cooperation with the Programming Committee, overseeing the development
-of each seasonâ��s programming and translating it into project descriptions
+of each season’s programming and translating it into project descriptions
 ·developing relationships year-round with artists and other arts partners
 ·confirming MCs for the festival
 ·liaising with festival artists
@@ -68,7 +68,7 @@ Committee meetings.
 QUALIFICATIONS:
 The ideal candidate will have a passionate commitment to supporting
 Japanese and Asian Canadian artists and art-forms in unique projects and to
-maintaining the Societyâ�� s professional reputation and community-based
+maintaining the Society’ s professional reputation and community-based
 principles. The candidate must be able to work independently in a
 fast-paced, deadline-driven environment as well as enjoy working
 collaboratively with the board of directors, individual artists and other
@@ -82,7 +82,7 @@ similar experience is required. Specific experience with, or knowledge of,
 the national and local Asian Canadian arts scenes, the mainstream arts
 community, and of the operations of non-profit societies is also desirable,
 with proven curatorial and/or programming experience. Familiarity with
-Vancouverâ��s non-profit artistic and social services organizations (Japanese
+Vancouver’s non-profit artistic and social services organizations (Japanese
 Canadian, and Downtown Eastside organizations especially) is advisable.
 Graphic design and Web design skills are an asset. This position is
 perfect for a problem-solving team player who thrives in a fast-paced,

@@ -35,18 +35,18 @@ stored in Vancouver.
 
 Background
 In 1972, the artist group General Idea launched FILE Megazine, a 
-â€œcross-Canada art organ, by artists, for artists.â€  Published from 1972 
+“cross-Canada art organ, by artists, for artists.”  Published from 1972 
 until1986, FILE approached art publishing with a fun, inclusive, camp 
 sensibility. Unlike the more established art magazines published at the 
 time, FILE did not critique art; instead, the editors approached its 
 content much like a mobile gallery.FILE took its name from the iconic 
 Life Magazine. This approach—reusing popular and mass cultural 
 themes—was typical of the editors and contributors of FILE. Later 
-calling itself â€œthe alternative to the alternative,â€  FILE used images and 
+calling itself “the alternative to the alternative,”  FILE used images and 
 texts from popular and mass culture to make new art. It is in this same 
 spirit that artists are asked to participate in this project. Artists are 
 encouraged to use the FILE archive materials as their source 
-documents to create a new â€œalternative to the alternative.â€  This new 
+documents to create a new “alternative to the alternative.”  This new 
 alternative archive will add yet another layer to the already rich history 
 and legacy of FILE Megazine.
 

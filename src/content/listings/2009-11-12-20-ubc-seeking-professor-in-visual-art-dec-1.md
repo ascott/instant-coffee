@@ -59,7 +59,7 @@ confidential letters of reference (either included in the application, or
 sent under separate cover).
 
 The applications and inquiries should be addressed to: Professors John
-Oâ��Brian and Catherine Soussloff, Co-Chairs, Visual Art Search Committee,
+O’Brian and Catherine Soussloff, Co-Chairs, Visual Art Search Committee,
 Department of Art History, Visual Art and Theory, University of British
 Columbia, 403-6333 Memorial Road, Vancouver, B.C., V6T 1Z2, Canada.
 

@@ -21,7 +21,7 @@ why you want to perform here, etc. Include whatever you think we should see
 to get a sense of your practice. Local, international, established, and
 emerging artists are all welcome.
 
-Submissions will not be treated as â€œaccepted/not acceptedâ€  but rather
+Submissions will not be treated as “accepted/not accepted”  but rather
 accrued towards a bank of artists that we can return to whenever we are
 programming.
 
@@ -39,7 +39,7 @@ feminist, post/decolonial, and queer issues. *RATS 9 is wheelchair accessible
 
 LINK & PIN Mandate:
 LINK & PIN’s mandate is to present performance art specific works. Though I
-am not interested in policing what is and isnâ€™t â€œperformance artâ€  the goal
+am not interested in policing what is and isn’t “performance art”  the goal
 of this mandate is to offer space to work that is not supported via the
 plethora of dance and theatre institutions in Montreal. We love you but if
 the work you’re showing could be programmed there, go there.

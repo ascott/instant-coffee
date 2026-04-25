@@ -22,7 +22,7 @@ Li, Qin Shen, Howard Ursuliak, Weide Xu, Siming Yang, Qin Zhao
 Curated by Wei Xia
 
 A series of exhibitions “Space beyond the Boxes – The Choice of 
-Destinyâ€  was launched in Shangdong Contemporary Arts Center in 
+Destiny”  was launched in Shangdong Contemporary Arts Center in 
 Nanjing, China in May 2011.
 
 Presenting artists from different regions, cultural backgrounds and 

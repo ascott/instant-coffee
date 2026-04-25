@@ -8,7 +8,7 @@ venue: "UBC"
 summary: "UBC | AHVA Library Gallery | The Idiot of Nature | JAN 16"
 ---
 
-â€œThe Idiot of Natureâ€ 
+“The Idiot of Nature” 
 January 16 – February 2, 2013
 Opening Reception: January 16, 5-7 pm
 

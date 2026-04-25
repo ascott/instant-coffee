@@ -156,7 +156,7 @@ entzaubert.blogsport.de
 Benvenut* Queers!
 
 Vi invitiamo a presentare i vostri film.
-Stiamo preparando il quinto â€ entzaubertâ€  D.I.Y .(do it yourself) 
+Stiamo preparando il quinto ” entzaubert”  D.I.Y .(do it yourself) 
 filmfestival, che avrà luogo a Berlino dal 2.- 5. agosto 2012.
 Siamo interessat* ai vostri film. Se volete paticipare, spedite il vostro 
 materiale, prima del 1 aprile 2012.

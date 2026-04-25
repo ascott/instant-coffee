@@ -45,7 +45,7 @@ interconnectedness between cultural and natural ecologies. The gallery works
 and outdoor site-specific installations consider the human impact on a 
 cultivated landscape through an engagement with gardens, agriculture, built 
 homes for animals, disposal and desecration. The project questions 
-distinctions between the â€œnaturalâ€  and the â€œunnatural,â€  and the cultural and the 
+distinctions between the “natural”  and the “unnatural,”  and the cultural and the 
 environmental realms.
 
 The project opened in London in September 2012 where it was presented at 

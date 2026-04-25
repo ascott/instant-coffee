@@ -20,12 +20,12 @@ Make Gallery
 257 East 7th Avenue
 
 VNB Photo is excited to announce the official photography exhibition of the 
-â€œVancouver Creativesâ€  portfolio this June in collaboration with Make, 
+“Vancouver Creatives”  portfolio this June in collaboration with Make, 
 Vancouver Is Awesome, Jukebox Print & Opus Art Supplies! Please join us 
 for the opening get an up-close view at this fine art celebratory work and 
 enjoy a free and public talk and Q&A with the artists!
 
-Launched last November, â€œVancouver Creativesâ€  is a collaborative 
+Launched last November, “Vancouver Creatives”  is a collaborative 
 Calotype photography project by VNB Photo aimed at showcasing some of 
 the best creative talent present today in the city both historically and 
 contemporarily. Midway between documentary and portraiture, the 

@@ -61,12 +61,12 @@ internationally.
 
 “My work is a quiet act of defiance in a digital age. I wish to draw
 attention to the tactile, sensual subtleties of our world at a time when
-the word â€œtouchâ€  frequently references a finger-swipe across a flat,
+the word “touch”  frequently references a finger-swipe across a flat,
 rectangular screen. I use a deliberately physical process and emphasize the
 handmade mark in creating works that explore subtleties of expression; I
 hope that the lines, textures, and accumulation of marks in my work suggest
 a process, a history, and a sense of presence that will invite the viewer
-to pause, if even momentarily.â€  - Laura Widmer.
+to pause, if even momentarily.”  - Laura Widmer.
 
 Additional work by Widmer can be viewed in our display case at the Shadbolt
 Centre for the Arts.

@@ -46,7 +46,7 @@ into something other than itself.
 
 Well-known for helping to canonise the concept of post-internet in
 contemporary art, MARISA OLSON’s works often interrogate the mutability of
-technology. Rendering the idea of â€œmedia archaeologyâ€  as sculpture, Olson
+technology. Rendering the idea of “media archaeology”  as sculpture, Olson
 has reclaimed obsolete technologies and memorialised them as art. As a
 direct counterpoint, DANIEL JEFFERIES presents ink drawings on flower
 petals that will inevitably degrade over time; in this case, no amount of
@@ -75,7 +75,7 @@ their representations to be seen. JASON MCLEAN’s collaborative sculpture
 with SCOTT LAWRENCE functions cleverly as a visual double entendre.
 VANESSA BROWN’s flat panels fuse picture and sculpture, and the objects
 depicted in them are derived surrealistically from dream-activated visual
-fields. BARRY DOUPE explores the various forms â€œa lineâ€  can take, and how
+fields. BARRY DOUPE explores the various forms “a line”  can take, and how
 its elasticity and transformability can be employed to express a vast range
 of emotional states.
 

@@ -24,7 +24,7 @@ Sarah Leavitt, Miriam Libicki, Geoff Mann, Alessandra Naccarato, Catherine
 Owen, Colin Upton, and Matthew Walsh. Come and meet this event’s diverse 
 group of featured artists, educators, writers, publishers, curators and 
 performers under one roof. And don’t forget: Sign up in advance to participate 
-in the â€œ1-2 Punch Book Pitchâ€  at Canzine West. To sign up, please email 
+in the “1-2 Punch Book Pitch”  at Canzine West. To sign up, please email 
 canzine@brokenpencil.com with your: name, email address, phone number 
 and 2-3 line description of the project you are going to pitch.
 Sign up now! We only have room for 8 participants and this will be first come, 

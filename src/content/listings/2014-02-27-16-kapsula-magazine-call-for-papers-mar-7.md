@@ -15,7 +15,7 @@ This is the full call as it appears on our website http://kapsula.ca/ :
 "The iconoclastic gesture that produces the modernist artwork functions, of 
 course, not simply as a manifestation of artistic subjectivity understood as 
 pure negativity. This gesture had the positive goal of revealing the materiality 
-of the artwork, its pure presenceâ€  (Boris Groys 2008,"The Topology of 
+of the artwork, its pure presence”  (Boris Groys 2008,"The Topology of 
 Contemporary Art," 78-79).
 
 Art that makes us angry often requires the most careful analysis and 

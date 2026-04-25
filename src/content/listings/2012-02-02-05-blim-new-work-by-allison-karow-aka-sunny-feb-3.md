@@ -35,7 +35,7 @@ the
 handmade but my practice is interdisciplinary and includes painting,
 drawing, print-making and animation in addition to book binding.
 --
-Opening: Friday, February 3 - 8 â€“ 11pm | Show Runs February 3-25
+Opening: Friday, February 3 - 8 – 11pm | Show Runs February 3-25
 
 www.megaspora.us
 

@@ -717,7 +717,7 @@ prominent subject in the work in all of the images collected by Lee,
 the on-camera flash is reflected in the mirror and results in a white
 overexposed area which obscures the identity of the subject.
 Continuing his experiments with photography and its processes, Lee
-prints the Flashers using a giclÃ©e pigment (inkjet) process onto the
+prints the Flashers using a giclée pigment (inkjet) process onto the
 reverse of vintage photographic paper. These anachronistic materials
 are not compatible, and the result is like mixing oil and water: the
 ink, prohibited from absorption, does not adhere or dry. Lee uses

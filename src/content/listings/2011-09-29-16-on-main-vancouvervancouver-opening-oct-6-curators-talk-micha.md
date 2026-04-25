@@ -18,7 +18,7 @@ Gallery Hours: Wednesday to Friday 12-5pm
 By Appointment: onmain@gmail.com 604.872.7713
 ______________________________________________________
 
-â€œâ€¦a rare opportunity to view pivotal pieces.â€  Preview Magazine
+“…a rare opportunity to view pivotal pieces.”  Preview Magazine
 “…well worth seeing." Malcolm Parry, Vancouver Sun
 
 This inaugural exhibition is a celebration of Vancouver art and artists featuring 
@@ -54,5 +54,5 @@ ambitious art collections often boast a focus, this collection is a reflection o
 four-corner engagement with the city and its histories. In that sense it is as much 
 a personal diary as a wide-ranging collection of objects and gestures. Of interest 
 are artworks both from and of the city -- the local conversation but also those 
-taking place from without, and the (inter)relationship between the twoâ€  (Michael 
+taking place from without, and the (inter)relationship between the two”  (Michael 
 Turner, 2011).

@@ -17,7 +17,7 @@ UNIT/PITT, 236 East Pender Street, Vancouver BC
 
 crawling, weeping - battery opera performance
 
-Walking Projects : â€œVancouver, crawling, weeping, bettingâ€  is a co-
+Walking Projects : “Vancouver, crawling, weeping, betting”  is a co-
 presentation with battery opera performance, comprising six weeks of public 
 actions, clandestine screenings, chance meetings, and intoxicated 
 psychogeographies.

@@ -32,7 +32,7 @@ Projects that demonstrate artistic excellence and a knowledge and interest
 in: aboriginal, francophone, multimedia, photographic and LGBT communities
 will be given priority.
 
-On the Road is the brainchild of five of Winnipegâ��s Artist-Run Centres:
+On the Road is the brainchild of five of Winnipeg’s Artist-Run Centres:
 Platform: centre for photographic + digital arts, aceartinc., Video Pool
 media arts centre, La Maison Des Artistes and Urban Shaman: Contemporary
 Aboriginal Art.

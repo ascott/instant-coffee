@@ -22,11 +22,11 @@ one of your favourite Canadian artists when the Art Gallery of Greater
 Victoria presents From the Collection: David Milne.
 
 “We are extremely fortunate to have seventeen of David Milne’s works in our
-collection,â€  says Michelle Jacques, chief curator at the Art Gallery of
+collection,”  says Michelle Jacques, chief curator at the Art Gallery of
 Greater Victoria. “To view them as an exhibition is quite moving,
 particularly to see Milne’s varied skill in oil, watercolour and drypoint.
 The works that will be on display are the result of fifty-four years of
-collecting Milne and demonstrate his artistic legacy.â€ 
+collecting Milne and demonstrate his artistic legacy.” 
 
 From the Collection: David Milne invites visitors to learn about how the
 AGGV came to have this wonderful collection of the artist’s work. The

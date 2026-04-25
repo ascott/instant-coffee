@@ -79,7 +79,7 @@ workshop April 10 from 7-9pm, 20 & 21 from 12-4:30pm.
 This three-day workshop will take you from basic to advanced techniques of 
 creating and using analogue video feedback systems from old video gear. 
 Experts and novices alike will learn fundamentals and find new directions to 
-apply video feedback to their work, be it as a VJ, for â€œold schoolâ€  post 
+apply video feedback to their work, be it as a VJ, for “old school”  post 
 production video effects or interactive installations and performance. 
 Participants will be guided through building their own systems from 
 inexpensive components to take home. See video in an entirely new way; as 

@@ -34,7 +34,7 @@ world. Katz founded the Harvey Milk Institute, the world’s largest queer
 studies institute, and serves as president and chief curator of New York
 City's Leslie Lohman Museum of Gay and Lesbian Art. His recent work
 includes co-curating “Hide/Seek: Difference and Desire in American
-Art,â€  an exhibition at the Smithsonian National Portrait Gallery that
+Art,”  an exhibition at the Smithsonian National Portrait Gallery that
 broke ground by focusing on LGBTQ (lesbian, gay, bisexual,
 transgender and queer) issues. Katz directs SUNY Buffalo’s PhD
 program in visual studies. Katz is currently co-curating

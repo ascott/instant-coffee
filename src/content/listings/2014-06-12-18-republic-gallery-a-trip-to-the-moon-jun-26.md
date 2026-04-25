@@ -21,18 +21,18 @@ the public on Thursday, June 26th and runs through Saturday, August 16,
 In A Trip To The Moon the works of Groat, Limit and Pinheiro destabilize the 
 viewer by removing any recognizable horizon line. The fragmentary aspect of 
 Maggie Groat’s sculptural wall work “13 Moonlight Reflectors or A Proposal 
-for Returning Moonlight Back to the Moon (August 3rd)â€  diffracts the 
+for Returning Moonlight Back to the Moon (August 3rd)”  diffracts the 
 exhibition in its reflection, dismantling the other works in the show into an 
 abstraction that challenges the surety of the spectator. The leveler in Jimmy 
 Limit’s photographic print “Level with Ginger Root on Grey (Accuracy, 
 Agriculture, Conceal, Control, Even, Fluidity, Fresh, Future, Healthy Eating, 
-Herb, Isolation, Morality, Nobody, Progress, Recovery, Success, Truth)â€  
+Herb, Isolation, Morality, Nobody, Progress, Recovery, Success, Truth)”  
 belies its utilitarian value and becomes a foreign object floating in negative 
 space. His multiple slip cast ceramics hint at a future archaeology, a 
 “collection/archive of information that will eventually be lost and rediscovered 
 and examined or translated like the rediscovery of Greek philosophy in the 
-Middle Ages.â€ [1] Andrea Pinheiroâ€™s scanned and enlarged paintings on 
-photographic prints, â€œLadderâ€  and â€œBridge,â€  hint at this eventual unearthing 
+Middle Ages.” [1] Andrea Pinheiro’s scanned and enlarged paintings on 
+photographic prints, “Ladder”  and “Bridge,”  hint at this eventual unearthing 
 and interpretation, marks that contain a recognizable logic to be deciphered 
 and a path to achieve it. By exploring the assumption that what we know 
 now will be identified in the future, A Trip To The Moon stakes its claim on the 

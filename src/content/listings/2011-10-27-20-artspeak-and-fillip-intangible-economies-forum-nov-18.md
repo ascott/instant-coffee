@@ -20,7 +20,7 @@ representation and, accordingly, in cultural production.
 The premise of Intangible Economies is the assumption that personal 
 relationships are produced by economic activity, and that conversely, affect, and 
 in particular desire, generates economic transactions. In the wake of recent 
-global financial crises, it seems critical to interrogate the notion of â€œvalueâ€  in a 
+global financial crises, it seems critical to interrogate the notion of “value”  in a 
 broader sense. Intangible Economies seeks to tackle the difficult task of tracing 
 the role of affect in economic exchanges relative to artistic production, while also 
 enacting the unruly force of such transactions.

@@ -14,7 +14,7 @@ MORE OFTEN THAN ALWAYS/
 
 LESS OFTEN THAN NEVER
 
-November 26, 2010 â�� January 23, 2011
+November 26, 2010 ’ January 23, 2011
 
 Opening Reception: Thursday, November 25, at 7pm
 Panel Discussion: Saturday, January 22 at 1pm
@@ -23,7 +23,7 @@ A Noxious Sector Project
 Curators: Ted Hiebert and Doug Jarvis
 
 "More Often than Always/Less Often than Never", starting from Alfred
-Jarryâ��s invention of 'pataphysics' (the science of imaginary solutions),
+Jarry’s invention of 'pataphysics' (the science of imaginary solutions),
 artists from around the world are invited to engage with notions of
 impossibility, uncertainty and the imaginary which challenge standardized
 formulations of the allowable, acceptable, logical or feasible, a call for
@@ -34,7 +34,7 @@ Artists: hannah_g, Julie Gendron & Emma Hendrix, Tetsushi Higashino, Gordon
 Lebredt, Chikako Maria Mori & Boris Nieslony, François Mathieu, Arjuna
 Neuman, and Anne-Marie Proulx.
 
-5th Annual Trading Cards Exhibition November 26, 2010 â�� January 23, 2011
+5th Annual Trading Cards Exhibition November 26, 2010 ’ January 23, 2011
 
 Opening Reception: Thursday, November 25, at 7pm
 ATC Closing & Trading Session: Saturday, January 22 at 2pm

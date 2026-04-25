@@ -21,7 +21,7 @@ experimentation with photoassemblage. As its title implies, Out of Fiction
 borrows from both fantasy – as expressed in raw creativity responding to the 
 banal templates often offered in children’s colouring books – and reality: how 
 these processes of imagination manifest themselves “in ways both 
-foreseeable and unforeseeableâ€ . The act of bringing these elements together 
+foreseeable and unforeseeable” . The act of bringing these elements together 
 in finished photographic works illuminates the proximity of their origins in a 
 historical, cultural imaginary, as well as the tenuousness of the divisions 
 between them.
@@ -31,7 +31,7 @@ founded the Fine Art Photography program in 1967 at the Vancouver School of
 Art, now the Emily Carr University of Art + Design. He was an instructor and 
 administrator at the school for over thirty years, during which time he played a 
 significant role in the development of the photographic arts in the city. Jim is 
-best-known for his â€œenvironmental portraitsâ€  which mark various idiosyncracies 
+best-known for his “environmental portraits”  which mark various idiosyncracies 
 of contemporary human life, such as his series Mesocosm, Paintball: Urban 
 War Game Landscapes, and Hot Properties, works from which were featured 
 in the 2012 Canadian Biennial at the National Gallery in Ottawa. Earlier in 

@@ -19,7 +19,7 @@ Opening Thursday, April 29 at 7PM
 The sci-fi fan has been unfairly maligned. Whether it’s the image of the costumed Trekkie or the 
 Simpsons’ Comic Book Guy, the fan is consistently portrayed as one who lives life vicariously 
 through narratives created by others. The relationships between fans and the objects of their 
-fandom, however, are far more nuanced. The notion of the â€œbirth of the readerâ€  is certainly not 
+fandom, however, are far more nuanced. The notion of the “birth of the reader”  is certainly not 
 new in cultural studies, but in the realm of the sci-fi fan this birth takes a particularly active and 
 increasingly participatory form.
 
@@ -34,7 +34,7 @@ corporate and government domination that run through the genre.
 
 By repeating the image of the spiral (an icon that has special significance in science fiction) 
 Langergraber connects to another important influence on his artistic practice—the work of Robert 
-Smithson. In his brief essay â€œThe Shape of the Future and Memoryâ€  (1966), Smithson explored 
+Smithson. In his brief essay “The Shape of the Future and Memory”  (1966), Smithson explored 
 connections between art and time travel—a few years later Spiral Jetty appeared in the Great 
 Salt Lake of Utah. Langergraber further exploits the relationship between fan culture, time travel 
 and the Spiral Jetty in his own fan film, The Theatre of the Exploding Sun. It follows his alter ego 

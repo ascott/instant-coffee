@@ -30,7 +30,7 @@ acclaimed groups- from the Peter Brötzmann Chicago Tentet, Lean Left
 (with Terrie Hessels and Andy Moor of The Ex) to Double Tandem (with Dutch
 saxophonist, Ab Baars)- they have continued to return to their duo for
 more than a dozen years because it remains crucial to their creative
-output. â€  â€“ Billions.com
+output. ”  – Billions.com
 
 “Von Bingen began life when husband and wife duo Jenni Pace and Daniel
 Presnell (Astral Blessing) temporarily suspended Hildegard (their east
@@ -40,7 +40,7 @@ and Richard Smith. Influenced by histories of conceptual art practices and
 electronic and outsider music native to the west coast, Von Bingen’s sound
 is at once reminiscent of distant sonics, such as those found in the labs
 of 60’s SF pioneers, or overheard in Berlin’s Zodiac Club in the early
-70â€™s, while also anticipating the drone of future decades...â€  â€“F.O.L.
+70’s, while also anticipating the drone of future decades...”  –F.O.L.
 Ministries
 
 “JP Carter is a Juno award-winning trumpet player and composer from
@@ -49,12 +49,12 @@ approach to the trumpet and versatility as an improvisor and composer make
 him a vital contributor to the Vancouver music community. JP incorporates
 a variety of techniques into his trumpet playing, utilizing and
 experimenting with acoustic (traditional, extended) and electronic
-(effected, amplified) methods to create a wide spectrum of sound.â€  â€“
+(effected, amplified) methods to create a wide spectrum of sound.”  –
 jpcarter.ca
 
 John Brennan is a Canadian drummer, sound artist and curator based out of
 Vancouver. Best known for curating his renowned concert series “Destroy
-Vancouverâ€ , Brennan has also been very active on the world stage as an
+Vancouver” , Brennan has also been very active on the world stage as an
 accomplished improviser collaborating with the likes of William Hooker,
 Wally Shoup, Chris Cogburn, Nate Wooley, DJ Olive, Josh Zubot, Ellwood
 Epps and many others."

@@ -24,7 +24,7 @@ visual arts. There is no clear or one path in becoming an artist, but there
 are steps involved in maintaining an exciting and enriching career. As
 emerging artists you have to be creative, not just in your work, but in
 practical life. The workshop is designed to be both formal and informal.
-You will have a solid artist â€œpackageâ€  (statement, proposal, and portfolio)
+You will have a solid artist “package”  (statement, proposal, and portfolio)
 that you can modify for funding, exhibition submissions, residencies, and
 maybe even getting into other programs. And you will have an intimate
 conversation with a working artist in how to maintain a practice, be

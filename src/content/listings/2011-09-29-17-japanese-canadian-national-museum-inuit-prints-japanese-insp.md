@@ -28,9 +28,9 @@ the Arctic.
 
 “The exposure to Japanese printmaking gave the Inuit a new form of cultural 
 expression, and they soon gave the world an original, distinctive and exciting 
-genre of graphic arts,â€  said Dr. Victor Rabinovitch, President and CEO of the 
+genre of graphic arts,”  said Dr. Victor Rabinovitch, President and CEO of the 
 Canadian Museum of Civilization Corporation. “This is a wonderful example of 
-the outstanding benefits of cultural interaction and adaptation.â€  
+the outstanding benefits of cultural interaction and adaptation.”  
 
 Inuit Prints: Japanese Inspiration explores the Japanese influences on the early 
 years of the Cape Dorset studio. In 1957, James Houston, then a government 
@@ -41,7 +41,7 @@ masters of the art, Un’ichi Hiratsuka. The exhibition includes some of the rar
 and earliest Cape Dorset prints and the actual Japanese prints that were brought 
 into Cape Dorset in 1959,inspiringthe Inuit artists. By juxtaposing the works, the 
 exhibition reveals the many ways in which the Cape Dorset artists 
-creatively â€œlocalizedâ€  Japanese influences.
+creatively “localized”  Japanese influences.
 
 Ever since, Inuit printmakers have used the medium to express their creativity 
 and to document their history and culture and modern-day influences on their 
@@ -87,15 +87,15 @@ Japanese paintings during the Fifteen-Year War (1931-1945) and the question of
 Japanese fascism.
 
 Speakers Series
-Japanese Inspiration: Hiratsuka Unâ€™ichi and the â€œCreative Printsâ€  Movement
+Japanese Inspiration: Hiratsuka Un’ichi and the “Creative Prints”  Movement
 By Maiko Behr
 Thursday, November 9, 2011, 7pm
 Admission by donation
 Independent scholar Maiko Behr provides an overview of the history of 
 woodblock printing in Japan, with a focus on the themes and techniques of 
-Hiratsuka Unâ€™ichi and other artists of the mid-20th century â€œCreative Printsâ€  
+Hiratsuka Un’ichi and other artists of the mid-20th century “Creative Prints”  
 movement. After the presentation, enjoy a walk-through of the exhibition “Inuit 
-Prints: Japanese Inspiration.â€ 
+Prints: Japanese Inspiration.” 
 
 National Nikkei Museum and Heritage Centre
 6688 Southoaks Crescent, Burnaby, BC V5E 4M7

@@ -68,7 +68,7 @@ of images that unfold as another gift in themselves, prompting
 questions of how we perceive, structure and understand the world.
 
 The exhibition is made in collaboration with Villa Arson, Nice, France; 
-Spike Island, Bristol, UK; Frac e de France â€  Le Plateau, Paris, France 
+Spike Island, Bristol, UK; Frac e de France ”  Le Plateau, Paris, France 
 and Heidelberger Kunstverein, Germany. Research toward the 
 production of this work is funded by a grant from programme Hors les 
 murs 2011 of the Institut Francais. The exhibition is supported by the 
@@ -94,7 +94,7 @@ information leaked by former intelligence contractor Edward
 Snowden in May of last year. In all aspects of his practice Etchells 
 often concerned with presence, with the unfolding of events in time 
 and place. Who Knows is typical of the artists approach in that 
-something happens Ã¢â‚¬â€  there is an encounter, a process, the
+something happens ââ‚¬”  there is an encounter, a process, the
 describing of an event and its implications, and an exploration of the 
 dynamic relationship between the work and the viewer. Through the 
 repetition of phrases, the text implies an experience that is at once 
@@ -102,7 +102,7 @@ unraveled and assembled. The mechanisms of exposure and
 concealment, construction and deconstruction, appearance and 
 disappearance all lie at the heart of what Etchells does.
 In addition to this installation the CAG is co-presenting a series of
-performances with PuSh International Performing Arts Festival Ã¢â‚¬â€  
+performances with PuSh International Performing Arts Festival ââ‚¬”  
 The Quiet Volume with Ant Hampton and Sight Is The Sense That 
 Dying People Tend To Lose First with Jim Fletcher. This collaborative 
 partnership allows the CAG and PuSh to reach broader audiences, 

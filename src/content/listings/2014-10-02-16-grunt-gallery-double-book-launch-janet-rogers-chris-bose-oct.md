@@ -21,7 +21,7 @@ Janet Rogers, Victoria's Poet Laureate, presents a new collection of poetry
 entitled, Peace in Duress.
 
 "Poems drawing on the language of the earth and inflected with the
-outspoken vocality of activism address the crises of modern â€œland warsâ€  â€“
+outspoken vocality of activism address the crises of modern “land wars”  –
 environmental destruction, territorial disputes, and resource depletion.
 This collection is confessional love, learned survival, ardent resistance,
 and unique poetry that wants to be spoken (aloud). If poetry is medicine,

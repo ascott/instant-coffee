@@ -22,7 +22,7 @@ PSV is pleased to present Trapp Editions: Love & Ornament, an exhibition by
 Trapp Projects featuring art work and publications by Claire Greenshaw,
 Tony Romano, Isabelle Pauwels, Kathy Slade, T&T (Tony Romano & Tyler
 Brett), Jacques Villeglé and others. The exhibition launches a new edition
-Love and Ornament (2006-2014), a photographic â€œrecordâ€  by Toronto-based
+Love and Ornament (2006-2014), a photographic “record”  by Toronto-based
 artist Tony Romano.
 
 A subsidiary of Trapp Projects, Trapp Editions is based in Vancouver where

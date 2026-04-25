@@ -13,7 +13,7 @@ Instant Coffee: Store Front 
  As part of their exhibition Feeling So Much & Doing So Little, 
 every 
 Saturday Instant Coffee will be selling necessary accessories and other 
-special items from their new â€œWest Coast Modernâ€  furniture collection, 
+special items from their new “West Coast Modern”  furniture collection, 
 and will on occasion be joined by other designers and artists, including 
 Robert Kleyn and Samuel Roy Bois. As part of Store Front each 
 Saturday Instant Coffee has also invited artists, critics and curators to 
@@ -23,7 +23,7 @@ Making Sense of Things Together
 
 Saturday, February 25th, 12-5pm
 
-As a response to ICâ€™s motto â€œGet Social or Get Lost,â€  join artist and 
+As a response to IC’s motto “Get Social or Get Lost,”  join artist and 
 critic Amy Fung for an endurance performance/lecture for which she 
 will assembling a 1000 piece jigsaw puzzle of a Jackson Pollock 
 painting she inherited at an Edmonton garage sale.

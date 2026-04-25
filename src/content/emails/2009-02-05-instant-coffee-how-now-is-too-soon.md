@@ -425,10 +425,10 @@ __
 Feb 24 09 | Cineworks | 6pm | Free | cineworks.ca
 Thought on Film: The Condition of Post-modernity
 An excerpt from David Harvey's The Condition of Post-modernity will be
-presented for group reading and discussion. Harveyâ��s answer to Fred
-JamesonÃ¢ï¿½ï¿½s Cultural Logic of Late Capitalism, and Jean-FranÃ&#65533;Â§ois LyotardÃ¢ï¿½ï¿½s
+presented for group reading and discussion. Harvey’s answer to Fred
+Jamesonâï¿½ï¿½s Cultural Logic of Late Capitalism, and Jean-FranÃ&#65533;Â§ois Lyotardâï¿½ï¿½s
 The Postmodern Condition is a significant influence on Young, Giroux and
-Blackwellâ��s work because of Harveyâ��s rigorous basis of his analysis of
+Blackwell’s work because of Harvey’s rigorous basis of his analysis of
 cultural and social change in the economic and his special emphasis on
 social geography and the production of space.
 ________

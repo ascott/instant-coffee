@@ -21,7 +21,7 @@ the energetic draw embodied in a metaphysical relationship to space,
 perception, and consciousness. Coming from a background in documentary
 photography, Shapiro moves beyond representational convention to express an
 internalized sensation of the world as a rhizomatic negotiation of image
-space. In doing so she asks, â€œHow does one photograph the invisible?â€  and
+space. In doing so she asks, “How does one photograph the invisible?”  and
 finds the answer in an expression of experience that is an internalized
 interpretation of photographic time. In this exhibition, Shapiro provides
 her own visualization of the invisible experience. To photograph the

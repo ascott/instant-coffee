@@ -32,20 +32,20 @@ sculpture and video the project roots in a basic exploration... how do we see
 more similarities with those around us? Searching for Land is the reflection of
 one such coordinated search.
 
-â€˜We did not come directly at each other. in our many correspondences, we
+‘We did not come directly at each other. in our many correspondences, we
 have shared the same grounds and described to each other what is behind
 us, and what is facing us in our sculptural practice as well as everyday life. if
 we were two dots, immersed in the same thing, say a die, then we would be
-dots set on different planes. in this sense, we are a part of a number â€“a
+dots set on different planes. in this sense, we are a part of a number –a
 greater whole. This exhibition might map our shared tendencies - or rather our
 tendencies in trying to understand what drives us. Two dots seen at once in a
-three dimensional space: a parabolaâ€™
-â€“ Kitsum Cheng
+three dimensional space: a parabola’
+– Kitsum Cheng
 
 Searching for Land marks the first Vancouver exhibition for both artists.
 
-â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â
-€¦â€¦â€¦â€¦.
+……………………………………………………………………â
+€¦……….
 
 Kitsum Cheng was born in Hong Kong and is now based in Frankfurt,
 Germany, where she is currently attending the Staedelschule. Previously, she

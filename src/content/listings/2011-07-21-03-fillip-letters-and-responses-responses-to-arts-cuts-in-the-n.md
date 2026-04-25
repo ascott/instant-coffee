@@ -14,16 +14,16 @@ to Arts Funding in the Netherlands
 
 On June 10, 2011, Halbe Zijlstra, the Dutch State Secretary for Culture, 
 distributed a letter to arts and culture organizations throughout the Netherlands. 
-Entitled â€œMeer dan kwaliteit: een nieuwe visie op cultuurbeleidâ€  (â€œMore than 
-Quality: A New Vision on Cultural Policyâ€ ), the letter announced a â‚¬200 million 
+Entitled “Meer dan kwaliteit: een nieuwe visie op cultuurbeleid”  (“More than 
+Quality: A New Vision on Cultural Policy” ), the letter announced a â‚¬200 million 
 cut, which would slash state support for the operating and programming 
 activities of these organizations as early as January 2013.  
 
 In concrete terms, this new policy will lead to the following:
-â€“ A 50% cut in the budget for stipends and working grants for artists  
-â€“ A 50% cut in the budget of the Mondriaan Foundation, the body responsible  for 
+– A 50% cut in the budget for stipends and working grants for artists  
+– A 50% cut in the budget of the Mondriaan Foundation, the body responsible  for 
 supporting international projects  
-â€“ A total withdrawal of all support for art magazines  
+– A total withdrawal of all support for art magazines  
 
 Concerned citizens joined arts and culture organizations the weekend of June 
 25, 2011 to condemn the cutbacks in a series of protests known as the Mars der 

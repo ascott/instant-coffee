@@ -38,10 +38,10 @@ technology. This exhibition hopes to draw connections between those facets.
 Below are a few statements by the artists in their attempts to circumscribe
 the topic in question:
 
-â€œIn the digital world there exists data that is real yet intangible,
+“In the digital world there exists data that is real yet intangible,
 hovering over these boundaries the information itself is ephemeral and
 should not truly exist in material form. However, even if deleted, this
-information will have left inerasable traces of its existence in our world. â€œ
+information will have left inerasable traces of its existence in our world. “
 
 The modification of physical interaction has changed through the variable
 existence and experience of materials within a growing objectless,

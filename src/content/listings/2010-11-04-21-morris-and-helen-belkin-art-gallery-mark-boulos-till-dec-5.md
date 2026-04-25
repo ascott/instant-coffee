@@ -41,7 +41,7 @@ for a possible encounter with the Philippine Army (which does not, in the
 end, occur).
 
 In a geo-political world where more and more struggles for sovereignty are
-labeled â€œterroristâ€ , Boulos gives a non-journalistic, diaristic and very
+labeled “terrorist” , Boulos gives a non-journalistic, diaristic and very
 human portrait of people who have turned to militancy.
 
 This exhibition has been made possible with funding from The Canada Council

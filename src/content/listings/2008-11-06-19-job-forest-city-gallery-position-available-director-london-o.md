@@ -61,27 +61,27 @@ Maintain a clean, well organized, safe working environment
 
 Qualifications:
 
-â�¢ A post-secondary degree in visual arts/visual studies/museum studies
+’¢ A post-secondary degree in visual arts/visual studies/museum studies
 and/or demonstrated experience in artist-run centres, not-for-profit
 organizations, public/private galleries or museums
-â�¢ A thorough knowledge of contemporary cultural practices on a local,
+’¢ A thorough knowledge of contemporary cultural practices on a local,
 national and international level
-â�¢ Proven experience working with budgets, researching and writing
+’¢ Proven experience working with budgets, researching and writing
 government and foundation grants
-â�¢ Effective interpersonal skills and the ability to work in partnership
+’¢ Effective interpersonal skills and the ability to work in partnership
 with the FCG Board, committees, artists and community members
-â�¢ Experience managing volunteers and event planning
-â�¢ Exceptional organizational and written skills
-â�¢ A strong working knowledge of various Mac applications (word,
+’¢ Experience managing volunteers and event planning
+’¢ Exceptional organizational and written skills
+’¢ A strong working knowledge of various Mac applications (word,
 spreadsheets, graphics, web)
-â�¢ Ability to work comfortably with A/V Technology
+’¢ Ability to work comfortably with A/V Technology
 
 Application must include:
 
-â�¢ A cover letter outlining your experience and interest and relevant skills
+’¢ A cover letter outlining your experience and interest and relevant skills
 as they relate to artists an run centre
-â�¢ A current CV
-â�¢ Names of three references with contact information
+’¢ A current CV
+’¢ Names of three references with contact information
 
 Salary: 30,940.00 annually
 The successful candidate will receive four weeks paid vacation in the

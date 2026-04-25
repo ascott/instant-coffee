@@ -22,7 +22,7 @@ gallery of images and words. While this may have been the proud ideal for
 which we laboured in our first installment, it is the very real foundation
 upon which this issue was developed. Reaching between cinemas in Nairobi,
 art galleries in New York, and a warfront in Afghanistan, this issue of #3
-draws on works of sweeping diversity, focus, and voice.â€ 
+draws on works of sweeping diversity, focus, and voice.” 
 
 This issue is built around three chapters
 

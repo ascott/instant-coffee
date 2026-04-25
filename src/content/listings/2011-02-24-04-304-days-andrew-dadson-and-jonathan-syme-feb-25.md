@@ -21,7 +21,7 @@ Opening Reception // Saturday, February 26th // 7pm - 11pm
 Andrew Dadson and Jonathan Syme exhibit new works that explore the
 materiality of paint through distinct methods of layering. Syme uses
 linear elements of saturated colour to draw the eye into his optically
-rich fields of algorithmic-like abstraction. In contrast, Dadsonâ��s
+rich fields of algorithmic-like abstraction. In contrast, Dadson’s
 work is mute and calm by nature with subtle evidence of the layers of
 colour and texture that make up the final effaced surface; both
 allowing the viewer to enter the void and explore the liminal space

@@ -70,18 +70,18 @@ Canada au complet, et donc est a la recherche de projets Ã  travers le pays.
 
 Appel Ã  projets pour l'exposition :
 
-Twenty + Change cherche Ã  Ã©tablir un forum public pour des jeunes designers
+Twenty + Change cherche Ã  établir un forum public pour des jeunes designers
 en debut decarrieres n'ayant pas encore recus une attention médiatique ni
 une reconnaissance du public pour leur travail théorique ou pour leurs
 oeuvres realisées. Le comité organisateur de Twenty + Change invite en ce
-moment les jeunes firmes Ã©mergentes au Canada Ã  soumettre des projets qui
+moment les jeunes firmes émergentes au Canada Ã  soumettre des projets qui
 pourraient éventuellement être inclus dans la prochaines exposition, qui
-sera lancÃ©e le 3 juin 2009 et part la suite voyagera Ã  travers le pays. Les
+sera lancée le 3 juin 2009 et part la suite voyagera Ã  travers le pays. Les
 projets choisis seront inclus dans le catalogue de l'exposition qui sera
 disponible a partir du l'ouverture de l'exposition Twenty + Change 2009.
 
 Les projets seront choisis par un comité de sélection comprenant
-praticiens, Ã©crivains, et professeurs Å&#65533;uvrant dans les domaines de
+praticiens, écrivains, et professeurs Å&#65533;uvrant dans les domaines de
 lâ&#65533;&#65533;architecture, de lâ&#65533;&#65533;architecture du paysage, du design urbain, ou de
 disciplines connexes. Le comité de sélection inclus :
 
@@ -90,7 +90,7 @@ urbanistes, Vancouver
 
 Ian Chodikoff, Editeur, revue Canadian Architect
 
-Anne Cormier, Directrice, Ã&#65533;cole dâ&#65533;&#65533;architecture de lâ&#65533;&#65533;UniversitÃ© de MontrÃ©al,
+Anne Cormier, Directrice, Ã&#65533;cole dâ&#65533;&#65533;architecture de lâ&#65533;&#65533;Université de Montréal,
 Montréal
 
 Christine Macy, Doyenne, Faculty of Architecture and Planning at Dalhousie
@@ -103,7 +103,7 @@ La date limite pour la reception des soumissions est le 16 janvier 2009 a
 soumission.
 
 La date limite pour la reception des soumissions est le 16 janvier 2009 Ã 
-17:00 heures. Veuilleznoter que les critÃ¨res de soumission ont Ã©tÃ© mis Ã 
+17:00 heures. Veuilleznoter que les critères de soumission ont été mis Ã 
 jour. Prière de consulter fichier pdf ci-joint pourles critères de soumission.
 
 Pour toutes informations supplementaires consultez le site

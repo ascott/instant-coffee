@@ -37,7 +37,7 @@ Live Sarod/Sitar performance by Jeff Chute
 and guests
 
 WED OCT 17 / 7PM 
- No Reading After the Internet: Peter Weissâ€™ The Aesthetics of Resistance 
+ No Reading After the Internet: Peter Weiss’ The Aesthetics of Resistance 
 (1975)  
 Aesthetics of Resistance is a historical novel that dramatizes anti-fascist 
 resistance and the rise and fall of proletarian political parties in Europe 

@@ -83,7 +83,7 @@ grateful for the support of Vancouver Foundation and our members, donors
 and volunteers.
 
 Contemporary Art Gallery, 555 Nelson Street, Vancouver, BC, V6B 6R5, Canada
-www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½ 6 pm.
+www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½ 6 pm.
 Admission is free by donation.
 
 For more information please contact: info@contemporaryartgallery.ca or
@@ -642,7 +642,7 @@ relationship between institutional and non-institutional forms of education
 and of the active participants in, or subjects of, education. Following
 with historical examples such as Robert Filliou's Teaching and Learning as
 Performing Arts, and Ian Wallace's The Idea of University, in addition to
-more recent works such as Kristina Lee Podesvaâ��s Colourschool project, the
+more recent works such as Kristina Lee Podesva’s Colourschool project, the
 works in this exhibition simultaneously critique and extol the educational
 process.
 
@@ -868,27 +868,27 @@ Maintain a clean, well organized, safe working environment
 
 Qualifications:
 
-â�¢ A post-secondary degree in visual arts/visual studies/museum studies
+’¢ A post-secondary degree in visual arts/visual studies/museum studies
 and/or demonstrated experience in artist-run centres, not-for-profit
 organizations, public/private galleries or museums
-â�¢ A thorough knowledge of contemporary cultural practices on a local,
+’¢ A thorough knowledge of contemporary cultural practices on a local,
 national and international level
-â�¢ Proven experience working with budgets, researching and writing
+’¢ Proven experience working with budgets, researching and writing
 government and foundation grants
-â�¢ Effective interpersonal skills and the ability to work in partnership
+’¢ Effective interpersonal skills and the ability to work in partnership
 with the FCG Board, committees, artists and community members
-â�¢ Experience managing volunteers and event planning
-â�¢ Exceptional organizational and written skills
-â�¢ A strong working knowledge of various Mac applications (word,
+’¢ Experience managing volunteers and event planning
+’¢ Exceptional organizational and written skills
+’¢ A strong working knowledge of various Mac applications (word,
 spreadsheets, graphics, web)
-â�¢ Ability to work comfortably with A/V Technology
+’¢ Ability to work comfortably with A/V Technology
 
 Application must include:
 
-â�¢ A cover letter outlining your experience and interest and relevant skills
+’¢ A cover letter outlining your experience and interest and relevant skills
 as they relate to artists an run centre
-â�¢ A current CV
-â�¢ Names of three references with contact information
+’¢ A current CV
+’¢ Names of three references with contact information
 
 Salary: 30,940.00 annually
 The successful candidate will receive four weeks paid vacation in the

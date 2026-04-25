@@ -66,7 +66,7 @@ and artists to design machines that are capable of making creative
 decisions.
 
 Stemming from a long tradition of generative and process-based art, 
-â€œWhere do we stop and they begin?â€  presents audio, video, robotics, 
+“Where do we stop and they begin?”  presents audio, video, robotics, 
 interactive installation and print pieces by a selection of Vancouver-
 based artists for which machines were part of the creative process. We 
 invite you to come explore and question the idea of machine creativity.
@@ -147,12 +147,12 @@ useless and excessive forms of artistic labour might offer a position of
 political resistance to these trends. Whether using laborious methods in 
 the production of their works, or assuming the role of the worker in their 
 performances, videos and installations, the artists in Always Working 
-prioritize useless labour: work that cannot be â€œput to workâ€  in order to 
+prioritize useless labour: work that cannot be “put to work”  in order to 
 participate in the global economy.
 
 For several artists in the exhibition, work involves assuming and 
 exceeding the role of the everyday labourer, such as Carey Young’s 
-video documenting her presentation of free, â€œhow toâ€  advice on public 
+video documenting her presentation of free, “how to”  advice on public 
 speaking in London’s Speakers’ Corner, or David Horvitz’s offer to stop 
 what he’s doing and devote one minute to thinking about you in 
 exchange for one dollar. For others, making artistic labour visible, both 
@@ -161,19 +161,19 @@ contracts with Canadian galleries which have been renegotiated so that
 her work is renumerated according to the hourly minimum wage (an 
 amount that is always higher than the CARFAC-suggested artist fee). 
 Similarly, Didier Courbot’s photographic series captures his ongoing 
-interventions meant to fulfil practical urban â€œneeds,â€  such as painting in 
+interventions meant to fulfil practical urban “needs,”  such as painting in 
 a crosswalk on a busy street, or installing a birdhouse on a streetlamp: 
 a project he will expand on through performance and photographic 
 works made during an artist residency in Vancouver. Finally, Jamie 
-Hilderâ€™s impersonation of a â€œdowntown ambassador,â€  who provides 
+Hilder’s impersonation of a “downtown ambassador,”  who provides 
 tourists with an alternative history of the city focused on its 
 management of the appearance of poverty, and his subsequent arrest 
 by Vancouver police, suggest that there is something radical and even 
-dangerous about the kind of â€œworkâ€  that art can do.
+dangerous about the kind of “work”  that art can do.
 
 In tandem with the exhibition, Didier Courbot will conduct a one-month 
 residency in Vancouver where he will create new performance-based 
-works as part of his ongoing â€œneedsâ€  series. Courbotâ€™s residency is part 
+works as part of his ongoing “needs”  series. Courbot’s residency is part 
 of an ongoing residency program for French visual artists initiated by 
 the Consulate General of France in Vancouver.
 
@@ -243,7 +243,7 @@ happens when artists refuse or exceed these expectations? And, how
 can artistic labour be activated as a space for social critique and 
 political action?
 
-No Reading After the Internet: Hito Steyerlâ€™s â€œPolitics of Artâ€ 
+No Reading After the Internet: Hito Steyerl’s “Politics of Art” 
 
 Wednesday, June 27, 7 pm, Access Gallery
 
@@ -251,7 +251,7 @@ In tandem with Always Working, curator Gabrielle Moser co-facilitates a
 meeting of No Reading After the Internet, an out-loud reading group 
 organized by Alex Muir and VIVO. Focusing on artist Hito Steyerl’s 2010 
 e-flux essay, “Politics of Art: Contemporary Art and the Transition to 
-Post-Democracy,â€  the group will discuss the textâ€™s call for an art that 
+Post-Democracy,”  the group will discuss the text’s call for an art that 
 examines the politics of its own production and its relation to the works 
 in the exhibition. No Reading After the Internet is a monthly opportunity 
 to gather and read a text aloud in hopes that it might provoke 
@@ -527,7 +527,7 @@ jewellery studio in West Vancouver.
 
 Balkind, somewhat disparagingly, later wrote: “Vancouver in 1955 was 
 a sleepy provincial, rather stuffy city, sitting tight on the only distinction 
-it had: its natural beauty.â€  The North Shore however, with its inspiring 
+it had: its natural beauty.”  The North Shore however, with its inspiring 
 natural setting (and then relatively affordable property) was also a 
 creative incubator, attracting both established and pioneering artists, 
 architects and other creative intellectuals.
@@ -536,10 +536,10 @@ The NDG profiled contemporary art during a time of public
 apprehension and distrust towards modernism. The original press 
 release announced that “the New Design Gallery, [will] show the public 
 fine art and good design that can be used in daily life [and serve] as a 
-centre for artists who are in harmony with the modern spirit.â€  While the 
+centre for artists who are in harmony with the modern spirit.”  While the 
 NDG’s successful openings drew crowds of people seeking, as 
-Rogatnick suggestsâ€œa sophisticated art milieu,â€  he points out â€œâ€¦ they 
-didnâ€™t buy very much.â€  The gallery subsequently moved to Vancouver 
+Rogatnick suggests“a sophisticated art milieu,”  he points out “… they 
+didn’t buy very much.”  The gallery subsequently moved to Vancouver 
 in 1958 where it shared space with the newly formed Arts Club and 
 continued until 1966.
 
@@ -842,13 +842,13 @@ The Richmond Art Gallery is calling for proposals from artists
 (individuals, artist
 collectives, performance artists, musicians etc.) whose practice 
 includes some aspect of
-â€œdrawingâ€ , to work directly on/with/against gallery walls for the end of 
+“drawing” , to work directly on/with/against gallery walls for the end of 
 year exhibition,
 Temporary Assignment. All media will be considered.
 
 Following this exhibition the Gallery is replacing its walls after 20 years 
 of re‐painting
-for each exhibition. â€œArtworks are temporaryâ€  â€“ they go out with the 
+for each exhibition. “Artworks are temporary”  – they go out with the 
 drywall.
 From November 15 to 18, 2012 artists may work in the gallery space.
 

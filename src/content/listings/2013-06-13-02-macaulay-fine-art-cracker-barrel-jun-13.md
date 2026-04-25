@@ -17,7 +17,7 @@ will be made and additional work will be included as the exhibition evolves
 into its fully realized form.
 
 Works by: Brian Kokoska, Peter Schuyff, Walter Scott, Jeremy Shaw, Beau
-Dick, Emily Hill, and Mark De Long. Enzo Mari designed â€œautoprogettazioneâ€ 
+Dick, Emily Hill, and Mark De Long. Enzo Mari designed “autoprogettazione” 
 furniture built entirely by gallery staff.
 
 Macaulay Fine Art

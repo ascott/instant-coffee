@@ -17,7 +17,7 @@ remains always similar and immovable. Relative space is some movable
 dimension or measure of the absolute spaces; which our senses determine by
 its position to bodies; and which is commonly taken for immovable space;
 such is the dimension of a subterraneous, an aerial, or celestial space,
-determined by its position in respect of the earth.â€  â€“ Isaac Newton
+determined by its position in respect of the earth.”  – Isaac Newton
 
 UBC Sharing Science is seeking proposals for an interdisciplinary art
 exhibition to be held at the University of British Columbia's AMS Art

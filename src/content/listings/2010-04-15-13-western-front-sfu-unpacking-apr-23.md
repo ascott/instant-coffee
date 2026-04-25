@@ -18,7 +18,7 @@ Dana Claxton, the Ruth Wynn Woodward Chair in Gender, Sexuality and Women’s
 Studies, will lead the critical investigation as Presenter and Moderator. 
 
 On Friday night Skeena Reece and Lori Blondeau, two of Canada’s leading Aboriginal 
-performance artists, will present a new work in response to the film trilogy â€œA Man Called Horse.â€ 
+performance artists, will present a new work in response to the film trilogy “A Man Called Horse.” 
 
 On Saturday, Hulleah J. Tsinhnahjinnie, the Director of the C.N. Gorman Museum and an 
 Assistant Professor in the Department of Native American Studies at University of California, will 

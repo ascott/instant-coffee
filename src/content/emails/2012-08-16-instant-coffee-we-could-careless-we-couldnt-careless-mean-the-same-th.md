@@ -60,7 +60,7 @@ This is a free performance and space is will be extremely limited.
 Record Release
 
 Thursday’s performance coincides with the release of SLEEP 
-(Fragment), a new 12â€  record by Grouper, published by Fillip in an 
+(Fragment), a new 12”  record by Grouper, published by Fillip in an 
 edition of 800 on 180 gsm white vinyl. A limited number of advanced 
 copies of the record will be available for purchase at the performance.
 
@@ -111,7 +111,7 @@ present a varied output exploring a range of media including video,
 ceramic, painting, performance, bronze and sound. The work can be in 
 one moment unassuming and heartfelt, swinging in the next moment 
 over to bold and improvised. The work discloses the influence of 
-Romanian sculptor Constantin BrÃ¢ncuși, the non-chalance of Danish 
+Romanian sculptor Constantin Brâncuși, the non-chalance of Danish 
 painter Tal R and the earnest but ridiculous joie de vivre of Swiss 
 rascals Fischli/Weiss. Similar to the latter, Laura Piasta and Johan 
 Björck's art gently invites us to explore an absurd summer realm 
@@ -173,7 +173,7 @@ prison for taking to the streets in protest of a system we all know to be
 rigged, tyrannical, and murderous, we sit out here, not apart, but in 
 solidarity. 
 
-Charged with â€œhooliganismâ€  after a â€œpunk prayerâ€  performance, Maria 
+Charged with “hooliganism”  after a “punk prayer”  performance, Maria 
 Alyokhina, Nadezhda Tolokonnikova, and Ekaterina Samoutsevitch, 
 alleged members of the feminist punk collective Pussy Riot are on trial, 
 facing a seven-year sentence following their arrest in the Spring of 
@@ -199,7 +199,7 @@ so will we.
 
 As Dr. Martin Luther King Jr once famously wrote: “Injustice anywhere is 
 a threat to justice everywhere… Whatever affects one directly, affects 
-all indirectly.â€ 
+all indirectly.” 
 
 And so, the actions of Pussy Riot are our actions.
 As culture workers we fight for generative chaos. 
@@ -370,23 +370,23 @@ British Columbia Arts Council.
 <a href="/instant-coffee/listings/2012-08-16-09-or-gallery-beach-talks-2-kristina-lee-podesva-aug-18">09. Or Gallery | Beach Talks 2: Kristina Lee Podesva | AUG 18</a>
 ------------------------------------------------------------------------
 Beach Talks 2 / Saturday, August 18, 4PM, Kristina Lee Podesva - 
-Going Under: â€œJohn Marr & Other Sailors With Some Sea Piecesâ€  & a 
+Going Under: “John Marr & Other Sailors With Some Sea Pieces”  & a 
 Few Shanties For Good Measure
 
 TALK
 
 Beach Talks Series:
 Kristina Lee Podesva 
-Going Under: â€œJohn Marr & Other Sailors With Some Sea Piecesâ€  & a 
+Going Under: “John Marr & Other Sailors With Some Sea Pieces”  & a 
 Few Shanties For Good Measure 
 Saturday, August 18, 4PM 
 Jericho Beach, west of the Jericho Sailing Centre (map of approximate 
 location)
 
 Part recitation, part listening party, Going Under takes inspiration from 
-a reading of Herman Melvilleâ€™s 1888 â€œJohn Marrâ€  alongside a 
+a reading of Herman Melville’s 1888 “John Marr”  alongside a 
 presentation of sea shanties and African American work songs to 
-broadly explore coping in â€œsinking shipâ€  times. In such a milieu, not 
+broadly explore coping in “sinking ship”  times. In such a milieu, not 
 unlike our own, Podesva asks what is or might be the artist’s 
 relationship to society? Is this dynamic one structured by obsolescence 
 or consequence, solidarity or passivity, camaraderie or alienation? How 
@@ -396,7 +396,7 @@ articulation of demands and dreams?
 This talk will depart from the evidence left in Melville’s story, published 
 just before his death in 1891, and will encourage the development of 
 new strategies and relations tailored to our own time and terrain. 
-Copies of â€œJohn Marrâ€  will be made available at the talk.
+Copies of “John Marr”  will be made available at the talk.
 
 Kristina Lee Podesva is an artist, writer, and Editor at Fillip. She is also 
 currently Visiting Scholar at the California College of the Arts in San 
@@ -727,7 +727,7 @@ interaction; offering an accessible and educational approach to art and
 process that may inspire people and communities to engage creatively. 
 We are interested and respect art and craft tradition and we are 
 concerned with art education as a way to foster critical and creative 
-thinking as well as a relationship with materiality and â€œmakingâ€ , some 
+thinking as well as a relationship with materiality and “making” , some 
 values that are slowly lost in this particular time. We are: Patrick 
 Blaeser, Kaytee Kilgour, Garland Lam and Guadalupe Martinez. 
 www.manomanocollective.com

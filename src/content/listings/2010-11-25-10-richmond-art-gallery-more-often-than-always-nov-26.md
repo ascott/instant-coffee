@@ -31,7 +31,7 @@ imaginary solutions to real questions, curated by Noxious Sector (Doug
 Jarvis and Ted Hiebert}.
 
 Artists: hannah_g, Julie Gendron & Emma Hendrix, Tetsushi Higashino, Gordon
-Lebredt, Chikako Maria Mori & Boris Nieslony, FranÃ�Â§ois Mathieu, Arjuna
+Lebredt, Chikako Maria Mori & Boris Nieslony, FranÂ§ois Mathieu, Arjuna
 Neuman, and Anne-Marie Proulx.
 
 5th Annual Trading Cards Exhibition November 26, 2010 - January 23, 2011

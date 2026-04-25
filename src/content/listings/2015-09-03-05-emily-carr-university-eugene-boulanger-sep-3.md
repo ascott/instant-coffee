@@ -17,7 +17,7 @@ Emily Carr University of Art and Design
 1399 Johnson St
 Vancouver, unceded Coast Salish territories
 
-Eugene Boulanger is ShÃºhtagotâ€™ı̨nę from TulÃ­t'a, in
+Eugene Boulanger is Shúhtagot’ı̨nę from TulÃ­t'a, in
 the Sahtú Region of
 Treaty 11, in Denendeh.
 

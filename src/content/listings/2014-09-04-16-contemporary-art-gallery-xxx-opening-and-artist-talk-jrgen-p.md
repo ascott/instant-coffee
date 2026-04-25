@@ -33,8 +33,8 @@ is used as a means to suggest new pictorial space, linking our experience
 of place through mapping and gesture, through mark-making, asserting
 continuity between these forms and an experience of daily life.
 
-The conceptual framework for the exhibition is â€œThe archiveâ€  as the
-artistâ€™s physical and mental â€œstorageâ€ , uniting the remembered and the
+The conceptual framework for the exhibition is “The archive”  as the
+artist’s physical and mental “storage” , uniting the remembered and the
 present, as well as individual and cultural memory. In Vancouver, the
 exhibition has a subtitle, The Raven Diaries, referencing the symbol and
 characteristics of the Raven to west coast First Nations culture, while

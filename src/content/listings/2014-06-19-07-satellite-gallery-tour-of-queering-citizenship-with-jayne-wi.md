@@ -21,7 +21,7 @@ reflects a landscape that is socially and politically uneven. By considering
 the climate of queer citizens in Eastern Europe and Africa, the exhibition 
 poses the question, “How might art and culture help us to look again at the 
 way in which we understand the conditions of queer citizens in global 
-politics?â€  The artists in the exhibition engage with the term queer not only 
+politics?”  The artists in the exhibition engage with the term queer not only 
 as an identity that embraces different sexualities, genders, international 
 and transnational backgrounds, but as a verb: as in queering or rethinking 
 the familiar ways citizenship and belonging are defined.

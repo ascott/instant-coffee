@@ -268,10 +268,10 @@ understanding of Winnipeg, Manitoba through means of documentation
 and research, correspondence, hypotheses, and storytelling.
 
 Employing photography, sculpture and video, notions of the unknown
-are confidently asserted obstructing oneâ�™s ability to
+are confidently asserted obstructing one’™s ability to
 differentiate between fact and constructed narrative. Replication is
 used to trouble the recognizable and extraneous steps are taken to add
-layers that further heighten oneâ�™s awareness of what
+layers that further heighten one’™s awareness of what
 they should or should not believe.
 
 'I Was Trying to Describe You to Someone' will present the work of a

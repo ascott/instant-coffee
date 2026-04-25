@@ -77,9 +77,9 @@ The work of Richard Venlet inhabits the interconnecting spaces and adjoing
 realms of sculpture, art-historical research, exhibition design and architecture; 
 based not so much on collaboration or collaborative practice as such, his 
 installations often incorporate the work of other artists, thus connecting his 
-work with a definite â€œcuratorial turnâ€  in recent art, as well as with an older, 
+work with a definite “curatorial turn”  in recent art, as well as with an older, 
 more established tradition of interest in strategies of ‘framing’ and display and 
-â€œinstitutional critiqueâ€ . His work has been shown at the Centre for Fine Art in 
+“institutional critique” . His work has been shown at the Centre for Fine Art in 
 Brussels, the Museo Español de Arte Contemporaneo in Madrid, Galerie 
 Bruges La Morte in Bruges, the Musée des Beaux-Arts in Dunkerque, the 
 SMAK in Ghent and the FRAC in Paris. 

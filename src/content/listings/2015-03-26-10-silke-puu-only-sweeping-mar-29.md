@@ -64,7 +64,7 @@ Jerry Zaslove is a writer and teacher who has taught at Simon Fraser
 University since 1965. His photograph, “Fred Douglas’s Car, 2005" is an
 homage to Fred Douglas’s art and writing. The image is one fragment from a
 series of essays and photographs titled Understanding Posthumous Memory.
-The installation and publication, â€œKafka in the Penal Colony,â€  presented at
+The installation and publication, “Kafka in the Penal Colony,”  presented at
 the SFU Gallery is a recent work.
 
 Open by appointment from April 1st - 28th,

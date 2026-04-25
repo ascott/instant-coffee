@@ -67,7 +67,7 @@ narrative story-telling in the cinema.
 A man (played by avant garde filmmaker James Benning), father of two sons
 by two wives, calls his fractured family to his disheveled home. He informs
 them of his state of health, and requests their help in committing suicide.
-The film â€“ rendered minimally as a â€œnarrativeâ€ - reveals the impact on the
+The film – rendered minimally as a “narrative” - reveals the impact on the
 family as they confront their father/husband. The means by which this
 evoked is visual and poetic, expressed tonally rather than as plot.
 

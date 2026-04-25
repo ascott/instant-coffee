@@ -91,7 +91,7 @@ photographic paper and chlorophyll assumes the role of silver halide. For his
 Double Invasive series, the artist took samples of English ivy and Norway 
 maple, plants considered by local ecologists to be invasive, and used their 
 leafy surfaces to "photograph" indigenous ferns such as lady fern and 
-Athyrium filix-femina. The leaf prints are then scanned as a way of â€œfixingâ€  
+Athyrium filix-femina. The leaf prints are then scanned as a way of “fixing”  
 the fugitive images from the leaves.
 
 In a second series, Salal, Alward made a photo emulsion of extracted plant 

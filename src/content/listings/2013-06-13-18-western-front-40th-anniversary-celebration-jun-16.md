@@ -37,12 +37,12 @@ Western Front
 303 East 8th Avenue, Vancouver, BC Canada V5T 1S1
 T. +1 604 876 9343 F. +1 604 876 4099
 W. www.front.bc.ca E. admin@front.bc.ca
-Gallery Hours: Tuesday â€“ Friday 12 â€“ 5pm
+Gallery Hours: Tuesday – Friday 12 – 5pm
 Admission Free
 
 Unsubscribe | View in Browser Copyright (C) 2011 Western Front Society
 All rights reserved
 
-Sent to vancouver@instantcoffee.org Ã¢â‚¬â€  why did I get this?
+Sent to vancouver@instantcoffee.org ââ‚¬”  why did I get this?
 unsubscribe from this list | update subscription preferences
 Western Front Society Â· 303 East 8th Ave. Â· Vancouver, BC V5T 1S1

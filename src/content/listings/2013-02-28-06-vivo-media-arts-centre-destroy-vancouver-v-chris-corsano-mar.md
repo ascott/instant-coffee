@@ -38,7 +38,7 @@ UK in 2005 led Corsano to develop an expanded solo music project,
 incorporating sax reeds, violin strings and bows, pot lids, and everyday
 household items into his drum kit. In February 2006 he released his first solo
 album, The Young Cricketer (Hot Cars Warp Records), and toured extensively
-throughout Europe, USA, and Japan. Corsano performed on BjÃ¶rk's Volta
+throughout Europe, USA, and Japan. Corsano performed on Björk's Volta
 world tour in 2007 and 2008. In 2009, he returned focus to his own projects,
 most notably a duo with Michael Flower, Rangda (with Sir Richard Bishop and
 Ben Chasny) and solo work, now revamped to include synthesizers and

@@ -17,7 +17,7 @@ project that acts as a public forum, teaching tool and creative laboratory
 for ecological and social sustainability practices in South East False
 Creek (SEFC), Vancouver, Canada.
 
-Located in Vancouverâ€™s â€œgreenest developmentâ€ , the Olympic Village, Grow
+Located in Vancouver’s “greenest development” , the Olympic Village, Grow
 explores sustainability issues through a series of walks, workshops and
 creative experiments in urban agriculture. Walks led by artist, Holly
 Schmidt and invited guests from architecture; design and the humanities

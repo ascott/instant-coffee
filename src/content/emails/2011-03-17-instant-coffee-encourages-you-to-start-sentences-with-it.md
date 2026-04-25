@@ -298,7 +298,7 @@ gallery of images and words. While this may have been the proud ideal for
 which we laboured in our first installment, it is the very real foundation
 upon which this issue was developed. Reaching between cinemas in Nairobi,
 art galleries in New York, and a warfront in Afghanistan, this issue of #3
-draws on works of sweeping diversity, focus, and voice.â€ 
+draws on works of sweeping diversity, focus, and voice.” 
 
 This issue is built around three chapters
 
@@ -400,7 +400,7 @@ Friday March 18 2011, Opening 7-11pm, Screening 8pm, Talk 8:30pm
 1965 Main St. Vancouver www.vivomediaarts.com
 
 Exhibition of new works, produced in residence, “But life is not changed
-magically by a poetic actâ€  and screening of "Living Mega-Structures"
+magically by a poetic act”  and screening of "Living Mega-Structures"
 (2003/2004). Urban Subjects, Ivan Drury and Amy Kazymerchyk will hold a
 discussion on ideas of neigbourhood and urban self-management, and about
 what art can say about our urban lives.
@@ -408,7 +408,7 @@ what art can say about our urban lives.
 But life is not changed magically by a poetic act is a video installation
 that builds a narrative about autogestion (or self-management) in a
 community in Caracas, Venezuela. Using wall projections and an installation
-of monitors, â€œBut life is not changed magically by a poetic actâ€  sets
+of monitors, “But life is not changed magically by a poetic act”  sets
 documentary interviews, architectural and urban establishing shots, and
 textual elements in dialogue. Using long takes of an expropriated Coca Cola
 bottling plant, a small community-run brick making factory, and vernacular
@@ -422,7 +422,7 @@ also tries to grasp a sense of the deeply affective alliances that
 autogestion builds in the texture of everyday urban life: how can a hybrid
 form of documentary and aesthetic video installation represent the textures
 and possibilities of urban life? Cutting across the naturalized form of
-documentaries â€œBut life is not changed magically by a poetic actâ€  opens the
+documentaries “But life is not changed magically by a poetic act”  opens the
 manner in which the community activists in Caracas take apart North
 American media frames of Venezuela and its social programs. What emerges is
 a complex moment of performance, global-local media analysis, critical
@@ -680,7 +680,7 @@ In the Gallery
 
 Join us for a walking talk through the WE: VANCOUVER with exhibition
 manifesto-writer, urbanist and architecture critic Trevor Boddy, curator of
-the exhibition â€œVancouverism: Architecture Builds the Cityâ€  shown in London
+the exhibition “Vancouverism: Architecture Builds the City”  shown in London
 in 2008, Paris in 2009 and at Woodwards for the 2010 Olympics.
 
 WE: VANCOUVER is organized around the principle of the manifesto, a form of
@@ -694,7 +694,7 @@ various disciplines—architecture and design, art and visual culture,
 literature and activism—that are produced in Vancouver and reflect uniquely
 on the city. Individual or collective, they are realized by people who
 propose new ways we might inhabit this place. The exhibition title refers
-to the multiple perspectives that make up the pronoun â€œwe,â€  reflecting the
+to the multiple perspectives that make up the pronoun “we,”  reflecting the
 viewpoints that give this place its unique shape and meaning. Rather than
 suggesting a single unified position, the exhibition recognizes that
 difference is a fundamental part of a city.
@@ -723,7 +723,7 @@ while some were set elsewhere (Rumble in the Bronx, 1995). Over the years,
 film production has had a strong impact on Vancouver, conflating our
 understanding of the reality of the city with its filmic representation.
 Indeed, there is a perceived anxiety about a city that spends more time
-standing in for other cities than it does in â€œplayingâ€  itself. Turnerâ€™s
+standing in for other cities than it does in “playing”  itself. Turner’s
 extensive research into film in Vancouver comprises one aspect of the
 city’s past that continues to resonate today: its filmic image that is
 projected beyond the city boundaries to elsewhere.
@@ -837,7 +837,7 @@ interdisciplinary exchange of ideas, problem solving and mutual aid. A
 visiting presenter - perhaps an artist, an educator, a community organizer
 - meets with a room full of guests and poses a question, presents a work in
 progress, or reveals a particular challenge they’re facing in their work .
-By transforming a traditional â€œartist talkâ€  into a non-linear dialogical
+By transforming a traditional “artist talk”  into a non-linear dialogical
 space, Think Tank hopes to reveal the potential resources to be found
 through transparency, questioning and communing with people both inside and
 outside of our specific fields of work.
@@ -880,7 +880,7 @@ Day for Night: Films in the Afternoon presents a dreamy double bill:
 Days of Heaven (1978) and Man on Wire (2008)
 
 “Nobody’s perfect. There was never a perfect person around. You just
-have half-angel, half-devil in you.â€  - Linda Manz in Days of Heaven
+have half-angel, half-devil in you.”  - Linda Manz in Days of Heaven
 
 Following February's screening of Terrence Malick's Badlands (1973),
 Day for Night presents his second feature film, Days of Heaven (1978).
@@ -1158,7 +1158,7 @@ Public Access: 1999 & Beyond, Weekend Leisure has curated local
 artists and comedians to create work that will be shown in an art
 exhibition that takes the form of a public access television
 programme.
-Using an overarching theme of â€œscience fictionâ€ , the five participants
+Using an overarching theme of “science fiction” , the five participants
 were asked to produce works that consider the do-it-yourself aesthetic
 of public access television, responding to its limitations as a medium
 of democratic creative expression. The resulting video content ranges
@@ -1384,7 +1384,7 @@ If you purchased the object, how much did it cost?
 
 What made you select/keep the object?
 
-Does the object have a â€œhomeâ€ /particular location in your living space,
+Does the object have a “home” /particular location in your living space,
 office, studio, car, etc.?
 
 Is there anything else that you would like to tell us about your souvenir?
@@ -1537,7 +1537,7 @@ WORKSHOP REQUIREMENTS
 HOW TO REGISTER
 
 To register for the workshop, please email education@vivomediaarts.com with
-â€œPerformance Art / Video: Registrationâ€  in the subject line. We need your
+“Performance Art / Video: Registration”  in the subject line. We need your
 full name, your phone number, your email, and your commitment to attending
 all workshop sessions.
 

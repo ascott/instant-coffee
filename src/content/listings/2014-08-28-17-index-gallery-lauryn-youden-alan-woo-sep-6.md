@@ -36,7 +36,7 @@ www.laurynyouden.net
 Alan Woo is the author of the award-winning children's book, "Maggie's
 Chopsticks" out now in book stores near you and online!!
 
-Praised by the New York Times as a pianist with â€œassurance and vitality,â€ 
+Praised by the New York Times as a pianist with “assurance and vitality,” 
 Mr. Woo was also named the winner of the 2010 Juilliard Concerto
 Competition. His other accomplishments include second and audience prize at
 the IIYM International Piano Competition in 2009, first prize at the

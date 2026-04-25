@@ -46,7 +46,7 @@ Step 2
 Shortlisted artists will be contracted to develop their
 concepts in detail. A design fee of $1,000 will be provided.
 A technical review, with feedback to the artist, will take
-place prior to the artistâ��s presentation of their design
+place prior to the artist’s presentation of their design
 concept to the selection panel. One proposal will be
 commissioned following the recommendations of the
 selection panel and acceptance by the Public Art Advisory
@@ -68,7 +68,7 @@ wellness centres, and multi-purpose rooms. The
 architectural concept for the building and landscaping is
 motion, rhythm, and flow. Inspiration for the forms is derived
 from the idea of repetition as a visual identifier of movement
-â�� experienced by both traveling past and within the centre.
+’ experienced by both traveling past and within the centre.
 Since the building serves all ages, this motion can reflect
 
 CITY OF SURREY PUBLIC AND COMMUNITY ART PROGRAM
@@ -162,12 +162,12 @@ addition, a PC compatible CD may also be mailed or
 delivered to back up the e-mail. As an added back-up, if
 you have a website with your complete submission in
 the required format, please provide us with your URL.
-ï�· File Size â�� Files must be less than five (5) MB.
-ï�· CDs must be labelled with the artistâ��s last name and
+ï�· File Size ’ Files must be less than five (5) MB.
+ï�· CDs must be labelled with the artist’s last name and
 the abbreviation CRC or title Cloverdale Recreation
 Centre
 ï�· Images - numbered indicating viewing order,
-followed by the artistâ��s last name.
+followed by the artist’s last name.
 
 Page 1. Letter of Interest (1 page)
 This letter should explain why your work is appropriate for
@@ -186,9 +186,9 @@ In PDF format, describe and/or illustrate your design
 approach for this facility. Your submissions are held in
 confidence.
 
-Pages 4 and 5. ArtistÃ¢ï¿½ï¿½s RÃ�Â©sumÃ�Â© (max. 2 pages)
-Include a professional artistâ��s resume. For team
-applications, please include rÃ�Â©sumÃ�Â©s for all team members
+Pages 4 and 5. Artistâï¿½ï¿½s RÂ©sumÂ© (max. 2 pages)
+Include a professional artist’s resume. For team
+applications, please include rÂ©sumÂ©s for all team members
 (and contact information including email addresses). All
 team members must have confirmed participation prior to
 submission.
@@ -203,7 +203,7 @@ Submit up to 10 images of your past work in PDF format.
 
 Page 16.Image list of your Work (1 page)
 Please include detailed information about each artwork
-including: the artistâ��s name, artwork title, medium/materials,
+including: the artist’s name, artwork title, medium/materials,
 completion date, dimensions, total budget and project
 contact information. Applicants must state their role in the
 creation of the artwork.
@@ -219,14 +219,14 @@ at www.arts.surrey.ca
 
 E-MAIL TO:
 purchasing@surrey.ca
-with â��subject lineâ��
+with ’subject line’
 1220-50-05-09 Cloverdale Public Art
 
 If also mailing a CD:
-City of Surrey, Purchasing 6645 â�� 148th Street, Surrey BC
+City of Surrey, Purchasing 6645 ’ 148th Street, Surrey BC
 Canada, V3S 3C7 Attention Violet McGregor, CMA,C.P.P.
 
-This call is one of several to be posted as part of the Cityâ��s
+This call is one of several to be posted as part of the City’s
 Public Art program for 2009/2010. Upcoming calls will be
 posted at www.arts.surrey.ca
 Please note in your submission if your credentials can be
@@ -242,7 +242,7 @@ the City, that the City will not be responsible for any costs,
 expenses, losses, damages (including damages for
 loss of anticipated profit) or liabilities incurred by the artist
 as a result of or arising out of submitting a proposal,
-or due to the City's acceptance or nonâ��acceptance of their
+or due to the City's acceptance or non’acceptance of their
 proposal, or arising out of any contract award not made in
 accordance with the expressed or implied terms of the artist
 call. Until a written contract, in a form satisfactory

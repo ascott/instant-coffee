@@ -16,7 +16,7 @@ Vancouver is the most culturally diverse city in Canada. Akin to the words of ou
 current Mayor, Gregor Robertson, during his inaugural speech at Vancouver’s 
 city hall in 2008, “we come together to affirm our common purpose… not [by] 
 leading a city of generic uniformity, but a city rich with artistic voices and the 
-cultural wealth that flows from our diversityâ€ . The Western Front couldnâ€™t agree 
+cultural wealth that flows from our diversity” . The Western Front couldn’t agree 
 more, for nearly 40-years we have been developing artistic programmes and 
 projects that explore and support this notion of a shared cultural ecology in our 
 community.

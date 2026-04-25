@@ -36,7 +36,7 @@ enactors and skateboarders. Examining the aesthetics of political
 protest and counterculture, and the processes by which radical
 impulses are subsumed within commodities and cultural consumption,
 Morrison’s work troubles notions of authenticity, particularly when the
-â€œauthenticâ€  is absorbed into the mainstream.
+“authentic”  is absorbed into the mainstream.
 
 Morrison’s analysis of architectural styles, the historical context of their
 development and the evolution of their use over time, informs his

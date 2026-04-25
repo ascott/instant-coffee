@@ -115,8 +115,8 @@ and this didn’t stop the artists throughout history from making their
 work.
 
 How does this leap occur? In psychoanalysis it is through the
-â€œsuspension of the critical facultyâ€ that the analysand first encounters in
-the â€œevenly suspended attentionâ€ of the therapist. By presenting the
+“suspension of the critical faculty” that the analysand first encounters in
+the “evenly suspended attention” of the therapist. By presenting the
 analysand with an enigmatic desire that keeps the analysand working,
 trying to discover what the analyst wants from him, they sooner or later
 realize that the desire can never be fulfilled and that they must be
@@ -124,7 +124,7 @@ responsible for choosing their own course. This is the potential role of
 a teacher (or curator?) in art: to allow the artists’s own unique truth to
 emerge that is absolutely different from their own.
 
-Isnâ€™t it this ability to â€œsuspend the critical faculty,â€ as recommended 
+Isn’t it this ability to “suspend the critical faculty,” as recommended 
 by
 Freud, that produces the most profound experience of art?
 Paradoxically, it is the absence of grasping for the essential core that
@@ -335,10 +335,10 @@ take place on Saturday June 1st 9:30am-5:30pm and Sunday June
 West Hastings in Vancouver, BC.
 
 This year's LaConference title is “Sixty years after Lacan: On the
-Symbolic Order in the Twenty-First Centuryâ€ and gravitates around
-Lacanâ€™s â€œRome Discourse,â€ formally known as â€œThe Function 
+Symbolic Order in the Twenty-First Century” and gravitates around
+Lacan’s “Rome Discourse,” formally known as “The Function 
 and Field
-of Speech and Language in Psychoanalysisâ€ (1953) where Lacan
+of Speech and Language in Psychoanalysis” (1953) where Lacan
 proposed a return to the primacy of speech and language as the
 fundamental and irreducible concern of psychoanalysis. In this
 fashion, he restated the importance of the Symbolic in the emergence
@@ -363,7 +363,7 @@ as a part of Scrivener’s Monthly
 Reception with cash bar to follow.
 
 Sunday June 2nd 4.00-6.00pm
-Closing Event: Film Screening of Larry Clarkâ€™s â€œMARFA GIRLâ€
+Closing Event: Film Screening of Larry Clark’s “MARFA GIRL”
 At SFU Goldcorp Centre for the Arts
 Djavad Mowafaghian Cinema
 

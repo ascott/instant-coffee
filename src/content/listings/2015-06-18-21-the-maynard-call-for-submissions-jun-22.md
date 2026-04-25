@@ -28,7 +28,7 @@ We accept submissions of cover art for each issue according to the same
 deadlines as poetry submissions. The only constraint/requirement is that
 the art involves an orange or oranges in some way. Send a high quality
 image in the format of your choice, along with your bio, to:
-submission@themaynard.org with the subject heading â€œCover Art.â€ 
+submission@themaynard.org with the subject heading “Cover Art.” 
 
 For more info, vist: www.themaynard.org.
 

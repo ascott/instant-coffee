@@ -26,11 +26,11 @@ and Georgia in Vancouver.
 From the perspective of Art History, modern art’s intellectual superiority (and 
 heroic self-congratulation) over design is fully justified since designers are 
 able to avoid confronting the abyss of their own desire due to one thing: the 
-clientâ€™s desire. Designers can â€œplay the gameâ€  with little problem since their 
+client’s desire. Designers can “play the game”  with little problem since their 
 desire is simply to fulfill the client’s desire. Conversely, detached from the 
 guild or systems of patronage, modern artists are tormented by the enigma of 
 the question of the other’s desire, Che vuoi? (what does the 'Other' want from 
-me?) and ultimately propelled by the question, â€œhow do I know what I want?â€ 
+me?) and ultimately propelled by the question, “how do I know what I want?” 
 
 So the story goes: while costume designers are busy making costumes to 
 fulfill whatever desire they’ve been presented with, it is only in art that we can 
@@ -58,6 +58,6 @@ Tiziana La Melia (Vancouver) uses performance to fuse poetry, costumes,
 painting and sculpture. La Melia has made works that confuse the line 
 between object and subject, making sculptures that resemble entities and 
 dressing up performers in sculptural costumes. In her piece Script for Three 
-Voices (2010) her sculptures and paintings become â€œactorsâ€  alongside live 
+Voices (2010) her sculptures and paintings become “actors”  alongside live 
 performers who take on the qualities of objects. She will design new 
 costumes and a backdrop for the performance.

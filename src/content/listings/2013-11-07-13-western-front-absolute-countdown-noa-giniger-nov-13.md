@@ -18,7 +18,7 @@ Gallery hours: Tuesday - Saturday 12-5pm
 Western Front is pleased to present a new solo exhibition by Israeli artist Noa 
 Giniger.
 
-Absolute Countdown traces Ginigerâ€™s attempt to â€œcheer upâ€  a weeping willow 
+Absolute Countdown traces Giniger’s attempt to “cheer up”  a weeping willow 
 with the help of artificial wind. The melancholic object becomes the subject of 
 this poetic intervention, as the artist’s forceful yet ephemeral action attempts 
 to momentarily erase the willow’s somber shrug. While this monumental—but 

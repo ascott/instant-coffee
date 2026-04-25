@@ -18,12 +18,12 @@ launch of the publication Far Away So Close: Part I , which features written
 contributions by Vancouver-based artists Raymond Boisjoly and Vanessa 
 Kwan. We will mark this occasion with an informal conversation between 
 Kwan and Access Gallery Director/Curator Kimberly Phillips, and to speak 
-around ideas of distance, â€œdark magicâ€  and the works in the exhibition. 
+around ideas of distance, “dark magic”  and the works in the exhibition. 
 
 Raymond Boisjoly is an Indigenous artist of Haida and Québécois descent 
 from Chilliwack, BC, currently based in Vancouver. He is represented by 
 Catriona Jeffries Gallery. This fall, Boisjoly will serve as Lead Faculty for “In 
-Kindâ€  Negotiations, a thematic residency at the Banff Centre. 
+Kind”  Negotiations, a thematic residency at the Banff Centre. 
 Vanessa Kwan is a Vancouver-based artist and curator. Her work has been 
 exhibited at a number of galleries and artist-run centres. Recent projects 
 include Sad Sack, a series of collaborations on the subject of melancholy, 

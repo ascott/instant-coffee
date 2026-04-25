@@ -40,5 +40,5 @@ Canadian series Markings with Neil Bissondath, and served as creative
 consultant for the American Experience series We Shall Remain: A Native
 History of America, broadcast on PBS in April 2009.
 
-Smith lives in Washington, D.C. His middle name is pronounced â€œchot,â€  and
+Smith lives in Washington, D.C. His middle name is pronounced “chot,”  and
 rhymes with hot. He has no college or university degrees.

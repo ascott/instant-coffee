@@ -367,7 +367,7 @@ information, including works by Hong Hao, Nobuo Kubota, Shen Yuan, Germaine
 Koh, Sharmila Samant, Yang Jiechang, Koki Tanaka, Khan Lee, Roy Caussy,
 Jinhan Koh, Santiago Bose, Mo Salemy, Leung Chi-Wo, Babak Golkar and many
 others. The gallery will be divided into a number of discursive spaces: a
-cinema, a cafÃ�Â©, a library, a bookstore, a lounge and a radio station.
+cinema, a cafÂ©, a library, a bookstore, a lounge and a radio station.
 
 Publications and limited editions will be available for sale. Video in the
 gallery, and on the website, will feature highlights from past
@@ -458,7 +458,7 @@ Cultural Capital
 Moderator: Hank Bull, Executive Director, Centre A
 
 Vancouver is in the grips of a city-wide debate about the place of arts and
-culture in the cityâ��s vision of its future. What kind of spaces are we
+culture in the city’s vision of its future. What kind of spaces are we
 building for art? What does Vancouver have to say to the world? This
 closing discussion will consider these questions and identify the next
 steps forward.
@@ -466,7 +466,7 @@ steps forward.
 CONFIRMED SPEAKERS
 
 The symposium features speakers who will kindle discussion with short
-interventions, as well as â��active listenersâ�� invited to contribute to the
+interventions, as well as ’active listeners’ invited to contribute to the
 ensuing dialogue. Those interested in speaking are invited to submit
 proposals for short interventions. The following speakers are confirmed.
 
@@ -528,7 +528,7 @@ NETWORKING
 
 The symposium will be preceded by a blog and streamed live to the Internet.
 Participation in the event will be possible by Skype and Twitter. The
-proceedings will edited and archived on Centre Aâ��s website.
+proceedings will edited and archived on Centre A’s website.
 
 LUNCH AND DINNER
 
@@ -542,7 +542,7 @@ be provided.
 
 PATRONS
 
-Letâ��s Twist Again is made possible in part by the generous support of the
+Let’s Twist Again is made possible in part by the generous support of the
 following individual patrons:
 
 Project Patron: Anndraya T. Luui
@@ -579,7 +579,7 @@ EDUCATION COORDINATOR POSITION AVAILABLE
 Incorporated in 1972, Pacific Cinematheque is one of Vancouver's most
 established non-profit arts organizations. Dedicated to advancing the
 understanding and appreciation of cinema and moving images as art, and to
-fostering critical media literacy, Pacific CinÃ�Â©mathÃ�Â¨que offers a wide
+fostering critical media literacy, Pacific CinÂ©mathÂ¨que offers a wide
 variety of high quality and innovative public film programs and services,
 including year-round screenings; a number of nationally recognized media
 education and video production programs; a film reference library; and a
@@ -600,24 +600,24 @@ develop teaching, communication, and mentorship skills in a collaborative
 and exciting professional environment. Duties will include (but are not
 limited to):
 
-Ã�Â· Working with the Education Manager to develop and facilitate
+Â· Working with the Education Manager to develop and facilitate
 digital filmmaking, film education, and media literacy programs for
 children, youth and adults;
 
-Ã�Â· Coordinating, scheduling, promoting, and communicating details for
+Â· Coordinating, scheduling, promoting, and communicating details for
 educational programs and film-based projects;
 
-Ã�Â· Engaging in community outreach to promote existing Education
+Â· Engaging in community outreach to promote existing Education
 Department programming and gain community feedback for future programming;
 
-Ã�Â· Organizing and maintaining equipment, curricular materials, and
+Â· Organizing and maintaining equipment, curricular materials, and
 education department archives;
 
-Ã�Â· Working with the Education Manager to develop volunteer and
+Â· Working with the Education Manager to develop volunteer and
 contract staff orientation, training and mentorship in pedagogy,
 facilitation, technical and media literacy skills;
 
-Ã�Â· Providing assistance to the Summer Visions and SFU Summer Camp
+Â· Providing assistance to the Summer Visions and SFU Summer Camp
 programs, potentially functioning as a camp Instructor.
 
 The successful candidate will have the ability to work in a dynamic,
@@ -630,9 +630,9 @@ required to submit a Criminal Record Check.
 This is a permanent, full-time position with a starting salary between
 $28,000 to 30,000 per annum, including a shared-cost group benefit plan and
 3-weeks annual vacation time. Also possible is a pro-rated, revolving
-10-month Septemberâ��June contract, pending negotiations.
+10-month September’June contract, pending negotiations.
 
-Please send a cover letter and resumÃ�Â©, preferably emailed in PDF format, to:
+Please send a cover letter and resumÂ©, preferably emailed in PDF format, to:
 
 Liz Schulze, Education Manager
 
@@ -783,7 +783,7 @@ you in advance for your interest.
 
 * Tel. 604.688.0051
 * Fax 604.685.1912
-* Tuesday â�� Saturday, 12-5pm
+* Tuesday ’ Saturday, 12-5pm
 * Admission is free
 
 ------------------------------------------------------------------------

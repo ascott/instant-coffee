@@ -13,7 +13,7 @@ WANTED
 APPLY 
 INSIDE
 We’re all familiar with the challenge of making a resumé. The competing goals 
-surrounding resumÃ© building appear to be in fundamental conﬂict. On the one 
+surrounding resumé building appear to be in fundamental conﬂict. On the one 
 hand, job seekers are pressed to reduce their experiences into quantiﬁable, 
 coherent chunks. They also hope to manifest their speciﬁc personhood on the 
 page. In both content and form, the resumé or curriculum vitae becomes a 
@@ -33,7 +33,7 @@ exhibition opening in late March. Send physical submissions to:
 RECESS
 1426 SE Salmon St. 
 Portland, OR 97214
-For digital submissions, weâ€™re asking for a small donation of ﬁfty cents for 
+For digital submissions, we’re asking for a small donation of ﬁfty cents for 
 printing 
 charges which can be made via our Paypal accouont. Please e-mail pdfs to 
 info@recessart.com. For more information, visit www.recessart.com. 

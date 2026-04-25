@@ -25,7 +25,7 @@ quixotic gesture, and investigates the particular relationship of this
 gesture to art making. Presented over the course of 2014-15, each
 installment showcases emergent artists working in a variety of different
 modes and media, with practices scattered across the globe. Part I of Far
-Away So Close focuses on language and the â€œdark magicâ€  of communication.
+Away So Close focuses on language and the “dark magic”  of communication.
 Each of the six artists presented is concerned with describing the gulf
 that exists between utterance and comprehension, and the always-inadequate
 means we employ in our perpetual drive to define ourselves and to connect

@@ -17,10 +17,10 @@ Langara College
 Main Campus, Room A122a
 100 West 49th Ave, Vancouver BC
 Free of charge 
-â€œon gEysErsâ€ 
+“on gEysErs” 
 Artists Erica Stocking and Vanessa Kwan will discuss the ideas 
 and processes behind the production of their recently launched 
-public art project â€œGeyser for Hillcrest Parkâ€ . Located at Hillcrest 
+public art project “Geyser for Hillcrest Park” . Located at Hillcrest 
 Community Centre in Riley Park, a venue with a rich and varied 
 community and civic history, the Geyser was commissioned by 
 the City of Vancouver. The water feature is a reference to both the 
@@ -36,7 +36,7 @@ to produce work that is materially diverse, conceptually oriented,
 and concerned with the communities and histories that inform a 
 site or situation. They both graduated from Emily Carr University 
 of Art and Design in 2004 and they have collaborated on the 
-performance art collective â€œNormaâ€ , which received a Mayorâ€™s Art 
+performance art collective “Norma” , which received a Mayor’s Art 
 Award for Public Art in 2011.
 aBout thE CEntrE
 The Langara College Centre for Art in Public Spaces engages 

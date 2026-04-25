@@ -16,7 +16,7 @@ Criticism. The result of a public forum and reading room (held in 2009 at
 Emily Carr University and at Artspeak respectively) that investigated the
 role of valuation art criticism, this publication features commissioned
 texts by forum presenters and respondents: Jeff Derksen, Diedrich
-Diederichsen, James Elkins, Maria Fusco, Sven LÃ¼tticken, Tom Morton,
+Diederichsen, James Elkins, Maria Fusco, Sven Lütticken, Tom Morton,
 Kristina Lee Podesva, William Wood and Tirdad Zolghadr. Examining the
 efficacy and function of art criticism, the publication focuses on the role
 of judgment in contemporary art writing and includes transcriptions from

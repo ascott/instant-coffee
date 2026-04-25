@@ -32,7 +32,7 @@ was defined by the Readymade, then perhaps the twenty-first century
 belongs to the Nevermade.
 
 Our Literal Speed is open to all practices, scholarly and artistic, that 
-engage the question, â€œWhy is contemporary art contemporary?â€ 
+engage the question, “Why is contemporary art contemporary?” 
 
 For more program information and to apply: 
 Office of the Registrar

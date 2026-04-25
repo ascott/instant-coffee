@@ -25,10 +25,10 @@ Diamond Zhou
 
 This exhibition draws on Susan Buck-Morss’ 1993 text for the journal 
 October, “Aesthetics and Anaesthetics: Walter Bejamin’s Artwork Essay 
-Reconsidered.â€  Students explore the etymology of the term â€œaestheticâ€  that Buck-
+Reconsidered.”  Students explore the etymology of the term “aesthetic”  that Buck-
 Morss discusses as the Greek ‘aisthitikos’: that which is perceptive by feeling. 
 Buck-Morss writes, “Aisthisis is the sensory experience of perception. The 
-original field of aesthetics is not art but reality â€“ corporeal, material nature.â€  
+original field of aesthetics is not art but reality – corporeal, material nature.”  
 Through the mediums of photography, paint, drawing and installation, the artists 
 will offer their own varied interpretations of this term and explore the evolution of 
 aesthetics through the discourse of the body.

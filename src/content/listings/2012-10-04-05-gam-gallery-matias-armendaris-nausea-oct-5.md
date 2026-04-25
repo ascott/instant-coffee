@@ -15,7 +15,7 @@ OPENING RECEPTION: Friday October 5, 8 pm
 
 “Existence is not something which lets itself be thought of from a distance: it 
 must invade you suddenly, master you, weigh heavily on your heart like a 
-great motionless beast â€“or else there is nothing more at all.â€ 
+great motionless beast –or else there is nothing more at all.” 
 ― Jean-Paul Sartre, Nausea
 
 Matias Armendaris' series Nausea explores the standpoint of French 

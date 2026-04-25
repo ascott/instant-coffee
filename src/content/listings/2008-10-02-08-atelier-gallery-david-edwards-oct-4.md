@@ -28,17 +28,17 @@ November
 
 1, 2008.
 
-This exhibition marks an exciting transition in EdwardsÃ&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½ work. In
+This exhibition marks an exciting transition in EdwardsÃ&#65533;Â¢ïÂ¿Â½ïÂ¿Â½ work. In
 his own
 words, he has,
 
-Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½all but abandoned the former Romantic veil through which I looked at my
+Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½all but abandoned the former Romantic veil through which I looked at my
 subjects for
 
-a much more practical, straightforward approach.Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½ Working directly from
+a much more practical, straightforward approach.Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½ Working directly from
 photographs,
 
-EdwardsÃ&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½ new goal is Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½to retain the feeling of the snapshot
+EdwardsÃ&#65533;Â¢ïÂ¿Â½ïÂ¿Â½ new goal is Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½to retain the feeling of the snapshot
 in the final
 image. I still work
 
@@ -48,16 +48,16 @@ have allowed
 myself the luxury of including more information in the new images, thereby
 defining the
 
-spaces in a much more tangible way.Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½
+spaces in a much more tangible way.Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½
 
-Urban Development speaks not only of the new direction of EdwardsÃ&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½
+Urban Development speaks not only of the new direction of EdwardsÃ&#65533;Â¢ïÂ¿Â½ïÂ¿Â½
 process,
 but also
 
 to his curiosity of our changing landscapes, or more specifically the
-Ã&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½working landscapeÃ&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½.
+Ã&#65533;Â¢ïÂ¿Â½ïÂ¿Â½working landscapeÃ&#65533;Â¢ïÂ¿Â½ïÂ¿Â½.
 
-Whereas EdwardsÃ&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½ canvases previously reflected dreamy forests and
+Whereas EdwardsÃ&#65533;Â¢ïÂ¿Â½ïÂ¿Â½ canvases previously reflected dreamy forests and
 waterfalls, his
 
 panels now capture the realities of farmyards, mills and factories.
@@ -65,7 +65,7 @@ panels now capture the realities of farmyards, mills and factories.
 David Edwards currently lives and works in Vancouver, BC. Urban development
 will be
 
-DavidÃ&#65533;Â¢Ã¯Â¿Â½Ã¯Â¿Â½s first solo exhibition at the Atelier Gallery.
+DavidÃ&#65533;Â¢ïÂ¿Â½ïÂ¿Â½s first solo exhibition at the Atelier Gallery.
 
 Additional images and interviews available upon request.
 

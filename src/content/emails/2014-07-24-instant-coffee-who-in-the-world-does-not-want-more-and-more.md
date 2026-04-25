@@ -173,7 +173,7 @@ intense labour. Be it the physically demanding work of destroying a boat
 (Jukka Silokunnas), cutting up a frozen lake (Antti Laitinen) or chipping up 
 a log (Emma Lappalainen or building self-sufficient kinetic sculptures 
 (Lasse Ursin). All demand a certain determination and sacrifice proudly 
-known as â€œsisuâ€  in the Finnish language. Each piece has an intimate story 
+known as “sisu”  in the Finnish language. Each piece has an intimate story 
 as well, reflecting the solitary nature of Finns. The lone, physical and 
 technical involvement in each creation is reflective of the Finnish 
 relationship to nature.
@@ -267,7 +267,7 @@ gay artists have used language in their art to explore their identity.
 Playful manipulation of language is demonstrated in Luis Jacob’s work, a 
 print derived from the action of him kissing a sheet of paper, a la Joyce 
 Weilland, while singing the disco funk anthem, Sylvester’s “You Make Me 
-Feel (Mighty Real)â€ . Keith Cole marries text and visual in collages derived 
+Feel (Mighty Real)” . Keith Cole marries text and visual in collages derived 
 from mass media and advertising as he draws upon popular culture.
 
 Text can be immediate, and billboards and signage exemplify the 
@@ -390,7 +390,7 @@ suffocate you, like everything else. That stream again, sparkling and
 swimming with fishes, so that I thought of my father and all the men buried
 at sea, now just barnacles left only to eat the sad flesh of the next.
 
-And all because of something so tame as a horse.â€ 
+And all because of something so tame as a horse.” 
 
 Presented on ipads and screens with headphones, the new works 
 seamlessly
@@ -683,7 +683,7 @@ laboratory, storage facility, moving company, studio, haunted house, shrine
 KRISTEN ROOS is a Vancouver based artist whose practice includes site-
 specific installations, sound design for dance, and live performance. The 
 exploration of the underground, the low frequency, and the hidden is 
-present in many of his works. This includes his 2007 piece â€œGhost Station,â€  
+present in many of his works. This includes his 2007 piece “Ghost Station,”  
 which was installed in an unused Toronto subway station and used 
 recordings derived from subwoofers and subway trains. He has exhibited 
 in artist-run centers and festivals across Canada, and performed in new 
@@ -801,7 +801,7 @@ La Melia’s recent works fall under the loose rubric of "Purple Poses" and
 “come out of my research on decreation, dropouts, and disappearances; it 
 is an extension of my research on the affect of illness, in a broad sense, 
 and emerges out of research on figures such as Karen Carpenter, Janis 
-Joplin, Emmy Hennings, and Mark Twain's Aquarium Club.â€ 
+Joplin, Emmy Hennings, and Mark Twain's Aquarium Club.” 
 
 Contact info@theapt.ca for more information!
 
@@ -1071,7 +1071,7 @@ themes:
 RESIDUE 
 Increasingly, culture operates based on a sophisticated, invisible layer of 
 data that may or may not relate to the physical world, and which leaves a 
-â€œworldly residueâ€  behind as machines alter our lived experience. These 
+“worldly residue”  behind as machines alter our lived experience. These 
 effects go to a wide variety of real world impacts. In addition there is a 
 growing appreciation in the mainstream for the partial, procedural 
 aesthetics produced by internet culture, from animated .gifs, RGB palettes, 
@@ -1199,7 +1199,7 @@ University of Brighton (UK).
 ------------------------------------------------------------------------
 KAPSULA Magazine CFP: ACTING OUT
 
-In clinical psychology, â€œacting outâ€  is considered a defence mechanismâ€”a 
+In clinical psychology, “acting out”  is considered a defence mechanism—a 
 means of regaining control through a loss of control. Those who act out 
 disrupt the social order through their immanent reshaping of its boundaries. 
 Many contemporary artists working in performance and participatory art 

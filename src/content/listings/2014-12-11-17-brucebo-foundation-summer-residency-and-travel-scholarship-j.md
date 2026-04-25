@@ -47,7 +47,7 @@ European travel.
 
 Deadline for applications: January 31, 2015. See the application guidelines
 and download the application form at www.bruceboscholarships.com. Click on
-â€œApplyâ€ .
+“Apply” .
 
 For more information on the Scholarships, the studio cottage, previous
 scholarship recipients and the Caroline Benedicks - William Blair Bruce

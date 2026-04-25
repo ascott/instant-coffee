@@ -71,7 +71,7 @@ New works by Wendy Batemen
 Where words can be temporary, finding a voice as a woman in a world that
 moves quickly can be challenging. With a needle and thread, Bateman
 chooses to deliberately and slowly say things that might easily be lost in
-newsfeeds. She says it with humor and grace. Which, if youâ€™re going to
+newsfeeds. She says it with humor and grace. Which, if you’re going to
 anything, ought to begin there.
 
 Wendy Bateman is from the prairies and now lives in Vancouver. She has had
@@ -79,7 +79,7 @@ the opportunity to show her work widely, on Instagram, which can be seen
 anywhere in the world with the right technology, but this is the first time her
 work will be presented in a gallery space.
 
-The Toast Collective is a collection of collectives that operate â€œThe Toastâ
+The Toast Collective is a collection of collectives that operate “The Toastâ
 € an
 art, event and food-centric space at 648 Kingsway in East Vancouver. Toast
 is a D.I.Y., flexible and community-located space for artists, events and
@@ -92,10 +92,10 @@ http://m.facebook.com/events/268570623275383/?ref=22
 https://www.facebook.com/groups/JUNKTION/
 
 The Toast Collective is a store front with the following measurements:
-Front door: 40â€ across
-Bathroom door: 27.5â€ across (the bathroom is very small)
+Front door: 40” across
+Bathroom door: 27.5” across (the bathroom is very small)
 The bathroom door opens in
-Kitchen door: 36â€ across
+Kitchen door: 36” across
 There is 6.5″ tall step at the front entrance.
 
 ------------------------------------------------------------------------
@@ -342,7 +342,7 @@ expanded her creative work to include writing and painting.
 
 This commission is curated by Cease Wyss, a Skwxumesh media artist from
 the village of Sla7an in North Vancouver, and a past recipient of the Vancouver
-Mayorâ€™s Arts Award for media art.
+Mayor’s Arts Award for media art.
 
 UNIT/PITT Projects | 15 East Pender Street, Vancouver BC Canada V6A 1S9
 | +1 604 681 6740 | www.unitpitt.ca
@@ -423,7 +423,7 @@ in the multi-part series The Voyage, or Three Years at Sea. Born in France to
 Algerian parents, Sedira explores Algeria’s colonial past and the themes of 
 migration and displacement through sea-related narratives. The 
 Mediterranean Sea plays a significant role in the artist’s work as the site of 
-historical, cultural and contemporary â€œmovementâ€  between North Africa and 
+historical, cultural and contemporary “movement”  between North Africa and 
 Europe.
 
 The exhibition at the Charles H. Scott Gallery will consist of two recent multi-
@@ -557,7 +557,7 @@ workshop April 10 from 7-9pm, 20 & 21 from 12-4:30pm.
 This three-day workshop will take you from basic to advanced techniques of 
 creating and using analogue video feedback systems from old video gear. 
 Experts and novices alike will learn fundamentals and find new directions to 
-apply video feedback to their work, be it as a VJ, for â€œold schoolâ€  post 
+apply video feedback to their work, be it as a VJ, for “old school”  post 
 production video effects or interactive installations and performance. 
 Participants will be guided through building their own systems from 
 inexpensive components to take home. See video in an entirely new way; as 
@@ -844,7 +844,7 @@ indifferent. Invested with memories, they can ultimately stand only for what we
 have lost. One might argue that the work of many contemporary artists, 
 designers and curators—much of it concerned with fragments, ruins and 
 retreats from definitive meanings—is itself bound up with a melancholic desire 
-to fill in â€œthe missing.â€  Our current cultural moment (i.e., late Late Capitalism) 
+to fill in “the missing.”  Our current cultural moment (i.e., late Late Capitalism) 
 could be defined by a kind of unprecedented melancholic drive, fuelled in part 
 by an endless proliferation of things, none of which can ever satisfy our desire 
 for a deeper connection with our physical world. Our persistent attachment to 
@@ -1010,16 +1010,16 @@ Improv Centre.
 “This is a great step forward for these hilarious artists, and so we have called 
 this season ‘Steppin’ Out.’ We have loved performing in the bars in the Davie 
 St. area but now our performers are ready to step up and take the stage in a 
-real comedy theatre,â€  said Jones.
+real comedy theatre,”  said Jones.
 “The show has been free with pass-the-hat donation in recent years, but now 
 we must charge admission—a modest nine dollars—to pay the rent. 
 Audience members will more than get their money’s worth—The Improv 
 Centre is luxurious, with theatre seating and professional lighting, and there 
 isn’t a bad seat in the house. They can still have a drink, and there won’t be 
-waiters walking in front of them. The show is on historic Granville Island,â€  adds 
+waiters walking in front of them. The show is on historic Granville Island,”  adds 
 Jones, “so come down after work and get something to eat at the Public 
 Market or at any of the dozens of restaurants. Then start your week off with 
-some laughter at this wickedly funny comedy competition.â€ 
+some laughter at this wickedly funny comedy competition.” 
 Tops & Bottoms – Queer Improv Show – Monday nights at 7 pm at The Improv 
 Centre, 1502 Duranleau St., at the entrance to Granville Island, opposite the 
 Kids’ Only Market. Tickets, $9, can be picked up at the door or reserved on-

@@ -150,7 +150,7 @@ Wearing discusses masking the exterior to uncover internal truths,
 identifying the universal among the anonymous, and finding her own voice in
 the stories of strangers.
 
-â€œI say those moments fit like the fist fits the eye,â€  remarks the acclaimed
+“I say those moments fit like the fist fits the eye,”  remarks the acclaimed
 Vancouver-based photographer Fred Herzog, speaking to Border Crossings
 about sixty years of capturing serendipity through the vibrant realism of
 colour photography.
@@ -167,31 +167,31 @@ taking a captured past into a technological future.
 
 ARTICLES
 Stephen Horne explores Lynne Cohen’s photographed interiors, discovering in
-them the intriguing tension of â€œstage sets waiting for an action to begin.â€ 
+them the intriguing tension of “stage sets waiting for an action to begin.” 
 
 Daniel Baird assays the continuum of self, as embodied, and expanded, by
 Suzy Lake in her experiments in self-portraiture.
 
 And Lee Henderson follows the flux in Evan Lee’s photoconceptual work and
 in his approach to new technologies: “Seen through his artwork, the changes
-to photography are all liberations.â€ 
+to photography are all liberations.” 
 
 ALSO IN THIS ISSUE:
-PHOTO PORTFOLIO by Jessica Eaton in her â€œCubes for Albers and Lewittâ€  series.
+PHOTO PORTFOLIO by Jessica Eaton in her “Cubes for Albers and Lewitt”  series.
 
 BORDERVIEWS on the mysteriously prolific and previously unseen work of
 Vivian Maier; Sarah Anne Johnson’s playful, timely and provocative “Arctic
-Wonderlandâ€ ; the â€œedgy brightnessâ€  of Steve Ackermanâ€™s black-and-white
+Wonderland” ; the “edgy brightness”  of Steve Ackerman’s black-and-white
 photography; and the merging of stellar and cellular in Andrew Wright’s
-â€œCoronaeâ€  series.
+“Coronae”  series.
 
 And our extensive CROSSOVERS section, with reviews of recent exhibitions of
 Stan Douglas, Rodney Graham and Tacita Dean, Anna von Gwinner and Markus
 Schädel, Kent Monkman, Davida Nemeroff, Guillermo Trejo, Elspeth Pratt,
 Susan Feindel, The Otolith Group, Thomas Hirschhorn and Iñigo
-Manglano-Ovalle, the Venice Biennale, Donigan Cumming, â€œThe Durable Idiomâ€ ,
+Manglano-Ovalle, the Venice Biennale, Donigan Cumming, “The Durable Idiom” ,
 Allison Schulnik, Jessica Groome, Anri Sala, “Voices of Fire: toward a post
-Postmodern theory of Abstractionâ€ , and Gordon Lebredt: Nonworks.
+Postmodern theory of Abstraction” , and Gordon Lebredt: Nonworks.
 
 Border Crossings is a quarterly cultural magazine published in Winnipeg.
 Its subject is contemporary Canadian and international art and culture,
@@ -219,7 +219,7 @@ Christian Hänggi on Stockhausen and 9-11
 
 Five days after the World Trade Center attacks, German composer Karlheinz 
 Stockhausen held a press conference in Hamburg in which he claimed that the 
-attacks had been â€œgreatest work of art that has ever existed.â€  These remarks 
+attacks had been “greatest work of art that has ever existed.”  These remarks 
 were taken out of context and led to a caesura in his career.
 
 A decade after this exchange, writer Christian Hänggi argues that Stockhausen’s 
@@ -466,9 +466,9 @@ Exhibitions
 September 13 – October 21, 2011 at Centre A
 September 13 – November 5, 2011 at the Audain Gallery
 
-Artist Talk September 16, 6 â€“ 8 pm at the Audain Gallery 
+Artist Talk September 16, 6 – 8 pm at the Audain Gallery 
 
-Opening Reception Friday, September 16  7 â€“ 9 pm at the Audain Gallery & 8
+Opening Reception Friday, September 16  7 – 9 pm at the Audain Gallery & 8
 – 10 pm at Centre A
 
 Public Salon HI, WE’RE YOUNG-HAE AND MARC, AND WE WERE IN TOWN FOR A FEW
@@ -853,25 +853,25 @@ artist’s immersive installations.
 
 “I am interested in how language becomes codified, where it creates
 barriers that allow for understanding within specific groups and
-communities,â€  says Fernandes. â€œIn particular, I am investigating how
+communities,”  says Fernandes. “In particular, I am investigating how
 language can be altered and forgotten through the process of migration. It
 defines identity via one’s transformation of becoming something else
-through processes of loss and gain, forgetfulness and remembrance.â€  The
+through processes of loss and gain, forgetfulness and remembrance.”  The
 title for this exhibition refers to the discontinuities of identity and
 language, and the increasingly common migratory patterns of individuals and
 groups across continents.
 
 Disscontinent is anchored by two large-scale media art installations. Voo
 Doo You Doo Speak surrounds the viewer with a series of video animated
-â€œZulu headâ€  totems that speak Dada-ist poetry. In the work titled Current
+“Zulu head”  totems that speak Dada-ist poetry. In the work titled Current
 Location (Possibly), the interpretive language of the museum swells to a
 crescendo with a 12-foot wide mural accompanied by video-mask sculptures
 that erupt in Morse Code-like messages. In the earliest made work in the
 exhibition, the artist recites a text related to the story of Robinson
 Crusoe, but does so after hiring an acting coach to teach him to speak
 English with Swahili, Indian and Canadian accents – accents representing
-each of the artistâ€™s own cultural backgrounds. The â€œdissâ€  in
-â€œdisscontinentâ€  refers to the pronunciation of the word â€œthisâ€  in
+each of the artist’s own cultural backgrounds. The “diss”  in
+“disscontinent”  refers to the pronunciation of the word “this”  in
 Afro-Caribbean English.
 
 About the artist
@@ -1073,7 +1073,7 @@ Nicolas Boone and Marie-Hélène Tessier in attendance
 Nicolas Boone is (b. 1974) is a visual artist based in Paris. He graduated from 
 École Nationale Supérieure des Beaux-Arts de Paris in 2001. His earlier work 
 used the language of filmmaking to produce ephemeral performances without 
-film stock. Eventually, his meticulously improvised â€œparadesâ€  were recorded and 
+film stock. Eventually, his meticulously improvised “parades”  were recorded and 
 edited into film loops to create a living discourse around the death of cinema. La 
 Transhumance Fantastique (2006) recycles the codes of fantastic and horror 
 cinema while a tracking shot along train rails leads nowhere — or towards a 
@@ -1125,7 +1125,7 @@ phone recordings, internet outings, confessions, media vigilantism, public
 shock and grief, we provide an artistic response to the Stanley Cup playoff
 riot, an event that will be well remembered long after the birthday candles
 have gone out on Vancouver 125. Jeff Chiba Stearns has created a series of
-120 drawings on 4â€  x 6â€  yellow sticky notes, animated at 12 frames per
+120 drawings on 4”  x 6”  yellow sticky notes, animated at 12 frames per
 second it is a refreshing visual form in comparison to the barrage of
 photo, video and blogging on this event. While sticky notes are most often
 used to post reminders and to-do lists, here they are used as an artistic
@@ -1144,7 +1144,7 @@ mayhem.
 “This idea is about peoples' reactions to cheer when good things happen and
 even when bad things happen. When the Olympic torch was relit for the
 Canucks' playoff run, people got excited... and when the city rioted people
-got even more excited. It's a strange world in which we liveâ€  (J.C.S., 2011).
+got even more excited. It's a strange world in which we live”  (J.C.S., 2011).
 
 Jeff Chiba Stearns is an animation and documentary filmmaker. Born in
 Kelowna, BC of Japanese and European heritage, a graduate of the Emily Carr
@@ -1184,13 +1184,13 @@ Artist Talk: October 19, 7 p.m.
 
 Longing is an installation of innovative, new work by Vancouver-based artist 
 Sonny Assu composed of sculptures and photographs. The sculptures are 
-found objects now displayed conceptually as â€œmasks.â€  As found objects they 
+found objects now displayed conceptually as “masks.”  As found objects they 
 provide the core focus of the investigation undertaken by the artist. Within this 
 context, found is juxtaposed to lost, or an art and culture altered or displaced by 
 conditions of colonialism and European settlement. The artist uses longing to 
 suggest a history reexamined and reclaimed.
 
-The photographs show the â€œmasksâ€  in situ within three sites, which characterize 
+The photographs show the “masks”  in situ within three sites, which characterize 
 the collecting and marketing of Northwest Coast art: as artifacts in the visible 
 storage area of an ethnographic museum, as fine art in an exhibition of aesthetic 
 objects in a commercial gallery, and the tourist shop emphasizing curiosities, 
@@ -1280,14 +1280,14 @@ Johannessen will arrive in Victoria in mid-September to plan his performance,
 scouring the city for an appropriate venue and theme for his performance.
 
 “The AGGV is pleased to partner with Open Space to bring world-class 
-performance art to Victoria,â€  said AGGV director Jon Tupper. â€œJohannessenâ€™s 
+performance art to Victoria,”  said AGGV director Jon Tupper. “Johannessen’s 
 lyrical public performance will fascinate Victorians and truly fulfill the Gallery’s 
-mandate of bringing art into the community.â€ 
+mandate of bringing art into the community.” 
 
 "Kurt Johannessen's visit continues a long-standing series of internationally -
 acclaimed performance artists brought to Victoria by Open Space, including 
 Jacques von Poppel (Netherlands), Ron Athey (USA), Lee Wen (Singapore) and 
-Alastair MacLennan (Ireland),â€  said Helen Marzolf, Open Space Executive 
+Alastair MacLennan (Ireland),”  said Helen Marzolf, Open Space Executive 
 Director.
 
 In September of 2010, Open Space hosted an exchange with Bbeyond an artist-

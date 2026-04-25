@@ -22,7 +22,7 @@ Join in the conversation: #SWARM14
 SWARM is an annual 2-night event that marks the launch of Vancouver’s 
 artist-run centre programming season with exhibition openings, performances, 
 screenings and special events. This year’s edition of SWARM will take place 
-on the evenings of September 12 and 13. The public is invited to â€œgallery-hopâ€  
+on the evenings of September 12 and 13. The public is invited to “gallery-hop”  
 from venue to venue to experience the vibrancy of Vancouver’s artist-run 
 centres and independent non-profit galleries.
 

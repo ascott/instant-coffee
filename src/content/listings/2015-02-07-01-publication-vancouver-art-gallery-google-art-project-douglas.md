@@ -22,10 +22,10 @@ world through Google Art Project.
 
 “This is a groundbreaking project for the Vancouver Art Gallery. We are
 excited to work with Google to expand our audience by permanently featuring
-Douglas Coupland: everywhere is anywhere is anything is everything online,â€ 
+Douglas Coupland: everywhere is anywhere is anything is everything online,” 
 said Kathleen S. Bartels, the Vancouver Art Gallery’s Director. “We hope to
 engage visitors from around the globe to consider what defines contemporary
-culture through the artworks of Douglas Coupland.â€ 
+culture through the artworks of Douglas Coupland.” 
 (...)
 
 http://google.com/culturalinstitute/collection/vancouver-

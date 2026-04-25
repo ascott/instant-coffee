@@ -77,7 +77,7 @@ Saturday April 7th, 2-5pm
 
 This Saturday at STORE FRONT Instant Coffee will publish and 
 launch
-the next in their series of â€œone questionâ€  handmade journals, GOOD
+the next in their series of “one question”  handmade journals, GOOD
 NEWS Issue 04.
 
 For this issue the artist collective has asked all those who have
@@ -101,7 +101,7 @@ journal on Saturday. Issues are free
 
 Good News: Issue 04: Success and Failure
 
-â€œIf you want to succeed, double your failure rate.â€  This quote from
+“If you want to succeed, double your failure rate.”  This quote from
 the American Industrialist responsible for building the IBM
 corporation, Thomas J. Watson, places the supposedly opposing
 conditions of success and failure together, not linking them as
@@ -140,7 +140,7 @@ H. Tuesday - Saturday 12-5pm
 
 2 of 2 Gallery
 
-What he becomes (detail), 2012, oil on canvas, 60â€  x 48â€ 
+What he becomes (detail), 2012, oil on canvas, 60”  x 48” 
 
 SHAHEER ZAZAI
 A Failed Revolution
@@ -174,7 +174,7 @@ presence of human error.
 
 “A principle is the expression of perfection, and as imperfect beings 
 like us cannot practice perfection, we devise every moment limits of 
-its compromise in practice.â€  
+its compromise in practice.”  
 
 Mohandas Karamchand Gandhi
 
@@ -234,7 +234,7 @@ sociopolitical context of working as an artist in contemporary Iranian-
 middle eastern culture. The sequencing of the photos fosters a 
 subtle narrative effect in each series. The subjects addressed in the 
 photos include embodied cultural and social confusion; alienation in 
-a â€œwiredâ€  world; and loss of beauty in a socially restricted life. In 
+a “wired”  world; and loss of beauty in a socially restricted life. In 
 these series, which are strongly affected by the political situation of 
 Iran, after the wane of the recent social movement, Ahadi strives to 
 represent the sociopolitical truth of his country through a number of 
@@ -286,10 +286,10 @@ by combining optical effects from the past and future. Nicolson
 describes her latest work as addressing “vision and perception, in 
 particular, the differences in cultural perception regarding resource 
 management, economy, and the massive resource extraction of oil 
-from Canada's tar-sands.â€  Zack explains that his new paintings are 
+from Canada's tar-sands.”  Zack explains that his new paintings are 
 “a way to explore picture making to activate and pry open different 
 pictorial, cultural, and historical forces in order to experience them 
-yet again in idiosyncratic ways.â€  Both artists take the optical 
+yet again in idiosyncratic ways.”  Both artists take the optical 
 machinery of an earlier time (such as prisms and magic lanterns) 
 and the outmoded electronic technologies of the recent past (like 
 overhead projectors and videotape cassettes) back into the sensual 
@@ -393,10 +393,10 @@ Capilano University Studio Gallery
 
 This exhibition is Curated by Marcus Bowcott . 
 
-â€œRE + REâ€  is a builderʼs term about â€œreviewing and replacingâ€  or 
+“RE + RE”  is a builderʼs term about “reviewing and replacing”  or 
 “reviewing and 
-renovatingâ€ . Itʼs an apt title for this exhibition. More importantly the 
-spirit of â€œRE + REâ€  is 
+renovating” . Itʼs an apt title for this exhibition. More importantly the 
+spirit of “RE + RE”  is 
 at the heart of McNeilʼs practice of photography, painting, sculpture 
 and collage. His 
 aesthetic process is a constant search of reconsideration and 
@@ -417,7 +417,7 @@ process. McNeilʼs self critical practice involves reconﬁguring highly
 articulated images in 
 relation to a table saw. After all, as he states... “the saw is a drawing 
 instrument, a tool 
-for editing.â€  
+for editing.”  
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-04-05-07-trench-jen-aitken-apr-12">07. Trench | Jen Aitken | APR 12</a>
@@ -428,7 +428,7 @@ attendance. Jen is joining us all the way from Toronto.
 
 "Never letting the viewer to commit to any one of these references as 
 a starting point Aitkens desire is to “evoke brief in-body experiences 
-and visceral reactionsâ€  to the works. Aitkens sculpture allows the 
+and visceral reactions”  to the works. Aitkens sculpture allows the 
 viewer to wander in and out, sensually exploring the forms, their 
 playful nature, possible origins and her exquisite attention to detail." 
 

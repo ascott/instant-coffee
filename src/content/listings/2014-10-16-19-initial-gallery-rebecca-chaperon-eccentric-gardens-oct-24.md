@@ -20,7 +20,7 @@ Tuesday, October 28
 
 The unusual landscapes painted in Rebecca Chaperon’s Eccentric 
 Gardens are imagined physical spaces brimming with creative energy. 
-They represent the inner â€œplacesâ€  we access for creativity and imagination, 
+They represent the inner “places”  we access for creativity and imagination, 
 places that exist within our larger internal/personal landscape.
 In the Eccentric Gardens exhibition at Initial Gallery we see new sculptures 
 and paintings from Chaperon that reveal the artist’s nostalgia for place 

@@ -258,7 +258,7 @@ their portraits made, in formal set-ups as well as snapshots. Each portrait is
 constructed amidst the unfinished editing process of those works that 
 preceded it, and in reference to those other images that populate the studio. 
 Sepuya states, “My studio was private, but not a closed environment. Rather, 
-it was a stage that I inhabited and opened to those around me.â€ 
+it was a stage that I inhabited and opened to those around me.” 
 
 Please join us at the opening reception of Studio Work, Friday January 25th. 
 All are invited to a public conversation between artist and curator, to take 
@@ -339,7 +339,7 @@ Skylar Stock is an artist and local business owner who has been friends with
 John for several years. His friendship with John began through dialogues in his
 store in the DTES. They have a unique friendship, and one that has grown into
 a great trust and mutual respect for one another. Skylar will be documenting
-Johnâ€™s work, through photography.
+John’s work, through photography.
 
 Paul Lang is a local artist who has been working in and with artists groups for
 25 years. He has been the silent observer of this unique friendship for many
@@ -413,7 +413,7 @@ contemporary art, can lead to new ways of thinking, because while
 disentangling the error of equating two dissimilar things, new ways of
 thinking about both need to arise. To quote the American critic and
 writer Guy Davenport, “You are never so certain of your knowledge as
-when youâ€™re dead wrong.â€ 
+when you’re dead wrong.” 
 
 Following the reading there will be a brief conversation between Dan
 Starling and Aaron Peck about books and the art world.
@@ -437,7 +437,7 @@ Dance studio on the first floor.
 Scrivener’s Monthly is a series of public presentations that explore
 the space between material practices and spoken words: a periodical
 that talks. Set alongside the exhibitions program at Western Front,
-this experiment in â€œnot publishingâ€  involves readings, performances,
+this experiment in “not publishing”  involves readings, performances,
 and other articulations.
 
 Western Front
@@ -543,7 +543,7 @@ Time: 7 pm
 Location: Vancouver Art Gallery, 750 Hornby Street, Vancouver, BC, V6Z 2H7
 
 Created in conjunction with the landmark exhibition “Ian Wallace: At the 
-Intersection of Painting and Photography,â€  the talks series Reading Ian 
+Intersection of Painting and Photography,”  the talks series Reading Ian 
 Wallace: An International Perspective consists of conversations that provide a 
 rare opportunity for first-hand insight into Wallace’s expansive career.
 
@@ -566,7 +566,7 @@ For more information on other talks in this series featuring Stan Douglas and
 Victor Burgin, please visit 
 http://vanartgallery.bc.ca/events_and_programs/lectures_talks.html
 
-The exhibition â€œIan Wallace: At the Intersection of Painting and Photographyâ€  
+The exhibition “Ian Wallace: At the Intersection of Painting and Photography”  
 continues at the Vancouver Art Gallery until February 24. 
 
 Vancouver Art Gallery
@@ -648,7 +648,7 @@ followed: firstname_lastname_hdts2013.pdf (for example
 andrea_zittel_hdts2013.pdf).
 
 All proposals must be emailed to info@highdeserttestsites.com by January 
-31, 2013 for consideration. Please specify â€œHDTS 2013 Proposalâ€  in the email 
+31, 2013 for consideration. Please specify “HDTS 2013 Proposal”  in the email 
 subject heading. 
 
 (Those without internet access may mail a paper copy of their proposal to the 
@@ -1048,10 +1048,10 @@ art exhibitions accompanied by a rapidly growing representation of Asian
 artists. However, critical inquiry into inter-Asian artistic collaborations and 
 activities has only just begun to enter into scholarly discussions in theory and 
 in practice. As cultural critic C.J. Wan-Ling Wee noted, in the 1980s and
-1990s the idea of contemporary â€œNew Asiaâ€  was curated into â€œbeingâ€ â€™ as one 
+1990s the idea of contemporary “New Asia”  was curated into “being” ’ as one 
 that imagined “a cosmopolitan-multicultural Asia able to transcend national 
 boundaries, even as there was the awareness that the region’s cultural 
-diversity and history of political fractures made this endeavor difficult.â€  In the 
+diversity and history of political fractures made this endeavor difficult.”  In the 
 new millennium, the renewed emphasis on inter-Asian cooperation has led to 
 the concomitant realization of the notion of a Global Asia and distinctions 
 between the Global South and the Global North.
@@ -1072,8 +1072,8 @@ and platform to examine current categories, spaces and frameworks
 constructing the inter-Asian imaginary in the global exhibitionary complex and 
 implications for identity formation and the local over the last two decades. 
 Another approach might be to consider how an exhibition of contemporary 
-Indian art in China (i.e., â€œIndian Highwayâ€  at Beijingâ€™s Ullens Center for 
-Contemporary Art in 2012) differs from an exhibition about â€œIndia in China.â€ 
+Indian art in China (i.e., “Indian Highway”  at Beijing’s Ullens Center for 
+Contemporary Art in 2012) differs from an exhibition about “India in China.” 
 Furthermore, Asian biennales are not necessarily located in Asia proper writ 
 large: Manchester hosts the Asian Triennial in the UK, and the Asia Pacific 
 Triennial is based in Brisbane, Australia. Meanwhile Istanbul in West Asia 

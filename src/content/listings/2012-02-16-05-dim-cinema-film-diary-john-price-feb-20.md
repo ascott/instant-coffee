@@ -25,7 +25,7 @@ cheap expired reels and industry tail ends, Price mixes chance with
 chemistry to work out tones, tints and grain. The images may fall off 
 altogether, but he doesn’t care. The intimacy of the alchemical process 
 will still remain and he will remember it. The films presented in “Film 
-Diaryâ€  touch central themes in Priceâ€™s archive: The City, The Family 
+Diary”  touch central themes in Price’s archive: The City, The Family 
 and The Sea. After Eden (2000) and Nine + 20 (2001) are part urban 
 ethnography and part excavation: the journey of a traveler in search of 
 faith amidst a landscape of concrete and lost souls. Ten Thousand 

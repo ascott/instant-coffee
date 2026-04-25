@@ -24,7 +24,7 @@ Vancouver’s Entertainment District, exposing a pressure to be beautiful,
 and flaunting the authority that it enables.
 
 El Reinado by Jen Osborne showcases impoverished Colombian beauty
-contestants competing for the title of â€œPeopleâ€™s Princessâ€  to improve their
+contestants competing for the title of “People’s Princess”  to improve their
 chances of finding a lucrative job in entertainment, or, a husband from a
 higher economic class. Beauty, for Columbia, is a national resource, and it
 gives Colombians a way to survive living in turmoil by celebrating things

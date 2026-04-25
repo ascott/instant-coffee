@@ -57,7 +57,7 @@ interdisciplinary exchange of ideas, problem solving and mutual aid. A
 visiting presenter - perhaps an artist, an educator, a community organizer
 - meets with a room full of guests and poses a question, presents a work in
 progress, or reveals a particular challenge they’re facing in their work .
-By transforming a traditional â€œartist talkâ€  into a non-linear dialogical
+By transforming a traditional “artist talk”  into a non-linear dialogical
 space, Think Tank hopes to reveal the potential resources to be found
 through transparency, questioning and communing with people both inside and
 outside of our specific fields of work.

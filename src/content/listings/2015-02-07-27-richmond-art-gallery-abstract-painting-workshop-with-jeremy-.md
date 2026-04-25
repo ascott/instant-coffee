@@ -30,7 +30,7 @@ Registration Call Centre: 604-276-4300, Monday to Friday, from 8:30 am -
 5:30 pm
 In person: Richmond Cultural Centre front desk, 7700 Minoru Gate, Richmond BC
 
-This workshop is offered as part of the exhibition â€œClose Listeningâ€ : Eli
+This workshop is offered as part of the exhibition “Close Listening” : Eli
 Bornowsky, Jeremy Hof, Monique Mouton, Jinny Yu. Organized and circulated
 by the Ottawa Art Gallery, on view at the Richmond Art Gallery from January
 31-March 29, 2015.

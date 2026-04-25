@@ -36,11 +36,11 @@ With pride in this announcement, Centre A's Executive Director/Curator
 Tyler Russell says: “We are delighted to establish this exchange with RAT.
 As an institution committed to fostering intercultural, and transpacific
 artistic dialogue, this is exactly what we should be doing, and I am proud
-that Centre A is able to be a part of facilitating these opportunities.â€ 
+that Centre A is able to be a part of facilitating these opportunities.” 
 Accordingly, Dirk Fleischmann, RAT school of ART says: “Our partnership
 with Centre A will contribute in a substantial way to our aim to bring
 people from various backgrounds together and form an active environment for
-artistic development and intercultural communication.â€ 
+artistic development and intercultural communication.” 
 
 The application deadline is September 11th, 2015 with the successful
 candidate announced no later than September 30th. The person selected for

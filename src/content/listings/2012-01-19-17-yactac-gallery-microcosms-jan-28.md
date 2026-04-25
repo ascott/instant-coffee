@@ -28,7 +28,7 @@ YacTac Gallery, 7206 Ontario St (@ E 56th)
 teams of experts are indefatigably at work searching for new and deadlier 
 gases; or for soluble poisons capable of being produced in such quantities as to 
 destroy the vegetation of whole continents; or for breeds of disease germs 
-immunised against all possible antibodies.â€  â€“ George Orwell - 1984
+immunised against all possible antibodies.”  – George Orwell - 1984
 
 A people who’s primary aims are driving, shopping, and television are subject to 
 terrorism at any time. – Steven Deitz

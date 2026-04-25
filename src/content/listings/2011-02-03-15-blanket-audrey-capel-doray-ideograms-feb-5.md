@@ -38,7 +38,7 @@ images/messages, cooperated with it, and in the process produced work that
 not only illuminates this critical cultural period, but is relevant to our
 present condition.
 
-Audrey Capel Doray was born in MontrÃ©al in 1931. After receiving a Bachelor
+Audrey Capel Doray was born in Montréal in 1931. After receiving a Bachelor
 of Fine Arts from McGill University she moved to Vancouver in 1957 where
 she taught at the Vancouver School of Art. In 1962, Capel Doray joined the
 New Design Gallery, the first influential art space in Vancouver that

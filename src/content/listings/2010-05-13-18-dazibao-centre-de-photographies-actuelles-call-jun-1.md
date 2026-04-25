@@ -10,12 +10,12 @@ summary: "DAZIBAO, CENTRE DE PHOTOGRAPHIES ACTUELLES | CALL | JUN 1"
 
 DAZIBAO, CENTRE DE PHOTOGRAPHIES ACTUELLES
 
-JEUNE TÃ�TE D'AFFICHE CONTEST
+JEUNE TTE D'AFFICHE CONTEST
 
 DEADLINE > JUNE 1ST
 
 Call for proposals for students of Canadian universities and/or Canadian
-students studying abroad who are completing a Masterâ��s degree in Fine Arts
+students studying abroad who are completing a Master’s degree in Fine Arts
 during the year
 
 Dazibao, centre de photographies actuelles offers an artist graduating in
@@ -44,7 +44,7 @@ We do not accept proposals via e-mail. Incomplete submissions or
 submissions sent after the competition closing date will not be accepted.
 
 Send to:
-Jeune tÃªte dâ��affiche Contest
+Jeune tÃªte d’affiche Contest
 Dazibao, centre de photographies actuelles
 4001 rue Berri, espace 202
-MontrÃ©al (QuÃ©bec) H2L 4H2
+Montréal (Québec) H2L 4H2

@@ -110,10 +110,10 @@ House, using it as a studio and a place for community engagement,
 coinciding with the launch of As It Comes, two new interrelated public works.
 
 The colloquial use and structure of the written or spoken word figure 
-prominently in BoisjolyÃ¢€™s work. He often transforms the 
+prominently in Boisjolyâ€™s work. He often transforms the 
 meaning and 
 significance of language by rendering phrases indecipherable or by reordering 
-clichÃ©d aphorisms and mixing metaphors.
+clichéd aphorisms and mixing metaphors.
 
 As It Comes re-assembles passages taken from three North American First 
 Nations autobiographies: Black Elk Speaks, Yellow Wolf His Own Story and 
@@ -141,7 +141,7 @@ SAGA Thursday Artist Talk with Brendan Tang
 Surrey Art Gallery
 Thursday February 7, 7:30pm
 
-â€œGorgeous hybridsâ€ , â€œbold, brash, and whimsicalâ€ , and â€œcompelling mutationsâ€  
+“Gorgeous hybrids” , “bold, brash, and whimsical” , and “compelling mutations”  
 are just a few of the words used to describe BC-based artist Brendan Tang’s 
 wildly incongruous ceramic vessels that fuse Asian and Western historical 
 decorative styles with pop art forms derived from Japanese anime and manga.
@@ -152,7 +152,7 @@ presented by the Surrey Art Gallery Association. Raised in Canada, Brendan
 Tang was born in Ireland to Trinidadian parents who are of Chinese and East 
 Indian descent. Working in the unassuming, yet utterly transformable material 
 of clay, he creates a personal narrative with the hybridization of cultures 
-mirroring his identity as an â€œethnically-mixed Asian Canadian.â€  Tangâ€™s work is 
+mirroring his identity as an “ethnically-mixed Asian Canadian.”  Tang’s work is 
 in Surrey Art Gallery’s new exhibition The future is already here: Alex McLeod 
 and Brendan Tang guest curated by Rachel Rosenfield Lafo. Admission to the 
 talk is free.
@@ -193,16 +193,16 @@ Admission: $10 (includes a book) * No one will be turned away for lack of
 funds
 DVD boxset (includes one disc for each video programme): $20.00
 
-In November 2012, VIVO Media Arts Centre, VancouverÃ¢€™s 
+In November 2012, VIVO Media Arts Centre, Vancouverâ€™s 
 oldest media 
 access artist run centre, presented Anamnesia: Unforgetting, a series of three 
 screenings of videos from the 1970s and 1980s, collected through the early 
 Satellite Video Exchange program. The videos are now housed in 
-VIVOÃ¢€™s 
+VIVOâ€™s 
 Crista Dahl Media Library and Archive, a collection of 4500 titles of 
 international video art and related ephemera. Emerging out of Intermedia, the 
 Satellite Video Exchange collection documents important correspondence, 
-performance and activist video collaborations in VancouverÃ¢€™s art 
+performance and activist video collaborations in Vancouverâ€™s art 
 history.
 
 Along with the three video programmes, a publication, DVD box set, and 
@@ -218,7 +218,7 @@ curator's programmes, and their collaboration with VIVO over the past four
 years, within the history of social and cultural production at SVES. Alex Muir 
 extrapolates upon early artist-television pioneer Byron Black's international 
 practice, his Images from Infinity program on Cable 10, and his affiliation with 
-Robert FilliouÃ¢€™s Eternal Network, Image Bank, and the Western 
+Robert Filliouâ€™s Eternal Network, Image Bank, and the Western 
 Front. Donato 
 Mancini situates his curatorial frame within broader discourses on 
 polytemporality, polyrhythmia, and the archive, in literature, cinema, and 
@@ -281,9 +281,9 @@ The Burnaby Art Gallery is pleased to present The Artist Poster Show,
 opening Friday, February 8, 2013.
 
 The Artist Poster Show explores the didactic evolution of artist exhibition 
-posters. Drawn primarily from the Burnaby Art GalleryÃ¢€™s permanent 
+posters. Drawn primarily from the Burnaby Art Galleryâ€™s permanent 
 collection, 
-the showcase spotlights the artistÃ¢€™s ability to communicate time, place, 
+the showcase spotlights the artistâ€™s ability to communicate time, place, 
 symbolism or space though an exhibition poster.
 
 See a range of works from 27 different artists, including Ron Eckert, Brendan 
@@ -296,7 +296,7 @@ commissioned 12-poster series by Sonny Assu.
 For more information and the full list of artists please see the attached pdf.
 
 Feel free to contact me for more information about the exhibit or Sonny 
-AssuÃ¢€™s commissioned series. High-resolution images are also available upon 
+Assuâ€™s commissioned series. High-resolution images are also available upon 
 request.
 
 All the best,
@@ -331,7 +331,7 @@ photographs. These new works are documentation of archetypal wilderness
 signals that the artists have created in attempt to communicate not only with 
 each other, but with the encountering world, Anybody.
 
-Jenny G will occupy our LightBox project space. JennyÃ¢€™s practice is firmly 
+Jenny G will occupy our LightBox project space. Jennyâ€™s practice is firmly 
 based in painting and drawing. The artist used this opportunity produce her 
 first large scale photographic work.
 
@@ -376,7 +376,7 @@ Kootenay School of Writing
 *
 
 bill bissett. “we suspekt each othr uv knowing how to spell th word 
-informashun.â€  Sailor. (Talon Books, 1978).
+informashun.”  Sailor. (Talon Books, 1978).
 
 aftr i didnt want to see th
 moovee on tv abt fall out sheltrs nd th 11
@@ -457,7 +457,7 @@ But nothing to put in
 The man and the woman said to the clevver looking bloak, ‘Do you know 
 how to make fire?’
 The clevver looking bloak said, ‘O yes if I know any thing I know that right a 
-nuff. Fires my middl name you myt say.â€ 
+nuff. Fires my middl name you myt say.” 
 The man and the woman said, ‘Wud you make a littl fire then weare 
 freazing of the col.’
 The clevver looking bloak said, ‘That for you and what for me?’
@@ -479,7 +479,7 @@ itwl come back [...]
 
 *
 
-Dorothy Lusk. â€œOral Tragedy.â€  Oral Tragedy. (Tsunami Editions, 1988).
+Dorothy Lusk. “Oral Tragedy.”  Oral Tragedy. (Tsunami Editions, 1988).
 
 Ordinance ‘distanced’ thus, called ‘desire’ – ‘I’ pass out eventually. Often
 this caught too once smothered discord.
@@ -626,7 +626,7 @@ she has completed an artist residency at Gamlí Skolí in Hrísey, Iceland, and
 been a part of group and solo shows around Vancouver, B.C. Her work 
 explores relationships between identity and place. Born and raised in the 
 suburbs of Vancouver, her work seeks to intervene in the broader notion of 
-â€œlandscapeâ€  in the cities and the surrounding natural areas she finds herself 
+“landscape”  in the cities and the surrounding natural areas she finds herself 
 in.
 
 www.liztoohey-wiese.com
@@ -737,7 +737,7 @@ intersections between disciplines.
 
 “Intersection: first word of simultaneously magical and scientific consonance. 
 Word which I granted the absolute power to link and bind things, according to 
-fabulous logics.â€ 1
+fabulous logics.” 1
 
 A collaboration with artist-led book project Owl Cave, based in San Francisco, 
 responds to the internal logic of building and navigating a collection, with 
@@ -783,7 +783,7 @@ Licensed event: $2 beer & wine!
 Hunting Grounds marks a place of isolation, revelation, and psychic 
 connection. Incorporating drawing, sculpture, ceramics, installation and stop-
 motion video, it is a decidedly old-school endeavour. It is unabashedly 
-sentimental, exploratory, and curious -- itÃ¢€™s an acid trip in the woods, a post-
+sentimental, exploratory, and curious -- itâ€™s an acid trip in the woods, a post-
 apocalyptic hike to higher ground, the discovery of a new species in your 
 backyard. 
 
@@ -791,7 +791,7 @@ Artists
 
 Natasha Broad, alias Maus Hunt, makes work that highlights relationships in 
 the natural world. She is best known for her whooping cranes, drawn large-
-scale and conceived to raise awareness about the cranesÃ¢€™ endangerment by 
+scale and conceived to raise awareness about the cranesâ€™ endangerment by 
 the Alberta tar sands. 
 
 Vanessa Brown is an interdisciplinary artist whose practice spans painting, 
@@ -1321,7 +1321,7 @@ less for their families and their futures. Cultural producers will find it
 increasingly impossible to exist here, and will contend with their spaces and 
 neighbourhoods being exploited by developers. Housing choices will largely 
 be determined by the prejudices of property managers and landlords who, 
-unlike most, can afford to say â€œno.â€ 
+unlike most, can afford to say “no.” 
 
 Two centuries after Adam Smith denounced land rent as an illegitimate form 
 of accumulation, the seemingly passé 19th Century question of land 

@@ -89,7 +89,7 @@ forthcoming exhibition, Melanchotopia at the Witte de With,
 Rotterdam in September of 2011. Morrison has had recent solo
 exhibitions at Artspeak, Vancouver (2010); Every Letter in the
 Alphabet, Vancouver (2010); CSA Space, Vancouver (2009);
-Catriona Jeffries, Vancouver (2007) and BÃ¼ro Friedrich, Berlin
+Catriona Jeffries, Vancouver (2007) and Büro Friedrich, Berlin
 (2005). His work was included in the recent Sydney Biennial (2010);
 It Is What It Is, National Gallery of Canada, Ottawa (2010); Following
 a Line, Contemporary Art Gallery, Vancouver (2010); Cubes, Blocks
@@ -110,7 +110,7 @@ Arabella Campbell
 Robert Kleyn, Works 1969-1983
 19 May - 25 June 2011
 
-Art Basel 15 â�� 19 June 2011
+Art Basel 15 ’ 19 June 2011
 
 
 
@@ -254,7 +254,7 @@ actions and sudden questions. As the performance space gives way under the
 vermillion, she asks again and again, "What colour is this?" Because red
 remains that diabolical colour in which everything is revealed.
 
-Rouge is a compelling one-woman show by Julie AndrÃ©e T. An iconoclast in
+Rouge is a compelling one-woman show by Julie Andrée T. An iconoclast in
 the first degree, her work refuses all semblance of theatrical character
 and narrative. Rouge is a depiction in extreme monochromea constantly
 mutating piece that takes shape in a frenzy of accumulation and a search
@@ -266,7 +266,7 @@ Julie Andre T. has entranced audiences with hybrid works where dialogue, a
 series of actions and a mishmash of unusual images are gradually distilled
 into poetry. Born in Montreal in 1973, she is a graduate of Concordia
 University and is currently guest faculty in performance art at the School
-of The Museum of Fine Arts in Boston. Julie AndrÃ©e T. finds expression
+of The Museum of Fine Arts in Boston. Julie Andrée T. finds expression
 through installation and performance, and was a featured artist at this
 years Avignon Festival. Between the poetic and the pedestrian, her work
 draws on abstract yet recognizable common spaces that serve as points of
@@ -477,7 +477,7 @@ and fashion AES+F expose the fantasy visualization of pop culture.
 Superimposed on a surreal landscape, beautiful airbrushed youth
 dressed in camouflage sportswear, wield baseball bats, golf clubs
 and swords enacting a choreographed slow-motion battle
-accompanied by the music of Wagners GÃ¶tterdÃ¤mmerung.
+accompanied by the music of Wagners GötterdÃ¤mmerung.
 Weapons are raised and threaten repeatedly and brutally, yet the
 hand-to-hand combat is bloodless and without pain.
 
@@ -870,7 +870,7 @@ images/messages, cooperated with it, and in the process produced work that
 not only illuminates this critical cultural period, but is relevant to our
 present condition.
 
-Audrey Capel Doray was born in MontrÃ©al in 1931. After receiving a Bachelor
+Audrey Capel Doray was born in Montréal in 1931. After receiving a Bachelor
 of Fine Arts from McGill University she moved to Vancouver in 1957 where
 she taught at the Vancouver School of Art. In 1962, Capel Doray joined the
 New Design Gallery, the first influential art space in Vancouver that

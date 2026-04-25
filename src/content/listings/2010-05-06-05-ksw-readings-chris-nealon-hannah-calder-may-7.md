@@ -74,7 +74,7 @@ inserted, genetic material, begins to manufacture a viable, benign
 protein a protein that, according to the original, chemical alphabet, is
 itself another text. He is, in effect, striving to engineer a life-form so
 that it becomes not only a durable archive for storing a poem, but also a
-useable machine for writing a poem a poem that can literally survive foreverÃ�Â¦.
+useable machine for writing a poem a poem that can literally survive foreverÂ¦.
 
 +*+*+
 

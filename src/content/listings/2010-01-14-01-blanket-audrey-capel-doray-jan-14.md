@@ -9,7 +9,7 @@ summary: "Blanket | Audrey Capel Doray | JAN 14"
 ---
 
 Audrey Capel Doray
-How I Became A Solitary Noisemaker: works from 1965 â�� 66
+How I Became A Solitary Noisemaker: works from 1965 ’ 66
 January 14 - February 20, 2010
 
 Opening Reception Thursday January 14th, 2010 5-8pm

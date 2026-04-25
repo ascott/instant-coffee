@@ -17,10 +17,10 @@ twenty contemporary and traditional First Nations artists, among them are
 Indian Residential School survivors and their descendants whose work is a 
 powerful testimony to their personal healing process. 
 
-NET-ETH is a hən̓q̓əmin̓əm̓ (Musqueam dialect) metaphor for â€œthe first light 
+NET-ETH is a hən̓q̓əmin̓əm̓ (Musqueam dialect) metaphor for “the first light 
 after the darkness, a time when you pray and cleanse your tools to make 
-them strongâ€ . Here, the artwork reflects the process of â€œopening up to the 
-light, so that we can all heal togetherâ€  from the intergenerational trauma that 
+them strong” . Here, the artwork reflects the process of “opening up to the 
+light, so that we can all heal together”  from the intergenerational trauma that 
 is the sad legacy of Canada's Indian Residential School system. 
 
 Organized by Malaspina Printmakers Society, the exhibition spans three 

@@ -14,7 +14,7 @@ Seth Fluker and Sheila Heti
 New Documents is pleased to announce the availability of Seth and Sheila
 Stayed Behind, a new collaboration between Seth Fluker and Sheila Heti.
 Seth and Sheila Stayed Behind pairs a short story by Sheila Heti with
-photographs by Seth Fluker. â€œSethâ€  and â€œSheilaâ€  are the main characters of
+photographs by Seth Fluker. “Seth”  and “Sheila”  are the main characters of
 Heti’s abstract narrative of longing and transition, one which sets the
 stage for Fluker’s photographs of a wintry Toronto landscape, filled with
 anthropomorphized automobiles and embankments of dirty snow.

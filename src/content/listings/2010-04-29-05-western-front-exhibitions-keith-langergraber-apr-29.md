@@ -22,7 +22,7 @@ Simpsons Comic Book Guy, the fan is consistently portrayed as one who lives
 life vicariously
 through narratives created by others. The relationships between fans and
 the objects of their
-fandom, however, are far more nuanced. The notion of the Ã¢â�¬Å�birth of the
+fandom, however, are far more nuanced. The notion of the â’¬Å�birth of the
 reader is certainly not
 new in cultural studies, but in the realm of the sci-fi fan this birth
 takes a particularly active and
@@ -47,10 +47,10 @@ corporate and government domination that run through the genre.
 By repeating the image of the spiral (an icon that has special significance
 in science fiction)
 Langergraber connects to another important influence on his artistic
-practiceÃ¢â�¬â��the work of Robert
-Smithson. In his brief essay Ã¢â�¬Å�The Shape of the Future and Memory (1966),
+practiceâ’¬’the work of Robert
+Smithson. In his brief essay â’¬Å�The Shape of the Future and Memory (1966),
 Smithson explored
-connections between art and time travelÃ¢â�¬â��a few years later Spiral Jetty
+connections between art and time travelâ’¬’a few years later Spiral Jetty
 appeared in the Great
 Salt Lake of Utah. Langergraber further exploits the relationship between
 fan culture, time travel

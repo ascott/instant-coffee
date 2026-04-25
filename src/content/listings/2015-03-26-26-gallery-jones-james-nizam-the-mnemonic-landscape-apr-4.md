@@ -18,7 +18,7 @@ Gallery Jones is pleased to present The Mnemonic Landscape, a solo
 exhibition of new works by James Nizam. The exhibition continues Nizam’s
 exploration of the relationship between photography and sculpture, and
 their capacity (alone and in conjunction) to comment on the vagaries of the
-â€œexpandedâ€  artifact. Weaving together photo-sculptural works through a
+“expanded”  artifact. Weaving together photo-sculptural works through a
 spatial tableau, The Mnemonic Landscape considers the architectural
 fragment as a framework on which to suspend memory. Focused on the
 threshold where memory meets its vanishing point, the works waver at the

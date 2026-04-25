@@ -18,7 +18,7 @@ selection of new works including photographic murals and videos on
 digital screens.
 
 Writer Aaron Peck first described Kydd’s early video works on monitors
-as â€œdurational photographs,â€  pieces that challenged the boundaries
+as “durational photographs,”  pieces that challenged the boundaries
 between photography and video while at the same time resisting aspects
 of cinema inherent to moving images. Kydd has since continued to
 create video works that tend to avoid or cancel narrative in favour of

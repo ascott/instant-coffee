@@ -16,10 +16,10 @@ Berlin’s film scene since the 1980s, Aurand records life’s small,
 ephemeral details on a handheld Bolex camera, later reworking them in a
 style that is at once energetic, rhythmic, playful and — unusually for
 experimental cinema — tender. She has described her approach as “a brief
-touchâ€  â€” â€œlike a swing, to go away and come back and go away and come back
-again.â€  Her films explore the lives of friends and strangers, the
+touch”  — “like a swing, to go away and come back and go away and come back
+again.”  Her films explore the lives of friends and strangers, the
 atmosphere of local and foreign places, and “the absolutely singular,
-exquisite textures of daily life around herâ€  (Michael Sicinski).
+exquisite textures of daily life around her”  (Michael Sicinski).
 
 PROGRAM
 

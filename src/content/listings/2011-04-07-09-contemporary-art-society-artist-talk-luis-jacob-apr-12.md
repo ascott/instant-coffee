@@ -54,7 +54,7 @@ something immediate, contingent and volatile in his documentation
 of far-flung artist projects gathered in the 2009 work Album VIII. 
 Hundreds of images conspire to form of an encyclopedia of modern 
 and conceptualist art that blooms into a visual poem about invention 
-and imagination.â€ 
+and imagination.” 
 
 Jacob is represented by Birch Libralato in Toronto. 
 

@@ -20,7 +20,7 @@ Unearthly Waters is a collaborative project conceived by Tommy Ting and
 Maja Ngom shortly after graduating in 2012. Both without any immediate 
 plans they felt fragile and exhausted, uncertain of their future journeys as 
 artists. Although separated by the geographical location (Ting living in Canada 
-and Ngom in the UK) they situated Joseph Conradâ€™s â€œHeart of Darknessâ€  as 
+and Ngom in the UK) they situated Joseph Conrad’s “Heart of Darkness”  as 
 their common horizon. Deciding to work independently but in dialogue with 
 each other, they shared their research, ideas and processes on a blog. The 
 immense remoteness and inability to meet in person often caused frustration 

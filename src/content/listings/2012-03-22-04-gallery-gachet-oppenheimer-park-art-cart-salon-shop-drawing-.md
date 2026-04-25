@@ -41,7 +41,7 @@ Art Cart is a mobile art gallery and vending cart for the communities of
 Gallery Gachet and Oppenheimer Park. The Art Cart is a vessel for 
 artists to transport and sell their work, as well as a being a hub for 
 curated exhibitions and projects, community workshops and public 
-events. Art Cart seeks alternatives for â€œartist spaceâ€ , and in its own way 
+events. Art Cart seeks alternatives for “artist space” , and in its own way 
 represents an act of creative survival and resistance. Developed in 
 collaboration between Oppenheimer Park and Gallery Gachet, Art Cart 
 aims to support artist exposure, creative exchange, and art sales. Like 

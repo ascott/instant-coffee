@@ -9,7 +9,7 @@ summary: "221A | Artist Talk and Panel Discussion | MAR 6"
 ---
 
 Artist Talk and Panel Discussion
-March 6, 2010 â�� 2pm
+March 6, 2010 ’ 2pm
 
 David Hucal and the 221A Artist Run Centre invite you to join us this
 Saturday, March 6th for artist talks and continued discussions around
@@ -30,7 +30,7 @@ home in Port Moody to the chosen dinning location. The dinners are most
 often held in Vancouver.
 In 2009, Duske accepted the invitation. The dinner was held on February
 13th, 2010 at 221A ARC. There was a private reception viewable through
-221Aâ��s store front windows and an open reception was held soon after. This
+221A’s store front windows and an open reception was held soon after. This
 project explores social structures, relationships and traditions through
 the act of dinner and all of its parts from invitations to remnants.
 

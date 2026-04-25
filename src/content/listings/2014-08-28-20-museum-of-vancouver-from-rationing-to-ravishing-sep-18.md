@@ -42,9 +42,9 @@ suit and a suit from Miss Germany 1955 will also be on display.
 
 “In From Rationing to Ravishing, we tried to bring together a collection of
 garments and accessories that illustrate a variety of historical
-references,â€  stated Sayers, one of Canadaâ€™s preeminent fashion historians.
+references,”  stated Sayers, one of Canada’s preeminent fashion historians.
 Jahnke elaborates, “We chose the artifacts for their relevance, their
-appearance, and their stories.â€  This exhibition will demonstrate how
+appearance, and their stories.”  This exhibition will demonstrate how
 historical events continue to shape our lives.
 
 From Rationing to Ravishing is the second installment in a continuing
@@ -62,7 +62,7 @@ families, including an activity station for kids and adults alike, and the
 opportunity to digitally wear period garments. Over the exhibition’s run,
 MOV will host a number of history-themed events, including two fashion
 shows that feature exceptional examples from Sayers’ private collection and
-two â€œtalk and tourâ€  events, also led by Sayers.
+two “talk and tour”  events, also led by Sayers.
 
 Fashion history enthusiasts will get a sneak peek into the curators’
 collection at Oakridge Centre, where five glamorous garments will be on
@@ -72,7 +72,7 @@ fashion and style destination in Vancouver for over 55 years, Oakridge
 Centre has been a driver of the evolution of fashion in the lower mainland.
 We are excited to partner with the Museum of Vancouver to showcase some of
 the significant trends of the past and to help bring to the community a
-little of our shared history.â€ 
+little of our shared history.” 
 
 From Rationing to Ravishing: the Transformation of Women's Fashion in the
 1940s and 1950s, opens to the public on September 18th. Additional

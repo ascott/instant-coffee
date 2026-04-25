@@ -25,29 +25,29 @@ HANGS IN THE BALANCE.
 Some artists, like companies, focus on creating one type of product over
 and over again; others, over time, grow massively diverse portfolios of
 products and services. Starting with a chocolate bar vendor he titled
-mykiosk, since 1997, Koreaâ��based German artist Dirk Fleischmann has been
+mykiosk, since 1997, Korea’based German artist Dirk Fleischmann has been
 building a highly diversified conglomerate of micro companies, a practice
 through which he investigates contemporary modes of production, as they
-pertain to both economic value and cultural meaning. Fleischmannâ��s
+pertain to both economic value and cultural meaning. Fleischmann’s
 enterprises range from chandelier manufacturing to textiles and
 derivatives. Riffing off of the strategies of artists engaged in
-institutional critique and social practice alike, Fleischmannâ��s work
+institutional critique and social practice alike, Fleischmann’s work
 explores the relationship between narrative and commodification.
 Considering abstraction inherent in geographic distance his work probes
 questions surrounding collaboration, status and new international divisions
 of labour (NIDL).
 
-From July 18 ~ August 24 the cafÃ�Â© for contemporary art will be presenting
+From July 18 ~ August 24 the cafÂ© for contemporary art will be presenting
 myconceptstore, a fully functioning store featuring a variety of products
 that Fleischmann has produced through over a decade of economic art
 projects. Here we will display and be selling carbon credits from
 myforestfarm, Made in North Korea and Made in the Philippines shirts from
 myfashionindustries, a new chandelier from mycheongjuchandelierchohab, and
-much more. Similar to the cafÃ�Â© for contemporary artÃ¢ï¿½ï¿½s own practices,
+much more. Similar to the cafÂ© for contemporary artâï¿½ï¿½s own practices,
 resulting profits will be reinvested to sustain existing projects or start
 up new ventures.
 
-Graduating from FrankfurtÃ¢ï¿½ï¿½s renowned StÃ�Â¤dleschule, Fleischmann teaches at
+Graduating from Frankfurtâï¿½ï¿½s renowned StÂ¤dleschule, Fleischmann teaches at
 Cheongju University in Korea where he runs a chandelier studio with a
 selection of former and current students and directs an ongoing series of
 talks by visiting artists and curators. Fleischmann has exhibited
@@ -57,7 +57,7 @@ include: Pilot Micro Multiplex | Mall, Sharjah Art Foundation, Dubai, UAE
 Korea (2012), On The Metaphor of Growth Kunstverein Hannover, Germany
 (2011) and, Limuranin, Kaesong und Rosario, Bielefelder Kunstverein,
 Bielefelder, Germany (2010). Currently visiting Vancouver thanks to the
-CafÃ�Â© for Contemporary ArtÃ¢ï¿½ï¿½s Airmiles-for-Artists Fellowship, over the
+CafÂ© for Contemporary Artâï¿½ï¿½s Airmiles-for-Artists Fellowship, over the
 summer he is teaching a graduate seminar in Media and
 Visual Art at Emily Carr University.
 

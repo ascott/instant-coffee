@@ -11,15 +11,15 @@ summary: "Centre A | Hajra Waheed | SEP 13"
 CENTRE A'S FALL 2013 EXHIBITION REFLECTS ON LIFE WITHIN THE 
 GATED SAUDI ARAMCO HEADQUARTERS 
 
-Centre A announces its Fall 2013 exhibition, â€œMinutes from a Second Story,â€  
+Centre A announces its Fall 2013 exhibition, “Minutes from a Second Story,”  
 by Hajra Waheed.
 
 VANCOUVER, BC – Centre A: Vancouver International Centre for 
 Contemporary Asian Art is delighted to host Montréal-based artist Hajra 
-Waheed's solo exhibition, â€œMinutes from a Second Storyâ€ . Born in Calgary, 
+Waheed's solo exhibition, “Minutes from a Second Story” . Born in Calgary, 
 Waheed was raised within the gated headquarters of Saudi ARAMCO, the 
 largest transnational oil corporation in the world and home base to 25% of the 
-worldâ€™s oil exports. â€œMinutes from a Second Storyâ€  is a comprehensive body of 
+world’s oil exports. “Minutes from a Second Story”  is a comprehensive body of 
 work that includes video and mixed media works on paper that reflect upon 
 Waheed’s experiences of growing up in ARAMCO’s gated compound. 
 
@@ -32,9 +32,9 @@ War and beginning of the first Gulf War.
 
 “It was during my most formative years, that I began studying this place with a 
 discerning eye. I realized how critical it was/is to begin to make better sense 
-of this rather strange lived experience,â€  states Waheed. â€œThough it is by no 
+of this rather strange lived experience,”  states Waheed. “Though it is by no 
 means the basis of all of my work, the experiences that I had there have 
-played a profound role in the many narratives I continue to explore today.â€ 
+played a profound role in the many narratives I continue to explore today.” 
 
 Haema Sivanesan, Executive Director, Centre A states, “Waheed draws on 
 personal experience to critique, in part, restrictions on the use of photography 
@@ -42,9 +42,9 @@ in Saudi Arabia and its impact on the popular imagination. Her work explores
 how the absence of photographs constitutes a loss, and her practice is 
 intriguing for how it seeks to recuperate this loss, dealing with issues of 
 memory, absence, isolationism and the negotiation of a profoundly different 
-world view on the production and display of images.â€ 
+world view on the production and display of images.” 
 
-â€œMinutes from a Second Storyâ€  is the second exhibition to be held at Centre 
+“Minutes from a Second Story”  is the second exhibition to be held at Centre 
 A’s new gallery space in the heart of Vancouver’s original Chinatown block. 
 The exhibition will be on display from September 13 - November 2, 2013. 
 
@@ -88,9 +88,9 @@ Mediation (2009-ongoing). Prior to entering the art world, Nasar worked as a
 management consultant and banker.
 
 Nasar will speak on questions of geography, region and nation with insights 
-into developments in contemporary art from West Asia or the â€œMiddle Eastâ€ , 
+into developments in contemporary art from West Asia or the “Middle East” , 
 and with relation to the current exhibition at Centre A, “Minutes from a Second 
-Storyâ€  by Hajra Waheed. 
+Story”  by Hajra Waheed. 
 
 Asia Art Archive is an independent, non-profit organization dedicated to 
 documenting the recent history of contemporary art in Asia within an 
@@ -149,7 +149,7 @@ generosity of our patrons, donors, members and volunteers.
 
 - 30 -
 
-Available for comment on â€œMinutes from a Second Storyâ€ :
+Available for comment on “Minutes from a Second Story” :
 
 Centre A Executive Director: Haema Sivanesan
 

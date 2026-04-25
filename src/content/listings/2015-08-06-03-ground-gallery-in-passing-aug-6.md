@@ -38,8 +38,8 @@ traditional forms of activism find an unusual ally in the soft-spokenness
 of In Passing. Central to the exhibition, and abridging each of the
 artist’s furtive works, is also a complicated relationship to the practice
 of trespassing. Trespassing, as conceived from the French trespasser, “to
-pass overâ€ , is often associated with the property rights to a parcel of
-land. But to â€œpass overâ€  can also be understood as a bypass, the whim of a
+pass over” , is often associated with the property rights to a parcel of
+land. But to “pass over”  can also be understood as a bypass, the whim of a
 cursory glance, or the disregard of something not worth remembering. Rather
 than trespassing to pass over, In Passing aims to intervene in the moment
 of thoroughfare.

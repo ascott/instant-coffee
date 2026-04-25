@@ -82,19 +82,19 @@ BC) Stefan Smulovitz is a highly accomplished musician and an award-winning
 composer. As a software developer he created Kenaxis, a major innovation in
 the use of the computer as a real-time instrument. His virtuosic command of
 Kenaxis has resulted in an international reputation for Smulovitz, who
-regularly performs with the worldâ��s leading improvisers and composes for
+regularly performs with the world’s leading improvisers and composes for
 ensembles ranging from orchestras to string
-quartets.Ã�Â (http://www.kenaxis.com/) Light Compositions is hosted by TOM
+quartets.Â (http://www.kenaxis.com/) Light Compositions is hosted by TOM
 CONE, 9pm
 
 See www.instantcoffee.org <http://www.instantcoffee.org> for a growing list
 of events, and for other information contact us@instantcoffee.org
 
 Where: Instant Coffee Light Bar: 33 West Cordova St. (blood alley entrance)
-When: opening hours, Wednesday to Saturday, 7pm â�� 12 am, and for special
+When: opening hours, Wednesday to Saturday, 7pm ’ 12 am, and for special
 events, beginning February 12 through March 20, 2010;
 
-* there is limited capacity so come early and stay long * weâ��ll leave the
+* there is limited capacity so come early and stay long * we’ll leave the
 light on for you
 
 The artist collective Instant Coffee presents Light Bar, a full-spectrum
@@ -110,7 +110,7 @@ individuals, but for Light Bar Instant Coffee puts it to the test in small
 or large group situations.
 
 As part of Bright Light a collaborative project that brings together
-fourteen arts organizations from Vancouverâ��s Downtown Eastside. Bright
+fourteen arts organizations from Vancouver’s Downtown Eastside. Bright
 Light is commissioned by the City of Vancouver through its Olympic and
 Paralympic Public Art Program, www.bright-light.ca
 
@@ -154,7 +154,7 @@ Visit www.powellstreetfestival.com for more information on all events.
 
 On opening night, Thursday, March 4, Kasai will give an artist talk at 8:30 pm.
 
-This is the launching event for the Powell Street FestivalÃ�Â¢Ã¯Â¿Â½Ã¯Â¿Â½s 2010
+This is the launching event for the Powell Street FestivalÂ¢ïÂ¿Â½ïÂ¿Â½s 2010
 season of
 events.
 
@@ -192,8 +192,8 @@ AND IN AND OUT
 AND OUT AND IN
 
 1970,
-referenced as nÃ�Â°237 from the catalogue "Works"
-Collector responsible Ghislain Mollet-ViÃ�Â©ville.
+referenced as nÂ°237 from the catalogue "Works"
+Collector responsible Ghislain Mollet-ViÂ©ville.
 
 Starting the 1 March 2010.
 Public installation at
@@ -362,7 +362,7 @@ Murphy Piltdown.
 <a href="/instant-coffee/listings/2010-03-04-06-221a-artist-talk-and-panel-discussion-mar-6">06. 221A | Artist Talk and Panel Discussion | MAR 6</a>
 ------------------------------------------------------------------------
 Artist Talk and Panel Discussion
-March 6, 2010 â�� 2pm
+March 6, 2010 ’ 2pm
 
 David Hucal and the 221A Artist Run Centre invite you to join us this
 Saturday, March 6th for artist talks and continued discussions around
@@ -383,7 +383,7 @@ home in Port Moody to the chosen dinning location. The dinners are most
 often held in Vancouver.
 In 2009, Duske accepted the invitation. The dinner was held on February
 13th, 2010 at 221A ARC. There was a private reception viewable through
-221Aâ��s store front windows and an open reception was held soon after. This
+221A’s store front windows and an open reception was held soon after. This
 project explores social structures, relationships and traditions through
 the act of dinner and all of its parts from invitations to remnants.
 
@@ -425,12 +425,12 @@ Collaborator Joey (Shithead) Keithley will rock the living and the dead in
 an homage to Les Paul (1915-2009), inventor of the Gibson electric guitar.
 Additional works include Spring, Easter Parade, History of VHS: Death of
 Violence, Ross, Elsie and Kay, Burka, Hungry Ghosts, Floral Alphabet,
-Little Big Horn, Luminous Pollution: the Team â��5â�� Collection, Luminous
+Little Big Horn, Luminous Pollution: the Team ’5’ Collection, Luminous
 Pollution: A Happy Planet, in ten sity, Hell Money, Exit Upon Arrival by
 Paul Wong, Vigil 5.4 by Rebecca Belmore and Paul Wong, and 60 Unit; Bruise
 by Paul Wong and Kenneth Fletcher.
 
-â��5â�� is commissioned by The City of Vancouver through its Olympic and
+’5’ is commissioned by The City of Vancouver through its Olympic and
 Paralympic Public Art Program, as part of Mapping and Marking
 Artist-Initiated Projects for Vancouver 2010.
 
@@ -441,15 +441,15 @@ www.5.paulwongprojects.com
 ------------------------------------------------------------------------
 Procession of Performing Circles
 
-Presented by LIVE for Bright Light 2010 Sunday, March 7th 7 â�� 9pm
+Presented by LIVE for Bright Light 2010 Sunday, March 7th 7 ’ 9pm
 
 The Procession of Performing Circles is a living artwork based around
 the concept of a parade, procession, or carnivale--a festive and
-inclusive public intervention to celebrate the story of Vancouverâ��s
+inclusive public intervention to celebrate the story of Vancouver’s
 historical Downtown EastSide community.
 
 Conceived and curated by Glenn Lewis, the Procession of Performing
-Circles features some of the cityâ��s most celebrated performers,
+Circles features some of the city’s most celebrated performers,
 choreographers and dancers. Six performing groups include: Margaret
 Dragu as Lady Justice with her 7 Virtues and Vices (escorted by Rose
 Man); Karen Jamieson, working with her Carnegie Centre troupe; Coleen
@@ -645,13 +645,13 @@ KINETIC MEDIA & ELECTRONICS
 2 sessions x 3.5 hours: $160 or $130 with VIVO Producer Membership
 Mon March 22 & 29, 6-9:30 PM
 
-A course to â��make your art moveâ��, intended for those interested in kinetic
+A course to ’make your art move’, intended for those interested in kinetic
 sculpture, robotics and sensor technology. You will learn how to use
 electric motors with microcontrollers and how to build your own creative
 circuitry with components such as switches, resistors, LEDs, photo
 transistors, relays, hall effect sensors, timing circuits, transistors, and
-their types. This is a hands-on workshop, focused on participantsâ��
-individual projects but you donâ��t have to have a project to attend it.
+their types. This is a hands-on workshop, focused on participants’
+individual projects but you don’t have to have a project to attend it.
 ________________________
 
 VIDEO WORKSHOPS
@@ -921,7 +921,7 @@ Kim Duff
 Cris Costa
 Edward Byrne
 Michael Barnholden
-Sonnet L'AbbÃ�Â©
+Sonnet L'AbbÂ©
 
 Friday March 12, 2010
 W2 Perel Gallery
@@ -936,7 +936,7 @@ W2010 features poetry and fiction by Jonathon Wilcke, Nikki Reimer, Tony
 Power, Tomasz Michalak, Donato Mancini, Heather McDonald, Tiziana La Melia,
 Reg Johanson, Scott Inniss, Ray Hsu, Emily Fedoruk, Kim Duff, Cris Costa,
 Stephen Collis, Edward Byrne, Michael Barnholden, Anne Ahmad and Sonnet
-L'AbbÃ�Â©.
+L'AbbÂ©.
 
 Edited by Anne Ahmad, Stephen Collis, Kim Duff, Emily Fedoruk, Donato
 Mancini, Tomasz Michalak, and Tony Power.
@@ -947,12 +947,12 @@ March 12.
 
 ABOUT THE NEW W:
 
-"W2010 announces a new formationâ��both for the magazine and the Kootenay
+"W2010 announces a new formation’both for the magazine and the Kootenay
 School of Writing. KSW, the more venerable of the two, is 25 years old this
 fall; W is ten. A new collective structure is in place for the School: a
-cluster of semi-autonomous yet intersecting â��podsâ�� (or â��cellsâ�� if you
-prefer a more radical conception), each with its own projects or â��areas of
-influenceâ�� (readings / pedagogy / publication, etc). W2010 begins a new
+cluster of semi-autonomous yet intersecting ’pods’ (or ’cells’ if you
+prefer a more radical conception), each with its own projects or ’areas of
+influence’ (readings / pedagogy / publication, etc). W2010 begins a new
 conception of the magazine as an annual: this first issue gathers work from
 the present collective (or perhaps we should now say collectives) written
 this year; future annual issues will be announced with a themed call, for
@@ -961,26 +961,26 @@ year (see below for the call for the next issue). We hope work will be
 written dialogically as an issue accumulates: an initial selection of
 material will be posted, and then responses / extensions / contestations
 /emendations, etc, as they come; at the close of a year/issue, a print run
-of at least a â��selectionâ�� of the yearâ��s material will ideally then be
+of at least a ’selection’ of the year’s material will ideally then be
 issued.
 
 The work in W2010 might surprise some familiar with the magazine and the
 School. For starters, there is some fiction here. We are doing our cultural
-work at a time of unprecedented pressures, as the â��long neoliberal momentâ��
-(to borrow Jeff Derksenâ��s phrase) grinds on, responding to the current
+work at a time of unprecedented pressures, as the ’long neoliberal moment’
+(to borrow Jeff Derksen’s phrase) grinds on, responding to the current
 market crisis not by a return to some sort of neo-Keynsean economics, but
 rather, with bailouts for the rich and amped up privatizations. Meanwhile
-the public sphereâ��already just a pool of faint light beneath one last
-sputtering streetlampâ��seems set to finally wink out altogether. In
+the public sphere’already just a pool of faint light beneath one last
+sputtering streetlamp’seems set to finally wink out altogether. In
 Vancouver, this has a lot to do with the Olympics, its hundreds of new
-security cameras, its 1 billion dollar security budget, and its â��safe
-assembly areasâ�� (outside of which we can imagine the majority of the city
-as an â��unsafe assembly zoneâ��). Beside this we have the provincial
-governmentâ��s concerted efforts to privatize, expropriate, expel, and
+security cameras, its 1 billion dollar security budget, and its ’safe
+assembly areas’ (outside of which we can imagine the majority of the city
+as an ’unsafe assembly zone’). Beside this we have the provincial
+government’s concerted efforts to privatize, expropriate, expel, and
 otherwise suppress a still-vital cultural sector. In such an environment,
 we feel it is essential to broaden and strengthen affinities, working
-towards something of a cultural front to face â��a world that seems to hold
-together only through the infinite management of its own collapseâ�� (The
+towards something of a cultural front to face ’a world that seems to hold
+together only through the infinite management of its own collapse’ (The
 Coming Insurrection 7). From deep in the collapse, we reach out."
 
 For more information click here : http://www.kswnet.org/
@@ -991,7 +991,7 @@ info@kswnet.org for posting to our community calendar <<<
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2010-03-04-17-sfu-teck-gallery-bridge-city-links-for-a-fragile-peninsula-m">17. SFU, Teck Gallery | Bridge City Links for a Fragile Peninsula | MAR 15</a>
 ------------------------------------------------------------------------
-Bridge City Links for a Fragile Peninsula, 1895â��1980
+Bridge City Links for a Fragile Peninsula, 1895’1980
 March 15 to June 22, 2010
 
 Simon Fraser University, Teck Gallery
@@ -1127,40 +1127,40 @@ visible minorities, Aboriginal peoples and persons with disabilities.
 
 ￼Chef, Services aux arts
 
-Concours no :Â Â  4600 (Interne/Externe)Â Â Â Â Â Â Â Â  Statut : RÃ©gulier Ã  plein temps
-Ã�chelle salariale : 83 600 $ Ã Â	105 000 $Â Â Â Â Â Â Â Â Â  Date de clÃ´ture : 19
+Concours no :Â Â  4600 (Interne/Externe)Â Â Â Â Â Â Â Â  Statut : Régulier Ã  plein temps
+chelle salariale : 83 600 $ Ã Â	105 000 $Â Â Â Â Â Â Â Â Â  Date de clôture : 19
 mars 2010
 
 Au sujet du Conseil des Arts du Canada
-Joignez-vous Ã  notre Ã©quipe et participez au soutien de la crÃ©ativitÃ©
+Joignez-vous Ã  notre équipe et participez au soutien de la créativité
 canadienne! Le Conseil des Arts du Canada est un organisme national
 dynamique et tenu en très haute estime qui a pour mandat de promouvoir
-lâ��Ã©tude, la diffusion des arts, ainsi que la production dâ��Å�uvres dâ��art.Â 
-Nos salaires et avantages sociaux sont trÃ¨s concurrentiels.Â  Pour plus
-dâ��information au sujet du Conseil des Arts du Canada, veuillez visiter
+l’étude, la diffusion des arts, ainsi que la production d’Å�uvres d’art.Â 
+Nos salaires et avantages sociaux sont très concurrentiels.Â  Pour plus
+d’information au sujet du Conseil des Arts du Canada, veuillez visiter
 notre site Internet au www.conseildesarts.ca <http://www.conseildesarts.ca/>
 
 Au sujet du poste
 Sous la supervision directe du directeur de la Division des disciplines
-artistiques, contribuer Ã  la planification stratÃ©gique et au dÃ©veloppement
+artistiques, contribuer Ã  la planification stratégique et au développement
 global de la Division des disciplines artistiques, faciliter la gestion
 continue des programmes de la Division des disciplines artistiques, gérer
-la production de documents sur lâ��architecture de programmes et fournir des
+la production de documents sur l’architecture de programmes et fournir des
 informations sur le Conseil des Arts du Canada et ses programmes; mettre en
-Å�uvre des politiques et procÃ©dures administratives relatives aux
-subventions de faÃ§on efficace et efficiente;Â  gÃ©rer les activitÃ©s de
-gestion du Centre dâ��inscription du Conseil; diriger le dÃ©veloppement
-dâ��outils clÃ©s, gÃ©rer les activitÃ©s, le budget et onze (11) employÃ©s des
+Å�uvre des politiques et procédures administratives relatives aux
+subventions de façon efficace et efficiente;Â  gérer les activités de
+gestion du Centre d’inscription du Conseil; diriger le développement
+d’outils clés, gérer les activités, le budget et onze (11) employés des
 Services aux arts; accomplir d'autres tâches connexes.
 
 Exigences du poste
 
 · un diplôme universitaire en art, en administration des affaires ou
-en administration publique ou une combinaison dâ��Ã©tudes et 10 annÃ©es
-dâ��expÃ©rience professionnelle et pratique.
+en administration publique ou une combinaison d’études et 10 années
+d’expérience professionnelle et pratique.
 
-Â· cinq annÃ©es dâ��expÃ©rience dans des postes de gestion et
-dâ��administration comportant des responsabilitÃ©s croissantes, de prÃ©fÃ©rence
+Â· cinq années d’expérience dans des postes de gestion et
+d’administration comportant des responsabilités croissantes, de préférence
 dans le milieu des arts;
 
 · beaucoup d'entregent et d'excellentes habiletés pour la
@@ -1173,15 +1173,15 @@ conflictuelles et les points de vue divergents; et
 gestion de risques et d'élaboration de
 
 · Les fonctions du poste requièrent l'utilisation des deux langues
-officielles.Â	Les exigences relatives Ã  la deuxiÃ¨me langue officielle sont
+officielles.Â	Les exigences relatives Ã  la deuxième langue officielle sont
 les suivantes: parler : niveau avancé; lire : niveau avancé; écrire :
 niveau intremédiaire.
 
-Ce poste est situÃ© Ã  Ottawa et peut exiger jusqu'Ã  10 jours de dÃ©placements
+Ce poste est situé Ã  Ottawa et peut exiger jusqu'Ã  10 jours de déplacements
 par année.
 
 Comment soumettre votre candidature politiques;
-Remplissez le formulaire de demande dâ��emploi
+Remplissez le formulaire de demande d’emploi
 <http://www.canadacouncil.ca/aboutus/employment/rr127237563301718750.htm> ,
 y indiquant le numéro du concours, joignez-y une copie de votre curriculum
 vitÃ¦ et faites parvenir le tout Ã  Roch Brunelle, Ressources humaines, avant
@@ -1191,18 +1191,18 @@ la date de fermeture, soit par :
 · courrier postal : 350, rue Albert, C.P. 1047, Ottawa (Ontario)
 K1P 5V8
 
-Pour plus dâ��informations ou pour un profil dâ��emploi plus dÃ©taillÃ©, veuillez
+Pour plus d’informations ou pour un profil d’emploi plus détaillé, veuillez
 communiquer avec Roch Brunelle au (613) 566-4414, poste 4124 ou par
 courriel Ã  competition1@canadacouncil.ca
 <mailto:competition1@canadacouncil.ca> .Â  Nous remercions tous les
 candidats et les candidates de leur intérêt; cependant, nous ne
-communiquerons quâ��avec les personnes sÃ©lectionnÃ©es pour une entrevue.
+communiquerons qu’avec les personnes sélectionnées pour une entrevue.
 
-Nous valorisons lâ��Ã©quitÃ© et la diversitÃ© dans notre effectif, et nous
-encourageons les candidats Ã  sâ��identifier selon les groupes dÃ©signÃ©s
+Nous valorisons l’équité et la diversité dans notre effectif, et nous
+encourageons les candidats Ã  s’identifier selon les groupes désignés
 suivants : femmes, minorités visibles, Autochtones, personnes handicapées.
 
-P Think green; read on screen /Pensons Ã  l'environnement; lisons Ã  l'Ã©cran
+P Think green; read on screen /Pensons Ã  l'environnement; lisons Ã  l'écran
 
 Roch Brunelle
 Human Ressources Administrative Assistant/
@@ -1301,43 +1301,43 @@ visible minorities, Aboriginal peoples and persons with disabilities.
 
 ￼Chef, Services aux arts
 
-Concours no :Â Â  4600 (Interne/Externe)Â Â Â Â Â Â Â Â  Statut : RÃ©gulier
+Concours no :Â Â  4600 (Interne/Externe)Â Â Â Â Â Â Â Â  Statut : Régulier
 Ã  plein temps
-Ã�chelle salariale : 83 600 $ Ã Â	105 000 $Â Â Â Â Â Â Â Â Â  Date de
+chelle salariale : 83 600 $ Ã Â	105 000 $Â Â Â Â Â Â Â Â Â  Date de
 clôture : 19
 mars 2010
 
 Au sujet du Conseil des Arts du Canada
-Joignez-vous Ã  notre Ã©quipe et participez au soutien de la crÃ©ativitÃ©
+Joignez-vous Ã  notre équipe et participez au soutien de la créativité
 canadienne! Le Conseil des Arts du Canada est un organisme national
 dynamique et tenu en très haute estime qui a pour mandat de promouvoir
-lâ��Ã©tude, la diffusion des arts, ainsi que la production dâ��Å�uvres
-dâ��art.Â 
-Nos salaires et avantages sociaux sont trÃ¨s concurrentiels.Â  Pour plus
-dâ��information au sujet du Conseil des Arts du Canada, veuillez visiter
+l’étude, la diffusion des arts, ainsi que la production d’Å�uvres
+d’art.Â 
+Nos salaires et avantages sociaux sont très concurrentiels.Â  Pour plus
+d’information au sujet du Conseil des Arts du Canada, veuillez visiter
 notre site Internet au www.conseildesarts.ca <http://www.conseildesarts.ca/>
 
 Au sujet du poste
 Sous la supervision directe du directeur de la Division des disciplines
-artistiques, contribuer Ã  la planification stratÃ©gique et au dÃ©veloppement
+artistiques, contribuer Ã  la planification stratégique et au développement
 global de la Division des disciplines artistiques, faciliter la gestion
 continue des programmes de la Division des disciplines artistiques, gérer
-la production de documents sur lâ��architecture de programmes et fournir des
+la production de documents sur l’architecture de programmes et fournir des
 informations sur le Conseil des Arts du Canada et ses programmes; mettre en
-Å�uvre des politiques et procÃ©dures administratives relatives aux
-subventions de faÃ§on efficace et efficiente;Â  gÃ©rer les activitÃ©s de
-gestion du Centre dâ��inscription du Conseil; diriger le dÃ©veloppement
-dâ��outils clÃ©s, gÃ©rer les activitÃ©s, le budget et onze (11) employÃ©s des
+Å�uvre des politiques et procédures administratives relatives aux
+subventions de façon efficace et efficiente;Â  gérer les activités de
+gestion du Centre d’inscription du Conseil; diriger le développement
+d’outils clés, gérer les activités, le budget et onze (11) employés des
 Services aux arts; accomplir d'autres tâches connexes.
 
 Exigences du poste
 
 · un diplôme universitaire en art, en administration des affaires ou
-en administration publique ou une combinaison dâ��Ã©tudes et 10 annÃ©es
-dâ��expÃ©rience professionnelle et pratique.
+en administration publique ou une combinaison d’études et 10 années
+d’expérience professionnelle et pratique.
 
-Â· cinq annÃ©es dâ��expÃ©rience dans des postes de gestion et
-dâ��administration comportant des responsabilitÃ©s croissantes, de prÃ©fÃ©rence
+Â· cinq années d’expérience dans des postes de gestion et
+d’administration comportant des responsabilités croissantes, de préférence
 dans le milieu des arts;
 
 · beaucoup d'entregent et d'excellentes habiletés pour la
@@ -1350,15 +1350,15 @@ conflictuelles et les points de vue divergents; et
 gestion de risques et d'élaboration de
 
 · Les fonctions du poste requièrent l'utilisation des deux langues
-officielles.Â	Les exigences relatives Ã  la deuxiÃ¨me langue officielle sont
+officielles.Â	Les exigences relatives Ã  la deuxième langue officielle sont
 les suivantes: parler : niveau avancé; lire : niveau avancé; écrire :
 niveau intremédiaire.
 
-Ce poste est situÃ© Ã  Ottawa et peut exiger jusqu'Ã  10 jours de dÃ©placements
+Ce poste est situé Ã  Ottawa et peut exiger jusqu'Ã  10 jours de déplacements
 par année.
 
 Comment soumettre votre candidature politiques;
-Remplissez le formulaire de demande dâ��emploi
+Remplissez le formulaire de demande d’emploi
 <http://www.canadacouncil.ca/aboutus/employment/rr127237563301718750.htm> ,
 y indiquant le numéro du concours, joignez-y une copie de votre curriculum
 vitÃ¦ et faites parvenir le tout Ã  Roch Brunelle, Ressources humaines, avant
@@ -1368,19 +1368,19 @@ la date de fermeture, soit par :
 · courrier postal : 350, rue Albert, C.P. 1047, Ottawa (Ontario)
 K1P 5V8
 
-Pour plus dâ��informations ou pour un profil dâ��emploi plus dÃ©taillÃ©,
+Pour plus d’informations ou pour un profil d’emploi plus détaillé,
 veuillez
 communiquer avec Roch Brunelle au (613) 566-4414, poste 4124 ou par
 courriel Ã  competition1@canadacouncil.ca
 <mailto:competition1@canadacouncil.ca> .Â  Nous remercions tous les
 candidats et les candidates de leur intérêt; cependant, nous ne
-communiquerons quâ��avec les personnes sÃ©lectionnÃ©es pour une entrevue.
+communiquerons qu’avec les personnes sélectionnées pour une entrevue.
 
-Nous valorisons lâ��Ã©quitÃ© et la diversitÃ© dans notre effectif, et nous
-encourageons les candidats Ã  sâ��identifier selon les groupes dÃ©signÃ©s
+Nous valorisons l’équité et la diversité dans notre effectif, et nous
+encourageons les candidats Ã  s’identifier selon les groupes désignés
 suivants : femmes, minorités visibles, Autochtones, personnes handicapées.
 
-P Think green; read on screen /Pensons Ã  l'environnement; lisons Ã  l'Ã©cran
+P Think green; read on screen /Pensons Ã  l'environnement; lisons Ã  l'écran
 
 Roch Brunelle
 Human Ressources Administrative Assistant/

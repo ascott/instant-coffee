@@ -54,19 +54,19 @@ BC) Stefan Smulovitz is a highly accomplished musician and an award-winning
 composer. As a software developer he created Kenaxis, a major innovation in
 the use of the computer as a real-time instrument. His virtuosic command of
 Kenaxis has resulted in an international reputation for Smulovitz, who
-regularly performs with the worldâ��s leading improvisers and composes for
+regularly performs with the world’s leading improvisers and composes for
 ensembles ranging from orchestras to string
-quartets.Ã�Â (http://www.kenaxis.com/) Light Compositions is hosted by TOM
+quartets.Â (http://www.kenaxis.com/) Light Compositions is hosted by TOM
 CONE, 9pm
 
 See www.instantcoffee.org <http://www.instantcoffee.org> for a growing list
 of events, and for other information contact us@instantcoffee.org
 
 Where: Instant Coffee Light Bar: 33 West Cordova St. (blood alley entrance)
-When: opening hours, Wednesday to Saturday, 7pm â�� 12 am, and for special
+When: opening hours, Wednesday to Saturday, 7pm ’ 12 am, and for special
 events, beginning February 12 through March 20, 2010;
 
-* there is limited capacity so come early and stay long * weâ��ll leave the
+* there is limited capacity so come early and stay long * we’ll leave the
 light on for you
 
 The artist collective Instant Coffee presents Light Bar, a full-spectrum
@@ -82,6 +82,6 @@ individuals, but for Light Bar Instant Coffee puts it to the test in small
 or large group situations.
 
 As part of Bright Light a collaborative project that brings together
-fourteen arts organizations from Vancouverâ��s Downtown Eastside. Bright
+fourteen arts organizations from Vancouver’s Downtown Eastside. Bright
 Light is commissioned by the City of Vancouver through its Olympic and
 Paralympic Public Art Program, www.bright-light.ca

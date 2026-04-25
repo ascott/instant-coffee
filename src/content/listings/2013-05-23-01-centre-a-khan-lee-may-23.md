@@ -43,7 +43,7 @@ and celebratory.
 Khan Lee was born in Seoul, Korea where he studied architecture at
 Hong-Ik University, and studied fine art at Emily Carr Institute of Art
 and Design in Vancouver. He is a founding member of Vancouver
-based artist collective â€˜Intermissionâ€™ and presently a member of 
+based artist collective ‘Intermission’ and presently a member of 
 Instant Coffee artist collective. His experiments with form, medium, 
 content, and expression have resulted in performance, sculpture, and 
 media works. Lee lives and works in Vancouver BC, and has exhibited

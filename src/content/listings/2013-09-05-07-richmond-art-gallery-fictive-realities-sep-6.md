@@ -21,7 +21,7 @@ Language itself is already mediating and informing our experiences as we
 post, tweet and blog to potentially millions. Recognizing that many of things 
 that we take for granted in everyday life are constructions— fabrications that 
 colour our vision of our lives and our environments—the artists in Fictive 
-Realities present â€œtruthsâ€  about our lives by overlaying them on the familiar 
+Realities present “truths”  about our lives by overlaying them on the familiar 
 and the mundane. Using technologies such interactive digital projection, 
 artware (artist made software), video mediated sculptural installations, and 
 good old fashioned storytelling, Fictive Realities is an exhibition that literally 
@@ -62,7 +62,7 @@ received her MFA from NSCAD (Halifax, Nova Scotia). Her work often
 experiments with the ubiquitous desktop PC, as a site of intimate virtual or 
 digital experiences – teasing out resonant connections between machines 
 and bodies and between digital and actual spaces. She often collaborates 
-with her brother and particle physicist Colin Gay on these â€œartwareâ€  projects. 
+with her brother and particle physicist Colin Gay on these “artware”  projects. 
 Interested in the possibilities of touch and poetics within new media platforms, 
 they develop artware designed to play with technologies in non-useful ways.
 Since 1997, Michelle has operated Steamworks Media (www.steamworks.net) 

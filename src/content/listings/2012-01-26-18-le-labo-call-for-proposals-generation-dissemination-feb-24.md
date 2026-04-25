@@ -34,7 +34,7 @@ today's history be read tomorrow?
 
 Seeking proposals from artists working in (but not limited to) video, film, 
 interactive art, net art, performance or installation. Artists are asked to 
-propose a layered work that involves an â€œoriginalâ€  gesture, and 
+propose a layered work that involves an “original”  gesture, and 
 documentation of or through that gesture. Original gestures may take 
 place anywhere outside of the gallery (ex: site-specific installation, 
 distant geographic location, private performance) and should take 

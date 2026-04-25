@@ -43,7 +43,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2011-10-20-01-goethe-satellite-vancouver-4-new-projects-coming-soon">01. Goethe Satellite Vancouver | 4 New Projects | coming soon</a>
 ------------------------------------------------------------------------
 After a successful start with the Freie Internationale Tankstelle, or FIT, a “fueling 
-station for the creative spiritâ€  by Berlin artist Dida Zende, which took the form of a 
+station for the creative spirit”  by Berlin artist Dida Zende, which took the form of a 
 custom architecture built from shipping containers at the Waldorf Hotel, four new 
 projects have been announced for the Goethe Satellite Vancouver.
 
@@ -193,13 +193,13 @@ Curated by Lilac Lang
 October 20-November 20 2011
 Opening Reception Thursday, October 20th, 6-9 p.m.
 
-The showâ€™s title, â€œShapelyâ€ , refers to seemingly unrelated aspects of both artistsâ€™ 
+The show’s title, “Shapely” , refers to seemingly unrelated aspects of both artists’ 
 practices: in Hannah Hughes’ figurative work, the pleasing form of the female 
 subjects, and in Ahbyah Baker’s abstract painting, the type of objects depicted. 
 Each artist’s work exhibits a common theme of tension between abstraction and 
 representation. 
 
-â€œShapelyâ€  acknowledges the urge to move beyond the technical ability of 
+“Shapely”  acknowledges the urge to move beyond the technical ability of 
 mimicking representational imagery in painting, even as the desire to 
 demonstrate these very things is fulfilled. The work is neither entirely abstract 
 nor objective. Even if one considers Baker’s minimalist paintings without the 
@@ -356,10 +356,10 @@ Diamond Zhou
 
 This exhibition draws on Susan Buck-Morss’ 1993 text for the journal 
 October, “Aesthetics and Anaesthetics: Walter Bejamin’s Artwork Essay 
-Reconsidered.â€  Students explore the etymology of the term â€œaestheticâ€  that Buck-
+Reconsidered.”  Students explore the etymology of the term “aesthetic”  that Buck-
 Morss discusses as the Greek ‘aisthitikos’: that which is perceptive by feeling. 
 Buck-Morss writes, “Aisthisis is the sensory experience of perception. The 
-original field of aesthetics is not art but reality â€“ corporeal, material nature.â€  
+original field of aesthetics is not art but reality – corporeal, material nature.”  
 Through the mediums of photography, paint, drawing and installation, the artists 
 will offer their own varied interpretations of this term and explore the evolution of 
 aesthetics through the discourse of the body.
@@ -554,7 +554,7 @@ THE DRAWING SALON is pleased to present
 MOUNTAIN: A drawing workshop with artist Michael Drebert.
 
 “Approach the mountain freely and openly.
-What is going on in your mind as you stand still?â€ 
+What is going on in your mind as you stand still?” 
 
 Swami Sivandanda Radha, Hatha Yoga: The Hidden Language: symbols, 
 secrets and metaphor, from the chapter: Tadasana: The Mountain.
@@ -594,8 +594,8 @@ For more information on THE DRAWING SALON go to www.thedrawingsalon.org
 MICHAEL DREBERT is currently an artist in residence at Malaspina Printmakers 
 where he is working on a new series of prints. Drebert describes his work as “a 
 research into the radical potential for performative gestures to be an agent for 
-cultural investigation, and a catalyst for meaningful dialogueâ€  adding that, â€œthe 
-answer to a situation is to begin.â€ 
+cultural investigation, and a catalyst for meaningful dialogue”  adding that, “the 
+answer to a situation is to begin.” 
 
 Using an economy of means, black ink on white paper, his seemingly simple 
 graphic or text-based ‘signs or posters’, placed in public or private spaces, are 
@@ -863,7 +863,7 @@ His work has appeared in such anthologies as Write Turns: New Directions in
 Canadian Fiction (Raincoast) and AWOL: Tales for Travel-Inspired Minds 
 (Vintage). Rick is also a songwriter. He has written and performed music with 
 The Beige, an atmospheric roots quintet whose second album, El Ã ngel 
-Exterminador, was released in 2010. His experimental â€œgospel funk operaâ€ , The 
+Exterminador, was released in 2010. His experimental “gospel funk opera” , The 
 Meal, premiered at the PuSh International Performing Arts Festival in 2011 and 
 will be restaged in Spring 2012. Rick was editor of EVENT from 2006-2010.
 
@@ -1050,18 +1050,18 @@ Enter (Ntr)
 Kneel (Kn)
 
 A matter of respect to collaborators or eliminate them at your peril. During these 
-moments nothing is said. Mark out here, â€œpauseâ€  and then there â€œsilenceâ€ . Enter 
+moments nothing is said. Mark out here, “pause”  and then there “silence” . Enter 
 like a stiff feather. Throw the book. THUMP. Violet turns to blue. One character to 
-the other may say, â€œShall we go?â€  The other replies, â€œYesâ€ . The stage direction 
-says: â€œThey do not move.â€ 
+the other may say, “Shall we go?”  The other replies, “Yes” . The stage direction 
+says: “They do not move.” 
 
 Is someone going to argue that stage direction is immaterial? I hope not. 
 (Kissing the bookcase) We move into the gallery 
 space, "Flatly." "Happily." "Holding back tears." and “Large over-stuffed chairs 
-that seem to swallow the characters.â€  We blink. The camera pans left and 
-captures â€œAâ€  walking with a red page then at the next moment â€œAâ€  disappear. 
+that seem to swallow the characters.”  We blink. The camera pans left and 
+captures “A”  walking with a red page then at the next moment “A”  disappear. 
 
-More importantly, â€œtwo hundred women of the townâ€  enter the room. The ﬁnal 
+More importantly, “two hundred women of the town”  enter the room. The ﬁnal 
 scene of the play opens with two girls winding a skein of red wool. Confusion 
 reigns with various characters appearing and asking for deﬁnitive news. A 
 yellow diffused floods the room. Yellow is the colour of his lips when he is dead. 
@@ -1184,7 +1184,7 @@ Friday October 28 | 8 – 11 PM | $12/10 | @ VIVO (Main St. × 4th Ave.)
 
 Cute to Kill 2 is an expose of recent video works from local, national, and 
 international animators and video artists. Each short film explores the artists’ 
-morbid fascination with dark subject matter through the guise of â€œcuteâ€  (a 
+morbid fascination with dark subject matter through the guise of “cute”  (a 
 prevalent juxtaposition in contemporary Asian pop culture). In their first co-
 production, Yuriko Iga (of Blim) and Asa Mori bring together a wide range of 
 adorably despondent short films to be viewed as a collection for this one night 
@@ -1277,7 +1277,7 @@ Gallery will be open by appointment after the opening until Nov 4.
 Please contact the gallery for private view schedule.
 
 In his book White Love, vicente l. rafael considers the tagalog
-word â€œmahalâ€  as a translation for the word â€œloveâ€ . It refers to
+word “mahal”  as a translation for the word “love” . It refers to
 that which is dear, but also means valuable and expensive.
 Rafael writes that such ambiguities express love as a promise
 of fulfilment -- and a costly one.

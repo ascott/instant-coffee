@@ -69,7 +69,7 @@ sounds of the six- string lyre, or krar. Guaranteed to get you up out of
 your seat. Presented with Capilano University.
 
 RYEBERG LIVE
-January 26, 7pm, $25. The return of the online magazineâ€™s live 
+January 26, 7pm, $25. The return of the online magazine’s live 
 presentation, where guests presents essays inspired by YouTube 
 videos. Speakers this year include authors Lee Henderson and 
 Zsuzsi Gartner, artist Vjeko Sager, and interdisciplinary media artist 

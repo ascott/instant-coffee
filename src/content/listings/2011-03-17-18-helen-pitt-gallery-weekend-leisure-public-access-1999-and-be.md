@@ -42,7 +42,7 @@ Public Access: 1999 & Beyond, Weekend Leisure has curated local
 artists and comedians to create work that will be shown in an art
 exhibition that takes the form of a public access television
 programme.
-Using an overarching theme of â€œscience fictionâ€ , the five participants
+Using an overarching theme of “science fiction” , the five participants
 were asked to produce works that consider the do-it-yourself aesthetic
 of public access television, responding to its limitations as a medium
 of democratic creative expression. The resulting video content ranges

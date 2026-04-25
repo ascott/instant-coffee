@@ -13,7 +13,7 @@ An Invitation to An Infiltration
 Fia Backstrom, Lucy Clout, Hadley+Maxwell, Jonathan Middleton, Dexter
 Sinister, Holly Ward, and Jordan Wolfson
 
-January 22 â�� February 28, 2010
+January 22 ’ February 28, 2010
 
 Opening Reception: Thursday, January 21, 6 to 9pm
 
@@ -31,7 +31,7 @@ designed to exacerbate and examine it.
 
 Several artists will explicitly address the Olympics via its symbolism, its
 expressed ideals, and its effects on Vancouver and its citizens, while
-others will play up or deny the curatorial premise. Holly Wardâ��s works read
+others will play up or deny the curatorial premise. Holly Ward’s works read
 the Olympics as an act of appropriation of the city, which is facing budget
 cuts in human services and cuts to cultural services at the provincial
 level. Outside the building, Dexter Sinister will cover the windows in a
@@ -39,7 +39,7 @@ new wallpaper design of linking rings. Hadley+Maxwell will replicate the
 base of a Zane, a figure of Zeus erected by penitent athletes caught
 cheating in the ancient Olympics. And Fia Backstrom will organize a public
 conversation between a game theorist and a hockey strategist during the
-Olympic Hockey finals. Jordan Wolfson ignores the exhibitionâ��s call for
+Olympic Hockey finals. Jordan Wolfson ignores the exhibition’s call for
 competition by separating his work from the rest. Lucy Clout creates
 another division with her piece, Untitled (eyebrow), which will be
 suspended in front of the reception desk. Jonathan Middleton will perform

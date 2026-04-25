@@ -8,7 +8,7 @@ venue: "Cineworks"
 summary: "Cineworks | Play it Forward: film competition | FEB 28"
 ---
 
-Cineworks launching exciting new short film initiative â€œPlay it Forwardâ€ 
+Cineworks launching exciting new short film initiative “Play it Forward” 
 
 Cineworks Independent Filmmakers Society, a hub of independent filmmaking 
 in Vancouver for more than 30 years, announces a new program to bring 
@@ -19,12 +19,12 @@ prizes for the top three videos produced.
 
 “With so many communication avenues now available and so much 
 competition for people’s attention, a well-executed campaign video can mean 
-the difference between success and failure for many programs,â€  says 
+the difference between success and failure for many programs,”  says 
 Cineworks Facilities and Equipment Manager Jon Ornoy. “Many groups lack 
 the resources or networks to produce this kind of work, so we’re excited 
 about this opportunity to help bridge the gap between BC’s filmmakers and 
 the hardworking non-profit community trying to make life better for all of us in 
-this provinceâ€ .
+this province” .
 
 Filmmakers will have between January 7th and February 28th to find a group 
 to partner with, produce a 1-3 minute campaign video and upload it the 
@@ -37,8 +37,8 @@ screening of all entries will also follow in the summer of 2013.
 
 “This is a unique opportunity for filmmakers because it’s the only short film 
 contest out there where the content of the winning film isn’t dictated and 
-youâ€™re able to make whatever you wantâ€  says Ornoy. â€œThatâ€™s the idea behind 
-the contest, to give a little, and then pay it forward.â€ 
+you’re able to make whatever you want”  says Ornoy. “That’s the idea behind 
+the contest, to give a little, and then pay it forward.” 
 
 For more information on Play it Forward please contact:
 Jon Ornoy Amy Fung

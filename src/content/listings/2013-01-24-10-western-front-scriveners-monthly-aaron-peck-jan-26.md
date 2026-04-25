@@ -21,7 +21,7 @@ contemporary art, can lead to new ways of thinking, because while
 disentangling the error of equating two dissimilar things, new ways of
 thinking about both need to arise. To quote the American critic and
 writer Guy Davenport, “You are never so certain of your knowledge as
-when youâ€™re dead wrong.â€ 
+when you’re dead wrong.” 
 
 Following the reading there will be a brief conversation between Dan
 Starling and Aaron Peck about books and the art world.
@@ -45,7 +45,7 @@ Dance studio on the first floor.
 Scrivener’s Monthly is a series of public presentations that explore
 the space between material practices and spoken words: a periodical
 that talks. Set alongside the exhibitions program at Western Front,
-this experiment in â€œnot publishingâ€  involves readings, performances,
+this experiment in “not publishing”  involves readings, performances,
 and other articulations.
 
 Western Front

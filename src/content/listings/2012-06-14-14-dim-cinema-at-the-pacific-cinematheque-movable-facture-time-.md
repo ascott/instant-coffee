@@ -25,7 +25,7 @@ reality." MALCOLM LA GRICE
 
 Can we define time-structures for cinema and particularly expanded 
 cinema that go beyond narrative? Or if not beyond it: around, 
-underneath, across? The works in â€œMovable Facture: Time Framesâ€  
+underneath, across? The works in “Movable Facture: Time Frames”  
 are drawn from an earlier moment in film’s history, when a 
 preoccupation with structure was attended to through a variety of 
 formal experiments and strategies that skirt or avoid narrative 
@@ -52,10 +52,10 @@ Variations on a Cellophane Wrapper | David Rimmer/Canada 1970.
 .
 T.O.U.C.H.I.N.G. | Paul Sharits/USA 1969. 16mm, 12 mins.
 
-â€œHapax Legomena Iâ€  (nostalgia) | Hollis Frampton USA 1971. 16mm, 
+“Hapax Legomena I”  (nostalgia) | Hollis Frampton USA 1971. 16mm, 
 39 mins.v
 
-â€œTime Framesâ€  accompanies the exhibition â€œMovable Factureâ€ , 
+“Time Frames”  accompanies the exhibition “Movable Facture” , 
 featuring the work of Amy Granat and Drew Heitzler, Isabelle Pauwels, 
 Benjamin Tiven, and Jennifer West, at VIVO Media Arts Centre, June 
 1-23, 2012. vivomediaarts.com

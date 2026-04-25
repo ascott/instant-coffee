@@ -38,8 +38,8 @@ More details at www.presentationhousegallery.org
 
 /////////////////////////////////
 
-In conjunction with the exhibitions: â€œLarry Clark: Tulsaâ€  and â€œKohei 
-Yoshiyuki: The Parkâ€  on view through November 13.
+In conjunction with the exhibitions: “Larry Clark: Tulsa”  and “Kohei 
+Yoshiyuki: The Park”  on view through November 13.
 
 PRESENTATION HOUSE GALLERY
 333 Chesterfield Avenue

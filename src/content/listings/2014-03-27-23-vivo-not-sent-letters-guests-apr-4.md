@@ -175,7 +175,7 @@ previous Not Sent Letters & Guests events here:
 http://notsentlettersproject.com/category/events
 
 For Notifications
-and news â€œlikeâ€  the Not Sent Letters Project facebook page:
+and news “like”  the Not Sent Letters Project facebook page:
 https://www.facebook.com/pages/Not-Sent-Letters-
 Project/147882091946917
 

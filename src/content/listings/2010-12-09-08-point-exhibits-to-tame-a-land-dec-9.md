@@ -37,7 +37,7 @@ Four #48
 The title of the exhibition, To Tame A Land, makes reference to the 1955
 novel of the same name by American author Louis L’Amour. It is a coming of
 age story of a young boy orphaned and left to wander “a wild land of
-canyons and buttes, and on dust-choked cattle trails.â€ Vancouver is known
+canyons and buttes, and on dust-choked cattle trails.” Vancouver is known
 worldwide for its natural beauty, and the mountains, forests, lakes and
 ocean it is surrounded by is featured in architectural design almost as a
 façade, a picture to be viewed through the glass window of an apartment

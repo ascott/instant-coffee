@@ -15,11 +15,11 @@ Monday June 17th, 7:30pm
 1131 Howe St. Vancouver Tix: $11/9 +$3 membership
 http://www.dimcinema.ca/ http://www.thecinematheque.ca
 
-â€œErth, and Other Landscapesâ€  presents a series of musings on nature,
+“Erth, and Other Landscapes”  presents a series of musings on nature,
 technology, perception, and time by two generations of renowned artists and
 filmmakers. The program commences with a journey from the origin of the
 cosmos to the appearance of a “brilliant streptococcus organism for which
-no antidote existsâ€ ; and concludes with a year-long study of a forest,
+no antidote exists” ; and concludes with a year-long study of a forest,
 enacted by following the continually shifting movement of colour, light,
 and shadow across natural forms, articulating then obliterating them into
 pure abstraction. Between these parentheses, Peter Hutton discovers the

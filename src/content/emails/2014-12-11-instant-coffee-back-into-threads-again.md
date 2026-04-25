@@ -206,7 +206,7 @@ you are invited!
 
 The evening will feature two sets of performances by local artists, poets,
 musicians and comedians (see below for confirmed participants).
-Additionally there will be a â€œBake Saleâ€  table with limited edition prints,
+Additionally there will be a “Bake Sale”  table with limited edition prints,
 publications, artworks, gifts and other materials donated by local artists
 for purchase. This evening also marks the release of a limited edition
 print of Stephen Collis’ poem 72 Theses Against Tar Sands Pipelines and the
@@ -229,7 +229,7 @@ Luciana D'Anunciacao; The Pom Bombs; Emilio Rojas * #kmfacePhotobooth by:
 Vandocument * DJs: TodayWasTomorrow; furiousgreencloud * plus more TBA!!!
 
 This event will be held on Unceded xʷməθkwəy̓əm (Musqueam),
-Sḵwx̱wÃº7mesh
+Sḵwx̱wú7mesh
 (Squamish), and Səl̓Ã­lwətaʔ/Selilwitulh
 (Tsleil-Waututh) territories.
 
@@ -350,7 +350,7 @@ PSV is pleased to present Trapp Editions: Love & Ornament, an exhibition by
 Trapp Projects featuring art work and publications by Claire Greenshaw,
 Tony Romano, Isabelle Pauwels, Kathy Slade, T&T (Tony Romano & Tyler
 Brett), Jacques Villeglé and others. The exhibition launches a new edition
-Love and Ornament (2006-2014), a photographic â€œrecordâ€  by Toronto-based
+Love and Ornament (2006-2014), a photographic “record”  by Toronto-based
 artist Tony Romano.
 
 A subsidiary of Trapp Projects, Trapp Editions is based in Vancouver where
@@ -443,7 +443,7 @@ As the weather gets cold, there's nothing to do but eat people. Come enjoy
 two cult classics that combine music and cannibalism, Big Meat Eater and
 Eat the Rich. Big Meat eater is a locally made film set in "Burquitlam"
 the area between Burnaby and Coquitlam, which combines a human devouring
-alien and dazzling musical numbers. Eat the Rich, set in ThatcherÃ¢€™s
+alien and dazzling musical numbers. Eat the Rich, set in Thatcherâ€™s
 England, stars a disgruntled waiter who joins up with a terrorist cell
 after being fired and transforms an upscale restaurant into a haven for
 cannibalism.
@@ -842,7 +842,7 @@ European travel.
 
 Deadline for applications: January 31, 2015. See the application guidelines
 and download the application form at www.bruceboscholarships.com. Click on
-â€œApplyâ€ .
+“Apply” .
 
 For more information on the Scholarships, the studio cottage, previous
 scholarship recipients and the Caroline Benedicks - William Blair Bruce

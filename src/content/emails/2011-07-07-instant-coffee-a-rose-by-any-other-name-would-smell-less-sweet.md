@@ -519,16 +519,16 @@ shape the presentation.
 Grand Hotel so that visitors can see behind-the-scenes as we develop this 
 exhibition,“ says Bruce Grenville, senior curator of the Vancouver Art 
 Gallery, “Writing publicly about the unfolding of an exhibition in advance of the 
-opening is a first-time experiment for usâ€ .
+opening is a first-time experiment for us” .
 
 Grand Hotel aims to chart the evolution of the hotel from its humble origins as an 
 isolate and utilitarian structure to a cultural phenomenon on the contemporary 
 global landscape. The exhibition will offer an extensive survey of historical and 
 contemporary hotel design from around the world. “At the beginning of our work 
-on this project,â€  says guest curator Jennifer M. Volland, â€œwe came to see the 
+on this project,”  says guest curator Jennifer M. Volland, “we came to see the 
 hotel as an early example of a network. We wanted to trace the proliferation of 
 the hotel across time and space – both as a formal object and as a conceptual 
-idea â€“ from the outset. â€ 
+idea – from the outset. ” 
 
 The blog component of the Grand Hotel website will function as a research tool 
 for the curators, a platform for diverse invited contributors, a source of content 
@@ -575,7 +575,7 @@ RON TRAN
 A Walking Tour: Saturday, July 9th, 4pm
 Starting at the Contemporary Art Gallery
 
-The Contemporary Art Gallery will host a walking tour of A Way to Go with the artist Ron Tran and a pony. At â€œstopsâ€  along the way Tran will speak about his interest in using the form of a guided walk to structure and depict his own experience of the city. Its formal characteristics spurred him to traverse places he wouldnâ€™t normal consider, build narrative associations between specific locations, establish relationships with people he encountered and employ new technologies to guide an audience on an unexpected route through Vancouverâ€™s downtown core.
+The Contemporary Art Gallery will host a walking tour of A Way to Go with the artist Ron Tran and a pony. At “stops”  along the way Tran will speak about his interest in using the form of a guided walk to structure and depict his own experience of the city. Its formal characteristics spurred him to traverse places he wouldn’t normal consider, build narrative associations between specific locations, establish relationships with people he encountered and employ new technologies to guide an audience on an unexpected route through Vancouver’s downtown core.
 
 Tran will lead a pony on his walking tour. This performative gesture is deliberately comic, adding a fantastical element that will no doubt cause some double takes and create a degree of surprise. However, the animal also functions romantically, as a poetic device to conjure a past time, becoming the antithesis of the GPS technology utilized as a guiding tool for this project.
 
@@ -739,7 +739,7 @@ will place your portrait within our gallery wall display. By doing so, you are v
 demonstrating your support for a global movement which recognizes that 
 matters of mental health affect each and every one of us. With your permission 
 we will add you to our Flickr photo group and potentially project your image within 
-a collection around Vancouver. You donâ€™t have to have a â€œmental health issueâ€  or 
+a collection around Vancouver. You don’t have to have a “mental health issue”  or 
 illness to be supporter. Face your own mind, reveal your identity in a display of 
 solidarity and support everyone’s mental wellness.
 
@@ -760,7 +760,7 @@ giving us your permission to use your image in our Face Your Mind Campaign.
 Donations can be made through Pay Pal via credit card, through our website, 
 www.gachet.org, or by check or cash at our location at 88 East Cordova Street. 
 Please call 604 687 2468 and let us know you wish to donate to our “Face Your 
-Mind Campaignâ€ .
+Mind Campaign” .
 
 We thank you for your support and contributions.
 
@@ -793,11 +793,11 @@ point from which to address current issues in an alternative framework: that of
 cultural and global mental health.
 
 This year’s programming theme embraces and jostles with ideas 
-around â€œmodes of recoveryâ€ . The gallery is facing major financial cut backs this 
+around “modes of recovery” . The gallery is facing major financial cut backs this 
 year and with practically no money to run programming, we are responding in 
 our usual mad and crazy way – with a non-exhibit, anti-cabaret and comedy for 
 our Mad Pride celebrations. We are defying the usual parameters and breaking 
-new ground in the face of â€œzero dollars.â€ 
+new ground in the face of “zero dollars.” 
 
 Recovery narratives are ways of creating new stories and modes of being, 
 pulling other narratives and ideas into one's own autobiography. Such a 
@@ -826,7 +826,7 @@ odd-ball stations around the gallery for dialogue to be created, the gallery wil
 transform into a probing and open discussion forum for people to talk about the 
 change catalysts we face that can cause us to transform in a positive way, 
 rather than succumb to crisis. We aim to create what theorist Hakim Bey calls 
-a â€œTemporary Autonomous Zoneâ€  facing these issues head-on.
+a “Temporary Autonomous Zone”  facing these issues head-on.
 
 Our objective is to reach out to the global mental health community, especially in 
 B.C. In a quest to gain support, we’ll call out to people to face their own mental 
@@ -837,7 +837,7 @@ the exhibit. Send us your image and permission to be included to,
 programming@gachet.org.
 
 Through art, performance, music and educational events throughout the month 
-of July, Gallery Gachet aims to create a safe and radical (literal meaning: â€œrootâ€ ) 
+of July, Gallery Gachet aims to create a safe and radical (literal meaning: “root” ) 
 space for a total creative and exploratory FREAK OUT over our need for funding 
 and financial stability. Join us for an exploratory month of programming!
 
@@ -1030,8 +1030,8 @@ collective and unconscious flows in the world. What unspeakable truth rises to
 the surface from this kind of looking? It’s a collaboration. Each participant 
 contributing equally, sharing authorship. Whilst there’ll be plenty of opportunity for 
 individual studio practice we’ll navigate this residency through field trips, hikes, 
-meetings with â€œrealâ€  people, collaborative video projects, individual quests, a lot 
-of â€œshow and tell,â€  too much late night Googling, coincidences and 
+meetings with “real”  people, collaborative video projects, individual quests, a lot 
+of “show and tell,”  too much late night Googling, coincidences and 
 misunderstandings, all tempered with the enjoyment of the potential to be found 
 in getting radically lost.
 
@@ -1097,9 +1097,9 @@ Presentation House Gallery is pleased to present an exhibition of rare vintage
 photographs by Karlheinz Weinberger (1921-2006), that together with 
 magazines and samples of vintage D.I.Y. clothing, document a youth subculture 
 in Zurich that emerged in the aftermath of the Second World War and was “bent 
-on subverting Swiss propriety.â€ 
+on subverting Swiss propriety.” 
 
-Living in Zurich, Switzerland, Weinberger was a self-taught â€œamateurâ€  
+Living in Zurich, Switzerland, Weinberger was a self-taught “amateur”  
 photographer whose day job working in a factory warehouse allowed him to 
 pursue photography seriously in his free time. In the late 1940s Weinberger 
 began to publish his pictures for a gay magazine using the pseudonym of Jim, 
@@ -1108,8 +1108,8 @@ cult following. Weinberger produced all the prints featured in this exhibition i
 home darkroom, which have remained until now, in relative obscurity.
 
 In 1958, Weinberger met and began photographing members of a small band of 
-teenagers. In post-war Switzerland, these self-named â€œrebelsâ€  (referred to by the 
-Swiss as â€œHalbstarkâ€  or â€œhalf strongâ€ ) were comprised of working class boys and 
+teenagers. In post-war Switzerland, these self-named “rebels”  (referred to by the 
+Swiss as “Halbstark”  or “half strong” ) were comprised of working class boys and 
 girls dissatisfied by the conservative climate of the day. They adopted a gang 
 identity modeled on American pop icons—with exaggerated hairdos and 
 homemade clothing—in the manner of James Dean and Elvis Presley. Through 
@@ -1162,7 +1162,7 @@ forward passing on values and ethics, rituals and philosophies, through daily
 movements that ripple out beyond Vancouver. Their legacy and lineage are the 
 foundations of a strong, vibrant cultural community in Chinatown. Dedicated to 
 the spirit and life of my grandmother and all grandmothers for their everyday 
-endurance and persistence despite our cultural and social neglect of eldersâ€  
+endurance and persistence despite our cultural and social neglect of elders”  
 (Laiwan, 2011).
 
 Laiwan is an artist with a wide-ranging practice that follows her interest in cross-

@@ -16,7 +16,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2010-09-23-04-edgewater-casino-launch-night-sweepers-by-chute-and-pederers">04. Edgewater Casino | launch: Night Sweepers by Chute and Pederersen | SEP 23</a>
 <a href="/instant-coffee/listings/2010-09-23-05-western-front-deirdre-logue-sep-23">05. Western Front | Deirdre Logue | SEP 23</a>
 <a href="/instant-coffee/listings/2010-09-23-06-audain-gallery-faculty-exhibition-sep-24">06. Audain Gallery | faculty exhibition | SEP 24</a>
-<a href="/instant-coffee/listings/2010-09-23-07-c-magazine-c-magazine-issue-107-animals-on-newsstands-sep-24">07. C Magazine | C MAGAZINE ISSUE 107 â€œANIMALSâ€  ON NEWSSTANDS | SEP 24</a>
+<a href="/instant-coffee/listings/2010-09-23-07-c-magazine-c-magazine-issue-107-animals-on-newsstands-sep-24">07. C Magazine | C MAGAZINE ISSUE 107 “ANIMALS”  ON NEWSSTANDS | SEP 24</a>
 <a href="/instant-coffee/listings/2010-09-23-08-ksw-spartacus-books-rob-halpern-sep-24">08. KSW @ Spartacus Books | Rob Halpern | SEP 24</a>
 <a href="/instant-coffee/listings/2010-09-23-09-cag-walking-tour-of-public-sculptures-peter-gazendam-sep-25">09. CAG | walking tour of public sculptures: Peter Gazendam | SEP 25</a>
 <a href="/instant-coffee/listings/2010-09-23-10-centre-a-contemporary-archiving-sep-25">10. Centre A | CONTEMPORARY ARCHIVING | SEP 25</a>
@@ -52,7 +52,7 @@ Dark Moon Lilith Productions
 www.darkmoonlilith.com
 www.darkmoonliliththejournal.com
 
-Ã¢â‚¬Å“The creative process is a process of surrender, not control.Ã¢â‚¬Â  ~ Julia Cameron
+ââ‚¬Å“The creative process is a process of surrender, not control.ââ‚¬Â  ~ Julia Cameron
 
 
 ------------------------------------------------------------------------
@@ -72,7 +72,7 @@ Opening Reception // Thursday, September 23rd // 7pm - 11pm
 Captivated by still life, Les Ramsay seeks an intimacy with form while
 romancing notions and techniques of abstract painting. His work is invested
 in the exploration of tropes found in modern, cubist, and abstract art
-examining the contrasts between the artistsÃ¢ï¿½ï¿½ intellect and their whim. He
+examining the contrasts between the artistsâï¿½ï¿½ intellect and their whim. He
 exhibits several new paintings and sculptures that investigate
 circumstances where subject and composition exist in limbo.
 
@@ -205,10 +205,10 @@ Audain Gallery, 149 West Hasting Street, Vancouver. info@audaingallery.ca
 audaingallery.ca
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2010-09-23-07-c-magazine-c-magazine-issue-107-animals-on-newsstands-sep-24">07. C Magazine | C MAGAZINE ISSUE 107 â€œANIMALSâ€  ON NEWSSTANDS | SEP 24</a>
+<a href="/instant-coffee/listings/2010-09-23-07-c-magazine-c-magazine-issue-107-animals-on-newsstands-sep-24">07. C Magazine | C MAGAZINE ISSUE 107 “ANIMALS”  ON NEWSSTANDS | SEP 24</a>
 ------------------------------------------------------------------------
 
-C MAGAZINE ISSUE 107 â€œANIMALSâ€  ON NEWSSTANDS NOW
+C MAGAZINE ISSUE 107 “ANIMALS”  ON NEWSSTANDS NOW
 Issue 107 includes feature essays by Carla Benzan, writing about the lives
 and deaths of Carolee Schneemann’s cats; Karen Houle, on ethics and animal
 kinship; Jon Davies, on Mike White’s film, Year of the Dog; and Helena
@@ -259,7 +259,7 @@ of C Magazine, and Jenifer Papararo, Curator at the Contemporary Art
 Gallery in Vancouver.
 
 SAVE THE DATE
-C School Forum on â€œAnimalsâ€  in contemporary art
+C School Forum on “Animals”  in contemporary art
 Tuesday November 2, 7 pm
 FREE
 http://cmagazine.com
@@ -327,7 +327,7 @@ Sensitive Skin (Atticus/Finch 2007), which will soon be reissued by
 Displaced Press.
 Currently, he's co-editing the poems of the late Frances Jaffer, together with
 Kathleen Fraser, and translating the early essays of Georges Perec, the second
-of which, Ã¢â‚¬Å“Commitment or the Crisis of Language,Ã¢â‚¬Â  recently appeared in the
+of which, ââ‚¬Å“Commitment or the Crisis of Language,ââ‚¬Â  recently appeared in the
 Review of Contemporary Fiction with an essay of his own on Perec. An active
 participant in the Nonsite Collective, Rob lives in San Francisco and
 Ypsilanti, Michigan.
@@ -368,9 +368,9 @@ The commons has become an important interdisciplinary site of research for
 political
 scientists and urban planners, geographers and ecologists, poets and artists,
 anti-poverty and anti-colonial activists. This work shop hopes to further our
-understanding of the commonsÃ¢â‚¬â€ its limits and possibilities, its enclosure and
-re-appropriationÃ¢â‚¬â€ via short talks, wide-ranging discussion, and possibly some
-participatory Ã¢â‚¬Å“commoning.Ã¢â‚¬Â 
+understanding of the commonsââ‚¬” its limits and possibilities, its enclosure and
+re-appropriationââ‚¬” via short talks, wide-ranging discussion, and possibly some
+participatory ââ‚¬Å“commoning.ââ‚¬Â 
 
 Thom Donovan lives in New York City, where he edits Wild Horses Of Fire
 weblog and
@@ -383,7 +383,7 @@ published widely
 in BOMB, PAJ: art + performance, Modern Painters, The Brooklyn Rail,
 Performa07, Museo,
 
-Fanzine, EXIT, and at the Poetry Foundationâ€™s Harriet weblog. Currently he
+Fanzine, EXIT, and at the Poetry Foundation’s Harriet weblog. Currently he
 is working on a
 
 collection of critical writings, Sovereignty and Us: Critical Objects
@@ -552,14 +552,14 @@ primarily Japan. For three years Bayer was the manager of the Rome studio
 of American artist Joseph Kosuth. In 1997 she guest-curated the exhibition
 The Search for the Spirit: General Idea 1968-1975 for the Art Gallery of
 Ontario, which presented several hundred previously unseen works from the
-"General Idea Archive," mostly early works that had been Ã¢ï¿½ï¿½shelved' or put
+"General Idea Archive," mostly early works that had been âï¿½ï¿½shelved' or put
 aside by the artists as they moved on to project after project during their
 25-year collaboration (active 1969-94). Bayer completed the 632-page
 "Finding Aid" to the vast General Idea fonds [Archive], which is currently
 housed in the National Gallery of Canada's Library and Archive and is one
 of the most actively consulted archival holding at the gallery (see
 http://www.gallery.ca/english/library/biblio/ngc112.html). She researched
-and compiled the complete body of Ã¢ï¿½ï¿½editioned works' that was published in
+and compiled the complete body of âï¿½ï¿½editioned works' that was published in
 Barbara Fischer, ed. General Idea Editions" 1967-1995 (Mississauga:
 Blackwood Gallery, 2003). Bayer was recently a Research Fellow at the
 National Gallery of Canada and is currently completing the catalogue
@@ -664,7 +664,7 @@ Criticism. The result of a public forum and reading room (held in 2009 at
 Emily Carr University and at Artspeak respectively) that investigated the
 role of valuation art criticism, this publication features commissioned
 texts by forum presenters and respondents: Jeff Derksen, Diedrich
-Diederichsen, James Elkins, Maria Fusco, Sven LÃ¼tticken, Tom Morton,
+Diederichsen, James Elkins, Maria Fusco, Sven Lütticken, Tom Morton,
 Kristina Lee Podesva, William Wood and Tirdad Zolghadr. Examining the
 efficacy and function of art criticism, the publication focuses on the role
 of judgment in contemporary art writing and includes transcriptions from
@@ -1051,7 +1051,7 @@ Deadline: Monday, September 20, 2010- 5pm
 Only those candidates selected for an interview will be contacted.
 Thank you for your understanding.
 
-N.B. The feminine is used in this text to facilitate itÃ¢ï¿½ï¿½s reading and in no
+N.B. The feminine is used in this text to facilitate itâï¿½ï¿½s reading and in no
 way means to exclude
 other genders.
 
@@ -1097,7 +1097,7 @@ Please note that we do not accept email proposals for our main space.
 
 All submissions can be sent to:
 
-Eyelevel Gallery â€“ Programming Committee
+Eyelevel Gallery – Programming Committee
 c/o: Michael McCormack
 2063 Gottingen Street
 Halifax, Nova Scotia, Canada

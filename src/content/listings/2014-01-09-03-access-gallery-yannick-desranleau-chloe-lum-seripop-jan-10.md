@@ -19,7 +19,7 @@ In Conversation: Seripop with Kimberly Phillips: Saturday January 11,
 In Vexations, Yannick Desranleau and Chloe Lum consider the space 
 and surfaces of the gallery as a receptacle for a visual response – a 
 vessel that will be both present and formless in the support of a 
-resulting â€œsentenceâ€  that will be uttered. Through the manipulation of 
+resulting “sentence”  that will be uttered. Through the manipulation of 
 coloured paper against other materials, Desranleau and Lum’s 
 sculptures react to both plans and void, to create tension between 
 volume and flatness, mass and fragility, material stress and failure, and 

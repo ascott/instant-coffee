@@ -14,7 +14,7 @@ February 12th — March 14th, 2015
 Opening February 12th, 6:00 — 10:00 PM
 
 We are pleased to announce Stephanie Aitken as our first exhibiting artist
-of 2015. Her exhibition titled â€œBreathing Machinesâ€  opens on Thursday,
+of 2015. Her exhibition titled “Breathing Machines”  opens on Thursday,
 February 12th from 6:00 — 10:00 PM.
 
 These paintings are about trees, tree parts, dead trees, stumps, burn

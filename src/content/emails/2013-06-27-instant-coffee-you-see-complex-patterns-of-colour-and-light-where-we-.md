@@ -21,7 +21,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2013-06-27-07-gallery-fukai-closing-jun-29">07. Gallery FUKAI | Closing | JUN 29</a>
 <a href="/instant-coffee/listings/2013-06-27-08-vancouver-art-gallery-new-exhibitions-gareth-moore-and-marti">08. Vancouver Art Gallery | new exhibitions | Gareth Moore and Martin Honert | JUN 29</a>
 <a href="/instant-coffee/listings/2013-06-27-09-winsor-gallery-ecu-award-winners-exhibition-jun-29">09. Winsor Gallery | ECU Award Winners Exhibition | JUN 29</a>
-<a href="/instant-coffee/listings/2013-06-27-10-initial-gallery-the-diarist-the-commentator-the-seer-jul-4">10. Initial Gallery | â€œthe Diarist, the Commentator, & the Seerâ€  | JUL 4</a>
+<a href="/instant-coffee/listings/2013-06-27-10-initial-gallery-the-diarist-the-commentator-the-seer-jul-4">10. Initial Gallery | “the Diarist, the Commentator, & the Seer”  | JUL 4</a>
 <a href="/instant-coffee/listings/2013-06-27-11-malaspina-printmakers-stone-portraits-jesse-gray-jul-4">11. Malaspina Printmakers | Stone Portraits: Jesse Gray | JUL 4</a>
 <a href="/instant-coffee/listings/2013-06-27-12-trench-contemporary-art-monomania-ii-vancouver-emerging-jul-">12. Trench Contemporary Art | MONOMANIA II: Vancouver Emerging | JUL 4</a>
 <a href="/instant-coffee/listings/2013-06-27-13-waap-wil-aballe-art-projects-as-it-is-jul-4">13. WAAP | WIL ABALLE ART PROJECTS | AS IT IS | JUL 4</a>
@@ -190,7 +190,7 @@ Eric J. Paul’s sound installation transforms public feedback from the Surrey
 Art Gallery’s comment board into a musical score broadcasted in the inner 
 courtyard. The comments are broken down into letter units, and each letter is 
 converted into a morse code pattern to reflect the aspect of “hidden 
-messagesâ€ . The rhythmic pattern of the morse code is then scaled through 
+messages” . The rhythmic pattern of the morse code is then scaled through 
 computer programming to generate the sound composition. Determined by 
 numerological processing of the comments, this resulting composition erases 
 the melodic aspect of music, and its hierarchical position replaced by 
@@ -255,7 +255,7 @@ overwhelmed with feeling she likewise reveals the camera’s inability to
 articulate any subjective narrative of her dark something.
 
 Janice Guy’s rare vintage prints first resurfaced in 2007 in the exhibition “Early 
-Workâ€  organized by White Columns, the artist Marilyn Minter, and curator 
+Work”  organized by White Columns, the artist Marilyn Minter, and curator 
 Fabienne Stephan. Guy has received critical acclaim for these photo works, 
 presenting a solo exhibition at White Columns and included in group shows at 
 the Metropolitan Museum, New York, Galerie Mezzanin Vienna, and 
@@ -279,12 +279,12 @@ place during the 1970s by European filmmakers who made films in Latin
 American countries that in effect propagated a problematic stereotype of third 
 world deprivation abroad. In the film a team of parasitic filmmakers (one of 
 whom is played by Mayolo) descend upon the city of Cali hunting for 
-quintessential images of abject poverty. For their â€œdocumentaryâ€  
+quintessential images of abject poverty. For their “documentary”  
 commissioned by German TV they have a laundry list of beggars, prostitutes, 
 homeless children, and various marginalized urban stereotypes that they seek 
 out in the city streets, and even in certain instances invent. With a brilliant 
 use of sardonic humor, their colonizing gaze is formally realized in a film 
-within the film; black-and-white footage documents the â€œvampiricâ€  filmmakers 
+within the film; black-and-white footage documents the “vampiric”  filmmakers 
 as they capture full color images of their objectified subjects.
 
 Luis Ospina studied at the School of Cinematic Arts of the University of 
@@ -628,10 +628,10 @@ https://www.ecuad.ca/about/news/293820
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2013-06-27-10-initial-gallery-the-diarist-the-commentator-the-seer-jul-4">10. Initial Gallery | â€œthe Diarist, the Commentator, & the Seerâ€  | JUL 4</a>
+<a href="/instant-coffee/listings/2013-06-27-10-initial-gallery-the-diarist-the-commentator-the-seer-jul-4">10. Initial Gallery | “the Diarist, the Commentator, & the Seer”  | JUL 4</a>
 ------------------------------------------------------------------------
 Initial Gallery
-â€œthe Diarist, the Commentator, & the Seerâ€  
+“the Diarist, the Commentator, & the Seer”  
 July 4th to August 14th, 2013
 
 the Diarist: Jen Osborne - Objectively recording a part of society not always 
@@ -731,7 +731,7 @@ All artists will be in attendance
 WAAP | WIL ABALLE ART PROJECTS
 528-2050 Scotia St., Buzzer 189
 
-The diverse works featured in â€œAs It Isâ€  are informed by tradition but also 
+The diverse works featured in “As It Is”  are informed by tradition but also 
 propelled by innovation, with each artist working to distill their visual 
 vocabulary as a means of conveying an essential experience. The pieces are 
 process driven, and often use paint in unconventional ways. Paint is built up 
@@ -821,7 +821,7 @@ Anastasia Ugorskaya
 Drawing Expo started as an annual group exhibition curated by Gabriel 
 Deerman in 2007. Its mandate is to present a diverse spectrum of artists from 
 Canada and abroad working in the field of contemporary drawing. “Drawing 
-Expoâ€  is a celebration of the imagination and fantasy that flourishes within the 
+Expo”  is a celebration of the imagination and fantasy that flourishes within the 
 transference of the artist's idea to the drawn surface. New worlds are 
 projected by this exciting medium. The artists involved challenge disciplinary 
 borders and definitions with their varying approaches to the work. Using print 

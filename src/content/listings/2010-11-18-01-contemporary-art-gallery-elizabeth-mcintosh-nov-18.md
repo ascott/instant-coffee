@@ -22,7 +22,7 @@ Elizabeth McIntosh is widely regarded as one the most important abstract
 painters practicing in Canada today. While her paintings are located in the
 realm of abstraction, the careful organization of forms sometimes alludes
 to elements of the real world. Despite the apparent simplicity of
-McIntoshâ��s formal language, there is often a textural richness arising from
+McIntosh’s formal language, there is often a textural richness arising from
 her artistic process, which involves the application of multiple layers of
 paint, allowing for trial and error and leaving a visible reworking.
 
@@ -40,7 +40,7 @@ Recent solo exhibitions include A Good Play, Diaz Contemporary, Toronto
 She has participated in group exhibitions at the Vancouver Art Gallery
 (2006), Santa Monica Museum of Art (2006), and Hallwalls, Buffalo, (2003).
 In 2010, Emily Carr University Press in collaboration with Diaz
-Contemporary published a monograph of McIntoshâ��s work entitled A Good Play,
+Contemporary published a monograph of McIntosh’s work entitled A Good Play,
 which includes essays by Jan Verwoert and Monika Szewczyk, and she was
 featured in Canadian Art Magazine. McIntosh lives and works in Vancouver,
 where she is a respected educator at the Emily Carr University of Art +
@@ -50,7 +50,7 @@ Public Conversation with Jan Verwoert and Elizabeth McIntosh
 
 Friday, December 10, 7pm
 
-Available at the CAG is A Good Play, an artist monograph on McIntoshâ��s
+Available at the CAG is A Good Play, an artist monograph on McIntosh’s
 recent work with essays by Jan Verwoert and Monika Szewczyk, ECI Press, 2010
 
 Public Guided Visits on Saturday, November 20, 3pm and Sunday, January 9,

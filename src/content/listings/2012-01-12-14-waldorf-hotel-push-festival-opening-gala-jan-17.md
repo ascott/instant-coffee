@@ -20,7 +20,7 @@ Beil and author of Vancouver Special Charles Demers, will feature Vancouver’s
 quick-witted, irreverent, and surprisingly danceable accordion rock band Fang, 
 alongside the ethereal vocals and gorgeous harmonies of e.s.l. You’ll also have 
 the opportunity to take in DJ sets by Dubstep veteran Kuma, The Amigos and 
-Jenifer Papararo under the flickering â€œtwilight skyâ€  of the Waldorfâ€™s famous Tiki 
+Jenifer Papararo under the flickering “twilight sky”  of the Waldorf’s famous Tiki 
 bar, join in a spur-of-the-moment flamenco dance lesson, make silly faces with 
 your friends in the photo booth, or even take a guided tour of the hotel. See you 
 there!

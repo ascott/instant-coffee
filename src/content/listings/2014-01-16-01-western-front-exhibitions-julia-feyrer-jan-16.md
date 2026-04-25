@@ -18,7 +18,7 @@ Gallery Hours: Tuesday-Saturday 12-5pm
 Western Front is pleased to present Escape Scenes, a solo exhibition
 by Vancouver based artist Julia Feyrer. In a new body of work
 including 16mm film and cyanotype photograms, the artist explores
-mediated perception as an imprecise form of measurement. Feyrerâ€™s
+mediated perception as an imprecise form of measurement. Feyrer’s
 works inhabit the space between static and moving images, where
 makeshift narratives reveal the fantasy logic of their own construction.
 The exhibition will also include a new artist book by Feyrer, published
@@ -27,7 +27,7 @@ by Perro Verlag.
 Biography
 
 Julia Feyrer (b. 1982 Victoria, BC) currently lives and works in VanÂ­couÂ­
-ver. She received her MeisÂ­terÂ­schÃ¼Â­lerin from the StÃ¤delschule in 
+ver. She received her MeisÂ­terÂ­schüÂ­lerin from the StÃ¤delschule in 
 FrankÂ­
 furt, GerÂ­many in 2010, and her Bachelor of Fine Arts from the Emily
 Carr InstiÂ­tute of Art and Design in VanÂ­couÂ­ver in 2004. Recent solo and

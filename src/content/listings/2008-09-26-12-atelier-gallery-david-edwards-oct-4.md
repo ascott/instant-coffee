@@ -32,16 +32,16 @@ November
 
 1, 2008.
 
-This exhibition marks an exciting transition in Edwardsâ�� work. In his own
+This exhibition marks an exciting transition in Edwards’ work. In his own
 words, he has,
 
-â��all but abandoned the former Romantic veil through which I looked at my
+’all but abandoned the former Romantic veil through which I looked at my
 subjects for
 
-a much more practical, straightforward approach.â�� Working directly from
+a much more practical, straightforward approach.’ Working directly from
 photographs,
 
-Edwardsâ�� new goal is â��to retain the feeling of the snapshot in the final
+Edwards’ new goal is ’to retain the feeling of the snapshot in the final
 image. I still work
 
 at stripping away extraneous detail to get to the heart of the subject, but
@@ -50,15 +50,15 @@ have allowed
 myself the luxury of including more information in the new images, thereby
 defining the
 
-spaces in a much more tangible way.â��
+spaces in a much more tangible way.’
 
-Urban Development speaks not only of the new direction of Edwardsâ�� process,
+Urban Development speaks not only of the new direction of Edwards’ process,
 but also
 
 to his curiosity of our changing landscapes, or more specifically the
-â��working landscapeâ��.
+’working landscape’.
 
-Whereas Edwardsâ�� canvases previously reflected dreamy forests and
+Whereas Edwards’ canvases previously reflected dreamy forests and
 waterfalls, his
 
 panels now capture the realities of farmyards, mills and factories.
@@ -66,7 +66,7 @@ panels now capture the realities of farmyards, mills and factories.
 David Edwards currently lives and works in Vancouver, BC. Urban development
 will be
 
-Davidâ��s first solo exhibition at the Atelier Gallery.
+David’s first solo exhibition at the Atelier Gallery.
 
 Additional images and interviews available upon request.
 

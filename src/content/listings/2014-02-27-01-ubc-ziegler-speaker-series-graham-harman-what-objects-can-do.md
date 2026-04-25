@@ -13,10 +13,10 @@ UBC
 Graham Harman
 
 The next lecture in the Ziegler Speaker Series, entitled ““What Objects Can Do 
-for the Artsâ€  will be presented by Prof. Graham Harman, Distinguished 
+for the Arts”  will be presented by Prof. Graham Harman, Distinguished 
 University Professor at the American University in Cairo.
 
-In an essay for last yearâ€™s Documenta (13) catalog entitled â€œThe Third Table,â€  
+In an essay for last year’s Documenta (13) catalog entitled “The Third Table,”  
 Prof. Harman argued that the arts have a special role in dealing with objects 
 in separation from their qualities, something the natural sciences cannot 
 afford to do since their method (the opposite one) is to reduce objects to their 

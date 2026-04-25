@@ -33,7 +33,7 @@ Artists: Katie Brennan (Vernon, BC), Claire Hodge (Halifax), Eleanor King
 
 The Department of Art History, Visual Art and Theory (AHVA) at the
 University of British Columbia is pleased to present the 29th Annual Art
-History Graduate Symposium and Exhibition: â€œSights/Sites of Spectacle.â€ 
+History Graduate Symposium and Exhibition: “Sights/Sites of Spectacle.” 
 This year’s Symposium and Exhibition will engage with spectacle as
 theoretical concept, historical phenomenon, and artistic theme. Highlights
 include: a keynote address by the highly influential and well respected
@@ -64,7 +64,7 @@ spectacular culture.
 The Exhibition is a new addition to the annual Symposium, and will be held
 in various buildings on the UBC campus: the gallery, located in rm. 112,
 Koerner Library, the I.K. Barber Learning Centre, and the Lasserre
-Building. â€œSights/Sites of Spectacleâ€  brings together the work of eleven
+Building. “Sights/Sites of Spectacle”  brings together the work of eleven
 artists from across North America. Together, these artists ponder the
 ubiquitous nature of spectacle within our everyday lives. Spanning broad
 conceptual ground, each artist offers a different entry point into how our

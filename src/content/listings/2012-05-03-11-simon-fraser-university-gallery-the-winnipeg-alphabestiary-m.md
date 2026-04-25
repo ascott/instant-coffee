@@ -37,7 +37,7 @@ components to young people.
 
 The animals range from the real to the invented, and as "Border 
 Crossings" editor Meeka Walsh wrote, "The Winnipeg Alphabestiary" is 
-about â€œBeauty and the Beastâ€ , as well as â€œBeauty in the Beast.â€ 
+about “Beauty and the Beast” , as well as “Beauty in the Beast.” 
 
 Lunchtime Talks with Bill Jeffries: Tuesday to Friday, May 15 to 18, 
 12:20 and 12:40.

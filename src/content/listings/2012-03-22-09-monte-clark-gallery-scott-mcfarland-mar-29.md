@@ -40,11 +40,11 @@ the image was created using several vertical segments.
 Some of these segments are presented as smaller studies showing
 similar transitions between the seasons within a vertical format.
 
-Repatriation is a series of large tableau photographs â€œdocumentingâ€ 
+Repatriation is a series of large tableau photographs “documenting” 
 repatriation ceremonies of fallen Canadian soldiers being returned to
 Canada after being killed abroad, in Afghanistan. People gather along
-the â€œHighway and Route of Heroesâ€  to pay their last respects. â€œCorner
-of the Courageousâ€  is the name given to the last corner the funeral
+the “Highway and Route of Heroes”  to pay their last respects. “Corner
+of the Courageous”  is the name given to the last corner the funeral
 procession takes before entering the Chief Coroners office in Toronto.
 It is not an actual corner, but one formed by a human chain of first
 responders, military veterans, and everyday citizens. The series

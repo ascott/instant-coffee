@@ -53,7 +53,7 @@ accepted you will be contacted. No phone calls please.
 Submissions deadline: October 21, 2013
 
 Please send submissions via email to submissions@nanaimogallery.ca with 
-subject line â€œThe December Showâ€  or via post to: Nanaimo Art Gallery, Attn.: 
-â€œThe December Showâ€ , 150 Commercial St., Nanaimo, BC, V9R 5G6. 
+subject line “The December Show”  or via post to: Nanaimo Art Gallery, Attn.: 
+“The December Show” , 150 Commercial St., Nanaimo, BC, V9R 5G6. 
 
 http://www.nanaimoartgallery.com/index.php/exhibitions/call-to-artists

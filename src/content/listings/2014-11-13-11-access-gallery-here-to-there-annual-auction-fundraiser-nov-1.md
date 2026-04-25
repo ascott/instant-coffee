@@ -29,7 +29,7 @@ artists. Proceeds from this fundraiser will in part go towards the
 development of Access’ new Traveling Artist Residency, 23 Days at Sea,
 which will enable selected artists to book passage aboard a cargo ship and
 sail across the Pacific Ocean from Vancouver to Busan, Korea and Shanghai,
-China. Artists will be considered â€œin residenceâ€  for the twenty-three days
+China. Artists will be considered “in residence”  for the twenty-three days
 aboard the vessel.
 
 Participating artists are:

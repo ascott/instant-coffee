@@ -140,12 +140,12 @@ Rhyme.
 Dan Starling's solo exhibition takes Charlie and the Chocolate Factory, the 
 popular children’s book written by Roald Dahl in 1964 as it's starting point. 
 Dahl was criticized for his racist characterization of the workers in the 
-chocolate factory of the book as â€œpygmies from Africa.â€  In the subsequent 
+chocolate factory of the book as “pygmies from Africa.”  In the subsequent 
 edition, he chose to refer to them instead as the “Oompa-loompas from 
-Oompaloompaland.â€  Starling chose to redraw all the original illustrations from 
+Oompaloompaland.”  Starling chose to redraw all the original illustrations from 
 the second edition using drypoint and then produce a series of subsequent 
 alterations to the images that call attention to this history as a kind of “return 
-of the repressed.â€  Working in drypoint and etching, a new medium for Starling, 
+of the repressed.”  Working in drypoint and etching, a new medium for Starling, 
 the final project will encompass four new books showing this evolution as it 
 progresses.
 
@@ -195,9 +195,9 @@ States, Scandinavia and Cuba. Notable exhibitions include Surveillance
 Sketch (Artspeak, Vancouver 2003), Untitled: Conversation Loops (The
 Western Front, Vancouver 2004; with Miguel da Conceicao, Jacob Gleeson,
 and Elisa Rathje) , Angels in the Angles at (Gallery Atsui, Vancouver 2009;
-with Marina Roy and Christian BÃ¶k) and the solo exhibition of print works I
+with Marina Roy and Christian Bök) and the solo exhibition of print works I
 Smell Something Burning (H.K.Y.D.) (CSA, Vancouver 2011). An exhibition of
-new print works commissioned by the Malaspina Printmakerâ€™s Society is
+new print works commissioned by the Malaspina Printmaker’s Society is
 forthcoming through the Institutions By Artists convention in Vancouver. He
 co-directed the world's first genuine in-world avatar documentary AVATARA
 (Centre A, Vancouver 2003), now part of the Ubu Web international archive of
@@ -206,7 +206,7 @@ since 2003, he was a principal organiser of the interdisciplinary N 49 15.832 -
 W 123 05.921 Positions Colloquium in August 2008 (VIVO Media Arts,
 Vancouver). His first book of critical writing You Must Work Harder to Write
 Poetry of Excellence was just published by BookThug (Toronto). He is
-currently a curator in residence in VIVOâ€™s Crista Dahl Media Library &
+currently a curator in residence in VIVO’s Crista Dahl Media Library &
 Archive, as part of the project Anamnesia: Unforgetting , and is enrolled in the
 PhD program in English at the University of British Columbia.
 
@@ -256,17 +256,17 @@ The thorough, diligent yet serene lines of Even Broens’ wall sculptures reflec
 the “formal, poetic, and philosophical possibilities of sculpture. From this 
 point of departure, objects possess an essence. In studying the essence of 
 objects, there is potential for a greater understanding of how we are 
-ontologically bound with them.â€ 
+ontologically bound with them.” 
 
 The patient hand-cut ‘digitization’ of Ed Spence’s reorganized places “suggest 
 a state of flux or perceptive revelation…[where] the fracturing of surface brings 
-into question our valuation of digital craft in contrast to the hand made.â€  His 
+into question our valuation of digital craft in contrast to the hand made.”  His 
 creation of an “alternative perception is mediated by the aesthetics of an 
-indexed colour mode andâ€¦onscreen isometry.â€ 
+indexed colour mode and…onscreen isometry.” 
 
 The rich, colourful sensory travels of Gabriel Dubois’ paint strokes bring his 
-â€œoutside artâ€  inside, where messages and images are broken down into â€œhints 
-of figurative formsâ€  and carefully placed lines. Here, graffiti, drafting, paint, line, 
+“outside art”  inside, where messages and images are broken down into “hints 
+of figurative forms”  and carefully placed lines. Here, graffiti, drafting, paint, line, 
 colour and found materials intertwine ideas of the urban, the personal and the 
 formal, while challenging our assumptions of where these all belong.
 
@@ -433,7 +433,7 @@ Artists: Cheryl L’Hirondelle, Mike Andrew McLean, Haruko Okano, Ruth
 Scheuing, UWHAH; a collaborative entity of Vancouver-based artists.
 
 The title of the exhibition draws from the tempo marking, andante, to mean - 
-â€œat a walking paceâ€  â€“ a moderately slow pace that enables one to be attentive 
+“at a walking pace”  – a moderately slow pace that enables one to be attentive 
 to one’s surroundings, literally and imaginatively. The history of walking is an 
 intriguing one with the capacity for narratives that hold cultural, political, social 
 and spiritual meanings.
@@ -444,7 +444,7 @@ consider. Walking has an intimate relationship with the earth – whether it is
 covered in concrete or left bare. Cheryl L’Hirondelle and Ruth Scheuing 
 explore the urban environment; their responses to the city’s architecture and 
 geography recall the ‘Situationists’ and ‘Psychogeography’, and the practice 
-of â€œderiveâ€  (drifting). Through their unplanned navigations to encounter new and 
+of “derive”  (drifting). Through their unplanned navigations to encounter new and 
 authentic experiences, both artists focus our attention to details abstracted 
 from their exploratory walks. The natural environment is the terrain traversed in 
 Haruko Okano and Mike Andrew McLean’s work. Haruko Okano immerses 
@@ -600,7 +600,7 @@ Date: February 5, 2013
 Time: 7:00 pm
 Location: Vancouver Art Gallery
 Created in conjunction with the landmark exhibition “Ian Wallace: At the 
-Intersection of Painting and Photography,â€  the talks series Reading Ian 
+Intersection of Painting and Photography,”  the talks series Reading Ian 
 Wallace: An International Perspective consists of conversations that provide a 
 rare opportunity for first-hand insight into Wallace’s expansive career.
 
@@ -611,7 +611,7 @@ Gallery, 750 Hornby Street, Vancouver.
 
 The third talk in this series features artist Stan Douglas in conversation with 
 Ian Wallace on February 5 at 7 p.m. Sharing a long history in Vancouver, 
-Douglas and Wallace have employed a cinematic â€œeyeâ€  in creating their 
+Douglas and Wallace have employed a cinematic “eye”  in creating their 
 photographic works. Douglas and Wallace, who have both helped define 
 Vancouver’s art scene internationally, will discuss the broader implications of 
 such cinematic references during this event.
@@ -626,7 +626,7 @@ information on other talks in this series featuring Christine Poggi and Victor
 Burgin, please visit 
 vanartgallery.bc.ca/events_and_programs/lectures_talks.html.
 
-The exhibition â€œIan Wallace: At the Intersection of Painting and Photographyâ€  
+The exhibition “Ian Wallace: At the Intersection of Painting and Photography”  
 continues at the Vancouver Art Gallery until February 24. Presenting 
 sponsors of the exhibition are Rogers and BMO Financial Group.
 
@@ -735,7 +735,7 @@ Included in the show are two newly commissioned pieces by the
 Contemporary Art Gallery with our partners FRAC Champagne-Ardenne and 
 Centre d’Art Contemporain, Geneva: an installation, Recycled Playground, 
 which gives the exhibition its title and overarching tone, and a companion 
-video Protesting Against Myself. Mureşanâ€™s videos, drawings and 
+video Protesting Against Myself. Mureşan’s videos, drawings and 
 installations 
 often reuse iconic works of art or literature, re-contextualized to present an 
 ironic take on the governing ideologies and power structures at large, whether 
@@ -808,7 +808,7 @@ take the form of a video rental store that carries artistsʼ videos.
 The project employs the characteristics of the retail environment to
 connect to the local community while, challenging the galleryʼs role
 as an intermediary that delimits the viewerʼs direct access to art.
-â€œCustomersâ€  are asked to pay what they wish, which can be interpreted
+“Customers”  are asked to pay what they wish, which can be interpreted
 as cash, a non-monetary exchange, critique, or no remuneration. This
 facet is in place as an experimental form of engagement, where artists
 have the opportunity to receive responses directly from viewers. In
@@ -819,7 +819,7 @@ return policies at commercial ventures.
 
 Background
 This is the second iteration of the Under New Management video
-â€œrentalâ€  store. As part of a larger exhibition/project, the first
+“rental”  store. As part of a larger exhibition/project, the first
 store took place in Toronto from August 3-14, 2010. This method of
 disseminating video art to the general public was exceptionally
 popular during its short run.

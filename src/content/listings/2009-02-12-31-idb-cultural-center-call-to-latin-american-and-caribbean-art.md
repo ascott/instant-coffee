@@ -74,7 +74,7 @@ the artists and works from those submitting proposals for exhibition.
 Center of the Inter-American Development Bank, in Washington, DC, 1300 New
 York Avenue, NW, Washington, DC, 20577 USA for approximately six weeks.
 
-11. A catalogue reproducing all the selected works and the artistsâ��
+11. A catalogue reproducing all the selected works and the artists’
 biographies will be published for the exhibition.
 
 12. The IDB Cultural Center will promote the exhibit in Washington, DC, and

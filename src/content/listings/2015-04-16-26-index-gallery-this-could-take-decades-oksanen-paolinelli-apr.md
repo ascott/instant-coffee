@@ -9,7 +9,7 @@ summary: "INDEX GALLERY | This Could Take Decades - Oksanen & Paolinelli | APR 2
 ---
 
 A simultaneous crystallization between two practices, “This Could Take
-Decadesâ€  features the work of artists Shannon Oksanen and Nathalee
+Decades”  features the work of artists Shannon Oksanen and Nathalee
 Paolinelli. One practice traverses interiority and self-introspection,
 while the other embraces the exuberance and whimsy of childhood.
 Collectively, they reveal interpretive subjectivities through process and

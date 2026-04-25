@@ -125,7 +125,7 @@ media sculpture by California artist Sandra Osborne.
 
 Dead Letter is a reference to both the idea of the lost and undeliverable –
 the oblivion of the Dead Letter Office – as well as the more obscure “dead
-letter boxâ€  of the spy world â€“ a secret place through which messages are
+letter box”  of the spy world – a secret place through which messages are
 transmitted. The work in this exhibition is addressed to the frailty and
 imperfection of modes of transmission, including the slipperiness of the
 art object itself. How do we negotiate the gap between what is transmitted
@@ -140,7 +140,7 @@ letters are bundled and tied for keeping; notes are quickly folded and
 stuffed into niches. In other instances they are carefully arranged or set
 among other elements—presented for consideration as formal objects. There
 is an urge to touch, to open the envelopes and remove the letters, yet the
-â€œpaperâ€  is unyielding. In another series, vents and other incidental
+“paper”  is unyielding. In another series, vents and other incidental
 architectural elements subtly pierce the gallery space, suggesting an
 invisible exchange or respiration. And in a hybrid installation of video
 and sculpture, an anonymous found image hovers between significance and
@@ -360,7 +360,7 @@ grunt gallery: 116-350 East 2nd Ave, Vancouver, BC V5T4R8 | grunt.ca
 Would he be a good leader? Or just a politician? Irony came wandering in,
 in the porn of applause for his statement ‘Reason over passion, that is
 the theme of all my writing.’ It should be reason and passion in a
-person.â€  JOYCE WIELAND
+person.”  JOYCE WIELAND
 
 Two Pierres are the keystones in these twin portraits of a nation at a
 historical turning point, playfully interlocking the main themes of Joyce
@@ -417,7 +417,7 @@ reviews have appeared in Art Journal, Grey Room, Journal of Modern Craft,
 and Texte zur Kunst. Her first book, Bauhaus Weaving Theory: From Feminine
 Craft to Mode of Design, is forthcoming in November from University of
 Minnesota Press. She is currently developing a new book project,
-provisionally titled â€œTextile Media and Philosophy,â€  which will examine the
+provisionally titled “Textile Media and Philosophy,”  which will examine the
 use of textiles as figures of thought within art history, philosophy, and
 political economy since the 19th-century.
 
@@ -426,7 +426,7 @@ political economy since the 19th-century.
 Scrivener’s Monthly is a series of public presentations that explore the
 space between material practices and spoken words: a periodical that talks.
 Set alongside the exhibitions program at Western Front, this experiment in
-â€œnot publishingâ€  involves readings, performances, and other articulations.
+“not publishing”  involves readings, performances, and other articulations.
 
 For more information, please visit
 http://front.bc.ca.
@@ -477,7 +477,7 @@ you are invited!
 
 The evening will feature two sets of performances by local artists, poets,
 musicians and comedians (see below for confirmed participants).
-Additionally there will be a â€œBake Saleâ€  table with limited edition prints,
+Additionally there will be a “Bake Sale”  table with limited edition prints,
 publications, artworks, gifts and other materials donated by local artists
 for purchase.
 
@@ -499,7 +499,7 @@ Richards; Emilio Rojas * #kmfacePhotobooth by: Vandocument * DJs:
 TodayWasTomorrow; furiousgreencloud * plus more TBA!!!
 
 This event will be held on Unceded xʷməθkwəyəm
-(Musqueam), SḵwxwÃº7mesh
+(Musqueam), Sḵwxwú7mesh
 (Squamish), and SəlÃ­lwətaʔ/Selilwitulh (Tsleil-Waututh)
 territories.
 
@@ -616,7 +616,7 @@ Vivienne Basset
 
 As the weather gets cold, there’s nothing to do but eat people. Come enjoy
 two cult classics that combine music and cannibalism, Big Meat Eater and
-Eat the Rich. Big Meat eater is a locally made film set in â€œBurquitlamâ€ 
+Eat the Rich. Big Meat eater is a locally made film set in “Burquitlam” 
 the area between Burnaby and Coquitlam, which combines a human devouring
 alien and dazzling musical numbers. Eat the Rich, set in Thatcher’s
 England, stars a disgruntled waiter who joins up with a terrorist cell

@@ -32,7 +32,7 @@ gentrified sublime is what protects us from confronting the disaster that is
 nature. Finally, as counter-examples to Burtynsky's reified sublime, I will 
 discuss two photographic practices that engage with the sublime of the 
 industrial archive: Mike Mandel and Larry Sultan's "Evidence" (1977) and 
-Bitter & Weber's â€ Events are Always Originalâ€  (2010).
+Bitter & Weber's ” Events are Always Original”  (2010).
 
 
 Clint Burnham teaches in the Department of English at Simon Fraser 
